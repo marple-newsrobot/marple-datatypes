@@ -1,0 +1,4 @@
+id,description,value_type,allowed_values
+region,,str,regions/
+gender,,str,misc/gender
+count,,int,

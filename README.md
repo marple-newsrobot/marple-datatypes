@@ -36,6 +36,6 @@ Allowed values are specified in csv files, structured in folders by domain (valu
     regions/counties.csv
     regions/nations.csv
 
-They are referenced in `datatypes.csv` like this: `regions/municipalities`, and `regions/municipalities`. Value types with no categorization is collected in `misc/`, such as gender, with four possible values (`male`, `female`, `other`, `unknown`) in `misc/genders.csv`
+They are referenced in `datatypes.csv` like this: `regions/municipalities`, and `regions/`. Value types with no categorization is collected in `misc/`, such as gender, with four possible values (`male`, `female`, `other`, `unknown`) in `misc/genders.csv`
 
 The allowed values csv's may contain additional identifiers, such as WikiData codes, or start/end dates.

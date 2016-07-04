@@ -1,0 +1,2 @@
+id,source,periodicity,geographic_extent,measure,division,description
+SE-7-unemployment-monthly,AMS,monthly,sweden,absolute,regions/municipalities,"Monthly Swedish unemplyment stats by municipality, absolute numbers"
