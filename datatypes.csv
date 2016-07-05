@@ -2,9 +2,16 @@
 "region","A Swedish administrative region","str","regions/*"
 "municipality","A Swedish municipality, past or present","str","regions/municipalities"
 "county","A Swedish county (län), past or present","str","regions/counties"
+"city_district","An administrative subdivision of a municipality","str","regions/city_districts"
 "gender",,"str","misc/gender"
 "count",,"int",
+"rate",,"float",
 "period","A period of time","str","periods/*"
 "month","A gregorian month","str","periods/months"
 "quarter","A quarter of a gregorian calendar year","str","periods/quarters"
 "year","A gregorian year","int",
+"date","An ISO 8601 date/time stamp","date",
+"period","How long is the period covered by this datapoint","str","misc/periodicity"
+"source_id","A key or identifyer used by the data source. Possibly useful for debugging.","str",
+"crime_category","A crime category used by the Swedish police","str","crimes/*"
+"age_group",,"str","misc/age_groups"
