@@ -1,4 +1,4 @@
-"id","desc"
-"nations","Divided by nation"
-"counties","Divided by county"
-"municipalities","Divided by municipality"
+"id","desc","wikidata"
+"nations","Divided by state (self governing nation)","Q7275"
+"counties","Divided by Swedish county","Q200547"
+"municipalities","Divided by Swedish municipality","Q127448"
