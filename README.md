@@ -15,6 +15,7 @@ Each data type can have one of the following value types:
 * `int` – a value that can be parsed by Python as an integer 
 * `float` – a value that can be parsed by Python as a floating-point number
 * `str` – a value that can be parsed by Python as a string. This value type is typically accompanied by a set of allowed values. Empty strings are considered null.
+* `date` - a ISO 8601 date, e.g. `2016-07-05`, `2016-07-05T13:00:00`, `2016-W27`, or `1981-04`.
 
 
 ## Allowed values
