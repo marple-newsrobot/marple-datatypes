@@ -7,3 +7,4 @@
 "period","A period of time","str","periods/*"
 "month","A gregorian month","str","periods/months"
 "quarter","A quarter of a gregorian calendar year","str","periods/quarters"
+"year","A gregorian year","int",
