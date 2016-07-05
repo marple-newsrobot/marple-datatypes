@@ -19,6 +19,27 @@ schema:
     type: str
 
 datasets:
+
+  - id: SE-crime-monthly
+    source: BRÅ
+    periodicity: monthly
+    geographic_extent: Sweden
+    measure: absolute
+    divisions:
+    - municipalities
+    - city_districts
+    description: Monthly Swedish count of reported crimes by municipality and city district (Stockholm, Gothenburg, Malmö)
+
+  - id: SE-crime-yearly
+    source: BRÅ
+    periodicity: yearly
+    geographic_extent: Sweden
+    measure: absolute
+    divisions:
+    - municipalities
+    - city_districts
+    description: Yearly Swedish count of reported crimes by municipality and city district (Stockholm, Gothenburg, Malmö)
+
   - id: SE-7-unemployment-monthly-absolute
     source: AMS
     periodicity: monthly
@@ -27,7 +48,7 @@ datasets:
     divisions:
     - municipalities
     - counties
-    description: Monthly Swedish unemplyment stats by municipality, absolute numbers
+    description: Monthly Swedish unemployment stats by municipality, absolute numbers
 
   - id: SE-7-unemployment-monthly-relative
     source: AMS
@@ -37,4 +58,4 @@ datasets:
     divisions:
     - municipalities
     - counties
-    description: Monthly Swedish unemplyment stats by municipality, relative numbers
+    description: Monthly Swedish unemployment stats by municipality, relative numbers
