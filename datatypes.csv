@@ -1,4 +1,9 @@
-id,description,value_type,allowed_values
-region,,str,regions/
-gender,,str,misc/gender
-count,,int,
+"id","description","value_type","allowed_values"
+"region","A Swedish administrative region","str","regions/*"
+"municipality","A Swedish municipality, past or present","str","regions/municipalities"
+"county","A Swedish county (län), past or present","str","regions/counties"
+"gender",,"str","misc/gender"
+"count",,"int",
+"period","A period of time","str","periods/*"
+"month","A gregorian month","str","periods/months"
+"quarter","A quarter of a gregorian calendar year","str","periods/quarters"
