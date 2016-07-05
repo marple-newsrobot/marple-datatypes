@@ -1,0 +1,40 @@
+schema:
+  id:
+    type: str
+  source:
+    type: str,
+    allowed_values: misc/sources
+  periodicity:
+    type: str
+    allowed_values: misc/periodicity
+  geographic_extent:
+    type: str
+    allowed_values: regions/*
+  measure:
+    type: str
+  divisions:
+  - type: str
+    allowed_values: misc/regionality
+  description:
+    type: str
+
+datasets:
+  - id: SE-7-unemployment-monthly-absolute
+    source: AMS
+    periodicity: monthly
+    geographic_extent: Sweden
+    measure: absolute
+    divisions:
+    - municipalities
+    - counties
+    description: Monthly Swedish unemplyment stats by municipality, absolute numbers
+
+  - id: SE-7-unemployment-monthly-relative
+    source: AMS
+    periodicity: monthly
+    geographic_extent: Sweden
+    measure: relative
+    divisions:
+    - municipalities
+    - counties
+    description: Monthly Swedish unemplyment stats by municipality, relative numbers
