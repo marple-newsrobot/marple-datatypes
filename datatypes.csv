@@ -13,5 +13,5 @@
 "date","An ISO 8601 date/time stamp","date",
 "period","How long is the period covered by this datapoint","str","misc/periodicity"
 "source_id","A key or identifyer used by the data source. Possibly useful for debugging.","str",
-"crime_category","A crime category used by the Swedish police","str","crimes/*"
+"crime_category","A crime category used by the Swedish police","str","misc/crimes"
 "age_group",,"str","misc/age_groups"
