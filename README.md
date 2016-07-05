@@ -14,7 +14,7 @@ Each data type can have one of the following value types:
 
 * `int` – a value that can be parsed by Python as an integer 
 * `float` – a value that can be parsed by Python as a floating-point number
-* `str` – a value that can be parsed by Python as a string. These data types MUST specify a set of allowed values. Empty strings are considered null.
+* `str` – a value that can be parsed by Python as a string. This value type is typically accompanied by a set of allowed values. Empty strings are considered null.
 
 
 ## Allowed values
