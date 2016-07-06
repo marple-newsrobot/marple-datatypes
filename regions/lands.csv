@@ -1,4 +1,4 @@
-"id","start","end","wikidata","desc"
-"Norrland",0,9,"Q203505","Modern definition, following current country borders"
-"Svealand",0,9,"Q203835","Modern definition, following current country borders"
-"Götaland",0,9,"Q201694","Modern definition, following current country borders"
+"id","start","end","wikidata","desc","parent"
+"Norrland",0,9,"Q203505","Modern definition, following current country borders","Sweden"
+"Svealand",0,9,"Q203835","Modern definition, following current country borders","Sweden"
+"Götaland",0,9,"Q201694","Modern definition, following current country borders","Sweden"
