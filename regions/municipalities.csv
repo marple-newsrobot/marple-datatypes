@@ -1,4 +1,4 @@
-"id","start","end","scb","wikidata","country","metro","desc"
+"id","start","end","scb","wikidata","parent","metro","desc"
 "Upplands Väsby kommun",0,9,114,"Q499425","Stockholms län","Storstockholm",
 "Vallentuna kommun",0,9,115,"Q501526","Stockholms län","Storstockholm",
 "Österåkers kommun",0,9,117,"Q117728","Stockholms län","Storstockholm",
@@ -11,7 +11,7 @@
 "Haninge kommun",0,9,136,"Q113692","Stockholms län","Storstockholm",
 "Tyresö kommun",0,9,138,"Q113730","Stockholms län","Storstockholm",
 "Upplands-Bro kommun",0,9,139,"Q113673","Stockholms län","Storstockholm",
-"Nykvarns kommun",1997-01-01,9,140,"Q499460","Stockholms län","Storstockholm",
+"Nykvarns kommun","1997-01-01",9,140,"Q499460","Stockholms län","Storstockholm",
 "Täby kommun",0,9,160,"Q493066","Stockholms län","Storstockholm",
 "Danderyds kommun",0,9,162,"Q113679","Stockholms län","Storstockholm",
 "Sollentuna kommun",0,9,163,"Q503746","Stockholms län","Storstockholm",
@@ -27,10 +27,10 @@
 "Nynäshamns kommun",0,9,192,"Q505090","Stockholms län","Storstockholm",
 "Håbo kommun",0,9,305,"Q511253","Uppsala län",,
 "Älvkarleby kommun",0,9,319,"Q59858","Uppsala län",,
-"Uppsala kommun före 2003",0,2002-12-31,380,"Q59091","Uppsala län",,"Uppsala kommun before Knivsta kommun was separated"
+"Uppsala kommun före 2003",0,"2002-12-31",380,"Q59091","Uppsala län",,"Uppsala kommun before Knivsta kommun was separated"
 "Knivsta kommun","2003-01-01",9,330,"Q504465","Uppsala län",,
-"Heby kommun före 2007","0",2006-12-31,1917,"Q516308","Västmanlands län",,"Heby kommun before they switched county"
-"Heby kommun",2007-01-01,9,331,"Q516308","Uppsala län",,"Heby kommun after they switched county in 2007"
+"Heby kommun före 2007","0","2006-12-31",1917,"Q516308","Västmanlands län",,"Heby kommun before they switched county"
+"Heby kommun","2007-01-01",9,331,"Q516308","Uppsala län",,"Heby kommun after they switched county in 2007"
 "Tierps kommun",0,9,360,"Q510198","Uppsala län",,
 "Uppsala kommun",0,9,380,"Q59091","Uppsala län",,
 "Enköpings kommun",0,9,381,"Q509568","Uppsala län",,
@@ -149,7 +149,7 @@
 "Ale kommun",0,9,1440,"Q498470","Västra Götalands län","Storgöteborg",
 "Lerums kommun",0,9,1441,"Q503188","Västra Götalands län","Storgöteborg",
 "Vårgårda kommun",0,9,1442,"Q511297","Västra Götalands län",,
-"Bollebygds kommun",1995-01-01,9,1443,"Q503102","Västra Götalands län",,
+"Bollebygds kommun","1995-01-01",9,1443,"Q503102","Västra Götalands län",,
 "Grästorps kommun",0,9,1444,"Q503148","Västra Götalands län",,
 "Essunga kommun",0,9,1445,"Q503127","Västra Götalands län",,
 "Karlsborgs kommun",0,9,1446,"Q499435","Västra Götalands län",,
@@ -200,7 +200,7 @@
 "Hagfors kommun",0,9,1783,"Q511407","Värmlands län",,
 "Arvika kommun",0,9,1784,"Q511365","Värmlands län",,
 "Säffle kommun",0,9,1785,"Q511326","Värmlands län",,
-"Lekebergs kommun",1995-01-01,9,1814,"Q515282","Örebro län",,
+"Lekebergs kommun","1995-01-01",9,1814,"Q515282","Örebro län",,
 "Laxå kommun",0,9,1860,"Q515326","Örebro län",,
 "Hallsbergs kommun",0,9,1861,"Q508180","Örebro län",,
 "Degerfors kommun",0,9,1862,"Q509469","Örebro län",,
