@@ -1,0 +1,25 @@
+
+Alarm JSON object
+alarm:
+  - created: string / date
+  - alarm_type: string
+  - git_hash: string
+  - mtso:
+    - trigger_mtso: jsonstat
+    - comparison_mtsos: [jsonstat(s)]
+  - alarm_details
+    - ... (different details about the alarm, can change)  
+  - params:
+    - ... (different parameters used (strings or numerics), can change)
+  
+
+
+Filename (if value is missing "" is used, i.e. can be ||):
+`{make.names(alarm.mtso.trigger_mtso.dimension.measure.category.label)}|
+ {alarm.alarm_type}|
+ {alarm.params.analysis_period}| % can be null (ie "")
+ {alarm.mtso.trigger_mtso.dimension.[d].category.label}_{alarm.mtso.trigger_mtso.dimension.[d].category.label}| % for all d in dimensions but not timepoint 
+ {trigger_timepont}`
+ 
+make.names converts name to valid file names. See:
+https://stat.ethz.ch/R-manual/R-devel/library/base/html/make.names.html
