@@ -20,8 +20,8 @@ Filename (if value is missing "" is used, i.e. can be ||):
 `{make.names(alarm.mtso.trigger_mtso.dimension.measure.category.label)}|
  {alarm.alarm_type}|
  {alarm.params.analysis_period}| % can be null (ie "")
- {alarm.mtso.trigger_mtso.dimension.[d].category.label}_{alarm.mtso.trigger_mtso.dimension.[d].category.label}| % for all d in dimensions but not timepoint 
- {trigger_timepont}`
+ {Key(alarm.mtso.trigger_mtso.dimension[d].category.label)}_{alarm.mtso.trigger_mtso.dimension.[d].category.label}| % for all d in dimensions but not timepoint 
+ {trigger_timepoint}`
  
 make.names converts name to valid file names. See:
 https://stat.ethz.ch/R-manual/R-devel/library/base/html/make.names.html
