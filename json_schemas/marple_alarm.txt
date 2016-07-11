@@ -8,6 +8,8 @@ alarm:
     - trigger_mtso: jsonstat
     - comparison_mtsos: [jsonstat(s)]
   - alarm_details
+    - thresholds: two-element array
+    - bayes_p: numeric
     - ... (different details about the alarm, can change)  
   - params:
     - ... (different parameters used (strings or numerics), can change)
