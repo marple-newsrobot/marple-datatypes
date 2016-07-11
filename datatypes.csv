@@ -4,6 +4,7 @@
 "county","A Swedish county (län), past or present","str","regions/counties"
 "city_district","An administrative subdivision of a municipality","str","regions/city_districts"
 "gender",,"str","misc/gender"
+"measure","Count or rate for example","str","misc/measures"
 "count",,"int",
 "rate",,"float",
 "period","A period of time","str","periods/*"
@@ -13,5 +14,6 @@
 "date","An ISO 8601 date/time stamp","date",
 "period","How long is the period covered by this datapoint","str","misc/periodicity"
 "source_id","A key or identifyer used by the data source. Possibly useful for debugging.","str",
-"crime_category","A crime category used by the Swedish police","str","misc/crimes"
 "age_group",,"str","misc/age_groups"
+"crime_code","A crime code (brottskod) used by the Swedish police","str","misc/crime_codes"
+"crime_type","A crime type (brottstyp) used by the Swedish police. Higher level than brottskod.","str","misc/crime_types"
