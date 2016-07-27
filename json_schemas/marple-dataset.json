@@ -9,9 +9,10 @@
 			"properties": {
 				"region": { "type": "object" },
 				"measure": { "type": "object" },
-				"timepoint": { "type": "object" }
+				"timepoint": { "type": "object" },
+				"periodicity": { "type": "object" }
 			},
-			"required": [ "region", "measure", "timepoint"]
+			"required": [ "region", "measure", "timepoint", "periodicity"]
 		},
 		"extension": {
 			"type": "object",
