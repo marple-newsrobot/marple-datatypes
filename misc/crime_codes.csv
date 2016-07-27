@@ -16,7 +16,6 @@ id,name,parent_id,level,original_id,parent_original_id
 035,"misshandelsfall, utomhus",03,2,90002,2761
 0355,misshandelsfall utomhus mot kvinnor 18 år eller äldre som inte är bekant med offret,035,3,2804,90002
 0356,misshandelsfall utomhus mot kvinnor 18 år eller äldre som är bekant med offret,035,3,2805,90002
-0357,misshanid,name,parent_id,level,original_id,parent_original_id
 03,03 totalt,,1,2761,
 030,försök till mord och dråp,03,2,90000,2761
 0303,försök till mord eller dråp utan skjutvapen mot kvinna/flickor,030,3,2772,90000
