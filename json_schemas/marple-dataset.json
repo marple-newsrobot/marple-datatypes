@@ -1,0 +1,25 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"title": "Marple JsonStat Dataset Schema",
+	"id": "schema/marple-dataset.json",
+	"description": "Project specific additions to base schema for JsonStat Dataset.",
+	"properties": {
+		"dimension": {
+			"type": "object",
+			"properties": {
+				"region": { "type": "object" },
+				"measure": { "type": "object" },
+				"timepoint": { "type": "object" }
+			},
+			"required": [ "region", "measure", "timepoint"]
+		},
+		"extension": {
+			"type": "object",
+			"properties": {
+				"id": { "type": "string" }
+			},
+			"required": ["id"]
+		}
+	},
+	"required": [ "extension" ]
+}
