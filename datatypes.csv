@@ -2,7 +2,7 @@ id,required,description,value_type,nullable,allowed_values
 age_group,False,,str,False,misc/age_groups
 city_district,False,An administrative subdivision of a municipality,str,False,regions/city_districts
 country,False,"A country, past or present",str,False,regions/nations
-country_of_birth,False,Subjects country of birth,str,False,
+country_of_birth,False,Subjects country of birth,str,False,regions/nations
 county,False,"A Swedish county (län), past or present",str,False,regions/counties
 crime_code,False,A crime code (brottskod) used by the Swedish police,str,False,misc/crime_codes
 crime_type,False,A crime type (brottstyp) used by the Swedish police. Higher level than brottskod.,str,False,misc/crime_types
