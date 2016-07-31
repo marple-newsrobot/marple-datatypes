@@ -1,20 +1,20 @@
-"id","description","value_type","allowed_values"
-"region","A Swedish administrative region","str","regions/*"
-"municipality","A Swedish municipality, past or present","str","regions/municipalities"
-"county","A Swedish county (län), past or present","str","regions/counties"
-"country","A country, past or present","str","regions/nations"
-"city_district","An administrative subdivision of a municipality","str","regions/city_districts"
-"gender",,"str","misc/gender"
-"country_of_birth","str",""
-"measure","Count or rate for example","str","misc/measures"
-"value",,"int,float",
-"period","A period of time","str","periods/*"
-"month","A gregorian month","str","periods/months"
-"quarter","A quarter of a gregorian calendar year","str","periods/quarters"
-"year","A gregorian year","int",
-"date","An ISO 8601 date/time stamp","date",
-"periodicity","How long is the period covered by this datapoint","str","misc/periodicity"
-"source_id","A key or identifyer used by the data source. Possibly useful for debugging.","str",
-"age_group",,"str","misc/age_groups"
-"crime_code","A crime code (brottskod) used by the Swedish police","str","misc/crime_codes"
-"crime_type","A crime type (brottstyp) used by the Swedish police. Higher level than brottskod.","str","misc/crime_types"
+id,required,description,value_type,nullable,allowed_values
+age_group,False,,str,False,misc/age_groups
+city_district,False,An administrative subdivision of a municipality,str,False,regions/city_districts
+country,False,"A country, past or present",str,False,regions/nations
+country_of_birth,False,Subjects country of birth,str,False,
+county,False,"A Swedish county (län), past or present",str,False,regions/counties
+crime_code,False,A crime code (brottskod) used by the Swedish police,str,False,misc/crime_codes
+crime_type,False,A crime type (brottstyp) used by the Swedish police. Higher level than brottskod.,str,False,misc/crime_types
+date,False,An ISO 8601 date/time stamp,date,False,
+gender,False,A subjects gender,str,False,misc/gender
+measure,False,Count or rate for example,str,False,misc/measures
+month,False,A gregorian month,str,False,periods/months
+municipality,False,"A Swedish municipality, past or present",str,False,regions/municipalities
+period,False,A period of time,str,False,periods/*
+periodicity,False,How long is the period covered by this datapoint,str,False,misc/periodicity
+quarter,False,A quarter of a gregorian calendar year,str,False,periods/quarters
+region,False,A Swedish administrative region,str,False,regions/*
+source_id,False,A key or identifyer used by the data source. Possibly useful for debugging.,str,False,
+value,False,Value,"int,float",False,
+year,False,A gregorian year,int,False,
