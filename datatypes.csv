@@ -7,7 +7,7 @@ county,False,"A Swedish county (län), past or present",str,False,regions/counti
 crime_code,False,A crime code (brottskod) used by the Swedish police,str,False,misc/crime_codes
 crime_type,False,A crime type (brottstyp) used by the Swedish police. Higher level than brottskod.,str,False,misc/crime_types
 date,False,An ISO 8601 date/time stamp,date,False,
-gender,False,A subjects gender,str,False,misc/gender
+gender,False,A subjects gender,str,False,misc/genders
 measure,False,Count or rate for example,str,False,misc/measures
 month,False,A gregorian month,str,False,periods/months
 municipality,False,"A Swedish municipality, past or present",str,False,regions/municipalities
