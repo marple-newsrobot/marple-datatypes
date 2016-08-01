@@ -9,35 +9,8 @@ import copy
 __version__ = 1
 
 
-def validate_values(df, allowed_values={}):
-    illegal_values = {}
-    verfied = []
-    not_verfied = []
-    for col in df.columns:
-        if col in allowed_values:
-            verfied.append(col)
-            r = df[col].isin(allowed_values[col])
-            illegal_values[col] = df[col][~r].index
-        else:
-            not_verfied.append(col)
-
-    return verfied, not_verfied, illegal_values
-
-
-def validate(df, duplicate=True, null=True):
-    res = {}
-    if duplicate:
-        res["duplicate"] = df[df.duplicated()].index
-    if null:
-        res["null"] = {}
-        for col in df.columns:
-            res["null"][col] = df[df[col].isnull()].index
-    return res
-
-
 def load_json(filename):
     'Opens file and load JSON dump of schema'
-
     with open(filename) as f:
         blob = f.read()
     return loads_json(blob)
@@ -128,11 +101,12 @@ class DataframeValidator(object):
                 [unicode_bitte(x) for x in v])
 
     def set(self, name):
+        """Convience function, returns a set from the 'config' object"""
         return set(self.config[name])
 
     def clone(self):
+        """Deepclone of the object"""
         config = copy.copy(self.config)
-
         clone = DataframeValidator(config)
         return clone
 
@@ -143,6 +117,8 @@ class DataframeValidator(object):
         return json.dumps(clone.config, sort_keys=True, indent=1)
 
     def validate(self, df):
+        """Validate a pandas dataframe according to the schema"""
+
         result = []
         sdf = set(df.columns)
 
