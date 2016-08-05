@@ -18,3 +18,4 @@ region,False,A Swedish administrative region,str,False,regions/*
 source_id,False,A key or identifyer used by the data source. Possibly useful for debugging.,str,False,
 value,False,Value,"int,float",False,
 year,False,A gregorian year,int,False,
+house_type,False,"House types as defined by Mäklarstatistik",str,,misc/house_types
