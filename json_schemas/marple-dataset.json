@@ -19,6 +19,6 @@
             },
             "required": ["id"]
         },
-        "required": ["source", "updated", "extension"]
-    }
+    },
+    "required": ["source", "updated", "extension"]
 }
