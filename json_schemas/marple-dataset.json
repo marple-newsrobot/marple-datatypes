@@ -7,7 +7,10 @@
         "dimension": {
             "type": "object",
             "properties": {},
-            "required": []
+            "required": [ "region", "measure", "periodicity", "timepoint" ]
+        },
+        "source": {
+            "type": "string"
         },
         "extension": {
             "type": "object",
@@ -15,6 +18,7 @@
                 "id": { "type": "string" }
             },
             "required": ["id"]
-        }
+        },
+        "required": ["source", "updated", "extension"]
     }
 }
