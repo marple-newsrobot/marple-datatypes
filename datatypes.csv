@@ -1,22 +1,23 @@
-id,description,value_type,allowed_values
-age_group,,str,misc/age_groups
-city_district,An administrative subdivision of a municipality,str,regions/city_districts
-country,"A country, past or present",str,regions/nations
-country_of_birth,Subjects country of birth,str,regions/nations
-county,"A Swedish county (län), past or present",str,regions/counties
-crime_code,A crime code (brottskod) used by the Swedish police,str,misc/crime_codes
-crime_type,A crime type (brottstyp) used by the Swedish police. Higher level than brottskod.,str,misc/crime_types
-date,An ISO 8601 date/time stamp,date,
-gender,A subjects gender,str,misc/genders
-measure,Count or rate for example,str,misc/measures
-month,A gregorian month,str,periods/months
-municipality,"A Swedish municipality, past or present",str,regions/municipalities
-period,A period of time,str,periods/*
-periodicity,How long is the period covered by this datapoint,str,misc/periodicity
-quarter,A quarter of a gregorian calendar year,str,periods/quarters
-region,A Swedish administrative region,str,regions/*
-source_id,A key or identifyer used by the data source. Possibly useful for debugging.,str,
-value,Value,"int,float",
-year,A gregorian year,int,
-house_type,House types as defined by Mäklarstatistik,str,misc/house_types
-source,"A source of data, such as SCB",str,misc/sources
+"id","description","value_type","allowed_values"
+"age_group",,"str","misc/age_groups"
+"city_district","An administrative subdivision of a municipality","str","regions/city_districts"
+"country","A country, past or present","str","regions/nations"
+"country_of_birth","Subjects country of birth","str","regions/nations"
+"county","A Swedish county (län), past or present","str","regions/counties"
+"crime_code","A crime code (brottskod) used by the Swedish police","str","misc/crime_codes"
+"crime_type","A crime type (brottstyp) used by the Swedish police. Higher level than brottskod.","str","misc/crime_types"
+"date","An ISO 8601 date/time stamp","date",
+"gender","A subjects gender","str","misc/genders"
+"measure","Count or rate for example","str","misc/measures"
+"month","A gregorian month","str","periods/months"
+"municipality","A Swedish municipality, past or present","str","regions/municipalities"
+"period","A period of time","str","periods/*"
+"periodicity","How long is the period covered by this datapoint","str","misc/periodicity"
+"quarter","A quarter of a gregorian calendar year","str","periods/quarters"
+"region","A Swedish administrative region","str","regions/*"
+"source_id","A key or identifyer used by the data source. Possibly useful for debugging.","str",
+"value","Value","int,float",
+"year","A gregorian year","int",
+"week","A ISO 8601 week number, week starting on Monday, first week of the year has at least four days","int",
+"house_type","House types as defined by Mäklarstatistik","str","misc/house_types"
+"source","A source of data, such as SCB","str","misc/sources"
