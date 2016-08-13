@@ -14,6 +14,8 @@
 "period","A period of time","str","periods/*"
 "periodicity","How long is the period covered by this datapoint","str","misc/periodicity"
 "quarter","A quarter of a gregorian calendar year","str","periods/quarters"
+"quarter_rolling_months","Rolling three month periods, for example Feb-Apr","str","periods/quarters_rolling_months"
+"year_rolling_months","Rolling 12 month periods, for example Feb-Jan","str","periods/years_rolling_months"
 "region","A Swedish administrative region","str","regions/*"
 "source_id","A key or identifyer used by the data source. Possibly useful for debugging.","str",
 "value","Value","int,float",
