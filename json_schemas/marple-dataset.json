@@ -7,7 +7,7 @@
         "dimension": {
             "type": "object",
             "properties": {},
-            "required": [ "region", "measure", "period", "timepoint" ]
+            "required": [ "region", "measure", "timepoint" ]
         },
         "source": {
             "type": "string"
