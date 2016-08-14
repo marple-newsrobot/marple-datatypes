@@ -1,4 +1,9 @@
 id,description
-rate,share of total
-count,absolute number
-price,
+rate,Share of total
+count,Absolute number
+price,Price
+price_per_m2,Price per square metre
+price_vs_tax_value,Price vs tax value (used by Mäklarstatistik)
+price_change_3months,Price change compared to 3 months ago
+price_change_6months,Price change compared to 6 months ago
+price_change_12months,Price change compared same time period one year ago
