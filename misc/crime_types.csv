@@ -1,9 +1,9 @@
 id,level,parent_id,parent_original_id,original_id
-alkohol- och narkotikabrott,1,,,3625
+alkohol och narkotikabrott,1,,,3625
 bilbrott,1,,,3622
 fickstölder,2,stöldbrott,3620,3634
 hot kränknings och frihetsbrott,1,,,3616
-lägenhets- och villainbrott,2,stöldbrott,3620,3632
+lägenhets och villainbrott,2,stöldbrott,3620,3632
 misshandelsfall,2,våldsbrott,3614,3628
 narkotikabrott,2,alkohol- och narkotikabrott,3625,3642
 rån,2,våldsbrott,3614,3627
@@ -22,5 +22,5 @@ brottsanmälningar totalt,1,,,3613
 vapenbrott,1,,,3626
 trafikbrott,1,,,3624
 våldsbrott,1,,,3614
-vårdslöshet- och vållandebrott,1,,,3618
+vårdslöshet och vållandebrott,1,,,3618
 övrig stölder,2,stöldbrott,3620,3635
