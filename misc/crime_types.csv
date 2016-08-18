@@ -2,14 +2,14 @@ id,level,parent_id,parent_original_id,original_id
 alkohol- och narkotikabrott,1,,,3625
 bilbrott,1,,,3622
 fickstölder,2,stöldbrott,3620,3634
-"hot-, kränknings- och frihetsbrott",1,,,3616
+hot kränknings och frihetsbrott,1,,,3616
 lägenhets- och villainbrott,2,stöldbrott,3620,3632
 misshandelsfall,2,våldsbrott,3614,3628
 narkotikabrott,2,alkohol- och narkotikabrott,3625,3642
 rån,2,våldsbrott,3614,3627
 skadegörelser på motorfordon,2,bilbrott,3622,3641
 skadegörelsebrott,1,,,3623
-"stölder och snatteri i butik, varuhus.",2,stöldbrott,3620,3633
+stölder och snatteri i butik varuhus.,2,stöldbrott,3620,3633
 stölder ur och från motorfordon (stöldbrott),2,stöldbrott,3620,3631
 stölder ur och från motorfordon (bilbrott),2,bilbrott,3622,3640
 bilstölder (stöldbrott),2,stöldbrott,3620,3629
