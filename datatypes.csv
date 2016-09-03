@@ -3,7 +3,7 @@
 "city_district","An administrative subdivision of a municipality","str","regions/city_districts"
 "country","A country, past or present","str","regions/nations"
 "place_of_birth","Subjects country (or continent) of birth","str","regions/nations"
-"foregin_born","Is the subject born outside Sweden?","bool",
+"foreginborn","Is the subject born outside Sweden?","bool",
 "county","A Swedish county (län), past or present","str","regions/counties"
 "crime_code","A crime code (brottskod) used by the Swedish police","str","misc/crime_codes"
 "crime_type","A crime type (brottstyp) used by the Swedish police. Higher level than brottskod.","str","misc/crime_types"
