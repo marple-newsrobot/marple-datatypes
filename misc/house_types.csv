@@ -1,5 +1,4 @@
-id,description
-bostadsrätt,"Bostadsrätt"
-villa,"Villa"
-fritidshus,"Fritidshus"
-
+id,label
+bostadsrätt,Bostadsrätter
+villa,Villor
+fritidshus,Fritidshus
