@@ -1,3 +1,3 @@
-id,label,start,end,wikidata,parent
-Sweden,Sverige,0,9,Q34,
-Outside Sweden,Utanför Sverige,,,,
+id,label,label_short,start,end,wikidata,parent
+Sweden,Sverige,Sverige,0,9,Q34,
+Outside Sweden,Utanför Sverige,Utanför Sverige,,,,
