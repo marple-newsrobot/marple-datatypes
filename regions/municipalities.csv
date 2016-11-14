@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 id,label,label_short,start,end,scb,wikidata,parent,metro,brå_id,desc
 Upplands Väsby kommun,Upplands Väsby kommun,Upplands Väsby,0,9,114,Q499425,Stockholms län,Storstockholm,8539,
 Vallentuna kommun,Vallentuna kommun,Vallentuna,0,9,115,Q501526,Stockholms län,Storstockholm,8540,
@@ -90,7 +91,7 @@ Oskarshamns kommun,Oskarshamns kommun,Oskarshamn,0,9,882,Q505006,Kalmar län,,84
 Västerviks kommun,Västerviks kommun,Västervik,0,9,883,Q515477,Kalmar län,,8419,
 Vimmerby kommun,Vimmerby kommun,Vimmerby,0,9,884,Q505057,Kalmar län,,8418,
 Borgholms kommun,Borgholms kommun,Borgholm,0,9,885,Q509546,Kalmar län,,8408,
-Gotlands kommun,Gotlands kommun,Gotland,0,9,980,Q374794,Gotlands län,,8365,
+Gotlands kommun,Region Gotland,Gotland,0,9,980,Q374794,Gotlands län,,8365,
 Olofströms kommun,Olofströms kommun,Olofström,0,9,1060,Q504257,Blekinge län,,8345,
 Karlskrona kommun,Karlskrona kommun,Karlskrona,0,9,1080,Q1128384,Blekinge län,,8344,
 Ronneby kommun,Ronneby kommun,Ronneby,0,9,1081,Q515373,Blekinge län,,8346,
