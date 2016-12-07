@@ -1,4 +1,4 @@
-id,label,level,parent_id,parent_original_id,original_id
+id,label,level,parent,parent_original_id,original_id
 alkohol och narkotikabrott,Alkohol- och narkotikabrott,1,,,3625
 bilbrott,Bilbrott,1,,,3622
 fickstölder,Fickstölder,2,stöldbrott,3620,3634
