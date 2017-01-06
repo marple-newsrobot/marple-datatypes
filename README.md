@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/marple-newsrobot/marple-datatypes.svg?branch=master)](https://travis-ci.org/marple-newsrobot/marple-datatypes)
+
 # Marple Datatypes
 This repo contains:
 
