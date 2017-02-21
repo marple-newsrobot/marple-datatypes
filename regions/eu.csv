@@ -1,0 +1,7 @@
+id,label,label__en,label__sv,comment
+Euro area,Euro area,Euro area,Euroområdet,
+Euro area 18,Euro area since January 2014,Euro area since January 2014,,
+Euro area 19,Euro area since January 2015,Euro area since January 2015,,
+EU-25,EU-25,EU-25,EU-25,"EU-15 + Cypern (CY), Tjeckien (CZ), Estland (EE), Ungern (HU), Lettland (LV), Litauen (LT), Malta (MT), Polen (PL), Slovakien (SK) och Slovenien (SI)"
+EU-27,EU-27,EU-27,EU-27,EU-25 + Bulgarien (BG) och Rumänien (RO)
+EU-28,EU-28,EU-28,EU-28,EU-27 + Kroatien (HR)
