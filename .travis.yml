@@ -5,5 +5,5 @@ install:
   - pip install -r requirements.txt
 script: PYTHONPATH=. py.test tests
 notifications:
-  #slack: jpp-marple:XiMBWMnbSv7MW2K7GxKdKvCg
+  slack: jpp-marple:WPb7WPdbJWf3xYrc3SH4Zqnq
   email: false
