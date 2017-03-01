@@ -1,12 +1,19 @@
-id,label,label__sv
-out migration total,samtliga utflyttningar,samtliga utflyttningar
-out migration abroad,utrikes utflyttningar,utrikes utflyttningar
-in migration total,samtliga inflyttningar,samtliga inflyttningar
-in migration abroad,utrikes inflyttningar,utrikes inflyttningar
-out migration to outside county,utflyttningar till övriga län,utflyttningar till övriga län
-births,levande födda,levande födda
-out migration to inside county,utflyttningar till kommuner inom länet,utflyttningar till kommuner inom länet
-deaths,döda,döda
-population increase,folkökning,folkökning
-in migrations from inside county,inflyttningar från kommuner inom länet,inflyttningar från kommuner inom länet
-in migrations from outside county,inflyttningar från övriga län,inflyttningar från övriga län
+id,label,label__sv,label__en
+out migration total,samtliga utflyttningar,samtliga utflyttningar,
+out migration abroad,utrikes utflyttningar,utrikes utflyttningar,
+in migration total,samtliga inflyttningar,samtliga inflyttningar,
+in migration abroad,utrikes inflyttningar,utrikes inflyttningar,
+out migration to outside county,utflyttningar till övriga län,utflyttningar till övriga län,
+births,levande födda,levande födda,
+out migration to inside county,utflyttningar till kommuner inom länet,utflyttningar till kommuner inom länet,
+deaths,döda,döda,
+population increase,folkökning,folkökning,
+in migrations from inside county,inflyttningar från kommuner inom länet,inflyttningar från kommuner inom länet,
+in migrations from outside county,inflyttningar från övriga län,inflyttningar från övriga län,
+immigration,invadringar,invadringar,Immigrations
+emigration,utvandringar,utvandringar,Emigrations
+net migration,flyttningsöverskott,flyttningsöverskott,Excess of migration
+net immigration,Invandringsöverskott,Invandringsöverskott,Excess of Immigration
+internal in migration,Inrikes inflyttningar,Inrikes inflyttningar,Internal Inmigrations
+internal out migration,Inrikes utflyttningar,Inrikes utflyttningar,Internal Outmigrations
+net internal migration,inrikes flyttningsöverskott,inrikes flyttningsöverskott,Internal excess of migration
