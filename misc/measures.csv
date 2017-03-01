@@ -1,6 +1,7 @@
 id,description,label
 rate,Share of total,Andel
 count,Absolute number,Antal
+wage,Wage,Wage
 price,Price,Pris
 price_per_m2,Price per square metre,Pris per kvadratmeter
 price_vs_tax_value,Price vs tax value (used by Mäklarstatistik),Pris / taxeringsvärde

@@ -24,3 +24,5 @@ year,A gregorian year,int,
 week,"A ISO 8601 week number, week starting on Monday, first week of the year has at least four days",int,
 migration_category,"Incoming, outgoing and other migration cateogries as defined by SCB","str",misc/population_changes 
 population,"Changes in population (births, deaths etc","str","misc/population_changes"
+currency,"",misc/currencies
+income,"Different kinds of incomes such as earned income before and after tax",,misc/incomes
