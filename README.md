@@ -18,7 +18,6 @@ Each data type can have one of the following value types:
 * `str` – a value that can be parsed by Python as a string. This value type is typically accompanied by a set of allowed values. Empty strings are considered null.
 * `date` - a ISO 8601 date, e.g. `2016-07-05`, `2016-07-05T13:00:00`, `2016-W27`, or `1981-04`.
 
-
 ## Allowed values
 Some data types, and some metadata fields, have a predefined set of allowed values (such as “regions”). In some domains, allowed values may be organized in categories (such as “municipalities”, “counties”).
 
@@ -26,3 +25,15 @@ Allowed values are specified in csv files, structured in folders by domain, e.g.
 
 The allowed values csv's may contain additional identifiers, such as WikiData codes, or start/end dates, that might be useful for a validator.
 git
+
+## Relations
+
+Datatype csv-files can have so called relational columns. Relational columns can define for example parent categories and neighbours. A relational column must contain in id of another entity in `marple-datatypes`.
+
+There are to types of relations:
+
+* `one_to_one`: For example "parent"
+* `one_to_many`: For example neighbours. Expects a comma separated list of id's.
+
+Which columns that are interpreted as relational are defined in `relations.csv`.
+
