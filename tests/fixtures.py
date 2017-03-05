@@ -3,6 +3,7 @@
 import os 
 import pytest
 import csvkit as csv
+from collections import defaultdict
 
 def iterate_files(directory, file_extension=None):
     """ Iterate all files in folder an subfolders
@@ -52,3 +53,24 @@ def get_ids(get_datatype_files):
             ids += [ x["id"] for x in reader ]
 
     return ids
+
+
+@pytest.fixture(scope="session")
+def get_relations():
+    """ Returns the content of relations.csv grouped by
+        "relation_type" as json
+        
+        {
+            "one_to_one": [ "parent"],
+            "one_to_many": ["neighbours"]
+        }
+    """
+    relations = defaultdict(list)
+    with open("relations.csv") as f:
+        for row in csv.DictReader(f):
+            id_ = row["id"]
+            relation_type = row["relation_type"]
+            relations[relation_type].append(id_)
+
+    return relations
+
