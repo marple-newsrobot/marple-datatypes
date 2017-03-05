@@ -1,0 +1,3 @@
+id,relation_type
+parent,one_to_one
+neighbours,one_to_many
