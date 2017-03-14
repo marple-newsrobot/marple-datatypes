@@ -27,3 +27,4 @@ population,"Changes in population (births, deaths etc","str","misc/population_ch
 currency,"",misc/currencies
 income,"Different kinds of incomes such as earned income before and after tax",,misc/incomes
 vehicle_type,"Different types of vehicles",,misc/vehicle_types
+marital_status,"Married, divorced etc",,misc/marital_statuses
