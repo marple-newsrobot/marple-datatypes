@@ -1,10 +1,12 @@
-id,description,label
-rate,Share of total,Andel
-count,Absolute number,Antal
-wage,Wage,Wage
-price,Price,Pris
-price_per_m2,Price per square metre,Pris per kvadratmeter
-price_vs_tax_value,Price vs tax value (used by Mäklarstatistik),Pris / taxeringsvärde
-price_change_3months,Price change compared to 3 months ago,"Prisutveckling, 3 mån"
-price_change_6months,Price change compared to 6 months ago,"Prisutveckling, 6 mån"
-price_change_12months,Price change compared same time period one year ago,"Prisutveckling, 12 mån"
+id,description,label,label__sv,label__en
+rate,Share of total,Andel,Andel,Rate
+count,Absolute number,Antal,Antal,Count
+change_percent,Change in percent,"Förändring, procent","Förändring, procent",Change in percent
+change_count,Change in count,"Förändring, antal","Förändring, antal",Change in count
+wage,Wage,Lön,Lön,Wage
+price,Price,Pris,Pris,Price
+price_per_m2,Price per square metre,Pris per kvadratmeter,,
+price_vs_tax_value,Price vs tax value (used by Mäklarstatistik),Pris / taxeringsvärde,,
+price_change_3months,Price change compared to 3 months ago,"Prisutveckling, 3 mån",,
+price_change_6months,Price change compared to 6 months ago,"Prisutveckling, 6 mån",,
+price_change_12months,Price change compared same time period one year ago,"Prisutveckling, 12 mån",,
