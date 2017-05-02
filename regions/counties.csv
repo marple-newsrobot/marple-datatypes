@@ -1,4 +1,4 @@
-id,label,label_short,start,end,scb,wikidata,land,parent,region_level,neighbour
+id,label,label_short,start,end,scb,wikidata,land,parent,region_level,neighbours
 Blekinge län,Blekinge län,Blekinge,0,9,10,Q102377,Götaland,Sweden,county,
 Dalarnas län,Dalarnas län,Dalarna,0,9,20,Q103732,Svealand,Sweden,county,
 Gävleborgs län,Gävleborgs län,Gävleborg,0,9,21,Q103699,Norrland,Sweden,county,
