@@ -24,13 +24,12 @@ Some data types, and some metadata fields, have a predefined set of allowed valu
 Allowed values are specified in csv files, structured in folders by domain, e.g.`regions/municipalities.csv`. They are referenced in `datatypes.csv` and `/datasets` like this: `regions/municipalities`, and `regions/*`. Value types with no categorization is collected in `misc/`, such as gender, with four possible values (`male`, `female`, `other`, `unknown`) in `misc/genders.csv`
 
 The allowed values csv's may contain additional identifiers, such as WikiData codes, or start/end dates, that might be useful for a validator.
-git
 
 ## Relations
 
 Datatype csv-files can have so called relational columns. Relational columns can define for example parent categories and neighbours. A relational column must contain in id of another entity in `marple-datatypes`.
 
-There are to types of relations:
+There are two types of relations:
 
 * `one_to_one`: For example "parent"
 * `one_to_many`: For example neighbours. Expects a comma separated list of id's.
