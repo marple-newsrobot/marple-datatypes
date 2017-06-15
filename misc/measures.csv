@@ -1,6 +1,8 @@
 id,description,label,label__sv,label__en
 rate,Share of total,Andel,Andel,Rate
 count,Absolute number,Antal,Antal,Count
+mean,Mean,Medel,Medel,Mean
+sum,Sum,Summa,Summa,Sum
 change_percent,Change in percent,"Förändring, procent","Förändring, procent",Change in percent
 change_count,Change in count,"Förändring, antal","Förändring, antal",Change in count
 wage,Wage,Lön,Lön,Wage
