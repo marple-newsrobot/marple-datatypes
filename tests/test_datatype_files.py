@@ -17,6 +17,19 @@ def test_id_uniqueness(get_ids):
     duplicates = get_duplicates(ids)
     assert len(duplicates) == 0
 
+def test_forbidden_characters(get_ids):
+    FORBIDDEN_CHARS = [
+        "|", # Messes up other ids (ie alarm)
+        "/", # Messes up urls
+        ",", # Messes up list split
+        #"-", # Potentially also a forbidden char
+    ]
+    for _id in get_ids:
+        for char in FORBIDDEN_CHARS:
+            msg = u"Forbidden character '{}' found in id '{}'"\
+                .format(char, _id)
+            assert char not in _id, msg
+
 def test_one_to_one_relations(get_datatype_files, get_ids, get_relations):
     """ Make sure that all values in eg. parent columns are
         valid indecies
