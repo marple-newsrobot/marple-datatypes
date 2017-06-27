@@ -10,6 +10,7 @@ from copy import deepcopy
 import pprint
 import sys
 sys.path.insert(0,'..')
+import json
 import settings
 pp = pprint.PrettyPrinter(indent=2)
 # Get from settings, should point to root folder
@@ -37,9 +38,11 @@ def get_all_datatypes():
         csv_file = CsvFile(file_path)
         # TODO: Add path
         items = csv_file.to_dictlist()
-        return jsonify(items)
     except Exception as e:
         abort(404)
+
+    return json.dumps(items, indent=4, sort_keys=True, ensure_ascii=False).encode("utf8")
+
 
 @app.route("/datatype/<string:datatype_id>", methods=['GET'])
 def get_datatype(datatype_id):
@@ -58,7 +61,7 @@ def get_datatype(datatype_id):
     except Exception as e:
         abort(404)
     
-    return jsonify(data)
+    return json.dumps(data, indent=4, sort_keys=True, ensure_ascii=False).encode("utf8")
 
 @app.route("/item/<string:item_id>", methods=['GET'])
 def get_item(item_id):
@@ -99,7 +102,7 @@ def get_item(item_id):
     except Exception as e:
         abort(404)
 
-    return jsonify(data)
+    return json.dumps(data, indent=4, sort_keys=True, ensure_ascii=False).encode("utf8")
 
 def remove_nan(obj): 
     """Remove all NaN values
