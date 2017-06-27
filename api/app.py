@@ -33,6 +33,7 @@ def not_found(error):
 @app.route("/datatype", methods=['GET'])
 def get_all_datatypes():
     data = []
+
     file_path = os.path.join(DATATYPES_DIR, "datatypes.csv")
     csv_file = CsvFile(file_path)
     # TODO: Add path
@@ -41,7 +42,9 @@ def get_all_datatypes():
 
 @app.route("/datatype/<string:datatype_id>", methods=['GET'])
 def get_datatype(datatype_id):
-    
+    lang = get_lang(request.args)
+    domain = "/".join(request.url.split("/", 3)[:3]) 
+    print(domain)
     datatype = Datatype(datatype_id, datatypes_dir=DATATYPES_DIR)
     print(datatype)
     allowed_values = []
@@ -51,11 +54,54 @@ def get_datatype(datatype_id):
     }
     # Get lang and domain from request!
     for allowed_value_id in datatype.allowed_values:
-        data["allowed_values"].append(jsonify_item(allowed_value_id, LANG, DOMAIN))
+        data["allowed_values"].append(jsonify_item(allowed_value_id, lang, domain))
     
     return jsonify(data)
 
+@app.route("/item/<string:item_id>", methods=['GET'])
+def get_item(item_id):
+    print(item_id)
+    # TODO: Use "**/*" to fetch all files in all subfolders once glob2 in place
+    data = ALL_DOMAINS.row(item_id)
+    # This is something of a hack. The Domain class will include a lot of empty columns/propeties defined in other files
+    # Here we clean up those
+    data = remove_nan(data)
 
+    # Translate label to selected language
+    data["label"] = ALL_DOMAINS.label(item_id,lang=LANG)
+
+    # Populate relational properties (parent, neighbours etc)
+    # These relations are defined in relations.csv in the root folder
+    relations_csv = CsvFile(RELATIONS_CSV_PATH)
+    # Ie {u'neighbours': u'one_to_many', u'parent': u'one_to_one'}
+    relational_columns = dict(relations_csv.data.to_records())
+
+    for column, relation_type in relational_columns.iteritems():
+        if column not in data:
+            continue
+        if relation_type == "one_to_one":
+            related_item_id = data[column] # ie the parent id
+            data[column] = jsonify_item(related_item_id, LANG, DOMAIN)
+            
+        elif relation_type == "one_to_many":
+            related_item_ids = data[column].split(",") #ie neighbours
+            data[column] = []
+            for related_item_id in related_item_ids:
+                data[column].append(jsonify_item(related_item_id, LANG, DOMAIN))
+
+    data["children"] = []             
+    for child_id in ALL_DOMAINS.children(item_id):
+        data["children"].append(jsonify_item(child_id, LANG, DOMAIN))
+
+    return jsonify(data)
+
+def remove_nan(obj): 
+    """Remove all NaN values
+    """
+    for key, value in obj.items():
+        if isNaN(value):
+            obj.pop(key, None)
+    return obj
 
 def jsonify_item(item_id, lang, domain):
     return {
@@ -63,6 +109,11 @@ def jsonify_item(item_id, lang, domain):
         "label": ALL_DOMAINS.label(item_id, lang=lang),
         "path": u"{}/item/{}".format(domain, item_id)
     }
+
+def get_lang(req_args):
+    if ('lang' in req_args):
+        return req_args['lang']
+    return "en"
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
