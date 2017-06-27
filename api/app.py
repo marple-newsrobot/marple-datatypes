@@ -30,65 +30,74 @@ def not_found(error):
 
 @app.route("/datatype", methods=['GET'])
 def get_all_datatypes():
-    data = []
+    try:
+        data = []
 
-    file_path = os.path.join(DATATYPES_DIR, "datatypes.csv")
-    csv_file = CsvFile(file_path)
-    # TODO: Add path
-    items = csv_file.to_dictlist()
-    return jsonify(items)
+        file_path = os.path.join(DATATYPES_DIR, "datatypes.csv")
+        csv_file = CsvFile(file_path)
+        # TODO: Add path
+        items = csv_file.to_dictlist()
+        return jsonify(items)
+    except Exception as e:
+        abort(404)
 
 @app.route("/datatype/<string:datatype_id>", methods=['GET'])
 def get_datatype(datatype_id):
-    lang = get_lang(request.args)
-    domain = get_domain(request.url)
-    datatype = Datatype(datatype_id, datatypes_dir=DATATYPES_DIR)
-    allowed_values = []
-    data = {
-        "id": datatype_id,
-        "allowed_values": []
-    }
-    # Get lang and domain from request!
-    for allowed_value_id in datatype.allowed_values:
-        data["allowed_values"].append(jsonify_item(allowed_value_id, lang, domain))
+    try:
+        lang = get_lang(request.args)
+        domain = get_domain(request.url)
+        datatype = Datatype(datatype_id, datatypes_dir=DATATYPES_DIR)
+        allowed_values = []
+        data = {
+            "id": datatype_id,
+            "allowed_values": []
+        }
+        # Get lang and domain from request!
+        for allowed_value_id in datatype.allowed_values:
+            data["allowed_values"].append(jsonify_item(allowed_value_id, lang, domain))
+    except Exception as e:
+        abort(404)
     
     return jsonify(data)
 
 @app.route("/item/<string:item_id>", methods=['GET'])
 def get_item(item_id):
-    # TODO: Use "**/*" to fetch all files in all subfolders once glob2 in place
-    data = ALL_DOMAINS.row(item_id)
-    domain = get_domain(request.url)
-    lang = get_lang(request.args)
-    # This is something of a hack. The Domain class will include a lot of empty columns/propeties defined in other files
-    # Here we clean up those
-    data = remove_nan(data)
+    try:
+        # TODO: Use "**/*" to fetch all files in all subfolders once glob2 in place
+        data = ALL_DOMAINS.row(item_id)
+        domain = get_domain(request.url)
+        lang = get_lang(request.args)
+        # This is something of a hack. The Domain class will include a lot of empty columns/propeties defined in other files
+        # Here we clean up those
+        data = remove_nan(data)
 
-    # Translate label to selected language
-    data["label"] = ALL_DOMAINS.label(item_id,lang=lang)
+        # Translate label to selected language
+        data["label"] = ALL_DOMAINS.label(item_id,lang=lang)
 
-    # Populate relational properties (parent, neighbours etc)
-    # These relations are defined in relations.csv in the root folder
-    relations_csv = CsvFile(RELATIONS_CSV_PATH)
-    # Ie {u'neighbours': u'one_to_many', u'parent': u'one_to_one'}
-    relational_columns = dict(relations_csv.data.to_records())
+        # Populate relational properties (parent, neighbours etc)
+        # These relations are defined in relations.csv in the root folder
+        relations_csv = CsvFile(RELATIONS_CSV_PATH)
+        # Ie {u'neighbours': u'one_to_many', u'parent': u'one_to_one'}
+        relational_columns = dict(relations_csv.data.to_records())
 
-    for column, relation_type in relational_columns.iteritems():
-        if column not in data:
-            continue
-        if relation_type == "one_to_one":
-            related_item_id = data[column] # ie the parent id
-            data[column] = jsonify_item(related_item_id, lang, domain)
-            
-        elif relation_type == "one_to_many":
-            related_item_ids = data[column].split(",") #ie neighbours
-            data[column] = []
-            for related_item_id in related_item_ids:
-                data[column].append(jsonify_item(related_item_id, lang, domain))
+        for column, relation_type in relational_columns.iteritems():
+            if column not in data:
+                continue
+            if relation_type == "one_to_one":
+                related_item_id = data[column] # ie the parent id
+                data[column] = jsonify_item(related_item_id, lang, domain)
+                
+            elif relation_type == "one_to_many":
+                related_item_ids = data[column].split(",") #ie neighbours
+                data[column] = []
+                for related_item_id in related_item_ids:
+                    data[column].append(jsonify_item(related_item_id, lang, domain))
 
-    data["children"] = []             
-    for child_id in ALL_DOMAINS.children(item_id):
-        data["children"].append(jsonify_item(child_id, lang, domain))
+        data["children"] = []             
+        for child_id in ALL_DOMAINS.children(item_id):
+            data["children"].append(jsonify_item(child_id, lang, domain))
+    except Exception as e:
+        abort(404)
 
     return jsonify(data)
 
