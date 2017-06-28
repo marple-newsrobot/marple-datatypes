@@ -39,6 +39,8 @@ def get_all_datatypes():
         items = csv_file.to_dictlist()
         for item in items:
             item['path'] = get_domain(request.url) + "/datatype/" + item['id']
+            if ('label' not in item):
+                item['label'] = item['id']
             print(item)
             print("\n")
     except Exception as e:
