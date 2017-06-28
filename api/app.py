@@ -38,6 +38,7 @@ def get_all_datatypes():
         csv_file = CsvFile(file_path)
         # TODO: Add path
         items = csv_file.to_dictlist()
+
     except Exception as e:
         abort(404)
 
@@ -129,6 +130,6 @@ def get_lang(req_args):
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
-    debug = os.environ.get('DEBUG', True)
+    debug = os.environ.get('DEBUG', False)
     app.run(host='0.0.0.0', debug = debug, port=port)
 
