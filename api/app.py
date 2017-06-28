@@ -9,7 +9,7 @@ import os
 from copy import deepcopy
 import pprint
 import sys
-sys.path.insert(0,'..')
+#sys.path.insert(0,'..')
 import json
 import settings
 pp = pprint.PrettyPrinter(indent=2)
