@@ -9,7 +9,7 @@ import os
 from copy import deepcopy
 import pprint
 import sys
-sys.path.insert(0,'..')
+#sys.path.insert(0,'..')
 import json
 import settings
 pp = pprint.PrettyPrinter(indent=2)
@@ -34,7 +34,8 @@ def get_all_datatypes():
     try:
         data = []
 
-        file_path = os.path.join(DATATYPES_DIR, "datatypes.csv")
+        file_path = os.path.join("", "datatypes.csv")
+        print(file_path)
         csv_file = CsvFile(file_path)
         # TODO: Add path
         items = csv_file.to_dictlist()
