@@ -33,6 +33,7 @@ def not_found(error):
 def get_all_datatypes():
     try:
         data = []
+        print(DATATYPES_DIR)
 
         file_path = os.path.join("", "datatypes.csv")
         print(file_path)
