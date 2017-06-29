@@ -23,8 +23,6 @@ class ApiTest(unittest.TestCase):
 
 
 	def children(self, data):
-		new_data = []
-
 		for item in data:
 			res = self.app.get(clear_path(item['path']))
 			item_data = json.loads(res.data)
@@ -32,19 +30,6 @@ class ApiTest(unittest.TestCase):
 			assert bool(item_data)
 			if ('allowed_values' in item_data):
 				self.children(item_data['allowed_values'])
-
-			new_data.append(item_data)
-
-		#self.children(new_data['allowed_values'], hej="tju")
-
-
-	#def test_s_children(self):
-	#	print(self)
-	#	res = self.app.get("/datatype")
-	#	data = json.loads(res.data)
-	
-		#for item in self.data:
-		#	clear_path(item[i].path)
 
 def clear_path(path):
 		return "/" + ("/".join(path.split("/", 3)[3:]))
