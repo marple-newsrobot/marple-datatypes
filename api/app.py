@@ -41,8 +41,6 @@ def get_all_datatypes():
             item['path'] = get_domain(request.url) + "/datatype/" + item['id']
             if ('label' not in item):
                 item['label'] = item['id']
-            print(item)
-            print("\n")
     except Exception as e:
         abort(404)
 

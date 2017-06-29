@@ -1,11 +1,15 @@
 language: python
 python:
-  - "2.7"
+- '2.7'
 install:
-  - pip install -r requirements.txt
-script: 
-  - PYTHONPATH=. py.test tests
-  - python tests/test_api.py
+- pip install -r requirements.txt
+script:
+- PYTHONPATH=. py.test tests
+- python tests/test_api.py
 notifications:
   slack: jpp-marple:WPb7WPdbJWf3xYrc3SH4Zqnq
   email: false
+deploy:
+  provider: heroku
+  api_key:
+    secure: eQdUcYXzOKmFCi8el8izcDt/kyXhXAKWeW0FXdpf2Mc7FJXqO3Q7aGodbxdZzi42OtKy9TKRgauD1Nzhy9uMc6+nVC4az0scmb9L5SqTB/2VUF7biGX1mamaRBeeMu5dCd2KxJLb4w27L7VjyZHvo8rpGNU6nxF6aheoCDzUN97eo975C994Za43LlX8HcqVKgygJ+8L5L3zo7n/gapne03QoJQRaQDSF+Z7bPTQJ6D4mJc6j0JbMcztl1vLyjOt0E5+5XPObV2MetPQ4WBQjoTW5R1TsA188cGMpTxCk9gwaKB3Qjz8GAi9sciG1gXi/qkW72KQNnY6FgbE09e55OqHGriZwJmbaE4sMekj+ilGLSVPQ/SPm5pKwTvm5QRqpccpz7ev9DcTlEeP0yKwO/hj5JmYHGr1pDNJT4lfv7enmJoU7fh5PaibT1KkHKvsrVxdzMczWql4NwBDqC4KY4/lqIwUONXeErTYL2lTf3vxeUID/6klKh6Y4JKwjz7i0hYXDG61ZE5XY+wnn3sox9R85j+BkEX2893D/mMdF4G/MSpOpQTTJHSGJWhNblczRvYhAVcgtvq7M/6qiJoDRkWrbX6XJkPb/0rXE/lZUGHW4JXB0f5ewIKoh0763KCp/ZeG0jPjodVQyPtlqN/+mLb5AUmPOVKzhp5QpPRUVL0=
