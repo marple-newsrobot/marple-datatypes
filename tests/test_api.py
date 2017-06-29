@@ -10,8 +10,7 @@ import unittest
 import json
 #from api.app import *
 
-class TestAPI(unittest.TestCase):
-
+class ApiTest(unittest.TestCase):
 
 	def test_datatypes(self):
 		api.app.testing = True
@@ -20,6 +19,35 @@ class TestAPI(unittest.TestCase):
 		data = json.loads(res.data)
 		assert isinstance(data, list)
 		assert len(data) != 0
+		self.children(data)
 
+
+	def children(self, data):
+		new_data = []
+
+		for item in data:
+			res = self.app.get(clear_path(item['path']))
+			item_data = json.loads(res.data)
+			assert isinstance(item_data, dict)
+			assert bool(item_data)
+			if ('allowed_values' in item_data):
+				self.children(item_data['allowed_values'])
+
+			new_data.append(item_data)
+
+		#self.children(new_data['allowed_values'], hej="tju")
+
+
+	#def test_s_children(self):
+	#	print(self)
+	#	res = self.app.get("/datatype")
+	#	data = json.loads(res.data)
+	
+		#for item in self.data:
+		#	clear_path(item[i].path)
+
+def clear_path(path):
+		return "/" + ("/".join(path.split("/", 3)[3:]))
+	    #return "/".join(url.split("/", 3)[:3]) 
 if __name__ == '__main__':
     unittest.main()
