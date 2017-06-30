@@ -1,10 +1,10 @@
 # encoding: utf-8
 
-import os 
+import os
 import pytest
 import csvkit as csv
 import sys
-sys.path.insert(1, os.path.join(sys.path[0], '..'))
+#sys.path.insert(1, os.path.join(sys.path[0], '..'))
 import api.app as api
 import unittest
 import json
@@ -33,6 +33,6 @@ class ApiTest(unittest.TestCase):
 
 def clear_path(path):
 		return "/" + ("/".join(path.split("/", 3)[3:]))
-	    #return "/".join(url.split("/", 3)[:3]) 
+	    #return "/".join(url.split("/", 3)[:3])
 if __name__ == '__main__':
     unittest.main()

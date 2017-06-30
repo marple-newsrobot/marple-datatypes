@@ -11,3 +11,5 @@ test: clean-pyc
 deploy:
 	git push origin master
 
+serve:
+	export FLASK_APP=api/app.py; export FLASK_DEBUG=1; export PYTHONPATH=.; flask run

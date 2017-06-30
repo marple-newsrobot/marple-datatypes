@@ -16,6 +16,7 @@ pp = pprint.PrettyPrinter(indent=2)
 # Get from settings, should point to root folder
 DATATYPES_DIR = settings.DATATYPES_DIR
 DEFAULT_LANG = settings.DEFAULT_LANG
+# TODO: Use "**/*" to fetch all files in all subfolders once glob2 in place
 ALL_DOMAINS = Domain("*/*", datatypes_dir=DATATYPES_DIR)
 # Points to root folder
 RELATIONS_CSV_PATH = settings.RELATIONS_CSV_PATH
@@ -44,7 +45,7 @@ def get_all_datatypes():
     except Exception as e:
         abort(404)
 
-    return json.dumps(items, indent=4, sort_keys=True, ensure_ascii=False).encode("utf8")
+    return jsonify(items)
 
 
 @app.route("/datatype/<string:datatype_id>", methods=['GET'])
@@ -62,14 +63,14 @@ def get_datatype(datatype_id):
         for allowed_value_id in datatype.allowed_values:
             data["allowed_values"].append(jsonify_item(allowed_value_id, lang, domain))
     except Exception as e:
+        # TODO: Better error and exception handling, why error?
         abort(404)
-    
-    return json.dumps(data, indent=4, sort_keys=True, ensure_ascii=False).encode("utf8")
+
+    return jsonify(data)
 
 @app.route("/item/<string:item_id>", methods=['GET'])
 def get_item(item_id):
     try:
-        # TODO: Use "**/*" to fetch all files in all subfolders once glob2 in place
         data = ALL_DOMAINS.row(item_id)
         domain = get_domain(request.url)
         lang = get_lang(request.args)
@@ -92,22 +93,22 @@ def get_item(item_id):
             if relation_type == "one_to_one":
                 related_item_id = data[column] # ie the parent id
                 data[column] = jsonify_item(related_item_id, lang, domain)
-                
+
             elif relation_type == "one_to_many":
                 related_item_ids = data[column].split(",") #ie neighbours
                 data[column] = []
                 for related_item_id in related_item_ids:
                     data[column].append(jsonify_item(related_item_id, lang, domain))
 
-        data["children"] = []             
+        data["children"] = []
         for child_id in ALL_DOMAINS.children(item_id):
             data["children"].append(jsonify_item(child_id, lang, domain))
     except Exception as e:
         abort(404)
 
-    return json.dumps(data, indent=4, sort_keys=True, ensure_ascii=False).encode("utf8")
+    return jsonify(data)
 
-def remove_nan(obj): 
+def remove_nan(obj):
     """Remove all NaN values
     """
     for key, value in obj.items():
@@ -116,7 +117,7 @@ def remove_nan(obj):
     return obj
 
 def get_domain(url):
-    return "/".join(url.split("/", 3)[:3]) 
+    return "/".join(url.split("/", 3)[:3])
 
 def jsonify_item(item_id, lang, domain):
     return {
