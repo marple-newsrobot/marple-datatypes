@@ -13,3 +13,6 @@ deploy:
 
 serve:
 	export FLASK_APP=api/app.py; export FLASK_DEBUG=1; export PYTHONPATH=.; flask run
+
+get_marple_py:
+	pip install git+ssh://git@github.com/marple-newsrobot/marple-py-modules.git --upgrade

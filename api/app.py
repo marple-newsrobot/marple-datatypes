@@ -1,7 +1,6 @@
 # encoding: utf-8
 from flask import Flask, jsonify, abort, request, make_response, url_for
-from marple.datatypes import Domain
-from marple.schema import Datatype
+from marple.datatypes import Domain, Datatype
 from marple.csv import CsvFile
 from marple.utils import isNaN
 import csvkit as csv
