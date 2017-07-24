@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-import os 
+import os
 import pytest
 import csvkit as csv
 from collections import defaultdict
@@ -20,7 +20,7 @@ def iterate_files(directory, file_extension=None):
             file_path = os.path.join(path, filename)
 
             _name, _extension = os.path.splitext(file_path)
-            
+
             if file_extension is None:
                 yield file_path
             elif _extension == file_extension:
@@ -56,10 +56,18 @@ def get_ids(get_datatype_files):
 
 
 @pytest.fixture(scope="session")
+def get_datatypes_csv():
+    """ Get content of datatypes.csv
+    """
+    with open("datatypes.csv") as f:
+        return [x for x in csv.DictReader(f)]
+
+
+@pytest.fixture(scope="session")
 def get_relations():
     """ Returns the content of relations.csv grouped by
         "relation_type" as json
-        
+
         {
             "one_to_one": [ "parent"],
             "one_to_many": ["neighbours"]

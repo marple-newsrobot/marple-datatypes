@@ -9,7 +9,7 @@ import json
 from settings import DATATYPES_DIR, DEFAULT_LANG, RELATIONS_CSV_PATH
 
 # TODO: Use "**/*" to fetch all files in all subfolders once glob2 in place
-ALL_DOMAINS = Domain("*/*", datatypes_dir=DATATYPES_DIR)
+ALL_DOMAINS = Domain("**/*", datatypes_dir=DATATYPES_DIR)
 app = Flask(__name__, static_url_path = "")
 
 @app.errorhandler(400)
