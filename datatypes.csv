@@ -16,6 +16,7 @@ swedish city district,An administrative subdivision of a municipality,str,region
 swedish county,"A Swedish county (län), past or present",str,regions/se/counties
 swedish municipality,"A Swedish municipality, past or present",str,regions/se/municipalities
 country,"A country, past or present",str,regions/nations
+eu country group,"A past or present group of EU countries, such as EU-28",str,regions/eu
 place_of_birth,Subjects country (or continent) of birth,str,regions/nations
 date,An ISO 8601 date/time stamp,date,
 source_id,A key or identifyer used by the data source. Possibly useful for debugging.,str,
