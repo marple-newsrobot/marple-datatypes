@@ -1,8 +1,8 @@
-id,label,label__sv,description,value_type,allowed_values
+id,label__en,label__sv,description,value_type,allowed_values
 age_group,age group,,,str,misc/age_groups
 crime_code,crime code,,A crime code (brottskod) used by the Swedish police,str,misc/crime_codes
 crime_type,crime type,,A crime type (brottstyp) used by the Swedish police. Higher level than brottskod.,str,misc/crime_types
-foreignborn,foregin born,,Is the subject born outside Sweden?,str,misc/foreignborn
+foreignborn,foreign born,,Is the subject born outside Sweden?,str,misc/foreignborn
 gender,gender,,A subjects gender,str,misc/genders
 house_type,house type,,House types as defined by Mäklarstatistik,str,misc/house_types
 measure,measure,,Count or rate for example,str,misc/measures
