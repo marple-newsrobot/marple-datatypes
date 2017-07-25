@@ -1,33 +1,32 @@
-id,description,value_type,allowed_values
-age_group,,str,misc/age_groups
-crime_code,A crime code (brottskod) used by the Swedish police,str,misc/crime_codes
-crime_type,A crime type (brottstyp) used by the Swedish police. Higher level than brottskod.,str,misc/crime_types
-foreignborn,Is the subject born outside Sweden?,str,misc/foreignborn
-gender,A subjects gender,str,misc/genders
-house_type,House types as defined by Mäklarstatistik,str,misc/house_types
-measure,Count or rate for example,str,misc/measures
-periodicity,How long is the period covered by this datapoint,str,misc/periodicities
-period,A period of time,str,periods/*
-month,A gregorian month,str,periods/months
-quarter,A quarter of a gregorian calendar year,str,periods/quarters
-region,Any region,str,regions/**/*
-swedish region,A Swedish administrative region,str,regions/se/*
-swedish city district,An administrative subdivision of a municipality,str,regions/se/city_districts
-swedish county,"A Swedish county (län), past or present",str,regions/se/counties
-swedish municipality,"A Swedish municipality, past or present",str,regions/se/municipalities
-country,"A country, past or present",str,regions/nations
-eu country group,"A past or present group of EU countries, such as EU-28",str,regions/eu
-place_of_birth,Subjects country (or continent) of birth,str,regions/nations
-date,An ISO 8601 date/time stamp,date,
-source_id,A key or identifyer used by the data source. Possibly useful for debugging.,str,
-value,Value,"int,float",
-year,A gregorian year,int,
-week,"A ISO 8601 week number, week starting on Monday, first week of the year has at least four days",int,
-migration_category,"Incoming, outgoing and other migration cateogries as defined by SCB",str,misc/population_changes
-population,"Changes in population (births, deaths etc",str,misc/population_changes
-currency,"Currencies, following ISO 4217 where possible",str,misc/currencies
-income,Different kinds of incomes such as earned income before and after tax,str,misc/incomes
-vehicle_type,Different types of vehicles,str,misc/vehicle_types
-marital_status,"Married, divorced etc",str,misc/marital_statuses
-swedish_meteorological_station,"A Swedish meteorological station, as defined by SMHI",,misc/swedish_meteorological_stations
-meteorological_parameter,Meteorological parameters such as air temperature and rainfall,,misc/meteorological_parameters
+id,label,label__sv,description,value_type,allowed_values
+age_group,age group,,,str,misc/age_groups
+crime_code,crime code,,A crime code (brottskod) used by the Swedish police,str,misc/crime_codes
+crime_type,crime type,,A crime type (brottstyp) used by the Swedish police. Higher level than brottskod.,str,misc/crime_types
+foreignborn,foregin born,,Is the subject born outside Sweden?,str,misc/foreignborn
+gender,gender,,A subjects gender,str,misc/genders
+house_type,house type,,House types as defined by Mäklarstatistik,str,misc/house_types
+measure,measure,,Count or rate for example,str,misc/measures
+periodicity,periodicity,,How long is the period covered by this datapoint,str,misc/periodicities
+period,period,,A period of time,str,periods/*
+month,month,,A gregorian month,str,periods/months
+quarter,quarter,,A quarter of a gregorian calendar year,str,periods/quarters
+region,region,,Any region,str,regions/**/*
+swedish region,Swedish regions,svenska regioner,A Swedish administrative region,str,regions/se/*
+swedish city district,Swedish city districts,svenska stadsdelar,An administrative subdivision of a municipality,str,regions/se/city_districts
+swedish county,Swedish counties,svenska län,"A Swedish county (län), past or present",str,regions/se/counties
+swedish municipality,Swedish municipalities,svenska kommuner,"A Swedish municipality, past or present",str,regions/se/municipalities
+country,countries,,"A country, past or present",str,regions/nations
+eu country group,EU countries,,"A past or present group of EU countries, such as EU-28",str,regions/eu
+place_of_birth,countries of birth,,Subjects country (or continent) of birth,str,regions/nations
+date,date,,An ISO 8601 date/time stamp,date,
+value,value,,Value,"int,float",
+year,year,,A gregorian year,int,
+week,week,,"A ISO 8601 week number, week starting on Monday, first week of the year has at least four days",int,
+migration_category,migration category,,"Incoming, outgoing and other migration cateogries as defined by SCB",str,misc/population_changes
+population,population changes,,"Changes in population (births, deaths etc",str,misc/population_changes
+currency,currencies,,"Currencies, following ISO 4217 where possible",str,misc/currencies
+income,incomes,,Different kinds of incomes such as earned income before and after tax,str,misc/incomes
+vehicle_type,vehicle types,,Different types of vehicles,str,misc/vehicle_types
+marital_status,marital statuses,,"Married, divorced etc",str,misc/marital_statuses
+swedish_meteorological_station,Swedish meteorological stations,svenska meteorologiska stationer,"A Swedish meteorological station, as defined by SMHI",,misc/swedish_meteorological_stations
+meteorological_parameter,meteorological parameters,meterorologiska mätvärden,Meteorological parameters such as air temperature and rainfall,,misc/meteorological_parameters
