@@ -15,7 +15,7 @@ swedish region,Swedish regions,svenska regioner,A Swedish administrative region,
 swedish city district,Swedish city districts,svenska stadsdelar,An administrative subdivision of a municipality,str,regions/se/city_districts
 swedish county,Swedish counties,svenska län,"A Swedish county (län), past or present",str,regions/se/counties
 swedish municipality,Swedish municipalities,svenska kommuner,"A Swedish municipality, past or present",str,regions/se/municipalities
-country,countries,,"A country, past or present",str,regions/nations
+country,countries,länder,"A country, past or present",str,regions/nations
 eu country group,EU countries,,"A past or present group of EU countries, such as EU-28",str,regions/eu
 place_of_birth,countries of birth,,Subjects country (or continent) of birth,str,regions/nations
 date,date,,An ISO 8601 date/time stamp,date,
