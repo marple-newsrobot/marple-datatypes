@@ -31,21 +31,30 @@ def iterate_files(directory, file_extension=None):
 
 @pytest.fixture(scope="session")
 def get_datatype_files():
-    """ Iterate all datatype files in project
+    """ Iterate all datatype files in project (or part of the project)
+        Returns a function, which allows us to pass an argument to the
+        fixture (in this case directories).
+        https://stackoverflow.com/questions/18011902/py-test-pass-a-parameter-to-a-fixture-function
     """
-    files = []
-    for directory in ["misc","periods","regions"]:
-        file_iterator = iterate_files(directory, file_extension="csv")
-        files += [x for x in file_iterator]
+    def _get_files(directories=["misc","periods","regions"]):
+        """
+        :param directories: directories to parse
+        """
+        files = []
+        for directory in directories:
+            file_iterator = iterate_files(directory, file_extension="csv")
+            files += [x for x in file_iterator]
 
-    return files
+        return files
+
+    return _get_files
 
 
 @pytest.fixture(scope="session")
 def get_ids(get_datatype_files):
     """ Get a list of all ids in project
     """
-    files = get_datatype_files
+    files = get_datatype_files()
     ids = []
     for file_path in files:
         with open(file_path) as f:
