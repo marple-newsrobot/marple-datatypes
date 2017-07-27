@@ -2,13 +2,15 @@
 from flask import Flask, jsonify, abort, request, make_response, url_for
 from marple.datatypes import Domain, Datatype
 from marple.csv import CsvFile
-from marple.utils import isNaN
+from marple.utils import isNaN, parse_lingual_object
 import csvkit as csv
 import os
 import json
 from settings import DATATYPES_DIR, DEFAULT_LANG, RELATIONS_CSV_PATH
 
 ALL_DOMAINS = Domain("**/*", datatypes_dir=DATATYPES_DIR)
+ALLOWED_LANGUAGES = ["en","sv"]
+
 app = Flask(__name__, static_url_path = "")
 
 @app.errorhandler(400)
@@ -35,16 +37,22 @@ def index():
 
 @app.route("/datatype", methods=['GET'])
 def get_all_datatypes():
+    lang = get_lang(request.args)
     data = []
     file_path = os.path.join(DATATYPES_DIR, "datatypes.csv")
     csv_file = CsvFile(file_path)
     items = csv_file.to_dictlist()
-    for item in items:
-        item['path'] = get_domain(request.url) + "/datatype/" + item['id']
-        if ('label' not in item):
-            item['label'] = item['id']
 
-    return jsonify(items)
+    for item in items:
+        item_data = {
+            "id": item["id"],
+            "label": parse_lingual_object(item, lang=lang, prefix="label"),
+            "path": "{}/datatype/{}?lang={}"\
+                .format(get_domain(request.url), item['id'], lang)
+        }
+        data.append(item_data)
+
+    return jsonify(data)
 
 
 @app.route("/datatype/<string:datatype_id>", methods=['GET'])
@@ -52,7 +60,7 @@ def get_datatype(datatype_id):
     lang = get_lang(request.args)
     domain = get_domain(request.url)
     try:
-        datatype = Datatype(datatype_id, datatypes_dir=DATATYPES_DIR)
+        datatype = Datatype(datatype_id, datatypes_dir=DATATYPES_DIR, lang=lang)
     except ValueError:
         # Throw 404 error if datatype is missing
         abort(404)
@@ -60,7 +68,8 @@ def get_datatype(datatype_id):
     allowed_values = []
     data = {
         "id": datatype_id,
-        "allowed_values": []
+        "label": datatype.label,
+        "allowed_values": [],
     }
 
     for allowed_value_id in datatype.allowed_values:
@@ -136,12 +145,18 @@ def jsonify_item(item_id, lang, domain):
     return {
         "id": item_id,
         "label": ALL_DOMAINS.label(item_id, lang=lang),
-        "path": u"{}/item/{}".format(domain, item_id)
+        "path": u"{}/item/{}?lang={}".format(domain, item_id,lang)
     }
 
 def get_lang(req_args):
-    if ('lang' in req_args):
-        return req_args['lang']
+    """ Get languge from request
+    """
+    if 'lang' in req_args:
+        lang = req_args["lang"]
+        if lang not in ALLOWED_LANGUAGES:
+            return DEFAULT_LANG
+
+        return lang
     return DEFAULT_LANG
 
 if __name__ == '__main__':
