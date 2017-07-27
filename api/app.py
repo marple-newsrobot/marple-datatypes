@@ -19,6 +19,20 @@ def not_found(error):
 def not_found(error):
     return make_response(jsonify( { 'error': 'Not found' } ), 404)
 
+@app.route("/", methods=['GET'])
+def index():
+    lang = get_lang(request.args)
+    domain = get_domain(request.url)
+    return jsonify({
+        "endpoints": [
+            {
+                "id": "datatype",
+                "description": "Get all datatypes",
+                "path": domain + "/datatype",
+            }
+        ]
+        })
+
 @app.route("/datatype", methods=['GET'])
 def get_all_datatypes():
     data = []
@@ -55,6 +69,7 @@ def get_datatype(datatype_id):
         data["allowed_values"].append(item)
 
     return jsonify(data)
+
 
 @app.route("/item/<string:item_id>", methods=['GET'])
 def get_item(item_id):
