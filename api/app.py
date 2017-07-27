@@ -8,7 +8,6 @@ import os
 import json
 from settings import DATATYPES_DIR, DEFAULT_LANG, RELATIONS_CSV_PATH
 
-# TODO: Use "**/*" to fetch all files in all subfolders once glob2 in place
 ALL_DOMAINS = Domain("**/*", datatypes_dir=DATATYPES_DIR)
 app = Flask(__name__, static_url_path = "")
 
@@ -68,12 +67,17 @@ def get_item(item_id):
 
     domain = get_domain(request.url)
     lang = get_lang(request.args)
-    # This is something of a hack. The Domain class will include a lot of empty columns/propeties defined in other files
-    # Here we clean up those
+    # Clean null values that come from file merge
     data = remove_nan(data)
 
-    # Translate label to selected language
-    data["label"] = ALL_DOMAINS.label(item_id,lang=lang)
+    # Start building the object to return here
+    item_data = {
+        "id": item_id,
+        "label": ALL_DOMAINS.label(item_id,lang=lang)
+    }
+
+    if "region_level" in data:
+        item_data["region_level"] = data["region_level"]
 
     # Populate relational properties (parent, neighbours etc)
     # These relations are defined in relations.csv in the root folder
@@ -86,21 +90,21 @@ def get_item(item_id):
             continue
         if relation_type == "one_to_one":
             related_item_id = data[column] # ie the parent id
-            data[column] = jsonify_item(related_item_id, lang, domain)
+            item_data[column] = jsonify_item(related_item_id, lang, domain)
 
         elif relation_type == "one_to_many":
             related_item_ids = data[column].split(",") #ie neighbours
-            data[column] = []
+            item_data[column] = []
             for related_item_id in related_item_ids:
                 item = jsonify_item(related_item_id, lang, domain)
-                data[column].append(item)
+                item_data[column].append(item)
 
-    data["children"] = []
+    item_data["children"] = []
     for child_id in ALL_DOMAINS.children(item_id):
         item = jsonify_item(child_id, lang, domain)
-        data["children"].append(item)
+        item_data["children"].append(item)
 
-    return jsonify(data)
+    return jsonify(item_data)
 
 def remove_nan(obj):
     """Remove all NaN values
