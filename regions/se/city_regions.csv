@@ -1,4 +1,4 @@
-id,label,label__sv,label__en
-Stor-Stockholm,Stor-Stockholm,Stor-Stockholm,Greater Stockholm
-Stor-Göteborg,Stor-Göteborg,Stor-Göteborg,Greater Gothenburg
-Stor-Malmö,Stor-Malmö,Stor-Malmö,Greater Malmö
+id,label,label__sv,label__en,region_level
+Stor-Stockholm,Stor-Stockholm,Stor-Stockholm,Greater Stockholm,city regions
+Stor-Göteborg,Stor-Göteborg,Stor-Göteborg,Greater Gothenburg,city regions
+Stor-Malmö,Stor-Malmö,Stor-Malmö,Greater Malmö,city regions
