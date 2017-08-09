@@ -1,0 +1,39 @@
+id,label
+SNI2007_00,samtliga näringar
+SNI2007_01,jordbruksföretag och serviceföretag till jordbruk
+SNI2007_02,skogsbruksföretag
+SNI2007_03,fiskare och vattenbrukare 
+SNI2007_05_09,gruvor och mineralutvinningsindustri
+SNI2007_10_12,"livsmedels-, dryckesvaru- och tobaksindustri"
+SNI2007_13_15,"textil-, beklädnads-, läder - och lädervaruindustri"
+SNI2007_16,"industri för trä och varor av trä, kork och rotting o.d. utom möbler"
+SNI2007_17,"massa-, pappers- och pappersvaruindustri"
+SNI2007_18,grafisk och annan reproduktionsindustri
+SNI2007_19_21,"kemisk industri, petroleumprodukter och läkemedelsindustri"
+SNI2007_22,gummi- och plastvaruindustri
+SNI2007_23,industri för andra icke-metalliska mineraliska produkter
+SNI2007_24,stål- och metallverk
+SNI2007_25,industri för metallvaror utom maskiner och apparater
+SNI2007_26_27,"industri för datorer, elektronikvaror, optik och elapparatur"
+SNI2007_28,övrig maskinindustri
+SNI2007_29_30,transportmedelsindustri
+SNI2007_31_33,"övrig tillverkningsindustri, reparationsverkstäder och installationsföretag"
+SNI2007_35_39,"el-, gas- och värmeverk; vatten- och reningsverk; anläggningar för avfallshantering, återvinning och"
+SNI2007_41_43,byggindustri
+SNI2007_45,handel med och serviceverkstäder för motorfordon och motorcyklar
+SNI2007_46,parti - och provisionshandel utom med motorfordon
+SNI2007_47,detaljhandel utom med motorfordon och motorcyklar
+SNI2007_49_53,transport- och magasineringsföretag
+SNI2007_55_56,hotell och restauranger
+SNI2007_58_63,informations- och kommunikationsföretag
+SNI2007_64_66,kreditinstitut och försäkringsbolag m.m.
+SNI2007_68,fastighetsbolag och fastighetsförvaltare
+SNI2007_69_75,"företag inom juridik, ekonomi, vetenskap och teknik"
+SNI2007_77_78,"uthyrningsfirmor, arbetsförmedlingar, rekryteringsföretag, personaluthyrningsföretag o.d."
+SNI2007_79,resebyråer och researrangörer; turistbyråer
+SNI2007_80_82,"bevaknings-, fastighetsservice och kontorstjänstföretag m.m."
+SNI2007_85,utbildningsväsendet
+SNI2007_86_88,"enheter för vård och omsorg, socialtjänst"
+SNI2007_90_93,enheter för kultur nöje och fritid
+SNI2007_94_99+84,"andra serviceföretag och företag för personliga tjänster, civila myndigheter och försvaret"
+SNI2007_US,uppgift saknas
