@@ -1,3 +1,4 @@
-id,label,label_sv
+id,label,label__sv
 born in foreign country,Born in foreign country,Född utomlands
+total (born in any country),"Total, born in any country","Samtliga, oavsett födelseland" 
 born in Sweden,Born in Sweden,Född i Sverige
