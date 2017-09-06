@@ -23,6 +23,7 @@ def not_found(error):
 
 @app.route("/", methods=['GET'])
 def index():
+    """Entry point."""
     lang = get_lang(request.args)
     domain = get_domain(request.url)
     return jsonify({
@@ -37,6 +38,7 @@ def index():
 
 @app.route("/datatype", methods=['GET'])
 def get_all_datatypes():
+    """List all datatypes."""
     lang = get_lang(request.args)
     data = []
     file_path = os.path.join(DATATYPES_DIR, "datatypes.csv")
@@ -57,6 +59,7 @@ def get_all_datatypes():
 
 @app.route("/datatype/<string:datatype_id>", methods=['GET'])
 def get_datatype(datatype_id):
+    """Get a datatype by id."""
     lang = get_lang(request.args)
     domain = get_domain(request.url)
     try:
@@ -82,7 +85,17 @@ def get_datatype(datatype_id):
 
 @app.route("/item/<string:item_id>", methods=['GET'])
 def get_item(item_id):
-    """ Get an item by id
+    """ Get an item by id.
+    {
+        "id": "my_item",
+        "label": "My item",
+        "data": {
+            # Raw data from the csv file
+            "region_level": "nation",
+            "custom_data": "my_custom_data"
+        },
+        "children": [],
+    }
     """
     try:
         data = ALL_DOMAINS.row(item_id)
@@ -97,11 +110,14 @@ def get_item(item_id):
     # Start building the object to return here
     item_data = {
         "id": item_id,
-        "label": ALL_DOMAINS.label(item_id,lang=lang)
+        "label": ALL_DOMAINS.label(item_id, lang=lang),
+        "data": {},
     }
 
-    if "region_level" in data:
-        item_data["region_level"] = data["region_level"]
+    # Add all cell values to data property
+    for key, value in data.iteritems():
+        if key not in item_data:
+            item_data["data"][key] = value
 
     # Populate relational properties (parent, neighbours etc)
     # These relations are defined in relations.csv in the root folder
@@ -163,4 +179,3 @@ if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
     debug = os.environ.get('DEBUG', False)
     app.run(host='0.0.0.0', debug = debug, port=port)
-
