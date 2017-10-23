@@ -31,4 +31,4 @@ marital_status,marital statuses,,"Married, divorced etc",str,misc/marital_status
 swedish_meteorological_station,Swedish meteorological stations,svenska meteorologiska stationer,"A Swedish meteorological station, as defined by SMHI",,misc/swedish_meteorological_stations
 meteorological_parameter,meteorological parameters,meterorologiska mätvärden,Meteorological parameters such as air temperature and rainfall,,misc/meteorological_parameters
 SNI2007,SNI codes (2007),SNI koder (2007),Swedish SNI classification for professions,str,misc/sni_codes
-asylum decisions,asylum decisions,asylbeslut,Asylum decisions as classified by Eurostat,str,misc/asylum_decisions
+asylum decision,asylum decisions,asylbeslut,Asylum decisions as classified by Eurostat,str,misc/asylum_decisions
