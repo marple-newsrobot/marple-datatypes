@@ -34,3 +34,5 @@ meteorological_parameter,meteorological parameters,meterorologiska mätvärden,M
 SNI2007,SNI codes (2007),SNI koder (2007),Swedish SNI classification for professions,str,misc/sni_codes
 asylum decision,asylum decisions,asylbeslut,Asylum decisions as classified by Eurostat,str,misc/asylum_decisions
 swedish hospitals,Swedish hospitals,Svenska sjukhus,Used by ie Väntetider.se,str,misc/se/hospitals
+overcrowding_measurement,Overcrowding measurements,Överbeläggningsmått,Such as overcrowding and dislocated patients. Used by ie Väntetider.se,str,misc/care/overcrowding_measurements
+care_type,Type of care,Vårdtyper,Such as somatic care and psychiatry. Used by ie Väntetider.se,str,misc/care/care_types
