@@ -1,0 +1,90 @@
+,id,label,parent
+0,Akademiska sjukhuset Uppsala,"Akademiska sjukhuset, Uppsala",Region Uppsala
+1,Alingsås lasarett,Alingsås lasarett,Västra Götalandsregionen
+2,Avesta lasarett,Avesta lasarett,Landstinget Dalarna
+3,Blekingesjukhuset Karlshamn och Karlskrona,"Blekingesjukhuset, Karlshamn och Karlskrona",Blekinge läns landsting
+4,Bollnäs sjukhus,Bollnäs sjukhus,Region Gävleborg
+5,Borlänge sjukhus,Borlänge sjukhus,Landstinget Dalarna
+6,Brommageriatriken - Stiftelsen Stockholms sjukhem,Brommageriatriken - Stiftelsen Stockholms sjukhem,Stockholms läns landsting
+7,Capio Geriatrik - Dalens sjukhus,Capio Geriatrik - Dalens sjukhus,Stockholms läns landsting
+8,Capio Geriatrik Nacka,"Capio Geriatrik, Nacka",Stockholms läns landsting
+9,Capio S:t Görans sjukhus Stockholm,"Capio S:t Görans sjukhus, Stockholm",Stockholms läns landsting
+10,Capio Sjukhuset Simrishamn,Capio Sjukhuset Simrishamn,Region Skåne
+11,Carema Närsjukvård Simrishamn,Carema Närsjukvård Simrishamn,Region Skåne
+12,Centrallasarettet Växjö,Centrallasarettet Växjö,Region Kronoberg
+13,Centralsjukhuset Kristianstad,Centralsjukhuset Kristianstad,Region Skåne
+14,Centralsjukhuset Karlstad,"Centralsjukhuset, Karlstad",Värmlands läns landsting
+15,Danderyds sjukhus AB Stockholm,"Danderyds sjukhus AB, Stockholm",Stockholms läns landsting
+16,Danderydsgeriatriken - Danderyds sjuhkus (SLSO),Danderydsgeriatriken - Danderyds sjuhkus (SLSO),Stockholms läns landsting
+17,Ersta sjukhus Stockholm,"Ersta sjukhus, Stockholm",Stockholms läns landsting
+18,Falu lasarett,Falu lasarett,Landstinget Dalarna
+19,Gällivare sjukhus,Gällivare sjukhus,Norrbottens läns landsting
+20,Gävle sjukhus,Gävle sjukhus,Region Gävleborg
+21,Hallands sjukhus (Halmstad Varberg Kungsbacka),Hallands sjukhus (Halmstad/Varberg/Kungsbacka),Region Halland
+22,Hallands sjukhus Halmstad,Hallands sjukhus Halmstad,Region Halland
+23,Hallands sjukhus Kungsbacka,Hallands sjukhus Kungsbacka,Region Halland
+24,Hallands sjukhus Varberg,Hallands sjukhus Varberg,Region Halland
+25,Handengeriatriken - Praktikertjänst N.Ä.R.A,Handengeriatriken - Praktikertjänst N.Ä.R.A,Stockholms läns landsting
+26,Helsingborgs lasarett,Helsingborgs lasarett,Region Skåne
+27,Huddingegeriatriken - Karolinska Universitetssjukhuset,Huddingegeriatriken - Karolinska Universitetssjukhuset,Stockholms läns landsting
+28,Hudiksvalls sjukhus,Hudiksvalls sjukhus,Region Gävleborg
+29,Hälso- och sjukvården i Finspång,Hälso- och sjukvården i Finspång,Region Östergötland
+30,Höglandssjukhuset Eksjö-Nässjö,"Höglandssjukhuset, Eksjö-Nässjö",Region Jönköpings län
+31,Jakobsbergsgeriatriken - Jakobsbergs sjukhus (SLSO),Jakobsbergsgeriatriken - Jakobsbergs sjukhus (SLSO),Stockholms läns landsting
+32,Kalix sjukhus,Kalix sjukhus,Norrbottens läns landsting
+33,Karlskoga lasarett,Karlskoga lasarett,Region Örebro län
+34,Karolinska universitetssjukhuset Huddinge och Solna,"Karolinska universitetssjukhuset, Huddinge och Solna",Stockholms läns landsting
+35,Kiruna sjukhus,Kiruna sjukhus,Norrbottens läns landsting
+36,Kullbergska sjukhuset Katrineholm,"Kullbergska sjukhuset, Katrineholm",Södermanlands läns landsting
+37,Kungälvs sjukhus,Kungälvs sjukhus,Västra Götalandsregionen
+38,Lasarettet Trelleborg,Lasarettet Trelleborg,Region Skåne
+39,Lasarettet i Enköping,Lasarettet i Enköping,Region Uppsala
+40,Lasarettet i Landskrona,Lasarettet i Landskrona,Region Skåne
+41,Lasarettet i Motala,Lasarettet i Motala,Region Östergötland
+42,Lasarettet i Ystad,Lasarettet i Ystad,Region Skåne
+43,Lindesbergs lasarett,Lindesbergs lasarett,Region Örebro län
+44,Ljungby lasarett,Ljungby lasarett,Region Kronoberg
+45,Ludvika lasarett,Ludvika lasarett,Landstinget Dalarna
+46,Lycksele lasarett,Lycksele lasarett,Västerbottens läns landsting
+47,Länssjukhuset Ryhov Jönköping,"Länssjukhuset Ryhov, Jönköping",Region Jönköpings län
+48,Länssjukhuset Sundsvall-Härnösand,Länssjukhuset Sundsvall-Härnösand,Västernorrlands läns landsting
+49,Länssjukhuset i Kalmar,Länssjukhuset i Kalmar,Kalmar läns landsting
+50,Löwetgeriatriken - Praktikertjänst N.Ä.R.A,Löwetgeriatriken - Praktikertjänst N.Ä.R.A,Stockholms läns landsting
+51,Mora lasarett,Mora lasarett,Landstinget Dalarna
+52,Mälarsjukhuset Eskilstuna,"Mälarsjukhuset, Eskilstuna",Södermanlands läns landsting
+53,NU-sjukvården (NÄL Uddevalla Dalsland Lysekil Strömstad),"NU-sjukvården (NÄL, Uddevalla, Dalsland, Lysekil, Strömstad)",Västra Götalandsregionen
+54,Nackageriatriken - Aleris AB,Nackageriatriken - Aleris AB,Stockholms läns landsting
+77,Norrlands Universitetssjukhus Umeå,"Norrlands Universitetssjukhus, Umeå",Västerbottens läns landsting
+78,Norrtälje sjukhus,Norrtälje sjukhus,Stockholms läns landsting
+79,Nyköpings lasarett,Nyköpings lasarett,Södermanlands läns landsting
+80,Nynäshamns Geriatrik - Legevisitten,Nynäshamns Geriatrik - Legevisitten,Stockholms läns landsting
+81,Närsjukhuset Simrishamn Praktikertjänst,"Närsjukhuset Simrishamn, Praktikertjänst",Region Skåne
+82,Oskarshamns sjukhus,Oskarshamns sjukhus,Kalmar läns landsting
+83,Piteå sjukhus,Piteå sjukhus,Norrbottens läns landsting
+84,S:t Eriks ögonsjukhus Stockholm,"S:t Eriks ögonsjukhus, Stockholm",Stockholms läns landsting
+85,Sahlgrenska Universitetssjukhuset,Sahlgrenska Universitetssjukhuset,Västra Götalandsregionen
+86,Sjukhuset i Arvika,Sjukhuset i Arvika,Värmlands läns landsting
+87,Sjukhuset i Hässleholm,Sjukhuset i Hässleholm,Region Skåne
+88,Sjukhuset i Torsby,Sjukhuset i Torsby,Värmlands läns landsting
+89,Skaraborgs sjukhus (Skövde Falköping Mariestad Lidköping),"Skaraborgs sjukhus (Skövde, Falköping, Mariestad, Lidköping)",Västra Götalandsregionen
+90,Skellefteå lasarett,Skellefteå lasarett,Västerbottens läns landsting
+91,Skånes Universitetssjukhus Lund och Malmö,"Skånes Universitetssjukhus, Lund och Malmö",Region Skåne
+92,Sollefteå sjukhus,Sollefteå sjukhus,Västernorrlands läns landsting
+93,Stockholmsgeriatriken - Sabbatsbergs sjukhus (SLSO),Stockholmsgeriatriken - Sabbatsbergs sjukhus (SLSO),Stockholms läns landsting
+94,Sunderby sjukhus,Sunderby sjukhus,Norrbottens läns landsting
+95,Södersjukhuset Stockholm,"Södersjukhuset, Stockholm",Stockholms läns landsting
+96,Södertälje sjukhus AB,Södertälje sjukhus AB,Stockholms läns landsting
+97,Södertäljegeriatriken - Södertälje sjukhus,Södertäljegeriatriken - Södertälje sjukhus,Stockholms läns landsting
+98,Södra Älvsborgs Sjukhus Borås Skene,"Södra Älvsborgs Sjukhus, Borås/Skene",Västra Götalandsregionen
+99,Universitetssjukhuset i Linköping,Universitetssjukhuset i Linköping,Region Östergötland
+100,Universitetssjukhuset i Örebro,Universitetssjukhuset i Örebro,Region Örebro län
+101,Visby lasarett,Visby lasarett,Region Gotland
+102,Vrinnevisjukhuset i Norrköping,Vrinnevisjukhuset i Norrköping,Region Östergötland
+103,Värnamo sjukhus,Värnamo sjukhus,Region Jönköpings län
+104,Västerviks sjukhus,Västerviks sjukhus,Kalmar läns landsting
+105,Västmanlands sjukhus Köping,Västmanlands sjukhus Köping,Västmanlands läns landsting
+106,Västmanlands sjukhus Sala,Västmanlands sjukhus Sala,Västmanlands läns landsting
+107,Västmanlands sjukhus Västerås,Västmanlands sjukhus Västerås,Västmanlands läns landsting
+108,Ängelholms sjukhus,Ängelholms sjukhus,Region Skåne
+109,Örnsköldsviks sjukhus,Örnsköldsviks sjukhus,Västernorrlands läns landsting
+110,Östersunds sjukhus,Östersunds sjukhus,Region Jämtland Härjedalen
