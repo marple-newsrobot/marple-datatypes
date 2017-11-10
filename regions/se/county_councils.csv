@@ -1,22 +1,22 @@
-id,label,parent,region_level
-Blekinge läns landsting,Blekinge läns landsting,Sweden,county council
-Landstinget Dalarna,Landstinget Dalarna,Sweden,county council
-Region Gotland,Region Gotland,Sweden,county council
-Region Gävleborg,Region Gävleborg,Sweden,county council
-Region Halland,Region Halland,Sweden,county council
-Region Jämtland Härjedalen,Region Jämtland Härjedalen,Sweden,county council
-Region Jönköpings län,Region Jönköpings län,Sweden,county council
-Kalmar läns landsting,Kalmar läns landsting,Sweden,county council
-Region Kronoberg,Region Kronoberg,Sweden,county council
-Norrbottens läns landsting,Norrbottens läns landsting,Sweden,county council
-Region Skåne,Region Skåne,Sweden,county council
-Stockholms läns landsting,Stockholms läns landsting,Sweden,county council
-Södermanlands läns landsting,Södermanlands läns landsting,Sweden,county council
-Region Uppsala,Region Uppsala,Sweden,county council
-Värmlands läns landsting,Värmlands läns landsting,Sweden,county council
-Västerbottens läns landsting,Västerbottens läns landsting,Sweden,county council
-Västernorrlands läns landsting,Västernorrlands läns landsting,Sweden,county council
-Västmanlands läns landsting,Västmanlands läns landsting,Sweden,county council
-Västra Götalandsregionen,Västra Götalandsregionen,Sweden,county council
-Region Örebro län,Region Örebro län,Sweden,county council
-Region Östergötland,Region Östergötland,Sweden,county council
+id,label,parent,region_level,county
+Blekinge läns landsting,Blekinge läns landsting,Sweden,county council,Blekinge län
+Landstinget Dalarna,Landstinget Dalarna,Sweden,county council,Dalarnas län
+Region Gotland,Region Gotland,Sweden,county council,Gotlands län
+Region Gävleborg,Region Gävleborg,Sweden,county council,Gävleborgs län
+Region Halland,Region Halland,Sweden,county council,Hallands län
+Region Jämtland Härjedalen,Region Jämtland Härjedalen,Sweden,county council,Jämtlands län
+Region Jönköpings län,Region Jönköpings län,Sweden,county council,Jönköpings län
+Kalmar läns landsting,Kalmar läns landsting,Sweden,county council,Kalmar län
+Region Kronoberg,Region Kronoberg,Sweden,county council,Kronobergs län
+Norrbottens läns landsting,Norrbottens läns landsting,Sweden,county council,Norrbottens län
+Region Skåne,Region Skåne,Sweden,county council,Skåne län
+Stockholms läns landsting,Stockholms läns landsting,Sweden,county council,Stockholms län
+Södermanlands läns landsting,Södermanlands läns landsting,Sweden,county council,Södermanlands län
+Region Uppsala,Region Uppsala,Sweden,county council,Uppsala län
+Värmlands läns landsting,Värmlands läns landsting,Sweden,county council,Värmlands län
+Västerbottens läns landsting,Västerbottens läns landsting,Sweden,county council,Västerbottens län
+Västernorrlands läns landsting,Västernorrlands läns landsting,Sweden,county council,Västernorrlands län
+Västmanlands läns landsting,Västmanlands läns landsting,Sweden,county council,Västmanlands län
+Västra Götalandsregionen,Västra Götalandsregionen,Sweden,county council,Västra Götalands län
+Region Örebro län,Region Örebro län,Sweden,county council,Örebro län
+Region Östergötland,Region Östergötland,Sweden,county council,Östergötlands län
