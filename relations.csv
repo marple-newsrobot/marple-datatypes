@@ -2,3 +2,4 @@ id,relation_type
 parent,one_to_one
 neighbours,one_to_many
 county,one_to_one
+municipality,one_to_one
