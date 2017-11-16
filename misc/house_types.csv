@@ -1,4 +1,7 @@
-id,label
-bostadsrätt,Bostadsrätter
-villa,Villor
-fritidshus,Fritidshus
+id,label,description
+bostadsrätt,Bostadsrätter,
+villa,Villor,
+fritidshus,Fritidshus,
+flerbostadshus,Flerbostadshus,
+småhus,Småhus,
+specialbostad,Specialbostad,Till exempel studentbostäder och äldreboende
