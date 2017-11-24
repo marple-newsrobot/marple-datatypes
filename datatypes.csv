@@ -36,3 +36,4 @@ asylum decision,asylum decisions,asylbeslut,Asylum decisions as classified by Eu
 swedish hospitals,Swedish hospitals,Svenska sjukhus,Used by ie Väntetider.se,str,misc/se/hospitals
 overcrowding_measurement,Overcrowding measurements,Överbeläggningsmått,Such as overcrowding and dislocated patients. Used by ie Väntetider.se,str,misc/care/overcrowding_measurements
 care_type,Type of care,Vårdtyper,Such as somatic care and psychiatry. Used by ie Väntetider.se,str,misc/care/care_types
+household_origin,Household origins,Ursprung för medlemmar i hushåll,Such as foreign or domestic born. As used by ie Socialstyrelsen,str,misc/household_origins
