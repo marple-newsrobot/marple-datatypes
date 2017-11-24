@@ -3,3 +3,4 @@ all applicant households,Alla mottagande hushåll,
 all applicants domestic born,Inrikes födda,all applicant households
 one applicant foreign born,En av sökande/sambo utrikesfödd,all applicant households
 both applicants foreign born,Både sökande/sambo utrikesfödda,all applicant households
+any applicant foreign born,Minst en sökande/sambo är utrikesfödd,all applicant households
