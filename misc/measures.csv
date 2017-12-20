@@ -15,3 +15,5 @@ price_change_12months,Price change compared same time period one year ago,"Prisu
 per_100_beds,Care beds per 100 available beds,Antal per 100 vårdplatser,Antal per 100 vårdplatser,
 per_capita,Per capita,Per capita,Per invånare,Per capita
 amount,"Can be used for, for example price amounts",Amount,Mängd,Amount
+min,Minimum value,Min,Min,Min
+max,Maximum value,Max,Max,Max

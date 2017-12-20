@@ -1,712 +1,732 @@
 ,id,label,municipality,parent,neighbours
-701,Abisko,Abisko,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
-629,Abraur,Abraur,Arvidsjaurs kommun,Norrbottens län,"Vidsel Mo,Vidsel,Glommersträsk,Arvidsjaur A"
-627,Adak D,Adak D,Malå kommun,Västerbottens län,"Malå Brännan A,Malå,Långträsk D"
-338,Adelsö A,Adelsö A,Ekerö kommun,Stockholms län,
-115,Alingsås D,Alingsås D,Alingsås kommun,Västra Götalands län,"Uplo,Gendalen"
-527,Almdalen,Almdalen,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Tullus D,Kaxås Åflo D,Olden D,Föllinge A,Lundsjön,Långan D"
-363,Almunge,Almunge,Uppsala kommun,Uppsala län,"Uppsala Flygplats,Vattholma D,Uppsala,Björklinge D,Vällnora D,Uppsala Aut"
-375,Andersviksberg,Andersviksberg,Malung-Sälens kommun,Dalarnas län,"Löten D,Öje D,Malung A"
-163,Ankarsrum D,Ankarsrum D,Västerviks kommun,Kalmar län,"Gladhammar A,Tyllinge D,Hellerö"
-653,Arjeplog A,Arjeplog A,Arjeplogs kommun,Norrbottens län,"Mierkenis A,Arjeplog Myrheden D,Vaxborg,Svartberget D,Jäckvik"
-628,Arjeplog Myrheden D,Arjeplog-Myrheden D,Arjeplogs kommun,Norrbottens län,"Jäckvik,Vaxborg,Arjeplog A,Svartberget D,Mierkenis A"
-632,Arvidsjaur A,Arvidsjaur A,Arvidsjaurs kommun,Norrbottens län,"Vidsel Mo,Vidsel,Glommersträsk,Abraur"
-279,Arvika A,Arvika A,Arvika kommun,Värmlands län,Sölje D
-302,Asker D,Asker D,Örebro kommun,Örebro län,"Örebro A,Örebro D,Ön,Kilsbergen Suttarboda A"
-116,Askim D,Askim D,Göteborgs kommun,Västra Götalands län,"Vinga A,Göteborg A"
-269,Aspa D,Aspa D,Nyköpings kommun,Södermanlands län,"Frändesta,Vrena"
-547,Aspeå,Aspeå,Örnsköldsviks kommun,Västernorrlands län,"Hattsjöbäcken D,Myckelgensjö,Örnsköldsvik,Södersel D,Bredbyn D,Hemling A,Örnsköldsviks Flygplats,Skagsudde A"
-178,Austers D,Austers D,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Fårösund Ar A,Gotska Sandön A"
-576,Avasjö Borgafjäll D,Avasjö-Borgafjäll D,Dorotea kommun,Västerbottens län,Högland D
-399,Avesta,Avesta,Avesta kommun,Dalarnas län,Brovallen
-226,Axstål Mo,Axstål Mo,Karlsborgs kommun,Västra Götalands län,Karlsborg Mo
-540,Backe D,Backe D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
-50,Bakarebo D,Bakarebo D,Ljungby kommun,Kronobergs län,"Ljungby A,Lidhult D,Ljungby D,Åby"
-561,Balsjö D,Balsjö D,Bjurholms kommun,Västerbottens län,
-33,Baramossa,Baramossa,Laholms kommun,Hallands län,"Knäred D,Laholm D"
-32,Barkåkra,Barkåkra,Ängelholms kommun,Skåne län,Munka Ljungby D
-615,Bastansjö D,Bastansjö D,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan D,Hemavan Giertevarto A,Hemavan Flygplats,Gunnarn A,Blaiken D,Nordanås"
+721,Abisko,Abisko,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
+646,Abraur,Abraur,Arvidsjaurs kommun,Norrbottens län,"Vidsel Mo,Vidsel,Glommersträsk,Arvidsjaur A"
+644,Adak D,Adak D,Malå kommun,Västerbottens län,"Malå Brännan A,Malå,Långträsk D"
+348,Adelsö A,Adelsö A,Ekerö kommun,Stockholms län,
+120,Alingsås D,Alingsås D,Alingsås kommun,Västra Götalands län,"Uplo,Gendalen"
+542,Almdalen,Almdalen,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Tullus D,Kaxås Åflo D,Olden D,Föllinge A,Lundsjön,Långan D"
+373,Almunge,Almunge,Uppsala kommun före 2003,Uppsala län,"Uppsala Flygplats,Vattholma D,Uppsala,Björklinge D,Vällnora D,Uppsala Aut"
+387,Andersviksberg,Andersviksberg,Malung-Sälens kommun,Dalarnas län,"Löten D,Öje D,Malung A"
+168,Ankarsrum D,Ankarsrum D,Västerviks kommun,Kalmar län,"Gladhammar A,Tyllinge D,Hellerö"
+671,Arjeplog A,Arjeplog A,Arjeplogs kommun,Norrbottens län,"Mierkenis A,Arjeplog Myrheden D,Vaxborg,Svartberget D,Jäckvik"
+645,Arjeplog Myrheden D,Arjeplog-Myrheden D,Arjeplogs kommun,Norrbottens län,"Jäckvik,Vaxborg,Arjeplog A,Svartberget D,Mierkenis A"
+649,Arvidsjaur A,Arvidsjaur A,Arvidsjaurs kommun,Norrbottens län,"Vidsel Mo,Vidsel,Glommersträsk,Abraur"
+288,Arvika A,Arvika A,Arvika kommun,Värmlands län,Sölje D
+312,Asker D,Asker D,Örebro kommun,Örebro län,"Örebro A,Örebro D,Ön,Kilsbergen Suttarboda A"
+121,Askim D,Askim D,Göteborgs kommun,Västra Götalands län,"Göteborg Sol,Vinga A,Göteborg A"
+278,Aspa D,Aspa D,Nyköpings kommun,Södermanlands län,"Frändesta,Vrena"
+563,Aspeå,Aspeå,Örnsköldsviks kommun,Västernorrlands län,"Hattsjöbäcken D,Myckelgensjö,Örnsköldsvik,Södersel D,Bredbyn D,Hemling A,Örnsköldsviks Flygplats,Skagsudde A"
+184,Austers D,Austers D,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+593,Avasjö Borgafjäll D,Avasjö-Borgafjäll D,Dorotea kommun,Västerbottens län,Högland D
+412,Avesta,Avesta,Avesta kommun,Dalarnas län,Brovallen
+234,Axstål Mo,Axstål Mo,Karlsborgs kommun,Västra Götalands län,Karlsborg Mo
+556,Backe D,Backe D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
+51,Bakarebo D,Bakarebo D,Ljungby kommun,Kronobergs län,"Ljungby A,Lidhult D,Ljungby D,Åby"
+577,Balsjö D,Balsjö D,Bjurholms kommun,Västerbottens län,
+34,Baramossa,Baramossa,Laholms kommun,Hallands län,"Knäred D,Laholm D"
+33,Barkåkra,Barkåkra,Ängelholms kommun,Skåne län,Munka Ljungby D
+632,Bastansjö D,Bastansjö D,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan D,Hemavan Giertevarto A,Hemavan Flygplats,Gunnarn A,Blaiken D,Nordanås"
 5,Beddingestrand,Beddingestrand,Trelleborgs kommun,Skåne län,Trelleborg
-273,Bengtsfors D,Bengtsfors D,Bengtsfors kommun,Västra Götalands län,"Blomskog A,Bäckefors"
-132,Berg,Berg,Växjö kommun,Kronobergs län,"Växjö D,Växjö A,Söraby"
-350,Berga Mo,Berga Mo,Haninge kommun,Stockholms län,"Nämdö,Västerhaninge,Dalarö D"
-459,Bergsjö,Bergsjö,Nordanstigs kommun,Gävleborgs län,"Åsnorrbodarna,Sänningstjärn D"
-535,Bispgården,Bispgården,Ragunda kommun,Jämtlands län,"Borgvattnet D,Krångede A"
-396,Bjursås,Bjursås,Falu kommun,Dalarnas län,"Hillersboda,Falun Lugnet,Tänger D"
-607,Bjuröklubb A,Bjuröklubb A,Skellefteå kommun,Västerbottens län,"Kåge,Skellefteå Flygplats,Bygdsiljum D,Kalvträsk D,Grönliden,Jörn D,Kusmark D,Pite Rönnskär A,Holmfors D"
-90,Bjärby D,Bjärby D,Borgholms kommun,Kalmar län,"Ölands Norra Udde A,Skedemosse D,Löttorp D,Ölands Norra Udde"
-43,Bjärnum D,Bjärnum D,Hässleholms kommun,Skåne län,Hästveda Mo
-411,Björklinge D,Björklinge D,Uppsala kommun,Uppsala län,"Uppsala Flygplats,Vattholma D,Uppsala,Vällnora D,Uppsala Aut,Almunge"
-679,Björkudden,Björkudden,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Murjek D,Puottaure,Jokkmokk Flygplats Mo"
-259,Björkvik D,Björkvik D,Katrineholms kommun,Södermanlands län,"Granhed D,Sköldinge,Floda A,Glindran"
-12,Björnstorp,Björnstorp,Lunds kommun,Skåne län,"Vomb,Lund"
-616,Blaiken D,Blaiken D,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan D,Hemavan Giertevarto A,Bastansjö D,Hemavan Flygplats,Gunnarn A,Nordanås"
-276,Blomskog A,Blomskog A,Bengtsfors kommun,Västra Götalands län,"Bengtsfors D,Bäckefors"
-504,Blåhammaren A,Blåhammaren A,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Vallbo,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D"
-642,Boden Mo,Boden Mo,Bodens kommun,Norrbottens län,"Harads D,Brännberg D,Lakaträsk A"
-110,Bollebygd,Bollebygd,Bollebygds kommun,Västra Götalands län,
-21,Bollerup,Bollerup,Ystads kommun,Skåne län,Ystad
-452,Bollnäs D,Bollnäs D,Bollnäs kommun,Gävleborgs län,"Simeå,Kilafors D"
-530,Borgvattnet D,Borgvattnet D,Ragunda kommun,Jämtlands län,"Krångede A,Bispgården"
-392,Borlänge D,Borlänge D,Borlänge kommun,Dalarnas län,"Borlänge Flygplats,Stora Spånsberget A"
-391,Borlänge Flygplats,Borlänge Flygplats,Borlänge kommun,Dalarnas län,"Borlänge D,Stora Spånsberget A"
-112,Borås,Borås,Borås kommun,Västra Götalands län,"Rångedala A,Häggårda"
-515,Bottnen,Bottnen,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Vallbo,Norderön,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
-233,Boxholm D,Boxholm D,Boxholms kommun,Östergötlands län,Malexander A
-552,Bredbyn D,Bredbyn D,Örnsköldsviks kommun,Västernorrlands län,"Hattsjöbäcken D,Myckelgensjö,Örnsköldsvik,Södersel D,Aspeå,Hemling A,Örnsköldsviks Flygplats,Skagsudde A"
-70,Bredåkra D,Bredåkra D,Ronneby kommun,Blekinge län,"Ronneby Bredåkra,Eringsboda D"
-55,Bromölla,Bromölla,Bromölla kommun,Skåne län,
-398,Brovallen,Brovallen,Avesta kommun,Dalarnas län,Avesta
-491,Brämön A,Brämön A,Sundsvalls kommun,Västernorrlands län,"Ulvsjön D,Sidsjö D,Västerlo D"
-601,Brände,Brände,Robertsfors kommun,Västerbottens län,
-641,Brännberg D,Brännberg D,Bodens kommun,Norrbottens län,"Harads D,Lakaträsk A,Boden Mo"
-596,Brännforssund,Brännforssund,Vindelns kommun,Västerbottens län,"Petisträsk A,Malkälen D,Granö D,Vindeln Sunnansjönäs"
-23,Brösarp D,Brösarp D,Tomelilla kommun,Skåne län,Tomelilla
-622,Buresjön A,Buresjön A,Sorsele kommun,Västerbottens län,"Gargnäs D,Sorsele,Fjällsjönäs,Sadiliden,Klippen D"
-168,Burs D,Burs D,Gotlands kommun,Gotlands län,"Mästerby,Austers D,Visby Flygplats,Ljugarn D,Sanda,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Fårösund Ar A,Gotska Sandön A"
-602,Bygdsiljum D,Bygdsiljum D,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Kalvträsk D,Skellefteå Flygplats,Grönliden,Jörn D,Kusmark D,Pite Rönnskär A,Holmfors D"
-201,Bäckefors,Bäckefors,Bengtsfors kommun,Västra Götalands län,"Bengtsfors D,Blomskog A"
-589,Bäverträsk,Bäverträsk,Lycksele kommun,Västerbottens län,"Norrby,Granträsk D,Rusksele D,Lycksele A"
-252,Börrum D,Börrum D,Söderköpings kommun,Östergötlands län,"Söderköping D,Gustorp D,Harstena A"
-469,Börtnan A,Börtnan A,Bergs kommun,Jämtlands län,"Dödre,Handsjön D,Åsarna D,Ljungdalen,Klövsjöhöjden A,Rätan"
-280,Charlottenberg,Charlottenberg,Eda kommun,Värmlands län,
-295,Daglösen A,Daglösen A,Filipstads kommun,Värmlands län,"Persberg,Lesjöfors D"
-383,Dala Järna D,Dala-Järna D,Vansbro kommun,Dalarnas län,Sågen D
-352,Dalarö D,Dalarö D,Haninge kommun,Stockholms län,"Nämdö,Västerhaninge,Berga Mo"
-24,Degeberga D,Degeberga D,Kristianstads kommun,Skåne län,"Norra Ströö,Kristianstad,Knopparp D"
-291,Degerfors D,Degerfors D,Degerfors kommun,Örebro län,Åtorp
-456,Delsbo A,Delsbo A,Hudiksvalls kommun,Gävleborgs län,"Kuggören A,Nianfors,Hudiksvall"
-507,Digernäset D,Digernäset D,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Vallbo,Norderön,Bottnen,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
-222,Djursätra,Djursätra,Skövde kommun,Västra Götalands län,Skövde
-357,Djurö D,Djurö D,Värmdö kommun,Stockholms län,"Skarpö A,Sandhamn D"
-467,Dravagen A,Dravagen A,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Malmagen,Sveg A,Ljusnedal,Tännäs A,Medskogen,Ytterhogdal"
-477,Dödre,Dödre,Bergs kommun,Jämtlands län,"Åsarna D,Handsjön D,Ljungdalen,Börtnan A,Klövsjöhöjden A,Rätan"
-190,Ed D,Ed D,Dals-Eds kommun,Västra Götalands län,
-509,Edevik,Edevik,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Vallbo,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Marby D,Blåhammaren A"
-445,Edsbyn A,Edsbyn A,Ovanåkers kommun,Gävleborgs län,Lobonäs D
-38,Eftra D,Eftra D,Falkenbergs kommun,Hallands län,"Ullared A,Källsjö"
-419,Eggegrund A,Eggegrund A,Gävle kommun,Gävleborgs län,"Hedesunda,Gävle Åbyggeby,Gävle A,Norrsundet"
-75,Emmaboda D,Emmaboda D,Emmaboda kommun,Kalmar län,
-344,Enköping,Enköping,Enköpings kommun,Uppsala län,"Hacksta,Skjörby,Enköping Mo"
-343,Enköping Mo,Enköping Mo,Enköpings kommun,Uppsala län,"Hacksta,Skjörby,Enköping"
-200,Erikstad,Erikstad,Melleruds kommun,Västra Götalands län,
-74,Eringsboda D,Eringsboda D,Ronneby kommun,Blekinge län,"Ronneby Bredåkra,Bredåkra D"
-323,Eskilstuna,Eskilstuna,Eskilstuna kommun,Södermanlands län,"Hyndevad,Lida D,Eskilstuna A,Näshulta,Västermo"
-321,Eskilstuna A,Eskilstuna A,Eskilstuna kommun,Södermanlands län,"Hyndevad,Lida D,Eskilstuna,Näshulta,Västermo"
-691,Esrange,Esrange,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio,Katterjåkk A"
-146,Fagerhult D,Fagerhult D,Uppvidinge kommun,Kronobergs län,Älghult
-204,Falkoping Valtorp D,Falkoping-Valtorp D,Falköpings kommun,Västra Götalands län,
+282,Bengtsfors D,Bengtsfors D,Bengtsfors kommun,Västra Götalands län,"Blomskog A,Bäckefors"
+137,Berg,Berg,Växjö kommun,Kronobergs län,"Växjö D,Växjö A,Söraby,Växjö Sol"
+360,Berga Mo,Berga Mo,Haninge kommun,Stockholms län,"Nämdö,Västerhaninge,Dalarö D"
+472,Bergsjö,Bergsjö,Nordanstigs kommun,Gävleborgs län,"Åsnorrbodarna,Sänningstjärn D"
+551,Bispgården,Bispgården,Ragunda kommun,Jämtlands län,"Borgvattnet D,Krångede A"
+409,Bjursås,Bjursås,Falu kommun,Dalarnas län,"Hillersboda,Falun Lugnet,Tänger D"
+624,Bjuröklubb A,Bjuröklubb A,Skellefteå kommun,Västerbottens län,"Kåge,Skellefteå Flygplats,Bygdsiljum D,Kalvträsk D,Grönliden,Jörn D,Kusmark D,Pite Rönnskär A,Holmfors D"
+93,Bjärby D,Bjärby D,Borgholms kommun,Kalmar län,"Ölands Norra Udde A,Ölands Norra Udde Sol,Skedemosse D,Löttorp D,Ölands Norra Udde"
+44,Bjärnum D,Bjärnum D,Hässleholms kommun,Skåne län,Hästveda Mo
+424,Björklinge D,Björklinge D,Uppsala kommun före 2003,Uppsala län,"Uppsala Flygplats,Vattholma D,Uppsala,Vällnora D,Uppsala Aut,Almunge"
+697,Björkudden,Björkudden,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Murjek D,Puottaure,Jokkmokk Flygplats Mo"
+267,Björkvik D,Björkvik D,Katrineholms kommun,Södermanlands län,"Granhed D,Sköldinge,Floda A,Glindran"
+12,Björnstorp,Björnstorp,Lunds kommun,Skåne län,"Vomb,Lund Sol,Lund"
+633,Blaiken D,Blaiken D,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan D,Hemavan Giertevarto A,Bastansjö D,Hemavan Flygplats,Gunnarn A,Nordanås"
+285,Blomskog A,Blomskog A,Bengtsfors kommun,Västra Götalands län,"Bengtsfors D,Bäckefors"
+517,Blåhammaren A,Blåhammaren A,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Storlien Storvallen,Vallbo,Storlien Visjövalen Sol,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D"
+659,Boden Mo,Boden Mo,Bodens kommun,Norrbottens län,"Harads D,Brännberg D,Lakaträsk A"
+115,Bollebygd,Bollebygd,Bollebygds kommun,Västra Götalands län,
+22,Bollerup,Bollerup,Ystads kommun,Skåne län,Ystad
+465,Bollnäs D,Bollnäs D,Bollnäs kommun,Gävleborgs län,"Simeå,Kilafors D"
+546,Borgvattnet D,Borgvattnet D,Ragunda kommun,Jämtlands län,"Krångede A,Bispgården"
+405,Borlänge D,Borlänge D,Borlänge kommun,Dalarnas län,"Borlänge Flygplats,Borlänge Sol,Stora Spånsberget A"
+403,Borlänge Flygplats,Borlänge Flygplats,Borlänge kommun,Dalarnas län,"Borlänge D,Borlänge Sol,Stora Spånsberget A"
+404,Borlänge Sol,Borlänge Sol,Borlänge kommun,Dalarnas län,"Borlänge Flygplats,Borlänge D,Stora Spånsberget A"
+117,Borås,Borås,Borås kommun,Västra Götalands län,"Rångedala A,Häggårda"
+530,Bottnen,Bottnen,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Storlien Storvallen,Vallbo,Storlien Visjövalen Sol,Norderön,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
+241,Boxholm D,Boxholm D,Boxholms kommun,Östergötlands län,Malexander A
+568,Bredbyn D,Bredbyn D,Örnsköldsviks kommun,Västernorrlands län,"Hattsjöbäcken D,Myckelgensjö,Örnsköldsvik,Södersel D,Aspeå,Hemling A,Örnsköldsviks Flygplats,Skagsudde A"
+73,Bredåkra D,Bredåkra D,Ronneby kommun,Blekinge län,"Ronneby Bredåkra,Eringsboda D"
+56,Bromölla,Bromölla,Bromölla kommun,Skåne län,
+411,Brovallen,Brovallen,Avesta kommun,Dalarnas län,Avesta
+504,Brämön A,Brämön A,Sundsvalls kommun,Västernorrlands län,"Ulvsjön D,Sidsjö D,Västerlo D"
+618,Brände,Brände,Robertsfors kommun,Västerbottens län,
+658,Brännberg D,Brännberg D,Bodens kommun,Norrbottens län,"Harads D,Lakaträsk A,Boden Mo"
+613,Brännforssund,Brännforssund,Vindelns kommun,Västerbottens län,"Petisträsk A,Malkälen D,Granö D,Vindeln Sunnansjönäs"
+24,Brösarp D,Brösarp D,Tomelilla kommun,Skåne län,Tomelilla
+639,Buresjön A,Buresjön A,Sorsele kommun,Västerbottens län,"Gargnäs D,Sorsele,Fjällsjönäs,Sadiliden,Klippen D"
+174,Burs D,Burs D,Gotlands kommun,Gotlands län,"Mästerby,Austers D,Visby Flygplats,Ljugarn D,Sanda,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+619,Bygdsiljum D,Bygdsiljum D,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Kalvträsk D,Skellefteå Flygplats,Grönliden,Jörn D,Kusmark D,Pite Rönnskär A,Holmfors D"
+209,Bäckefors,Bäckefors,Bengtsfors kommun,Västra Götalands län,"Bengtsfors D,Blomskog A"
+606,Bäverträsk,Bäverträsk,Lycksele kommun,Västerbottens län,"Norrby,Granträsk D,Rusksele D,Lycksele A"
+260,Börrum D,Börrum D,Söderköpings kommun,Östergötlands län,"Söderköping D,Gustorp D,Harstena A"
+482,Börtnan A,Börtnan A,Bergs kommun,Jämtlands län,"Dödre,Handsjön D,Åsarna D,Ljungdalen,Klövsjöhöjden A,Rätan"
+289,Charlottenberg,Charlottenberg,Eda kommun,Värmlands län,
+305,Daglösen A,Daglösen A,Filipstads kommun,Värmlands län,"Persberg,Lesjöfors D"
+395,Dala Järna D,Dala-Järna D,Vansbro kommun,Dalarnas län,Sågen D
+362,Dalarö D,Dalarö D,Haninge kommun,Stockholms län,"Nämdö,Västerhaninge,Berga Mo"
+25,Degeberga D,Degeberga D,Kristianstads kommun,Skåne län,"Norra Ströö,Kristianstad,Knopparp D"
+301,Degerfors D,Degerfors D,Degerfors kommun,Örebro län,Åtorp
+469,Delsbo A,Delsbo A,Hudiksvalls kommun,Gävleborgs län,"Kuggören A,Nianfors,Hudiksvall"
+522,Digernäset D,Digernäset D,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Vallbo,Storlien Visjövalen Sol,Norderön,Bottnen,Storlien Storvallen,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
+230,Djursätra,Djursätra,Skövde kommun,Västra Götalands län,Skövde
+367,Djurö D,Djurö D,Värmdö kommun,Stockholms län,"Skarpö A,Sandhamn D"
+480,Dravagen A,Dravagen A,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Malmagen,Sveg A,Ljusnedal,Tännäs A,Medskogen,Ytterhogdal"
+490,Dödre,Dödre,Bergs kommun,Jämtlands län,"Åsarna D,Handsjön D,Ljungdalen,Börtnan A,Klövsjöhöjden A,Rätan"
+198,Ed D,Ed D,Dals-Eds kommun,Västra Götalands län,
+524,Edevik,Edevik,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Storlien Storvallen,Vallbo,Storlien Visjövalen Sol,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Marby D,Blåhammaren A"
+458,Edsbyn A,Edsbyn A,Ovanåkers kommun,Gävleborgs län,Lobonäs D
+39,Eftra D,Eftra D,Falkenbergs kommun,Hallands län,"Ullared A,Källsjö"
+432,Eggegrund A,Eggegrund A,Gävle kommun,Gävleborgs län,"Hedesunda,Gävle Åbyggeby,Gävle A,Norrsundet"
+78,Emmaboda D,Emmaboda D,Emmaboda kommun,Kalmar län,
+354,Enköping,Enköping,Enköpings kommun,Uppsala län,"Hacksta,Skjörby,Enköping Mo"
+353,Enköping Mo,Enköping Mo,Enköpings kommun,Uppsala län,"Hacksta,Skjörby,Enköping"
+208,Erikstad,Erikstad,Melleruds kommun,Västra Götalands län,
+77,Eringsboda D,Eringsboda D,Ronneby kommun,Blekinge län,"Ronneby Bredåkra,Bredåkra D"
+333,Eskilstuna,Eskilstuna,Eskilstuna kommun,Södermanlands län,"Hyndevad,Lida D,Eskilstuna A,Näshulta,Västermo"
+331,Eskilstuna A,Eskilstuna A,Eskilstuna kommun,Södermanlands län,"Hyndevad,Lida D,Eskilstuna,Näshulta,Västermo"
+711,Esrange,Esrange,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Kiruna Flygplats,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio,Katterjåkk A"
+151,Fagerhult D,Fagerhult D,Uppvidinge kommun,Kronobergs län,Älghult
+212,Falköping Valtorp D,Falköping-Valtorp D,Falköpings kommun,Västra Götalands län,
 0,Falsterbo,Falsterbo,Vellinge kommun,Skåne län,Falsterbo A
 1,Falsterbo A,Falsterbo A,Vellinge kommun,Skåne län,Falsterbo
-393,Falun Lugnet,Falun-Lugnet,Falu kommun,Dalarnas län,"Hillersboda,Tänger D,Bjursås"
-413,Films Kyrkby A,Films Kyrkby A,Östhammars kommun,Uppsala län,"Söderby Karlsäng D,Risinge,Örskär A"
-443,Finnbacka D,Finnbacka D,Rättviks kommun,Dalarnas län,Östanvik D
-242,Finspång,Finspång,Finspångs kommun,Östergötlands län,Regna D
-618,Fjällsjönäs,Fjällsjönäs,Sorsele kommun,Västerbottens län,"Buresjön A,Sorsele,Gargnäs D,Sadiliden,Klippen D"
-315,Floda A,Floda A,Katrineholms kommun,Södermanlands län,"Granhed D,Sköldinge,Björkvik D,Glindran"
-542,Forse,Forse,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Lännäs,Junsele A,Resele,Multrå D,Storfinnforsen,Sollefteå"
-104,Fotskäl D,Fotskäl D,Marks kommun,Västra Götalands län,"Horred,Sätila,Grebbeshult"
-586,Fredrika A,Fredrika A,Åsele kommun,Västerbottens län,"Ytterrissjö D,Åsele,Åsele A"
-379,Fredriksberg,Fredriksberg,Ludvika kommun,Dalarnas län,"Nyhammar,Ludvika"
-71,Fridlevstad D,Fridlevstad D,Karlskrona kommun,Blekinge län,"Trolleboda D,Tvingelshed,Lyckeby,Komstorp,Utklippan A,Karlskrona Söderstjerna Mo"
-567,Frostviken D,Frostviken D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
-314,Frändesta,Frändesta,Nyköpings kommun,Södermanlands län,"Aspa D,Vrena"
-521,Frösön,Frösön,Östersunds kommun,Jämtlands län,Tandsbyn D
-227,Fägre D,Fägre D,Töreboda kommun,Västra Götalands län,Älgarås D
-569,Fågelberget D,Fågelberget D,Strömsunds kommun,Jämtlands län,"Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
-442,Fågelsjö D,Fågelsjö D,Ljusdals kommun,Gävleborgs län,"Los D,Lillhamra D,Hennan D,Ljusdals Valsjön,Järvsö,Föne D,Hamra A"
-180,Fårö D,Fårö D,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Fårösund Ar A,Gotska Sandön A"
-179,Fårösund Ar A,Fårösund Ar A,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Gotska Sandön A"
-526,Föllinge A,Föllinge A,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Almdalen,Tullus D,Kaxås Åflo D,Olden D,Lundsjön,Långan D"
-448,Föne D,Föne D,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Los D,Lillhamra D,Hennan D,Ljusdals Valsjön,Järvsö,Hamra A"
-620,Gargnäs D,Gargnäs D,Sorsele kommun,Västerbottens län,"Buresjön A,Sorsele,Fjällsjönäs,Sadiliden,Klippen D"
-195,Gendalen,Gendalen,Alingsås kommun,Västra Götalands län,"Uplo,Alingsås D"
-384,Gesunda D,Gesunda D,Mora kommun,Dalarnas län,"Mora A,Våmhus D,Ulvsjö"
-611,Gielas A,Gielas A,Vilhelmina kommun,Västerbottens län,"Kittelfjäll D,Vilhelmina A,Latikberg D,Stekenjokk A,Stalon II,Laxbäcken"
-39,Gillastig,Gillastig,Svalövs kommun,Skåne län,
-164,Gladhammar A,Gladhammar A,Västerviks kommun,Kalmar län,"Tyllinge D,Hellerö,Ankarsrum D"
-260,Glindran,Glindran,Katrineholms kommun,Södermanlands län,"Granhed D,Sköldinge,Björkvik D,Floda A"
-631,Glommersträsk,Glommersträsk,Arvidsjaurs kommun,Norrbottens län,"Vidsel Mo,Vidsel,Abraur,Arvidsjaur A"
-331,Gnesta,Gnesta,Södertälje kommun,Stockholms län,Södertälje
-244,Godegård D,Godegård D,Motala kommun,Östergötlands län,"Zinkgruvan,Kettstaka A,Motala,Tjällmo D"
-271,Gotska Sandön A,Gotska Sandön A,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Fårösund Ar A"
-317,Granhed D,Granhed D,Katrineholms kommun,Södermanlands län,"Sköldinge,Björkvik D,Floda A,Glindran"
-587,Granträsk D,Granträsk D,Lycksele kommun,Västerbottens län,"Norrby,Lycksele A,Rusksele D,Bäverträsk"
-593,Granö D,Granö D,Vindelns kommun,Västerbottens län,"Petisträsk A,Malkälen D,Vindeln Sunnansjönäs,Brännforssund"
-106,Grebbeshult,Grebbeshult,Marks kommun,Västra Götalands län,"Fotskäl D,Horred,Sätila"
-188,Grebbestad,Grebbestad,Tanums kommun,Västra Götalands län,Väderöarna A
-282,Grums,Grums,Grums kommun,Värmlands län,
-296,Grythyttan,Grythyttan,Hällefors kommun,Örebro län,Silvergruvan
-285,Gräsås D,Gräsås D,Karlstads kommun,Värmlands län,"Väse D,Karlstad Flygplats"
-603,Grönliden,Grönliden,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Kalvträsk D,Skellefteå Flygplats,Jörn D,Kusmark D,Pite Rönnskär A,Holmfors D"
-573,Gubbhögen A,Gubbhögen A,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Håkafot D"
-231,Gullspång,Gullspång,Gullspångs kommun,Västra Götalands län,
-585,Gunnarn A,Gunnarn A,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan D,Hemavan Giertevarto A,Hemavan Flygplats,Bastansjö D,Blaiken D,Nordanås"
-373,Gustavsfors,Gustavsfors,Hagfors kommun,Värmlands län,Gustavsfors A
-374,Gustavsfors A,Gustavsfors A,Hagfors kommun,Värmlands län,Gustavsfors
-253,Gustorp D,Gustorp D,Söderköpings kommun,Östergötlands län,"Börrum D,Söderköping D,Harstena A"
-570,Gäddede A,Gäddede A,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
-684,Gällivare A,Gällivare A,Gällivare kommun,Norrbottens län,"Ritsem A,Latnivaara A,Malmberget,Sadjem D,Nikkaluokta A,Nattavaara A,Skröven D"
-406,Gästrike Hammarby D,Gästrike-Hammarby D,Sandvikens kommun,Gävleborgs län,"Österfärnebo,Kungsberget D"
-417,Gävle A,Gävle A,Gävle kommun,Gävleborgs län,"Eggegrund A,Hedesunda,Gävle Åbyggeby,Norrsundet"
-418,Gävle Åbyggeby,Gävle-Åbyggeby,Gävle kommun,Gävleborgs län,"Hedesunda,Eggegrund A,Gävle A,Norrsundet"
-497,Gåltjärn,Gåltjärn,Härnösands kommun,Västernorrlands län,"Lungö A,Härnösand"
-230,Gårdsjö A,Gårdsjö A,Laxå kommun,Örebro län,
-427,Gördalen D,Gördalen D,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Särna D,Idre D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Trängslet"
-97,Göteborg A,Göteborg A,Göteborgs kommun,Västra Götalands län,"Vinga A,Askim D"
-342,Hacksta,Hacksta,Enköpings kommun,Uppsala län,"Skjörby,Enköping Mo,Enköping"
-134,Hagshult Mo,Hagshult Mo,Värnamo kommun,Jönköpings län,"Räfsebo D,Åminne D"
-34,Hallands Väderö A,Hallands Väderö A,Båstads kommun,Skåne län,Hov
-532,Hallhåxåsen A,Hallhåxåsen A,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
-327,Hallstaberg,Hallstaberg,Västerås kommun,Västmanlands län,"Västerås,Skultuna"
-37,Halmstad,Halmstad,Halmstads kommun,Hallands län,Marbäck D
-531,Hammerdal D,Hammerdal D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hoting A,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
-441,Hamra A,Hamra A,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Los D,Lillhamra D,Hennan D,Ljusdals Valsjön,Järvsö,Föne D"
-474,Handsjön D,Handsjön D,Bergs kommun,Jämtlands län,"Dödre,Åsarna D,Ljungdalen,Börtnan A,Klövsjöhöjden A,Rätan"
-53,Hanö A,Hanö A,Sölvesborgs kommun,Blekinge län,
-649,Haparanda A,Haparanda A,Haparanda kommun,Norrbottens län,"Karungi,Haparanda D"
-648,Haparanda D,Haparanda D,Haparanda kommun,Norrbottens län,"Karungi,Haparanda A"
-659,Harads D,Harads D,Bodens kommun,Norrbottens län,"Brännberg D,Boden Mo,Lakaträsk A"
-262,Harstena A,Harstena A,Söderköpings kommun,Östergötlands län,"Börrum D,Gustorp D,Söderköping D"
-553,Hattsjöbäcken D,Hattsjöbäcken D,Örnsköldsviks kommun,Västernorrlands län,"Myckelgensjö,Örnsköldsvik,Södersel D,Bredbyn D,Hemling A,Örnsköldsviks Flygplats,Skagsudde A,Aspeå"
-186,Heden,Heden,Munkedals kommun,Västra Götalands län,
-414,Hedesunda,Hedesunda,Gävle kommun,Gävleborgs län,"Eggegrund A,Gävle A,Gävle Åbyggeby,Norrsundet"
-468,Hedeviken,Hedeviken,Härjedalens kommun,Jämtlands län,"Ytterberg D,Myskelåsen D,Dravagen A,Malmagen,Sveg A,Ljusnedal,Tännäs A,Medskogen,Ytterhogdal"
-177,Hejnum,Hejnum,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Östergarnsholm A,Hoburg D,Hemse,Vänge,Fårösund Ar A,Gotska Sandön A"
-165,Hellerö,Hellerö,Västerviks kommun,Kalmar län,"Gladhammar A,Tyllinge D,Ankarsrum D"
-26,Helsingborg 2,Helsingborg 2,Helsingborgs kommun,Skåne län,"Tånga,Helsingborg A"
-27,Helsingborg A,Helsingborg A,Helsingborgs kommun,Skåne län,"Tånga,Helsingborg 2"
-612,Hemavan D,Hemavan D,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan Giertevarto A,Bastansjö D,Hemavan Flygplats,Gunnarn A,Blaiken D,Nordanås"
-614,Hemavan Flygplats,Hemavan Flygplats,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan D,Hemavan Giertevarto A,Bastansjö D,Gunnarn A,Blaiken D,Nordanås"
-613,Hemavan Giertevarto A,Hemavan-Giertevarto A,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan D,Bastansjö D,Hemavan Flygplats,Gunnarn A,Blaiken D,Nordanås"
-554,Hemling A,Hemling A,Örnsköldsviks kommun,Västernorrlands län,"Myckelgensjö,Örnsköldsvik,Södersel D,Bredbyn D,Hattsjöbäcken D,Örnsköldsviks Flygplats,Skagsudde A,Aspeå"
-169,Hemse,Hemse,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Ljugarn D,Sanda,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Vänge,Fårösund Ar A,Gotska Sandön A"
-478,Hennan D,Hennan D,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Los D,Lillhamra D,Ljusdals Valsjön,Järvsö,Föne D,Hamra A"
-183,Henån,Henån,Orusts kommun,Västra Götalands län,Måseskär A
-203,Herrljunga D,Herrljunga D,Herrljunga kommun,Västra Götalands län,
-124,Hestra D,Hestra D,Gislaveds kommun,Jönköpings län,"Reftele D,Skeppshult D"
-123,Hid D,Hid D,Svenljunga kommun,Västra Götalands län,
-394,Hillersboda,Hillersboda,Falu kommun,Dalarnas län,"Tänger D,Falun Lugnet,Bjursås"
-572,Hillsand,Hillsand,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
-81,Hinshult,Hinshult,Nybro kommun,Kalmar län,"Orrefors D,Nybro Slättingebygd D"
-221,Hjo,Hjo,Hjo kommun,Västra Götalands län,
-248,Hjortkvarn D,Hjortkvarn D,Hallsbergs kommun,Örebro län,
-93,Hoburg A,Hoburg A,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Ljugarn D,Sanda,Fårö D,Visby D,Austers D,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Fårösund Ar A,Gotska Sandön A"
-92,Hoburg D,Hoburg D,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Ljugarn D,Sanda,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hemse,Vänge,Fårösund Ar A,Gotska Sandön A"
-405,Hofors,Hofors,Hofors kommun,Gävleborgs län,Torsåker D
-251,Holmbo D,Holmbo D,Åtvidabergs kommun,Östergötlands län,
-604,Holmfors D,Holmfors D,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Kalvträsk D,Skellefteå Flygplats,Grönliden,Jörn D,Kusmark D,Pite Rönnskär A"
-562,Holmön A,Holmön A,Umeå kommun,Västerbottens län,"Tavelsjö D,Umeå Flygplats,Röbäcksdalen,Holmön D"
-563,Holmön D,Holmön D,Umeå kommun,Västerbottens län,"Röbäcksdalen,Tavelsjö D,Umeå Flygplats,Holmön A"
-155,Horn A,Horn A,Kinda kommun,Östergötlands län,Kisa D
-107,Horred,Horred,Marks kommun,Västra Götalands län,"Fotskäl D,Sätila,Grebbeshult"
-578,Hoting A,Hoting A,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
-35,Hov,Hov,Båstads kommun,Skåne län,Hallands Väderö A
-458,Hudiksvall,Hudiksvall,Hudiksvalls kommun,Gävleborgs län,"Kuggören A,Nianfors,Delsbo A"
-257,Hult D,Hult D,Norrköpings kommun,Östergötlands län,"Vånga D,Norrköping SMHI,Skärkind D,Östra Husby D,Kolmården Strömsfors A"
-482,Hunge A,Hunge A,Bräcke kommun,Jämtlands län,"Öraåtjärnarna D,Rissna D,Mälgåsen D,Västerövsjö D"
-142,Huskvarna,Huskvarna,Jönköpings kommun,Jönköpings län,"Ramsjöholm,Jönköpings Flygplats,Visingsö A,Högemålen D"
-62,Hyltan,Hyltan,Älmhults kommun,Kronobergs län,Pjätteryd
-322,Hyndevad,Hyndevad,Eskilstuna kommun,Södermanlands län,"Lida D,Eskilstuna,Eskilstuna A,Näshulta,Västermo"
-466,Häggberget D,Häggberget D,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Särna D,Idre D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Trängslet,Gördalen D"
-109,Häggårda,Häggårda,Borås kommun,Västra Götalands län,"Rångedala A,Borås"
-318,Hälleforsnäs D,Hälleforsnäs D,Flens kommun,Södermanlands län,
-207,Hällum A,Hällum A,Vara kommun,Västra Götalands län,Vedum
-449,Härnebo,Härnebo,Söderhamns kommun,Gävleborgs län,Söderala D
-495,Härnösand,Härnösand,Härnösands kommun,Västernorrlands län,"Lungö A,Gåltjärn"
-117,Härryda,Härryda,Härryda kommun,Västra Götalands län,Landvetter Flygplats
-234,Härsnäs,Härsnäs,Mjölby kommun,Östergötlands län,Sya
-152,Hässleby D,Hässleby D,Eksjö kommun,Jönköpings län,"Prästkulla,Värne"
-41,Hästveda Mo,Hästveda Mo,Hässleholms kommun,Skåne län,Bjärnum D
-568,Håkafot D,Håkafot D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Strömsund Edet D,Rossön,Gubbhögen A,Leipikvattnet"
-191,Håvelund,Håvelund,Strömstads kommun,Västra Götalands län,Nordkoster A
-286,Högboda,Högboda,Kils kommun,Värmlands län,
-218,Högemålen D,Högemålen D,Jönköpings kommun,Jönköpings län,"Huskvarna,Ramsjöholm,Jönköpings Flygplats,Visingsö A"
-575,Högland D,Högland D,Dorotea kommun,Västerbottens län,Avasjö Borgafjäll D
-496,Höglandsbodarna D,Höglandsbodarna D,Timrå kommun,Västernorrlands län,"Sundsvalls Flygplats,Stordalen Midlanda D"
-510,Höglekardalen,Höglekardalen,Åre kommun,Jämtlands län,"Mörsil,Storlien Storvallen A,Vallbo,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
-372,Höljes,Höljes,Torsby kommun,Värmlands län,"Tåsan,Stöllet D,Östmark Åsarna,Letafors D,Kindsjön D"
-17,Hörby A,Hörby A,Hörby kommun,Skåne län,
-428,Idre D,Idre D,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Särna D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Trängslet,Gördalen D"
-429,Idre Fjäll A,Idre Fjäll A,Älvdalens kommun,Dalarnas län,"Nornäs D,Häggberget D,Särna D,Idre D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Trängslet,Gördalen D"
-677,Jarhois,Jarhois,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Kangos D,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Paharova A"
-658,Jokkmokk,Jokkmokk,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Murjek D,Björkudden,Puottaure,Jokkmokk Flygplats Mo"
-662,Jokkmokk Flygplats Mo,Jokkmokk Flygplats Mo,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Murjek D,Björkudden,Puottaure"
-566,Jormlien,Jormlien,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
-687,Jukkasjärvi D,Jukkasjärvi D,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Esrange,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Tarfala A,Kiruna Flygplats,Naimakka A,Lainio,Katterjåkk A"
-539,Junsele A,Junsele A,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Lännäs,Forse,Multrå D,Storfinnforsen,Resele,Sollefteå"
-651,Jäckvik,Jäckvik,Arjeplogs kommun,Norrbottens län,"Arjeplog Myrheden D,Vaxborg,Arjeplog A,Svartberget D,Mierkenis A"
-557,Järnäsklubb A,Järnäsklubb A,Nordmalings kommun,Västerbottens län,"Torrböle D,Nordanbäck D"
-513,Järpströmmen,Järpströmmen,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Vallbo,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Medstugan,Edevik,Marby D,Blåhammaren A"
-455,Järvsö,Järvsö,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Los D,Lillhamra D,Hennan D,Ljusdals Valsjön,Hamra A,Föne D"
-141,Jönköpings Flygplats,Jönköpings Flygplats,Jönköpings kommun,Jönköpings län,"Huskvarna,Ramsjöholm,Visingsö A,Högemålen D"
-633,Jörn D,Jörn D,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Kalvträsk D,Skellefteå Flygplats,Grönliden,Kusmark D,Pite Rönnskär A,Holmfors D"
-647,Kalix D,Kalix D,Kalix kommun,Norrbottens län,Storön A
-89,Kalmar D,Kalmar D,Kalmar kommun,Kalmar län,Kalmar Flygplats
-88,Kalmar Flygplats,Kalmar Flygplats,Kalmar kommun,Kalmar län,Kalmar D
-597,Kalvträsk D,Kalvträsk D,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Skellefteå Flygplats,Grönliden,Jörn D,Kusmark D,Pite Rönnskär A,Holmfors D"
-695,Kangos D,Kangos D,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Jarhois,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Paharova A"
-709,Karesuando A,Karesuando A,Kiruna kommun,Norrbottens län,"Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
-225,Karlsborg Mo,Karlsborg Mo,Karlsborgs kommun,Västra Götalands län,Axstål Mo
-57,Karlshamn,Karlshamn,Karlshamns kommun,Blekinge län,
-294,Karlskoga,Karlskoga,Karlskoga kommun,Örebro län,
-67,Karlskrona Söderstjerna Mo,Karlskrona-Söderstjerna Mo,Karlskrona kommun,Blekinge län,"Fridlevstad D,Trolleboda D,Tvingelshed,Lyckeby,Komstorp,Utklippan A"
-284,Karlstad Flygplats,Karlstad Flygplats,Karlstads kommun,Värmlands län,"Gräsås D,Väse D"
-672,Karungi,Karungi,Haparanda kommun,Norrbottens län,"Haparanda D,Haparanda A"
-86,Kastlösa,Kastlösa,Mörbylånga kommun,Kalmar län,"Segerstad,Ölands Södra Udde A,Norra Möckleby D"
-702,Katterjåkk,Katterjåkk,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
-703,Katterjåkk A,Katterjåkk A,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio,Esrange"
-514,Kaxås Åflo D,Kaxås-Åflo D,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Almdalen,Tullus D,Olden D,Föllinge A,Lundsjön,Långan D"
-401,Kerstinbo A,Kerstinbo A,Heby kommun,Uppsala län,"Vittinge,Tärnsjö D,Östervåla D"
-696,Keräntöjärvi,Keräntöjärvi,Pajala kommun,Norrbottens län,"Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Jarhois,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Kangos D,Paharova A"
-245,Kettstaka A,Kettstaka A,Motala kommun,Östergötlands län,"Godegård D,Zinkgruvan,Motala,Tjällmo D"
-450,Kilafors D,Kilafors D,Bollnäs kommun,Gävleborgs län,"Simeå,Bollnäs D"
-209,Kilagården,Kilagården,Skara kommun,Västra Götalands län,"Remningstorp,Skara"
-293,Kilsbergen Suttarboda A,Kilsbergen-Suttarboda A,Örebro kommun,Örebro län,"Örebro A,Örebro D,Asker D,Ön"
-125,Kindsboda,Kindsboda,Tranemo kommun,Västra Götalands län,Sjötofta D
-369,Kindsjön D,Kindsjön D,Torsby kommun,Värmlands län,"Tåsan,Höljes,Stöllet D,Östmark Åsarna,Letafors D"
-686,Kiruna Flygplats,Kiruna Flygplats,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Esrange,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio,Katterjåkk A"
-157,Kisa D,Kisa D,Kinda kommun,Östergötlands län,Horn A
-610,Kittelfjäll D,Kittelfjäll D,Vilhelmina kommun,Västerbottens län,"Vilhelmina A,Latikberg D,Stekenjokk A,Stalon II,Gielas A,Laxbäcken"
-40,Klippan,Klippan,Klippans kommun,Skåne län,
-623,Klippen D,Klippen D,Sorsele kommun,Västerbottens län,"Gargnäs D,Buresjön A,Sorsele,Fjällsjönäs,Sadiliden"
-312,Kloten,Kloten,Lindesbergs kommun,Örebro län,"Spannarboda D,Kloten A"
-313,Kloten A,Kloten A,Lindesbergs kommun,Örebro län,"Spannarboda D,Kloten"
-639,Klöverträsk D,Klöverträsk D,Luleå kommun,Norrbottens län,"Luleå Flygplats,Luleå Bergnäset,Rödkallen A"
-475,Klövsjöhöjden A,Klövsjöhöjden A,Bergs kommun,Jämtlands län,"Dödre,Åsarna D,Handsjön D,Ljungdalen,Börtnan A,Rätan"
-19,Knopparp D,Knopparp D,Kristianstads kommun,Skåne län,"Norra Ströö,Kristianstad,Degeberga D"
-46,Knäred D,Knäred D,Laholms kommun,Hallands län,"Baramossa,Laholm D"
-634,Koler D,Koler D,Piteå kommun,Norrbottens län,Piteå
-258,Kolmården Strömsfors A,Kolmården-Strömsfors A,Norrköpings kommun,Östergötlands län,"Vånga D,Norrköping SMHI,Skärkind D,Östra Husby D,Hult D"
-309,Kolsva D,Kolsva D,Köpings kommun,Västmanlands län,
-193,Komperöd,Komperöd,Stenungsunds kommun,Västra Götalands län,
-83,Komstorp,Komstorp,Karlskrona kommun,Blekinge län,"Fridlevstad D,Trolleboda D,Tvingelshed,Lyckeby,Utklippan A,Karlskrona Söderstjerna Mo"
-311,Kopparberg D,Kopparberg D,Ljusnarsbergs kommun,Örebro län,Ställdalen
-147,Korsberga,Korsberga,Vetlanda kommun,Jönköpings län,Nävelsjö
-517,Korsvattnet A,Korsvattnet A,Krokoms kommun,Jämtlands län,"Litsnäset,Almdalen,Tullus D,Kaxås Åflo D,Olden D,Föllinge A,Lundsjön,Långan D"
-80,Kosta Mo,Kosta Mo,Lessebo kommun,Kronobergs län,Lessebo
-498,Kramfors,Kramfors,Kramfors kommun,Västernorrlands län,"Ullånger,Nora Östanö D,Västmarkum A"
-54,Kristianstad,Kristianstad,Kristianstads kommun,Skåne län,"Norra Ströö,Knopparp D,Degeberga D"
-292,Kristinehamn,Kristinehamn,Kristinehamns kommun,Värmlands län,
-161,Krokshult D,Krokshult D,Oskarshamns kommun,Kalmar län,"Oskarshamn,Kråkemåla"
-199,Kroppefjäll Granan A,Kroppefjäll-Granan A,Vänersborgs kommun,Västra Götalands län,Vänersborg
-162,Kråkemåla,Kråkemåla,Oskarshamns kommun,Kalmar län,"Oskarshamn,Krokshult D"
-536,Krångede A,Krångede A,Ragunda kommun,Jämtlands län,"Borgvattnet D,Bispgården"
-457,Kuggören A,Kuggören A,Hudiksvalls kommun,Gävleborgs län,"Nianfors,Hudiksvall,Delsbo A"
-407,Kungsberget D,Kungsberget D,Sandvikens kommun,Gävleborgs län,"Österfärnebo,Gästrike Hammarby D"
-606,Kusmark D,Kusmark D,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Kalvträsk D,Skellefteå Flygplats,Grönliden,Jörn D,Pite Rönnskär A,Holmfors D"
-241,Kvarn Mo,Kvarn Mo,Linköpings kommun,Östergötlands län,"Linköping D,Malmslätt"
-655,Kvikkjokk Årrenjarka,Kvikkjokk-Årrenjarka,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Murjek D,Björkudden,Puottaure,Jokkmokk Flygplats Mo"
-656,Kvikkjokk Årrenjarka A,Kvikkjokk-Årrenjarka A,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka,Stora Sjöfallet A,Murjek D,Björkudden,Puottaure,Jokkmokk Flygplats Mo"
-673,Kypäsjärvi D,Kypäsjärvi D,Övertorneå kommun,Norrbottens län,"Svanstein,Ylinenjärvi A,Övertorneå"
-574,Kyrktåsjö D,Kyrktåsjö D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hillsand,Backe D,Frostviken D,Hoting A,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
-101,Källsjö,Källsjö,Falkenbergs kommun,Hallands län,"Ullared A,Eftra D"
-98,Kärna,Kärna,Kungälvs kommun,Västra Götalands län,
-710,Kätkesuando,Kätkesuando,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Jarhois,Saittarova A,Saittarova D,Tärendö D,Kangos D,Paharova A"
-121,Kävsjö D,Kävsjö D,Gnosjö kommun,Jönköpings län,
-605,Kåge,Kåge,Skellefteå kommun,Västerbottens län,"Bjuröklubb A,Skellefteå Flygplats,Bygdsiljum D,Kalvträsk D,Grönliden,Jörn D,Kusmark D,Pite Rönnskär A,Holmfors D"
-108,Kållered D,Kållered D,Mölndals kommun,Västra Götalands län,
-479,Kölsillre,Kölsillre,Ånge kommun,Västernorrlands län,"Rotnäset D,Torpshammar A,Ånge Parteboda D"
-36,Laholm D,Laholm D,Laholms kommun,Hallands län,"Baramossa,Knäred D"
-698,Lainio,Lainio,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Katterjåkk,Esrange"
-664,Lakaträsk A,Lakaträsk A,Bodens kommun,Norrbottens län,"Harads D,Brännberg D,Boden Mo"
+406,Falun Lugnet,Falun-Lugnet,Falu kommun,Dalarnas län,"Hillersboda,Tänger D,Bjursås"
+426,Films Kyrkby A,Films Kyrkby A,Östhammars kommun,Uppsala län,"Söderby Karlsäng D,Risinge,Örskär A"
+456,Finnbacka D,Finnbacka D,Rättviks kommun,Dalarnas län,Östanvik D
+250,Finspång,Finspång,Finspångs kommun,Östergötlands län,Regna D
+635,Fjällsjönäs,Fjällsjönäs,Sorsele kommun,Västerbottens län,"Buresjön A,Sorsele,Gargnäs D,Sadiliden,Klippen D"
+325,Floda A,Floda A,Katrineholms kommun,Södermanlands län,"Granhed D,Sköldinge,Björkvik D,Glindran"
+558,Forse,Forse,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Lännäs,Junsele A,Resele,Multrå D,Storfinnforsen,Sollefteå"
+109,Fotskäl D,Fotskäl D,Marks kommun,Västra Götalands län,"Horred,Sätila,Grebbeshult"
+603,Fredrika A,Fredrika A,Åsele kommun,Västerbottens län,"Ytterrissjö D,Åsele,Åsele A"
+391,Fredriksberg,Fredriksberg,Ludvika kommun,Dalarnas län,"Nyhammar,Ludvika"
+74,Fridlevstad D,Fridlevstad D,Karlskrona kommun,Blekinge län,"Trolleboda D,Tvingelshed,Lyckeby,Komstorp,Utklippan A,Karlskrona Söderstjerna Mo,Karlskrona Sol"
+584,Frostviken D,Frostviken D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
+324,Frändesta,Frändesta,Nyköpings kommun,Södermanlands län,"Aspa D,Vrena"
+536,Frösön,Frösön,Östersunds kommun,Jämtlands län,"Tandsbyn D,Östersund Sol"
+235,Fägre D,Fägre D,Töreboda kommun,Västra Götalands län,Älgarås D
+586,Fågelberget D,Fågelberget D,Strömsunds kommun,Jämtlands län,"Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
+455,Fågelsjö D,Fågelsjö D,Ljusdals kommun,Gävleborgs län,"Los D,Lillhamra D,Hennan D,Ljusdals Valsjön,Järvsö,Föne D,Hamra A"
+187,Fårö D,Fårö D,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+185,Fårösund Ar A,Fårösund Ar A,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Vänge,Visby Sol,Gotska Sandön A"
+541,Föllinge A,Föllinge A,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Almdalen,Tullus D,Kaxås Åflo D,Olden D,Lundsjön,Långan D"
+461,Föne D,Föne D,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Los D,Lillhamra D,Hennan D,Ljusdals Valsjön,Järvsö,Hamra A"
+637,Gargnäs D,Gargnäs D,Sorsele kommun,Västerbottens län,"Buresjön A,Sorsele,Fjällsjönäs,Sadiliden,Klippen D"
+203,Gendalen,Gendalen,Alingsås kommun,Västra Götalands län,"Uplo,Alingsås D"
+396,Gesunda D,Gesunda D,Mora kommun,Dalarnas län,"Mora A,Våmhus D,Ulvsjö"
+628,Gielas A,Gielas A,Vilhelmina kommun,Västerbottens län,"Kittelfjäll D,Vilhelmina A,Latikberg D,Stekenjokk A,Stalon II,Laxbäcken"
+40,Gillastig,Gillastig,Svalövs kommun,Skåne län,
+169,Gladhammar A,Gladhammar A,Västerviks kommun,Kalmar län,"Tyllinge D,Hellerö,Ankarsrum D"
+268,Glindran,Glindran,Katrineholms kommun,Södermanlands län,"Granhed D,Sköldinge,Björkvik D,Floda A"
+648,Glommersträsk,Glommersträsk,Arvidsjaurs kommun,Norrbottens län,"Vidsel Mo,Vidsel,Abraur,Arvidsjaur A"
+341,Gnesta,Gnesta,Södertälje kommun,Stockholms län,Södertälje
+252,Godegård D,Godegård D,Motala kommun,Östergötlands län,"Zinkgruvan,Kettstaka A,Motala,Tjällmo D"
+280,Gotska Sandön A,Gotska Sandön A,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Visby Sol,Fårösund Ar A,Hoburg Sol"
+327,Granhed D,Granhed D,Katrineholms kommun,Södermanlands län,"Sköldinge,Björkvik D,Floda A,Glindran"
+604,Granträsk D,Granträsk D,Lycksele kommun,Västerbottens län,"Norrby,Lycksele A,Rusksele D,Bäverträsk"
+610,Granö D,Granö D,Vindelns kommun,Västerbottens län,"Petisträsk A,Malkälen D,Vindeln Sunnansjönäs,Brännforssund"
+111,Grebbeshult,Grebbeshult,Marks kommun,Västra Götalands län,"Fotskäl D,Horred,Sätila"
+195,Grebbestad,Grebbestad,Tanums kommun,Västra Götalands län,Väderöarna A
+291,Grums,Grums,Grums kommun,Värmlands län,
+306,Grythyttan,Grythyttan,Hällefors kommun,Örebro län,Silvergruvan
+295,Gräsås D,Gräsås D,Karlstads kommun,Värmlands län,"Väse D,Karlstad Sol,Karlstad Flygplats"
+620,Grönliden,Grönliden,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Kalvträsk D,Skellefteå Flygplats,Jörn D,Kusmark D,Pite Rönnskär A,Holmfors D"
+590,Gubbhögen A,Gubbhögen A,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Håkafot D"
+239,Gullspång,Gullspång,Gullspångs kommun,Västra Götalands län,
+602,Gunnarn A,Gunnarn A,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan D,Hemavan Giertevarto A,Hemavan Flygplats,Bastansjö D,Blaiken D,Nordanås"
+385,Gustavsfors,Gustavsfors,Hagfors kommun,Värmlands län,Gustavsfors A
+386,Gustavsfors A,Gustavsfors A,Hagfors kommun,Värmlands län,Gustavsfors
+261,Gustorp D,Gustorp D,Söderköpings kommun,Östergötlands län,"Börrum D,Söderköping D,Harstena A"
+587,Gäddede A,Gäddede A,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
+704,Gällivare A,Gällivare A,Gällivare kommun,Norrbottens län,"Ritsem A,Latnivaara A,Malmberget,Sadjem D,Nikkaluokta A,Nattavaara A,Skröven D"
+419,Gästrike Hammarby D,Gästrike-Hammarby D,Sandvikens kommun,Gävleborgs län,"Österfärnebo,Kungsberget D"
+430,Gävle A,Gävle A,Gävle kommun,Gävleborgs län,"Eggegrund A,Hedesunda,Gävle Åbyggeby,Norrsundet"
+431,Gävle Åbyggeby,Gävle-Åbyggeby,Gävle kommun,Gävleborgs län,"Hedesunda,Eggegrund A,Gävle A,Norrsundet"
+510,Gåltjärn,Gåltjärn,Härnösands kommun,Västernorrlands län,"Lungö A,Härnösand"
+238,Gårdsjö A,Gårdsjö A,Laxå kommun,Örebro län,
+440,Gördalen D,Gördalen D,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Särna D,Idre D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Trängslet"
+102,Göteborg A,Göteborg A,Göteborgs kommun,Västra Götalands län,"Göteborg Sol,Vinga A,Askim D"
+101,Göteborg Sol,Göteborg Sol,Göteborgs kommun,Västra Götalands län,"Vinga A,Göteborg A,Askim D"
+352,Hacksta,Hacksta,Enköpings kommun,Uppsala län,"Skjörby,Enköping Mo,Enköping"
+139,Hagshult Mo,Hagshult Mo,Värnamo kommun,Jönköpings län,"Räfsebo D,Åminne D"
+35,Hallands Väderö A,Hallands Väderö A,Båstads kommun,Skåne län,Hov
+548,Hallhåxåsen A,Hallhåxåsen A,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
+337,Hallstaberg,Hallstaberg,Västerås kommun,Västmanlands län,"Västerås,Skultuna"
+38,Halmstad,Halmstad,Halmstads kommun,Hallands län,Marbäck D
+547,Hammerdal D,Hammerdal D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hoting A,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
+454,Hamra A,Hamra A,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Los D,Lillhamra D,Hennan D,Ljusdals Valsjön,Järvsö,Föne D"
+487,Handsjön D,Handsjön D,Bergs kommun,Jämtlands län,"Dödre,Åsarna D,Ljungdalen,Börtnan A,Klövsjöhöjden A,Rätan"
+54,Hanö A,Hanö A,Sölvesborgs kommun,Blekinge län,
+667,Haparanda A,Haparanda A,Haparanda kommun,Norrbottens län,"Karungi,Haparanda D"
+666,Haparanda D,Haparanda D,Haparanda kommun,Norrbottens län,"Karungi,Haparanda A"
+677,Harads D,Harads D,Bodens kommun,Norrbottens län,"Brännberg D,Boden Mo,Lakaträsk A"
+271,Harstena A,Harstena A,Söderköpings kommun,Östergötlands län,"Börrum D,Gustorp D,Söderköping D"
+569,Hattsjöbäcken D,Hattsjöbäcken D,Örnsköldsviks kommun,Västernorrlands län,"Myckelgensjö,Örnsköldsvik,Södersel D,Bredbyn D,Hemling A,Örnsköldsviks Flygplats,Skagsudde A,Aspeå"
+193,Heden,Heden,Munkedals kommun,Västra Götalands län,
+427,Hedesunda,Hedesunda,Gävle kommun,Gävleborgs län,"Eggegrund A,Gävle A,Gävle Åbyggeby,Norrsundet"
+481,Hedeviken,Hedeviken,Härjedalens kommun,Jämtlands län,"Ytterberg D,Myskelåsen D,Dravagen A,Malmagen,Sveg A,Ljusnedal,Tännäs A,Medskogen,Ytterhogdal"
+183,Hejnum,Hejnum,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+170,Hellerö,Hellerö,Västerviks kommun,Kalmar län,"Gladhammar A,Tyllinge D,Ankarsrum D"
+27,Helsingborg 2,Helsingborg 2,Helsingborgs kommun,Skåne län,"Tånga,Helsingborg A"
+28,Helsingborg A,Helsingborg A,Helsingborgs kommun,Skåne län,"Tånga,Helsingborg 2"
+629,Hemavan D,Hemavan D,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan Giertevarto A,Bastansjö D,Hemavan Flygplats,Gunnarn A,Blaiken D,Nordanås"
+631,Hemavan Flygplats,Hemavan Flygplats,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan D,Hemavan Giertevarto A,Bastansjö D,Gunnarn A,Blaiken D,Nordanås"
+630,Hemavan Giertevarto A,Hemavan-Giertevarto A,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan D,Bastansjö D,Hemavan Flygplats,Gunnarn A,Blaiken D,Nordanås"
+570,Hemling A,Hemling A,Örnsköldsviks kommun,Västernorrlands län,"Myckelgensjö,Örnsköldsvik,Södersel D,Bredbyn D,Hattsjöbäcken D,Örnsköldsviks Flygplats,Skagsudde A,Aspeå"
+175,Hemse,Hemse,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Ljugarn D,Sanda,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hoburg Sol,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+491,Hennan D,Hennan D,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Los D,Lillhamra D,Ljusdals Valsjön,Järvsö,Föne D,Hamra A"
+190,Henån,Henån,Orusts kommun,Västra Götalands län,Måseskär A
+211,Herrljunga D,Herrljunga D,Herrljunga kommun,Västra Götalands län,
+129,Hestra D,Hestra D,Gislaveds kommun,Jönköpings län,"Reftele D,Skeppshult D"
+128,Hid D,Hid D,Svenljunga kommun,Västra Götalands län,
+407,Hillersboda,Hillersboda,Falu kommun,Dalarnas län,"Tänger D,Falun Lugnet,Bjursås"
+589,Hillsand,Hillsand,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
+84,Hinshult,Hinshult,Nybro kommun,Kalmar län,"Orrefors D,Nybro Slättingebygd D"
+229,Hjo,Hjo,Hjo kommun,Västra Götalands län,
+256,Hjortkvarn D,Hjortkvarn D,Hallsbergs kommun,Örebro län,
+97,Hoburg A,Hoburg A,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Ljugarn D,Sanda,Fårö D,Visby D,Austers D,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+96,Hoburg D,Hoburg D,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Ljugarn D,Sanda,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg Sol,Hemse,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+95,Hoburg Sol,Hoburg Sol,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+418,Hofors,Hofors,Hofors kommun,Gävleborgs län,Torsåker D
+259,Holmbo D,Holmbo D,Åtvidabergs kommun,Östergötlands län,
+621,Holmfors D,Holmfors D,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Kalvträsk D,Skellefteå Flygplats,Grönliden,Jörn D,Kusmark D,Pite Rönnskär A"
+578,Holmön A,Holmön A,Umeå kommun,Västerbottens län,"Tavelsjö D,Umeå Flygplats,Röbäcksdalen,Umeå Sol,Holmön D"
+579,Holmön D,Holmön D,Umeå kommun,Västerbottens län,"Röbäcksdalen,Tavelsjö D,Umeå Flygplats,Holmön A,Umeå Sol"
+160,Horn A,Horn A,Kinda kommun,Östergötlands län,Kisa D
+112,Horred,Horred,Marks kommun,Västra Götalands län,"Fotskäl D,Sätila,Grebbeshult"
+595,Hoting A,Hoting A,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
+36,Hov,Hov,Båstads kommun,Skåne län,Hallands Väderö A
+471,Hudiksvall,Hudiksvall,Hudiksvalls kommun,Gävleborgs län,"Kuggören A,Nianfors,Delsbo A"
+265,Hult D,Hult D,Norrköpings kommun,Östergötlands län,"Norrköping SMHI,Norrköping Sol,Östra Husby D,Kolmården Strömsfors A,Skärkind D,Vånga D"
+495,Hunge A,Hunge A,Bräcke kommun,Jämtlands län,"Öraåtjärnarna D,Rissna D,Mälgåsen D,Västerövsjö D"
+147,Huskvarna,Huskvarna,Jönköpings kommun,Jönköpings län,"Ramsjöholm,Jönköpings Flygplats,Visingsö A,Högemålen D"
+63,Hyltan,Hyltan,Älmhults kommun,Kronobergs län,Pjätteryd
+332,Hyndevad,Hyndevad,Eskilstuna kommun,Södermanlands län,"Lida D,Eskilstuna,Eskilstuna A,Näshulta,Västermo"
+479,Häggberget D,Häggberget D,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Särna D,Idre D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Trängslet,Gördalen D"
+114,Häggårda,Häggårda,Borås kommun,Västra Götalands län,"Rångedala A,Borås"
+328,Hälleforsnäs D,Hälleforsnäs D,Flens kommun,Södermanlands län,
+215,Hällum A,Hällum A,Vara kommun,Västra Götalands län,Vedum
+462,Härnebo,Härnebo,Söderhamns kommun,Gävleborgs län,Söderala D
+508,Härnösand,Härnösand,Härnösands kommun,Västernorrlands län,"Lungö A,Gåltjärn"
+122,Härryda,Härryda,Härryda kommun,Västra Götalands län,Landvetter Flygplats
+242,Härsnäs,Härsnäs,Mjölby kommun,Östergötlands län,Sya
+157,Hässleby D,Hässleby D,Eksjö kommun,Jönköpings län,"Prästkulla,Värne"
+42,Hästveda Mo,Hästveda Mo,Hässleholms kommun,Skåne län,Bjärnum D
+585,Håkafot D,Håkafot D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Strömsund Edet D,Rossön,Gubbhögen A,Leipikvattnet"
+199,Håvelund,Håvelund,Strömstads kommun,Västra Götalands län,"Nordkoster Sol,Nordkoster A"
+296,Högboda,Högboda,Kils kommun,Värmlands län,
+226,Högemålen D,Högemålen D,Jönköpings kommun,Jönköpings län,"Huskvarna,Ramsjöholm,Jönköpings Flygplats,Visingsö A"
+592,Högland D,Högland D,Dorotea kommun,Västerbottens län,Avasjö Borgafjäll D
+509,Höglandsbodarna D,Höglandsbodarna D,Timrå kommun,Västernorrlands län,"Sundsvalls Flygplats,Stordalen Midlanda D"
+525,Höglekardalen,Höglekardalen,Åre kommun,Jämtlands län,"Mörsil,Storlien Storvallen A,Storlien Storvallen,Vallbo,Storlien Visjövalen Sol,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
+384,Höljes,Höljes,Torsby kommun,Värmlands län,"Tåsan,Stöllet D,Östmark Åsarna,Letafors D,Kindsjön D"
+18,Hörby A,Hörby A,Hörby kommun,Skåne län,
+441,Idre D,Idre D,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Särna D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Trängslet,Gördalen D"
+442,Idre Fjäll A,Idre Fjäll A,Älvdalens kommun,Dalarnas län,"Nornäs D,Häggberget D,Särna D,Idre D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Trängslet,Gördalen D"
+695,Jarhois,Jarhois,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Kangos D,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Paharova A"
+676,Jokkmokk,Jokkmokk,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Murjek D,Björkudden,Puottaure,Jokkmokk Flygplats Mo"
+680,Jokkmokk Flygplats Mo,Jokkmokk Flygplats Mo,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Murjek D,Björkudden,Puottaure"
+583,Jormlien,Jormlien,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
+707,Jukkasjärvi D,Jukkasjärvi D,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Esrange,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Kiruna Flygplats,Naimakka A,Lainio,Katterjåkk A"
+555,Junsele A,Junsele A,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Lännäs,Forse,Multrå D,Storfinnforsen,Resele,Sollefteå"
+669,Jäckvik,Jäckvik,Arjeplogs kommun,Norrbottens län,"Arjeplog Myrheden D,Vaxborg,Arjeplog A,Svartberget D,Mierkenis A"
+573,Järnäsklubb A,Järnäsklubb A,Nordmalings kommun,Västerbottens län,"Torrböle D,Nordanbäck D"
+528,Järpströmmen,Järpströmmen,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Storlien Storvallen,Vallbo,Storlien Visjövalen Sol,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Medstugan,Edevik,Marby D,Blåhammaren A"
+468,Järvsö,Järvsö,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Los D,Lillhamra D,Hennan D,Ljusdals Valsjön,Hamra A,Föne D"
+146,Jönköpings Flygplats,Jönköpings Flygplats,Jönköpings kommun,Jönköpings län,"Huskvarna,Ramsjöholm,Visingsö A,Högemålen D"
+650,Jörn D,Jörn D,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Kalvträsk D,Skellefteå Flygplats,Grönliden,Kusmark D,Pite Rönnskär A,Holmfors D"
+665,Kalix D,Kalix D,Kalix kommun,Norrbottens län,Storön A
+92,Kalmar D,Kalmar D,Kalmar kommun,Kalmar län,Kalmar Flygplats
+91,Kalmar Flygplats,Kalmar Flygplats,Kalmar kommun,Kalmar län,Kalmar D
+614,Kalvträsk D,Kalvträsk D,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Skellefteå Flygplats,Grönliden,Jörn D,Kusmark D,Pite Rönnskär A,Holmfors D"
+715,Kangos D,Kangos D,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Jarhois,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Paharova A"
+729,Karesuando A,Karesuando A,Kiruna kommun,Norrbottens län,"Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
+233,Karlsborg Mo,Karlsborg Mo,Karlsborgs kommun,Västra Götalands län,Axstål Mo
+58,Karlshamn,Karlshamn,Karlshamns kommun,Blekinge län,
+304,Karlskoga,Karlskoga,Karlskoga kommun,Örebro län,
+69,Karlskrona Sol,Karlskrona Sol,Karlskrona kommun,Blekinge län,"Fridlevstad D,Trolleboda D,Tvingelshed,Lyckeby,Komstorp,Utklippan A,Karlskrona Söderstjerna Mo"
+70,Karlskrona Söderstjerna Mo,Karlskrona-Söderstjerna Mo,Karlskrona kommun,Blekinge län,"Fridlevstad D,Trolleboda D,Tvingelshed,Lyckeby,Komstorp,Utklippan A,Karlskrona Sol"
+293,Karlstad Flygplats,Karlstad Flygplats,Karlstads kommun,Värmlands län,"Gräsås D,Väse D,Karlstad Sol"
+294,Karlstad Sol,Karlstad Sol,Karlstads kommun,Värmlands län,"Gräsås D,Väse D,Karlstad Flygplats"
+690,Karungi,Karungi,Haparanda kommun,Norrbottens län,"Haparanda D,Haparanda A"
+89,Kastlösa,Kastlösa,Mörbylånga kommun,Kalmar län,"Segerstad,Ölands Södra Udde A,Norra Möckleby D"
+722,Katterjåkk,Katterjåkk,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
+723,Katterjåkk A,Katterjåkk A,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Kiruna Flygplats,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio,Esrange"
+529,Kaxås Åflo D,Kaxås-Åflo D,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Almdalen,Tullus D,Olden D,Föllinge A,Lundsjön,Långan D"
+414,Kerstinbo A,Kerstinbo A,Heby kommun,Uppsala län,"Vittinge,Tärnsjö D,Östervåla D"
+716,Keräntöjärvi,Keräntöjärvi,Pajala kommun,Norrbottens län,"Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Jarhois,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Kangos D,Paharova A"
+253,Kettstaka A,Kettstaka A,Motala kommun,Östergötlands län,"Godegård D,Zinkgruvan,Motala,Tjällmo D"
+463,Kilafors D,Kilafors D,Bollnäs kommun,Gävleborgs län,"Simeå,Bollnäs D"
+217,Kilagården,Kilagården,Skara kommun,Västra Götalands län,"Remningstorp,Skara"
+303,Kilsbergen Suttarboda A,Kilsbergen-Suttarboda A,Örebro kommun,Örebro län,"Örebro A,Örebro D,Asker D,Ön"
+130,Kindsboda,Kindsboda,Tranemo kommun,Västra Götalands län,Sjötofta D
+381,Kindsjön D,Kindsjön D,Torsby kommun,Värmlands län,"Tåsan,Höljes,Stöllet D,Östmark Åsarna,Letafors D"
+706,Kiruna Flygplats,Kiruna Flygplats,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Esrange,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio,Katterjåkk A"
+702,Kiruna Sol,Kiruna Sol,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
+162,Kisa D,Kisa D,Kinda kommun,Östergötlands län,Horn A
+627,Kittelfjäll D,Kittelfjäll D,Vilhelmina kommun,Västerbottens län,"Vilhelmina A,Latikberg D,Stekenjokk A,Stalon II,Gielas A,Laxbäcken"
+41,Klippan,Klippan,Klippans kommun,Skåne län,
+640,Klippen D,Klippen D,Sorsele kommun,Västerbottens län,"Gargnäs D,Buresjön A,Sorsele,Fjällsjönäs,Sadiliden"
+322,Kloten,Kloten,Lindesbergs kommun,Örebro län,"Spannarboda D,Kloten A"
+323,Kloten A,Kloten A,Lindesbergs kommun,Örebro län,"Spannarboda D,Kloten"
+656,Klöverträsk D,Klöverträsk D,Luleå kommun,Norrbottens län,"Luleå Flygplats,Luleå Sol,Luleå Bergnäset,Rödkallen A"
+488,Klövsjöhöjden A,Klövsjöhöjden A,Bergs kommun,Jämtlands län,"Dödre,Åsarna D,Handsjön D,Ljungdalen,Börtnan A,Rätan"
+20,Knopparp D,Knopparp D,Kristianstads kommun,Skåne län,"Norra Ströö,Kristianstad,Degeberga D"
+47,Knäred D,Knäred D,Laholms kommun,Hallands län,"Baramossa,Laholm D"
+651,Koler D,Koler D,Piteå kommun,Norrbottens län,Piteå
+266,Kolmården Strömsfors A,Kolmården-Strömsfors A,Norrköpings kommun,Östergötlands län,"Norrköping SMHI,Norrköping Sol,Östra Husby D,Skärkind D,Vånga D,Hult D"
+319,Kolsva D,Kolsva D,Köpings kommun,Västmanlands län,
+201,Komperöd,Komperöd,Stenungsunds kommun,Västra Götalands län,
+86,Komstorp,Komstorp,Karlskrona kommun,Blekinge län,"Fridlevstad D,Trolleboda D,Tvingelshed,Lyckeby,Utklippan A,Karlskrona Söderstjerna Mo,Karlskrona Sol"
+321,Kopparberg D,Kopparberg D,Ljusnarsbergs kommun,Örebro län,Ställdalen
+152,Korsberga,Korsberga,Vetlanda kommun,Jönköpings län,Nävelsjö
+532,Korsvattnet A,Korsvattnet A,Krokoms kommun,Jämtlands län,"Litsnäset,Almdalen,Tullus D,Kaxås Åflo D,Olden D,Föllinge A,Lundsjön,Långan D"
+83,Kosta Mo,Kosta Mo,Lessebo kommun,Kronobergs län,Lessebo
+511,Kramfors,Kramfors,Kramfors kommun,Västernorrlands län,"Ullånger,Nora Östanö D,Västmarkum A"
+55,Kristianstad,Kristianstad,Kristianstads kommun,Skåne län,"Norra Ströö,Knopparp D,Degeberga D"
+302,Kristinehamn,Kristinehamn,Kristinehamns kommun,Värmlands län,
+166,Krokshult D,Krokshult D,Oskarshamns kommun,Kalmar län,"Oskarshamn,Kråkemåla"
+207,Kroppefjäll Granan A,Kroppefjäll-Granan A,Vänersborgs kommun,Västra Götalands län,Vänersborg
+167,Kråkemåla,Kråkemåla,Oskarshamns kommun,Kalmar län,"Oskarshamn,Krokshult D"
+552,Krångede A,Krångede A,Ragunda kommun,Jämtlands län,"Borgvattnet D,Bispgården"
+470,Kuggören A,Kuggören A,Hudiksvalls kommun,Gävleborgs län,"Nianfors,Hudiksvall,Delsbo A"
+420,Kungsberget D,Kungsberget D,Sandvikens kommun,Gävleborgs län,"Österfärnebo,Gästrike Hammarby D"
+623,Kusmark D,Kusmark D,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Kalvträsk D,Skellefteå Flygplats,Grönliden,Jörn D,Pite Rönnskär A,Holmfors D"
+249,Kvarn Mo,Kvarn Mo,Linköpings kommun,Östergötlands län,"Linköping D,Malmslätt"
+673,Kvikkjokk Årrenjarka,Kvikkjokk-Årrenjarka,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Murjek D,Björkudden,Puottaure,Jokkmokk Flygplats Mo"
+674,Kvikkjokk Årrenjarka A,Kvikkjokk-Årrenjarka A,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka,Stora Sjöfallet A,Murjek D,Björkudden,Puottaure,Jokkmokk Flygplats Mo"
+691,Kypäsjärvi D,Kypäsjärvi D,Övertorneå kommun,Norrbottens län,"Svanstein,Ylinenjärvi A,Övertorneå"
+591,Kyrktåsjö D,Kyrktåsjö D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hillsand,Backe D,Frostviken D,Hoting A,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
+106,Källsjö,Källsjö,Falkenbergs kommun,Hallands län,"Ullared A,Eftra D"
+103,Kärna,Kärna,Kungälvs kommun,Västra Götalands län,
+730,Kätkesuando,Kätkesuando,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Jarhois,Saittarova A,Saittarova D,Tärendö D,Kangos D,Paharova A"
+126,Kävsjö D,Kävsjö D,Gnosjö kommun,Jönköpings län,
+622,Kåge,Kåge,Skellefteå kommun,Västerbottens län,"Bjuröklubb A,Skellefteå Flygplats,Bygdsiljum D,Kalvträsk D,Grönliden,Jörn D,Kusmark D,Pite Rönnskär A,Holmfors D"
+113,Kållered D,Kållered D,Mölndals kommun,Västra Götalands län,
+492,Kölsillre,Kölsillre,Ånge kommun,Västernorrlands län,"Rotnäset D,Torpshammar A,Ånge Parteboda D"
+37,Laholm D,Laholm D,Laholms kommun,Hallands län,"Baramossa,Knäred D"
+718,Lainio,Lainio,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Katterjåkk,Esrange"
+682,Lakaträsk A,Lakaträsk A,Bodens kommun,Norrbottens län,"Harads D,Brännberg D,Boden Mo"
 3,Landskrona D,Landskrona D,Landskrona kommun,Skåne län,Ven
-265,Landsort,Landsort,Nynäshamns kommun,Stockholms län,"Landsort A,Nynäshamn,Sjögärde"
-264,Landsort A,Landsort A,Nynäshamns kommun,Stockholms län,"Landsort,Nynäshamn,Sjögärde"
-111,Landvetter Flygplats,Landvetter Flygplats,Härryda kommun,Västra Götalands län,Härryda
-208,Lanna,Lanna,Lidköpings kommun,Västra Götalands län,"Naven A,Såtenäs,Traneberg,Lidköping"
-708,Lannavaara D,Lannavaara D,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio,Esrange"
-584,Latikberg D,Latikberg D,Vilhelmina kommun,Västerbottens län,"Kittelfjäll D,Vilhelmina A,Stekenjokk A,Stalon II,Gielas A,Laxbäcken"
-685,Latnivaara A,Latnivaara A,Gällivare kommun,Norrbottens län,"Ritsem A,Gällivare A,Malmberget,Sadjem D,Nikkaluokta A,Nattavaara A,Skröven D"
-580,Laxbäcken,Laxbäcken,Vilhelmina kommun,Västerbottens län,"Kittelfjäll D,Vilhelmina A,Latikberg D,Stekenjokk A,Stalon II,Gielas A"
-571,Leipikvattnet,Leipikvattnet,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
-395,Leksand,Leksand,Leksands kommun,Dalarnas län,
-300,Lesjöfors D,Lesjöfors D,Filipstads kommun,Värmlands län,"Persberg,Daglösen A"
-78,Lessebo,Lessebo,Lessebo kommun,Kronobergs län,Kosta Mo
-370,Letafors D,Letafors D,Torsby kommun,Värmlands län,"Tåsan,Höljes,Stöllet D,Östmark Åsarna,Kindsjön D"
-325,Lida D,Lida D,Eskilstuna kommun,Södermanlands län,"Hyndevad,Eskilstuna,Eskilstuna A,Näshulta,Västermo"
-52,Lidhult D,Lidhult D,Ljungby kommun,Kronobergs län,"Ljungby A,Bakarebo D,Ljungby D,Åby"
-213,Lidköping,Lidköping,Lidköpings kommun,Västra Götalands län,"Naven A,Såtenäs,Lanna,Traneberg"
-440,Lillhamra D,Lillhamra D,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Los D,Hennan D,Ljusdals Valsjön,Järvsö,Föne D,Hamra A"
-103,Linhult D,Linhult D,Varbergs kommun,Hallands län,"Veddige D,Varberg"
-237,Linköping D,Linköping D,Linköpings kommun,Östergötlands län,"Kvarn Mo,Malmslätt"
-522,Litsnäset,Litsnäset,Krokoms kommun,Jämtlands län,"Korsvattnet A,Almdalen,Olden D,Kaxås Åflo D,Tullus D,Föllinge A,Lundsjön,Långan D"
-170,Ljugarn D,Ljugarn D,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Fårösund Ar A,Gotska Sandön A"
-49,Ljungby A,Ljungby A,Ljungby kommun,Kronobergs län,"Lidhult D,Bakarebo D,Ljungby D,Åby"
-48,Ljungby D,Ljungby D,Ljungby kommun,Kronobergs län,"Lidhult D,Ljungby A,Bakarebo D,Åby"
-465,Ljungdalen,Ljungdalen,Bergs kommun,Jämtlands län,"Dödre,Handsjön D,Åsarna D,Börtnan A,Klövsjöhöjden A,Rätan"
-485,Ljusdals Valsjön,Ljusdals-Valsjön,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Los D,Lillhamra D,Hennan D,Järvsö,Föne D,Hamra A"
-463,Ljusnedal,Ljusnedal,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Dravagen A,Malmagen,Sveg A,Tännäs A,Medskogen,Ytterhogdal"
-446,Lobonäs D,Lobonäs D,Ovanåkers kommun,Gävleborgs län,Edsbyn A
-447,Los D,Los D,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Lillhamra D,Hennan D,Ljusdals Valsjön,Järvsö,Föne D,Hamra A"
-31,Louisefred,Louisefred,Höganäs kommun,Skåne län,Nyhamnsläge
-388,Ludvika,Ludvika,Ludvika kommun,Dalarnas län,"Fredriksberg,Nyhammar"
-645,Luleå Bergnäset,Luleå-Bergnäset,Luleå kommun,Norrbottens län,"Luleå Flygplats,Klöverträsk D,Rödkallen A"
-644,Luleå Flygplats,Luleå Flygplats,Luleå kommun,Norrbottens län,"Luleå Bergnäset,Klöverträsk D,Rödkallen A"
-15,Lund,Lund,Lunds kommun,Skåne län,"Vomb,Björnstorp"
-525,Lundsjön,Lundsjön,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Almdalen,Tullus D,Kaxås Åflo D,Olden D,Föllinge A,Långan D"
-500,Lungö A,Lungö A,Härnösands kommun,Västernorrlands län,"Härnösand,Gåltjärn"
-68,Lyckeby,Lyckeby,Karlskrona kommun,Blekinge län,"Fridlevstad D,Trolleboda D,Tvingelshed,Komstorp,Utklippan A,Karlskrona Söderstjerna Mo"
-588,Lycksele A,Lycksele A,Lycksele kommun,Västerbottens län,"Norrby,Granträsk D,Rusksele D,Bäverträsk"
-184,Lysekil D,Lysekil D,Lysekils kommun,Västra Götalands län,
-545,Lännäs,Lännäs,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Junsele A,Forse,Multrå D,Storfinnforsen,Resele,Sollefteå"
-524,Långan D,Långan D,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Almdalen,Tullus D,Kaxås Åflo D,Olden D,Föllinge A,Lundsjön"
-403,Långshyttan D,Långshyttan D,Hedemora kommun,Dalarnas län,
-630,Långträsk D,Långträsk D,Malå kommun,Västerbottens län,"Malå Brännan A,Malå,Adak D"
-425,Löten D,Löten D,Malung-Sälens kommun,Dalarnas län,"Andersviksberg,Öje D,Malung A"
-159,Löttorp D,Löttorp D,Borgholms kommun,Kalmar län,"Bjärby D,Skedemosse D,Ölands Norra Udde A,Ölands Norra Udde"
-534,Lövberga D,Lövberga D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Håkafot D,Hammerdal D,Gäddede A,Jormlien,Strömsund Edet D,Rossön,Gubbhögen A,Leipikvattnet"
+274,Landsort,Landsort,Nynäshamns kommun,Stockholms län,"Landsort A,Nynäshamn,Sjögärde"
+273,Landsort A,Landsort A,Nynäshamns kommun,Stockholms län,"Landsort,Nynäshamn,Sjögärde"
+116,Landvetter Flygplats,Landvetter Flygplats,Härryda kommun,Västra Götalands län,Härryda
+216,Lanna,Lanna,Lidköpings kommun,Västra Götalands län,"Naven A,Såtenäs,Traneberg,Lidköping"
+728,Lannavaara D,Lannavaara D,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio,Esrange"
+601,Latikberg D,Latikberg D,Vilhelmina kommun,Västerbottens län,"Kittelfjäll D,Vilhelmina A,Stekenjokk A,Stalon II,Gielas A,Laxbäcken"
+705,Latnivaara A,Latnivaara A,Gällivare kommun,Norrbottens län,"Ritsem A,Gällivare A,Malmberget,Sadjem D,Nikkaluokta A,Nattavaara A,Skröven D"
+597,Laxbäcken,Laxbäcken,Vilhelmina kommun,Västerbottens län,"Kittelfjäll D,Vilhelmina A,Latikberg D,Stekenjokk A,Stalon II,Gielas A"
+588,Leipikvattnet,Leipikvattnet,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Strömsund Edet D,Rossön,Gubbhögen A,Håkafot D"
+408,Leksand,Leksand,Leksands kommun,Dalarnas län,
+310,Lesjöfors D,Lesjöfors D,Filipstads kommun,Värmlands län,"Persberg,Daglösen A"
+81,Lessebo,Lessebo,Lessebo kommun,Kronobergs län,Kosta Mo
+382,Letafors D,Letafors D,Torsby kommun,Värmlands län,"Tåsan,Höljes,Stöllet D,Östmark Åsarna,Kindsjön D"
+335,Lida D,Lida D,Eskilstuna kommun,Södermanlands län,"Hyndevad,Eskilstuna,Eskilstuna A,Näshulta,Västermo"
+53,Lidhult D,Lidhult D,Ljungby kommun,Kronobergs län,"Ljungby A,Bakarebo D,Ljungby D,Åby"
+221,Lidköping,Lidköping,Lidköpings kommun,Västra Götalands län,"Naven A,Såtenäs,Lanna,Traneberg"
+453,Lillhamra D,Lillhamra D,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Los D,Hennan D,Ljusdals Valsjön,Järvsö,Föne D,Hamra A"
+108,Linhult D,Linhult D,Varbergs kommun,Hallands län,"Veddige D,Varberg"
+245,Linköping D,Linköping D,Linköpings kommun,Östergötlands län,"Kvarn Mo,Malmslätt"
+537,Litsnäset,Litsnäset,Krokoms kommun,Jämtlands län,"Korsvattnet A,Almdalen,Olden D,Kaxås Åflo D,Tullus D,Föllinge A,Lundsjön,Långan D"
+176,Ljugarn D,Ljugarn D,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+50,Ljungby A,Ljungby A,Ljungby kommun,Kronobergs län,"Lidhult D,Bakarebo D,Ljungby D,Åby"
+49,Ljungby D,Ljungby D,Ljungby kommun,Kronobergs län,"Lidhult D,Ljungby A,Bakarebo D,Åby"
+478,Ljungdalen,Ljungdalen,Bergs kommun,Jämtlands län,"Dödre,Handsjön D,Åsarna D,Börtnan A,Klövsjöhöjden A,Rätan"
+498,Ljusdals Valsjön,Ljusdals-Valsjön,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Los D,Lillhamra D,Hennan D,Järvsö,Föne D,Hamra A"
+476,Ljusnedal,Ljusnedal,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Dravagen A,Malmagen,Sveg A,Tännäs A,Medskogen,Ytterhogdal"
+459,Lobonäs D,Lobonäs D,Ovanåkers kommun,Gävleborgs län,Edsbyn A
+460,Los D,Los D,Ljusdals kommun,Gävleborgs län,"Fågelsjö D,Lillhamra D,Hennan D,Ljusdals Valsjön,Järvsö,Föne D,Hamra A"
+32,Louisefred,Louisefred,Höganäs kommun,Skåne län,Nyhamnsläge
+400,Ludvika,Ludvika,Ludvika kommun,Dalarnas län,"Fredriksberg,Nyhammar"
+663,Luleå Bergnäset,Luleå-Bergnäset,Luleå kommun,Norrbottens län,"Luleå Flygplats,Luleå Sol,Klöverträsk D,Rödkallen A"
+662,Luleå Flygplats,Luleå Flygplats,Luleå kommun,Norrbottens län,"Luleå Bergnäset,Luleå Sol,Klöverträsk D,Rödkallen A"
+660,Luleå Sol,Luleå Sol,Luleå kommun,Norrbottens län,"Luleå Bergnäset,Luleå Flygplats,Klöverträsk D,Rödkallen A"
+15,Lund,Lund,Lunds kommun,Skåne län,"Vomb,Lund Sol,Björnstorp"
+16,Lund Sol,Lund Sol,Lunds kommun,Skåne län,"Vomb,Björnstorp,Lund"
+540,Lundsjön,Lundsjön,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Almdalen,Tullus D,Kaxås Åflo D,Olden D,Föllinge A,Långan D"
+513,Lungö A,Lungö A,Härnösands kommun,Västernorrlands län,"Härnösand,Gåltjärn"
+71,Lyckeby,Lyckeby,Karlskrona kommun,Blekinge län,"Fridlevstad D,Trolleboda D,Tvingelshed,Komstorp,Utklippan A,Karlskrona Söderstjerna Mo,Karlskrona Sol"
+605,Lycksele A,Lycksele A,Lycksele kommun,Västerbottens län,"Norrby,Granträsk D,Rusksele D,Bäverträsk"
+191,Lysekil D,Lysekil D,Lysekils kommun,Västra Götalands län,
+561,Lännäs,Lännäs,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Junsele A,Forse,Multrå D,Storfinnforsen,Resele,Sollefteå"
+539,Långan D,Långan D,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Almdalen,Tullus D,Kaxås Åflo D,Olden D,Föllinge A,Lundsjön"
+416,Långshyttan D,Långshyttan D,Hedemora kommun,Dalarnas län,
+647,Långträsk D,Långträsk D,Malå kommun,Västerbottens län,"Malå Brännan A,Malå,Adak D"
+438,Löten D,Löten D,Malung-Sälens kommun,Dalarnas län,"Andersviksberg,Öje D,Malung A"
+164,Löttorp D,Löttorp D,Borgholms kommun,Kalmar län,"Bjärby D,Ölands Norra Udde Sol,Skedemosse D,Ölands Norra Udde A,Ölands Norra Udde"
+550,Lövberga D,Lövberga D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Håkafot D,Hammerdal D,Gäddede A,Jormlien,Strömsund Edet D,Rossön,Gubbhögen A,Leipikvattnet"
 13,Lövestad,Lövestad,Sjöbo kommun,Skåne län,Sjöbo D
-415,Lövsta,Lövsta,Tierps kommun,Uppsala län,
-232,Malexander A,Malexander A,Boxholms kommun,Östergötlands län,Boxholm D
-594,Malkälen D,Malkälen D,Vindelns kommun,Västerbottens län,"Petisträsk A,Granö D,Vindeln Sunnansjönäs,Brännforssund"
-464,Malmagen,Malmagen,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Dravagen A,Sveg A,Ljusnedal,Tännäs A,Medskogen,Ytterhogdal"
-683,Malmberget,Malmberget,Gällivare kommun,Norrbottens län,"Ritsem A,Gällivare A,Latnivaara A,Sadjem D,Nikkaluokta A,Nattavaara A,Skröven D"
-139,Malmbäck D,Malmbäck D,Nässjö kommun,Jönköpings län,Tomtabacken A
-236,Malmslätt,Malmslätt,Linköpings kommun,Östergötlands län,"Linköping D,Kvarn Mo"
+428,Lövsta,Lövsta,Tierps kommun,Uppsala län,
+240,Malexander A,Malexander A,Boxholms kommun,Östergötlands län,Boxholm D
+611,Malkälen D,Malkälen D,Vindelns kommun,Västerbottens län,"Petisträsk A,Granö D,Vindeln Sunnansjönäs,Brännforssund"
+477,Malmagen,Malmagen,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Dravagen A,Sveg A,Ljusnedal,Tännäs A,Medskogen,Ytterhogdal"
+703,Malmberget,Malmberget,Gällivare kommun,Norrbottens län,"Ritsem A,Gällivare A,Latnivaara A,Sadjem D,Nikkaluokta A,Nattavaara A,Skröven D"
+144,Malmbäck D,Malmbäck D,Nässjö kommun,Jönköpings län,Tomtabacken A
+244,Malmslätt,Malmslätt,Linköpings kommun,Östergötlands län,"Linköping D,Kvarn Mo"
 11,Malmö,Malmö,Malmö kommun,Skåne län,Malmö A
 2,Malmö A,Malmö A,Malmö kommun,Skåne län,Malmö
-377,Malung A,Malung A,Malung-Sälens kommun,Dalarnas län,"Andersviksberg,Löten D,Öje D"
-626,Malå,Malå,Malå kommun,Västerbottens län,"Malå Brännan A,Adak D,Långträsk D"
-625,Malå Brännan A,Malå-Brännan A,Malå kommun,Västerbottens län,"Malå,Adak D,Långträsk D"
-519,Marby D,Marby D,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Vallbo,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Blåhammaren A"
-47,Marbäck D,Marbäck D,Halmstads kommun,Hallands län,Halmstad
-336,Mariefred,Mariefred,Strängnäs kommun,Södermanlands län,"Strängnäs Vansö,Ytterselö D"
-216,Mariestad,Mariestad,Mariestads kommun,Västra Götalands län,
-45,Markaryd,Markaryd,Markaryds kommun,Kronobergs län,
-670,Markusvinsa,Markusvinsa,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Parkajoki,Kangos D,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Jarhois,Paharova A"
-462,Medskogen,Medskogen,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Dravagen A,Malmagen,Sveg A,Ljusnedal,Tännäs A,Ytterhogdal"
-506,Medstugan,Medstugan,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Vallbo,Norderön,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Bottnen,Edevik,Marby D,Blåhammaren A"
-652,Mierkenis A,Mierkenis A,Arjeplogs kommun,Norrbottens län,"Arjeplog Myrheden D,Vaxborg,Arjeplog A,Svartberget D,Jäckvik"
-650,Mjölkbäcken,Mjölkbäcken,Storumans kommun,Västerbottens län,"Hemavan D,Hemavan Giertevarto A,Bastansjö D,Hemavan Flygplats,Gunnarn A,Blaiken D,Nordanås"
-382,Mockfjärd D,Mockfjärd D,Gagnefs kommun,Dalarnas län,
-130,Moheda D,Moheda D,Alvesta kommun,Kronobergs län,
-113,Mollsjönäs D,Mollsjönäs D,Ale kommun,Västra Götalands län,
-385,Mora A,Mora A,Mora kommun,Dalarnas län,"Våmhus D,Ulvsjö,Gesunda D"
-239,Motala,Motala,Motala kommun,Östergötlands län,"Godegård D,Kettstaka A,Zinkgruvan,Tjällmo D"
-128,Mullsjö D,Mullsjö D,Mullsjö kommun,Jönköpings län,Sandhem
-543,Multrå D,Multrå D,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Lännäs,Junsele A,Forse,Storfinnforsen,Resele,Sollefteå"
-29,Munka Ljungby D,Munka-Ljungby D,Ängelholms kommun,Skåne län,Barkåkra
-288,Munkfors,Munkfors,Munkfors kommun,Värmlands län,
-661,Murjek D,Murjek D,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Björkudden,Puottaure,Jokkmokk Flygplats Mo"
-548,Myckelgensjö,Myckelgensjö,Örnsköldsviks kommun,Västernorrlands län,"Hattsjöbäcken D,Örnsköldsvik,Södersel D,Bredbyn D,Hemling A,Örnsköldsviks Flygplats,Skagsudde A,Aspeå"
-460,Myskelåsen D,Myskelåsen D,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Dravagen A,Malmagen,Sveg A,Ljusnedal,Tännäs A,Medskogen,Ytterhogdal"
-483,Mälgåsen D,Mälgåsen D,Bräcke kommun,Jämtlands län,"Öraåtjärnarna D,Rissna D,Västerövsjö D,Hunge A"
-174,Mästerby,Mästerby,Gotlands kommun,Gotlands län,"Burs D,Austers D,Visby Flygplats,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Fårösund Ar A,Gotska Sandön A"
-149,Målilla A,Målilla A,Hultsfreds kommun,Kalmar län,"Ungsberg,Virserum Rödmossa"
-430,Mångsbodarna,Mångsbodarna,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Särna D,Idre D,Älvdalen A,Storbron,Särna A,Trängslet,Gördalen D"
-182,Måseskär A,Måseskär A,Orusts kommun,Västra Götalands län,Henån
-158,Mönsterås D,Mönsterås D,Mönsterås kommun,Kalmar län,
-512,Mörsil,Mörsil,Åre kommun,Jämtlands län,"Höglekardalen,Storlien Storvallen A,Vallbo,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
-706,Naimakka A,Naimakka A,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Lannavaara D,Lainio,Esrange"
-663,Nattavaara A,Nattavaara A,Gällivare kommun,Norrbottens län,"Ritsem A,Gällivare A,Latnivaara A,Malmberget,Sadjem D,Nikkaluokta A,Skröven D"
-215,Naven A,Naven A,Lidköpings kommun,Västra Götalands län,"Såtenäs,Lanna,Traneberg,Lidköping"
-454,Nianfors,Nianfors,Hudiksvalls kommun,Gävleborgs län,"Kuggören A,Hudiksvall,Delsbo A"
-94,Nidingen A,Nidingen A,Kungsbacka kommun,Hallands län,"Rossared D,Onsala D"
-682,Nikkaluokta A,Nikkaluokta A,Gällivare kommun,Norrbottens län,"Ritsem A,Gällivare A,Latnivaara A,Malmberget,Sadjem D,Nattavaara A,Skröven D"
-144,Nobynäs D,Nobynäs D,Aneby kommun,Jönköpings län,
-307,Nora D,Nora D,Nora kommun,Örebro län,
-501,Nora Östanö D,Nora-Östanö D,Kramfors kommun,Västernorrlands län,"Kramfors,Ullånger,Västmarkum A"
-387,Norberg,Norberg,Norbergs kommun,Västmanlands län,
-559,Nordanbäck D,Nordanbäck D,Nordmalings kommun,Västerbottens län,"Torrböle D,Järnäsklubb A"
-617,Nordanås,Nordanås,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan D,Hemavan Giertevarto A,Bastansjö D,Hemavan Flygplats,Gunnarn A,Blaiken D"
-520,Norderön,Norderön,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Vallbo,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
-189,Nordkoster A,Nordkoster A,Strömstads kommun,Västra Götalands län,Håvelund
-432,Nornäs D,Nornäs D,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Häggberget D,Särna D,Idre D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Trängslet,Gördalen D"
-87,Norra Möckleby D,Norra Möckleby D,Mörbylånga kommun,Kalmar län,"Segerstad,Ölands Södra Udde A,Kastlösa"
-56,Norra Ströö,Norra Ströö,Kristianstads kommun,Skåne län,"Kristianstad,Knopparp D,Degeberga D"
-156,Norra Vi D,Norra Vi D,Ydre kommun,Östergötlands län,Svinhult D
-591,Norrby,Norrby,Lycksele kommun,Västerbottens län,"Bäverträsk,Granträsk D,Rusksele D,Lycksele A"
-421,Norrby S,Norrby S,Norrtälje kommun,Stockholms län,"Svenska Högarna,Norrveda,Söderarm A,Svenska högarna A,Svanberga A"
-256,Norrköping SMHI,Norrköping-SMHI,Norrköpings kommun,Östergötlands län,"Vånga D,Kolmården Strömsfors A,Skärkind D,Östra Husby D,Hult D"
-420,Norrsundet,Norrsundet,Gävle kommun,Gävleborgs län,"Eggegrund A,Hedesunda,Gävle Åbyggeby,Gävle A"
-362,Norrveda,Norrveda,Norrtälje kommun,Stockholms län,"Norrby S,Svenska Högarna,Söderarm A,Svenska högarna A,Svanberga A"
-335,Norsborg II,Norsborg II,Botkyrka kommun,Stockholms län,"Tullinge A,Wiad"
-599,Norsjö A,Norsjö A,Norsjö kommun,Västerbottens län,Talliden
-77,Nybro Slättingebygd D,Nybro-Slättingebygd D,Nybro kommun,Kalmar län,"Hinshult,Orrefors D"
-381,Nyhammar,Nyhammar,Ludvika kommun,Dalarnas län,"Fredriksberg,Ludvika"
-30,Nyhamnsläge,Nyhamnsläge,Höganäs kommun,Skåne län,Louisefred
-266,Nynäshamn,Nynäshamn,Nynäshamns kommun,Stockholms län,"Landsort A,Landsort,Sjögärde"
-353,Nämdö,Nämdö,Haninge kommun,Stockholms län,"Västerhaninge,Dalarö D,Berga Mo"
-319,Näshulta,Näshulta,Eskilstuna kommun,Södermanlands län,"Hyndevad,Lida D,Eskilstuna,Eskilstuna A,Västermo"
-537,Näsåker,Näsåker,Sollefteå kommun,Västernorrlands län,"Åkroken D,Lännäs,Junsele A,Forse,Multrå D,Storfinnforsen,Resele,Sollefteå"
-135,Nävelsjö,Nävelsjö,Vetlanda kommun,Jönköpings län,Korsberga
-408,Ockelbo,Ockelbo,Ockelbo kommun,Gävleborgs län,Åmot A
-59,Olastorp,Olastorp,Osby kommun,Skåne län,Osby
-516,Olden D,Olden D,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Almdalen,Tullus D,Kaxås Åflo D,Föllinge A,Lundsjön,Långan D"
-58,Olofström,Olofström,Olofströms kommun,Blekinge län,
-223,Omberg D,Omberg D,Vadstena kommun,Östergötlands län,Vadstena D
-95,Onsala D,Onsala D,Kungsbacka kommun,Hallands län,"Nidingen A,Rossared D"
-79,Orrefors D,Orrefors D,Nybro kommun,Kalmar län,"Hinshult,Nybro Slättingebygd D"
-435,Orsa D,Orsa D,Orsa kommun,Dalarnas län,Skattungbyn D
-44,Osby,Osby,Osby kommun,Skåne län,Olastorp
-160,Oskarshamn,Oskarshamn,Oskarshamns kommun,Kalmar län,"Krokshult D,Kråkemåla"
-263,Oxelösund,Oxelösund,Oxelösunds kommun,Södermanlands län,
-671,Paharova A,Paharova A,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Kangos D,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Jarhois"
-699,Pajala A,Pajala A,Pajala kommun,Norrbottens län,"Keräntöjärvi,Parkalompolo A,Markusvinsa,Parkajoki,Jarhois,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Kangos D,Paharova A"
-688,Parakka,Parakka,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Övre Soppero,Esrange,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio,Katterjåkk A"
-700,Parkajoki,Parkajoki,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Jarhois,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Kangos D,Paharova A"
-697,Parkalompolo A,Parkalompolo A,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Markusvinsa,Parkajoki,Jarhois,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Kangos D,Paharova A"
-297,Persberg,Persberg,Filipstads kommun,Värmlands län,"Daglösen A,Lesjöfors D"
-595,Petisträsk A,Petisträsk A,Vindelns kommun,Västerbottens län,"Malkälen D,Granö D,Vindeln Sunnansjönäs,Brännforssund"
-637,Pite Rönnskär A,Pite-Rönnskär A,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Kalvträsk D,Skellefteå Flygplats,Grönliden,Jörn D,Kusmark D,Holmfors D"
-638,Piteå,Piteå,Piteå kommun,Norrbottens län,Koler D
-61,Pjätteryd,Pjätteryd,Älmhults kommun,Kronobergs län,Hyltan
-140,Prästkulla,Prästkulla,Eksjö kommun,Jönköpings län,"Värne,Hässleby D"
-660,Puottaure,Puottaure,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Murjek D,Björkudden,Jokkmokk Flygplats Mo"
-143,Ramsjöholm,Ramsjöholm,Jönköpings kommun,Jönköpings län,"Huskvarna,Jönköpings Flygplats,Visingsö A,Högemålen D"
-120,Reftele D,Reftele D,Gislaveds kommun,Jönköpings län,"Hestra D,Skeppshult D"
-247,Regna D,Regna D,Finspångs kommun,Östergötlands län,Finspång
-212,Remningstorp,Remningstorp,Skara kommun,Västra Götalands län,"Kilagården,Skara"
-704,Rensjön A,Rensjön A,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
-546,Resele,Resele,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Lännäs,Junsele A,Forse,Multrå D,Storfinnforsen,Sollefteå"
-310,Riddarhyttan,Riddarhyttan,Skinnskattebergs kommun,Västmanlands län,
-422,Risinge,Risinge,Östhammars kommun,Uppsala län,"Söderby Karlsäng D,Films Kyrkby A,Örskär A"
-529,Rissna D,Rissna D,Bräcke kommun,Jämtlands län,"Öraåtjärnarna D,Mälgåsen D,Västerövsjö D,Hunge A"
-678,Ritsem A,Ritsem A,Gällivare kommun,Norrbottens län,"Gällivare A,Latnivaara A,Malmberget,Sadjem D,Nikkaluokta A,Nattavaara A,Skröven D"
-69,Ronneby Bredåkra,Ronneby-Bredåkra,Ronneby kommun,Blekinge län,"Eringsboda D,Bredåkra D"
-105,Rossared D,Rossared D,Kungsbacka kommun,Hallands län,"Nidingen A,Onsala D"
-541,Rossön,Rossön,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Gubbhögen A,Håkafot D"
-480,Rotnäset D,Rotnäset D,Ånge kommun,Västernorrlands län,"Ånge Parteboda D,Torpshammar A,Kölsillre"
-590,Rusksele D,Rusksele D,Lycksele kommun,Västerbottens län,"Bäverträsk,Norrby,Granträsk D,Lycksele A"
-66,Räfsebo D,Räfsebo D,Värnamo kommun,Jönköpings län,"Hagshult Mo,Åminne D"
-473,Rätan,Rätan,Bergs kommun,Jämtlands län,"Dödre,Handsjön D,Åsarna D,Ljungdalen,Börtnan A,Klövsjöhöjden A"
-127,Rångedala A,Rångedala A,Borås kommun,Västra Götalands län,"Häggårda,Borås"
-565,Röbäcksdalen,Röbäcksdalen,Umeå kommun,Västerbottens län,"Tavelsjö D,Umeå Flygplats,Holmön A,Holmön D"
-643,Rödkallen A,Rödkallen A,Luleå kommun,Norrbottens län,"Luleå Bergnäset,Luleå Flygplats,Klöverträsk D"
-669,Rödupp,Rödupp,Överkalix kommun,Norrbottens län,"Talljärv D,Överkalix Svartbyn A"
-181,Rörastrand,Rörastrand,Tjörns kommun,Västra Götalands län,
-133,Rörvik D,Rörvik D,Sävsjö kommun,Jönköpings län,Sävsjö
-707,Saarikoski D,Saarikoski D,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Vittangi,Svappavaara,Rensjön A,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
-619,Sadiliden,Sadiliden,Sorsele kommun,Västerbottens län,"Gargnäs D,Sorsele,Fjällsjönäs,Buresjön A,Klippen D"
-666,Sadjem D,Sadjem D,Gällivare kommun,Norrbottens län,"Ritsem A,Gällivare A,Latnivaara A,Malmberget,Nikkaluokta A,Nattavaara A,Skröven D"
-694,Saittarova A,Saittarova A,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Kangos D,Saittarova D,Kätkesuando,Tärendö D,Jarhois,Paharova A"
-693,Saittarova D,Saittarova D,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Kangos D,Saittarova A,Kätkesuando,Tärendö D,Jarhois,Paharova A"
-329,Sala,Sala,Sala kommun,Västmanlands län,Sala A
-330,Sala A,Sala A,Sala kommun,Västmanlands län,Sala
-172,Sanda,Sanda,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Fårösund Ar A,Gotska Sandön A"
-356,Sandhamn D,Sandhamn D,Värmdö kommun,Stockholms län,"Skarpö A,Djurö D"
-129,Sandhem,Sandhem,Mullsjö kommun,Jönköpings län,Mullsjö D
-508,Sandnäs,Sandnäs,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Vallbo,Norderön,Bottnen,Digernäset D,Sylarna A,Marby D,Järpströmmen,Medstugan,Edevik,Blåhammaren A"
-85,Segerstad,Segerstad,Mörbylånga kommun,Kalmar län,"Norra Möckleby D,Ölands Södra Udde A,Kastlösa"
-492,Sidsjö D,Sidsjö D,Sundsvalls kommun,Västernorrlands län,"Ulvsjön D,Brämön A,Västerlo D"
-298,Silvergruvan,Silvergruvan,Hällefors kommun,Örebro län,Grythyttan
-453,Simeå,Simeå,Bollnäs kommun,Gävleborgs län,"Bollnäs D,Kilafors D"
-16,Sjöbo D,Sjöbo D,Sjöbo kommun,Skåne län,Lövestad
-268,Sjögärde,Sjögärde,Nynäshamns kommun,Stockholms län,"Landsort A,Landsort,Nynäshamn"
-122,Sjötofta D,Sjötofta D,Tranemo kommun,Västra Götalands län,Kindsboda
-556,Skagsudde A,Skagsudde A,Örnsköldsviks kommun,Västernorrlands län,"Myckelgensjö,Hemling A,Örnsköldsvik,Södersel D,Bredbyn D,Hattsjöbäcken D,Örnsköldsviks Flygplats,Aspeå"
-211,Skara,Skara,Skara kommun,Västra Götalands län,"Kilagården,Remningstorp"
-355,Skarpö A,Skarpö A,Värmdö kommun,Stockholms län,"Sandhamn D,Djurö D"
-437,Skattungbyn D,Skattungbyn D,Orsa kommun,Dalarnas län,Orsa D
-91,Skedemosse D,Skedemosse D,Borgholms kommun,Kalmar län,"Bjärby D,Ölands Norra Udde A,Löttorp D,Ölands Norra Udde"
-608,Skellefteå Flygplats,Skellefteå Flygplats,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Kalvträsk D,Grönliden,Jörn D,Kusmark D,Pite Rönnskär A,Holmfors D"
-119,Skeppshult D,Skeppshult D,Gislaveds kommun,Jönköpings län,"Reftele D,Hestra D"
-137,Skillingaryd,Skillingaryd,Vaggeryds kommun,Jönköpings län,
-20,Skillinge A,Skillinge A,Simrishamns kommun,Skåne län,Stiby
-341,Skjörby,Skjörby,Enköpings kommun,Uppsala län,"Hacksta,Enköping Mo,Enköping"
-665,Skröven D,Skröven D,Gällivare kommun,Norrbottens län,"Ritsem A,Gällivare A,Latnivaara A,Malmberget,Sadjem D,Nikkaluokta A,Nattavaara A"
-328,Skultuna,Skultuna,Västerås kommun,Västmanlands län,"Hallstaberg,Västerås"
+389,Malung A,Malung A,Malung-Sälens kommun,Dalarnas län,"Andersviksberg,Löten D,Öje D"
+643,Malå,Malå,Malå kommun,Västerbottens län,"Malå Brännan A,Adak D,Långträsk D"
+642,Malå Brännan A,Malå-Brännan A,Malå kommun,Västerbottens län,"Malå,Adak D,Långträsk D"
+534,Marby D,Marby D,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Storlien Storvallen,Vallbo,Storlien Visjövalen Sol,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Blåhammaren A"
+48,Marbäck D,Marbäck D,Halmstads kommun,Hallands län,Halmstad
+346,Mariefred,Mariefred,Strängnäs kommun,Södermanlands län,"Strängnäs Vansö,Ytterselö D"
+224,Mariestad,Mariestad,Mariestads kommun,Västra Götalands län,
+46,Markaryd,Markaryd,Markaryds kommun,Kronobergs län,
+688,Markusvinsa,Markusvinsa,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Parkajoki,Kangos D,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Jarhois,Paharova A"
+475,Medskogen,Medskogen,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Dravagen A,Malmagen,Sveg A,Ljusnedal,Tännäs A,Ytterhogdal"
+521,Medstugan,Medstugan,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Storlien Storvallen,Vallbo,Storlien Visjövalen Sol,Norderön,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Bottnen,Edevik,Marby D,Blåhammaren A"
+670,Mierkenis A,Mierkenis A,Arjeplogs kommun,Norrbottens län,"Arjeplog Myrheden D,Vaxborg,Arjeplog A,Svartberget D,Jäckvik"
+668,Mjölkbäcken,Mjölkbäcken,Storumans kommun,Västerbottens län,"Hemavan D,Hemavan Giertevarto A,Bastansjö D,Hemavan Flygplats,Gunnarn A,Blaiken D,Nordanås"
+394,Mockfjärd D,Mockfjärd D,Gagnefs kommun,Dalarnas län,
+135,Moheda D,Moheda D,Alvesta kommun,Kronobergs län,
+118,Mollsjönäs D,Mollsjönäs D,Ale kommun,Västra Götalands län,
+397,Mora A,Mora A,Mora kommun,Dalarnas län,"Våmhus D,Ulvsjö,Gesunda D"
+247,Motala,Motala,Motala kommun,Östergötlands län,"Godegård D,Kettstaka A,Zinkgruvan,Tjällmo D"
+133,Mullsjö D,Mullsjö D,Mullsjö kommun,Jönköpings län,Sandhem
+559,Multrå D,Multrå D,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Lännäs,Junsele A,Forse,Storfinnforsen,Resele,Sollefteå"
+30,Munka Ljungby D,Munka-Ljungby D,Ängelholms kommun,Skåne län,Barkåkra
+298,Munkfors,Munkfors,Munkfors kommun,Värmlands län,
+679,Murjek D,Murjek D,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Björkudden,Puottaure,Jokkmokk Flygplats Mo"
+564,Myckelgensjö,Myckelgensjö,Örnsköldsviks kommun,Västernorrlands län,"Hattsjöbäcken D,Örnsköldsvik,Södersel D,Bredbyn D,Hemling A,Örnsköldsviks Flygplats,Skagsudde A,Aspeå"
+473,Myskelåsen D,Myskelåsen D,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Dravagen A,Malmagen,Sveg A,Ljusnedal,Tännäs A,Medskogen,Ytterhogdal"
+496,Mälgåsen D,Mälgåsen D,Bräcke kommun,Jämtlands län,"Öraåtjärnarna D,Rissna D,Västerövsjö D,Hunge A"
+180,Mästerby,Mästerby,Gotlands kommun,Gotlands län,"Burs D,Austers D,Visby Flygplats,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+154,Målilla A,Målilla A,Hultsfreds kommun,Kalmar län,"Ungsberg,Virserum Rödmossa"
+443,Mångsbodarna,Mångsbodarna,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Särna D,Idre D,Älvdalen A,Storbron,Särna A,Trängslet,Gördalen D"
+189,Måseskär A,Måseskär A,Orusts kommun,Västra Götalands län,Henån
+163,Mönsterås D,Mönsterås D,Mönsterås kommun,Kalmar län,
+527,Mörsil,Mörsil,Åre kommun,Jämtlands län,"Höglekardalen,Storlien Storvallen A,Storlien Storvallen,Vallbo,Storlien Visjövalen Sol,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
+726,Naimakka A,Naimakka A,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Lannavaara D,Lainio,Esrange"
+681,Nattavaara A,Nattavaara A,Gällivare kommun,Norrbottens län,"Ritsem A,Gällivare A,Latnivaara A,Malmberget,Sadjem D,Nikkaluokta A,Skröven D"
+223,Naven A,Naven A,Lidköpings kommun,Västra Götalands län,"Såtenäs,Lanna,Traneberg,Lidköping"
+467,Nianfors,Nianfors,Hudiksvalls kommun,Gävleborgs län,"Kuggören A,Hudiksvall,Delsbo A"
+98,Nidingen A,Nidingen A,Kungsbacka kommun,Hallands län,"Rossared D,Onsala D"
+701,Nikkaluokta A,Nikkaluokta A,Gällivare kommun,Norrbottens län,"Ritsem A,Gällivare A,Latnivaara A,Malmberget,Sadjem D,Nattavaara A,Skröven D"
+149,Nobynäs D,Nobynäs D,Aneby kommun,Jönköpings län,
+317,Nora D,Nora D,Nora kommun,Örebro län,
+514,Nora Östanö D,Nora-Östanö D,Kramfors kommun,Västernorrlands län,"Kramfors,Ullånger,Västmarkum A"
+399,Norberg,Norberg,Norbergs kommun,Västmanlands län,
+575,Nordanbäck D,Nordanbäck D,Nordmalings kommun,Västerbottens län,"Torrböle D,Järnäsklubb A"
+634,Nordanås,Nordanås,Storumans kommun,Västerbottens län,"Mjölkbäcken,Hemavan D,Hemavan Giertevarto A,Bastansjö D,Hemavan Flygplats,Gunnarn A,Blaiken D"
+535,Norderön,Norderön,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Storlien Storvallen,Vallbo,Storlien Visjövalen Sol,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
+197,Nordkoster A,Nordkoster A,Strömstads kommun,Västra Götalands län,"Nordkoster Sol,Håvelund"
+196,Nordkoster Sol,Nordkoster Sol,Strömstads kommun,Västra Götalands län,"Nordkoster A,Håvelund"
+445,Nornäs D,Nornäs D,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Häggberget D,Särna D,Idre D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Trängslet,Gördalen D"
+90,Norra Möckleby D,Norra Möckleby D,Mörbylånga kommun,Kalmar län,"Segerstad,Ölands Södra Udde A,Kastlösa"
+57,Norra Ströö,Norra Ströö,Kristianstads kommun,Skåne län,"Kristianstad,Knopparp D,Degeberga D"
+161,Norra Vi D,Norra Vi D,Ydre kommun,Östergötlands län,Svinhult D
+608,Norrby,Norrby,Lycksele kommun,Västerbottens län,"Bäverträsk,Granträsk D,Rusksele D,Lycksele A"
+434,Norrby S,Norrby S,Norrtälje kommun,Stockholms län,"Norrveda,Svenska högarna A,Svenska Högarna,Svanberga A,Söderarm A,Svenska Högarna Sol"
+264,Norrköping SMHI,Norrköping-SMHI,Norrköpings kommun,Östergötlands län,"Norrköping Sol,Östra Husby D,Kolmården Strömsfors A,Skärkind D,Vånga D,Hult D"
+270,Norrköping Sol,Norrköping Sol,Norrköpings kommun,Östergötlands län,"Norrköping SMHI,Östra Husby D,Kolmården Strömsfors A,Skärkind D,Vånga D,Hult D"
+433,Norrsundet,Norrsundet,Gävle kommun,Gävleborgs län,"Eggegrund A,Hedesunda,Gävle Åbyggeby,Gävle A"
+372,Norrveda,Norrveda,Norrtälje kommun,Stockholms län,"Svenska högarna A,Svenska Högarna,Norrby S,Svanberga A,Söderarm A,Svenska Högarna Sol"
+345,Norsborg II,Norsborg II,Botkyrka kommun,Stockholms län,"Tullinge A,Wiad"
+616,Norsjö A,Norsjö A,Norsjö kommun,Västerbottens län,Talliden
+80,Nybro Slättingebygd D,Nybro-Slättingebygd D,Nybro kommun,Kalmar län,"Hinshult,Orrefors D"
+393,Nyhammar,Nyhammar,Ludvika kommun,Dalarnas län,"Fredriksberg,Ludvika"
+31,Nyhamnsläge,Nyhamnsläge,Höganäs kommun,Skåne län,Louisefred
+275,Nynäshamn,Nynäshamn,Nynäshamns kommun,Stockholms län,"Landsort A,Landsort,Sjögärde"
+363,Nämdö,Nämdö,Haninge kommun,Stockholms län,"Västerhaninge,Dalarö D,Berga Mo"
+329,Näshulta,Näshulta,Eskilstuna kommun,Södermanlands län,"Hyndevad,Lida D,Eskilstuna,Eskilstuna A,Västermo"
+553,Näsåker,Näsåker,Sollefteå kommun,Västernorrlands län,"Åkroken D,Lännäs,Junsele A,Forse,Multrå D,Storfinnforsen,Resele,Sollefteå"
+140,Nävelsjö,Nävelsjö,Vetlanda kommun,Jönköpings län,Korsberga
+421,Ockelbo,Ockelbo,Ockelbo kommun,Gävleborgs län,Åmot A
+60,Olastorp,Olastorp,Osby kommun,Skåne län,Osby
+531,Olden D,Olden D,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Almdalen,Tullus D,Kaxås Åflo D,Föllinge A,Lundsjön,Långan D"
+59,Olofström,Olofström,Olofströms kommun,Blekinge län,
+231,Omberg D,Omberg D,Vadstena kommun,Östergötlands län,Vadstena D
+99,Onsala D,Onsala D,Kungsbacka kommun,Hallands län,"Nidingen A,Rossared D"
+82,Orrefors D,Orrefors D,Nybro kommun,Kalmar län,"Hinshult,Nybro Slättingebygd D"
+448,Orsa D,Orsa D,Orsa kommun,Dalarnas län,Skattungbyn D
+45,Osby,Osby,Osby kommun,Skåne län,Olastorp
+165,Oskarshamn,Oskarshamn,Oskarshamns kommun,Kalmar län,"Krokshult D,Kråkemåla"
+272,Oxelösund,Oxelösund,Oxelösunds kommun,Södermanlands län,
+689,Paharova A,Paharova A,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Kangos D,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Jarhois"
+719,Pajala A,Pajala A,Pajala kommun,Norrbottens län,"Keräntöjärvi,Parkalompolo A,Markusvinsa,Parkajoki,Jarhois,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Kangos D,Paharova A"
+708,Parakka,Parakka,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Övre Soppero,Esrange,Kiruna Flygplats,Vittangi,Svappavaara,Tarfala Sol,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio,Katterjåkk A"
+720,Parkajoki,Parkajoki,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Jarhois,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Kangos D,Paharova A"
+717,Parkalompolo A,Parkalompolo A,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Markusvinsa,Parkajoki,Jarhois,Saittarova A,Saittarova D,Kätkesuando,Tärendö D,Kangos D,Paharova A"
+307,Persberg,Persberg,Filipstads kommun,Värmlands län,"Daglösen A,Lesjöfors D"
+612,Petisträsk A,Petisträsk A,Vindelns kommun,Västerbottens län,"Malkälen D,Granö D,Vindeln Sunnansjönäs,Brännforssund"
+654,Pite Rönnskär A,Pite-Rönnskär A,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Kalvträsk D,Skellefteå Flygplats,Grönliden,Jörn D,Kusmark D,Holmfors D"
+655,Piteå,Piteå,Piteå kommun,Norrbottens län,Koler D
+62,Pjätteryd,Pjätteryd,Älmhults kommun,Kronobergs län,Hyltan
+145,Prästkulla,Prästkulla,Eksjö kommun,Jönköpings län,"Värne,Hässleby D"
+678,Puottaure,Puottaure,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Murjek D,Björkudden,Jokkmokk Flygplats Mo"
+148,Ramsjöholm,Ramsjöholm,Jönköpings kommun,Jönköpings län,"Huskvarna,Jönköpings Flygplats,Visingsö A,Högemålen D"
+125,Reftele D,Reftele D,Gislaveds kommun,Jönköpings län,"Hestra D,Skeppshult D"
+255,Regna D,Regna D,Finspångs kommun,Östergötlands län,Finspång
+220,Remningstorp,Remningstorp,Skara kommun,Västra Götalands län,"Kilagården,Skara"
+724,Rensjön A,Rensjön A,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
+562,Resele,Resele,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Lännäs,Junsele A,Forse,Multrå D,Storfinnforsen,Sollefteå"
+320,Riddarhyttan,Riddarhyttan,Skinnskattebergs kommun,Västmanlands län,
+435,Risinge,Risinge,Östhammars kommun,Uppsala län,"Söderby Karlsäng D,Films Kyrkby A,Örskär A"
+545,Rissna D,Rissna D,Bräcke kommun,Jämtlands län,"Öraåtjärnarna D,Mälgåsen D,Västerövsjö D,Hunge A"
+696,Ritsem A,Ritsem A,Gällivare kommun,Norrbottens län,"Gällivare A,Latnivaara A,Malmberget,Sadjem D,Nikkaluokta A,Nattavaara A,Skröven D"
+72,Ronneby Bredåkra,Ronneby-Bredåkra,Ronneby kommun,Blekinge län,"Eringsboda D,Bredåkra D"
+110,Rossared D,Rossared D,Kungsbacka kommun,Hallands län,"Nidingen A,Onsala D"
+557,Rossön,Rossön,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Strömsund Edet D,Gubbhögen A,Håkafot D"
+493,Rotnäset D,Rotnäset D,Ånge kommun,Västernorrlands län,"Ånge Parteboda D,Torpshammar A,Kölsillre"
+607,Rusksele D,Rusksele D,Lycksele kommun,Västerbottens län,"Bäverträsk,Norrby,Granträsk D,Lycksele A"
+68,Räfsebo D,Räfsebo D,Värnamo kommun,Jönköpings län,"Hagshult Mo,Åminne D"
+486,Rätan,Rätan,Bergs kommun,Jämtlands län,"Dödre,Handsjön D,Åsarna D,Ljungdalen,Börtnan A,Klövsjöhöjden A"
+132,Rångedala A,Rångedala A,Borås kommun,Västra Götalands län,"Häggårda,Borås"
+581,Röbäcksdalen,Röbäcksdalen,Umeå kommun,Västerbottens län,"Tavelsjö D,Umeå Flygplats,Holmön A,Umeå Sol,Holmön D"
+661,Rödkallen A,Rödkallen A,Luleå kommun,Norrbottens län,"Luleå Bergnäset,Luleå Flygplats,Luleå Sol,Klöverträsk D"
+687,Rödupp,Rödupp,Överkalix kommun,Norrbottens län,"Talljärv D,Överkalix Svartbyn A"
+188,Rörastrand,Rörastrand,Tjörns kommun,Västra Götalands län,
+138,Rörvik D,Rörvik D,Sävsjö kommun,Jönköpings län,Sävsjö
+727,Saarikoski D,Saarikoski D,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Tarfala Sol,Vittangi,Svappavaara,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
+636,Sadiliden,Sadiliden,Sorsele kommun,Västerbottens län,"Gargnäs D,Sorsele,Fjällsjönäs,Buresjön A,Klippen D"
+684,Sadjem D,Sadjem D,Gällivare kommun,Norrbottens län,"Ritsem A,Gällivare A,Latnivaara A,Malmberget,Nikkaluokta A,Nattavaara A,Skröven D"
+714,Saittarova A,Saittarova A,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Kangos D,Saittarova D,Kätkesuando,Tärendö D,Jarhois,Paharova A"
+713,Saittarova D,Saittarova D,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Kangos D,Saittarova A,Kätkesuando,Tärendö D,Jarhois,Paharova A"
+339,Sala,Sala,Sala kommun,Västmanlands län,Sala A
+340,Sala A,Sala A,Sala kommun,Västmanlands län,Sala
+178,Sanda,Sanda,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+366,Sandhamn D,Sandhamn D,Värmdö kommun,Stockholms län,"Skarpö A,Djurö D"
+134,Sandhem,Sandhem,Mullsjö kommun,Jönköpings län,Mullsjö D
+523,Sandnäs,Sandnäs,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Storlien Storvallen,Vallbo,Storlien Visjövalen Sol,Norderön,Bottnen,Digernäset D,Sylarna A,Marby D,Järpströmmen,Medstugan,Edevik,Blåhammaren A"
+88,Segerstad,Segerstad,Mörbylånga kommun,Kalmar län,"Norra Möckleby D,Ölands Södra Udde A,Kastlösa"
+505,Sidsjö D,Sidsjö D,Sundsvalls kommun,Västernorrlands län,"Ulvsjön D,Brämön A,Västerlo D"
+308,Silvergruvan,Silvergruvan,Hällefors kommun,Örebro län,Grythyttan
+466,Simeå,Simeå,Bollnäs kommun,Gävleborgs län,"Bollnäs D,Kilafors D"
+17,Sjöbo D,Sjöbo D,Sjöbo kommun,Skåne län,Lövestad
+277,Sjögärde,Sjögärde,Nynäshamns kommun,Stockholms län,"Landsort A,Landsort,Nynäshamn"
+127,Sjötofta D,Sjötofta D,Tranemo kommun,Västra Götalands län,Kindsboda
+572,Skagsudde A,Skagsudde A,Örnsköldsviks kommun,Västernorrlands län,"Myckelgensjö,Hemling A,Örnsköldsvik,Södersel D,Bredbyn D,Hattsjöbäcken D,Örnsköldsviks Flygplats,Aspeå"
+219,Skara,Skara,Skara kommun,Västra Götalands län,"Kilagården,Remningstorp"
+365,Skarpö A,Skarpö A,Värmdö kommun,Stockholms län,"Sandhamn D,Djurö D"
+450,Skattungbyn D,Skattungbyn D,Orsa kommun,Dalarnas län,Orsa D
+94,Skedemosse D,Skedemosse D,Borgholms kommun,Kalmar län,"Bjärby D,Ölands Norra Udde Sol,Ölands Norra Udde A,Löttorp D,Ölands Norra Udde"
+625,Skellefteå Flygplats,Skellefteå Flygplats,Skellefteå kommun,Västerbottens län,"Kåge,Bjuröklubb A,Bygdsiljum D,Kalvträsk D,Grönliden,Jörn D,Kusmark D,Pite Rönnskär A,Holmfors D"
+124,Skeppshult D,Skeppshult D,Gislaveds kommun,Jönköpings län,"Reftele D,Hestra D"
+142,Skillingaryd,Skillingaryd,Vaggeryds kommun,Jönköpings län,
+21,Skillinge A,Skillinge A,Simrishamns kommun,Skåne län,Stiby
+351,Skjörby,Skjörby,Enköpings kommun,Uppsala län,"Hacksta,Enköping Mo,Enköping"
+683,Skröven D,Skröven D,Gällivare kommun,Norrbottens län,"Ritsem A,Gällivare A,Latnivaara A,Malmberget,Sadjem D,Nikkaluokta A,Nattavaara A"
+338,Skultuna,Skultuna,Västerås kommun,Västmanlands län,"Hallstaberg,Västerås"
 8,Skurup D,Skurup D,Skurups kommun,Skåne län,
-238,Skärkind D,Skärkind D,Norrköpings kommun,Östergötlands län,"Vånga D,Norrköping SMHI,Kolmården Strömsfors A,Östra Husby D,Hult D"
-316,Sköldinge,Sköldinge,Katrineholms kommun,Södermanlands län,"Granhed D,Björkvik D,Floda A,Glindran"
-210,Skövde,Skövde,Skövde kommun,Västra Götalands län,Djursätra
-544,Sollefteå,Sollefteå,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Lännäs,Junsele A,Forse,Multrå D,Storfinnforsen,Resele"
-621,Sorsele,Sorsele,Sorsele kommun,Västerbottens län,"Gargnäs D,Buresjön A,Fjällsjönäs,Sadiliden,Klippen D"
-308,Spannarboda D,Spannarboda D,Lindesbergs kommun,Örebro län,"Kloten,Kloten A"
-577,Stalon II,Stalon II,Vilhelmina kommun,Västerbottens län,"Kittelfjäll D,Vilhelmina A,Latikberg D,Stekenjokk A,Gielas A,Laxbäcken"
-18,Stehag,Stehag,Höörs kommun,Skåne län,
-609,Stekenjokk A,Stekenjokk A,Vilhelmina kommun,Västerbottens län,"Kittelfjäll D,Vilhelmina A,Latikberg D,Stalon II,Gielas A,Laxbäcken"
-22,Stiby,Stiby,Simrishamns kommun,Skåne län,Skillinge A
-358,Stockholm,Stockholm,Stockholms kommun,Stockholms län,"Stockholm A,Stockholm Bromma"
-359,Stockholm A,Stockholm A,Stockholms kommun,Stockholms län,"Stockholm,Stockholm Bromma"
-345,Stockholm Arlanda,Stockholm-Arlanda,Sigtuna kommun,Stockholms län,
-337,Stockholm Bromma,Stockholm-Bromma,Stockholms kommun,Stockholms län,"Stockholm,Stockholm A"
-680,Stora Sjöfallet A,Stora Sjöfallet A,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Murjek D,Björkudden,Puottaure,Jokkmokk Flygplats Mo"
-390,Stora Skedvi,Stora Skedvi,Säters kommun,Dalarnas län,
-389,Stora Spånsberget A,Stora Spånsberget A,Borlänge kommun,Dalarnas län,"Borlänge D,Borlänge Flygplats"
-426,Storbron,Storbron,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Idre D,Älvdalen A,Särna D,Särna A,Mångsbodarna,Trängslet,Gördalen D"
-494,Stordalen Midlanda D,Stordalen-Midlanda D,Timrå kommun,Västernorrlands län,"Sundsvalls Flygplats,Höglandsbodarna D"
-538,Storfinnforsen,Storfinnforsen,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Lännäs,Junsele A,Forse,Multrå D,Resele,Sollefteå"
-505,Storlien Storvallen A,Storlien-Storvallen A,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Vallbo,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
-354,Stormyra,Stormyra,Tyresö kommun,Stockholms län,
-646,Storön A,Storön A,Kalix kommun,Norrbottens län,Kalix D
-324,Strängnäs Vansö,Strängnäs-Vansö,Strängnäs kommun,Södermanlands län,"Mariefred,Ytterselö D"
-533,Strömsund Edet D,Strömsund-Edet D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Rossön,Gubbhögen A,Håkafot D"
+246,Skärkind D,Skärkind D,Norrköpings kommun,Östergötlands län,"Norrköping SMHI,Norrköping Sol,Östra Husby D,Kolmården Strömsfors A,Vånga D,Hult D"
+326,Sköldinge,Sköldinge,Katrineholms kommun,Södermanlands län,"Granhed D,Björkvik D,Floda A,Glindran"
+218,Skövde,Skövde,Skövde kommun,Västra Götalands län,Djursätra
+560,Sollefteå,Sollefteå,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Lännäs,Junsele A,Forse,Multrå D,Storfinnforsen,Resele"
+638,Sorsele,Sorsele,Sorsele kommun,Västerbottens län,"Gargnäs D,Buresjön A,Fjällsjönäs,Sadiliden,Klippen D"
+318,Spannarboda D,Spannarboda D,Lindesbergs kommun,Örebro län,"Kloten,Kloten A"
+594,Stalon II,Stalon II,Vilhelmina kommun,Västerbottens län,"Kittelfjäll D,Vilhelmina A,Latikberg D,Stekenjokk A,Gielas A,Laxbäcken"
+19,Stehag,Stehag,Höörs kommun,Skåne län,
+626,Stekenjokk A,Stekenjokk A,Vilhelmina kommun,Västerbottens län,"Kittelfjäll D,Vilhelmina A,Latikberg D,Stalon II,Gielas A,Laxbäcken"
+23,Stiby,Stiby,Simrishamns kommun,Skåne län,Skillinge A
+368,Stockholm,Stockholm,Stockholms kommun,Stockholms län,"Stockholm A,Stockholm Bromma,Stockholm Sol"
+369,Stockholm A,Stockholm A,Stockholms kommun,Stockholms län,"Stockholm,Stockholm Bromma,Stockholm Sol"
+355,Stockholm Arlanda,Stockholm-Arlanda,Sigtuna kommun,Stockholms län,
+347,Stockholm Bromma,Stockholm-Bromma,Stockholms kommun,Stockholms län,"Stockholm,Stockholm A,Stockholm Sol"
+375,Stockholm Sol,Stockholm Sol,Stockholms kommun,Stockholms län,"Stockholm A,Stockholm,Stockholm Bromma"
+698,Stora Sjöfallet A,Stora Sjöfallet A,Jokkmokks kommun,Norrbottens län,"Tjåkaape Mo,Jokkmokk,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Murjek D,Björkudden,Puottaure,Jokkmokk Flygplats Mo"
+402,Stora Skedvi,Stora Skedvi,Säters kommun,Dalarnas län,
+401,Stora Spånsberget A,Stora Spånsberget A,Borlänge kommun,Dalarnas län,"Borlänge D,Borlänge Sol,Borlänge Flygplats"
+439,Storbron,Storbron,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Idre D,Älvdalen A,Särna D,Särna A,Mångsbodarna,Trängslet,Gördalen D"
+507,Stordalen Midlanda D,Stordalen-Midlanda D,Timrå kommun,Västernorrlands län,"Sundsvalls Flygplats,Höglandsbodarna D"
+554,Storfinnforsen,Storfinnforsen,Sollefteå kommun,Västernorrlands län,"Åkroken D,Näsåker,Lännäs,Junsele A,Forse,Multrå D,Resele,Sollefteå"
+520,Storlien Storvallen,Storlien-Storvallen,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Vallbo,Storlien Visjövalen Sol,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
+519,Storlien Storvallen A,Storlien-Storvallen A,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen,Vallbo,Storlien Visjövalen Sol,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
+518,Storlien Visjövalen Sol,Storlien-Visjövalen Sol,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Storlien Storvallen,Vallbo,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
+364,Stormyra,Stormyra,Tyresö kommun,Stockholms län,
+664,Storön A,Storön A,Kalix kommun,Norrbottens län,Kalix D
+334,Strängnäs Vansö,Strängnäs-Vansö,Strängnäs kommun,Södermanlands län,"Mariefred,Ytterselö D"
+549,Strömsund Edet D,Strömsund-Edet D,Strömsunds kommun,Jämtlands län,"Fågelberget D,Hallhåxåsen A,Hoting A,Hillsand,Backe D,Frostviken D,Kyrktåsjö D,Lövberga D,Hammerdal D,Gäddede A,Jormlien,Leipikvattnet,Rossön,Gubbhögen A,Håkafot D"
 9,Sturup,Sturup,Svedala kommun,Skåne län,
-299,Ställdalen,Ställdalen,Ljusnarsbergs kommun,Örebro län,Kopparberg D
-76,Stångsmåla D,Stångsmåla D,Tingsryds kommun,Kronobergs län,Tingsryd Degerhaga
-376,Stöllet D,Stöllet D,Torsby kommun,Värmlands län,"Tåsan,Höljes,Östmark Åsarna,Letafors D,Kindsjön D"
-493,Sundsvalls Flygplats,Sundsvalls Flygplats,Timrå kommun,Västernorrlands län,"Höglandsbodarna D,Stordalen Midlanda D"
-289,Sunne A,Sunne A,Sunne kommun,Värmlands län,"Östra Ämtervik,Uddheden D"
-361,Svanberga A,Svanberga A,Norrtälje kommun,Stockholms län,"Svenska Högarna,Norrveda,Söderarm A,Svenska högarna A,Norrby S"
-275,Svaneholm D,Svaneholm D,Säffle kommun,Värmlands län,"Säffle,Värmlandsnäs Ekenäs D"
-675,Svanstein,Svanstein,Övertorneå kommun,Norrbottens län,"Ylinenjärvi A,Övertorneå,Kypäsjärvi D"
-689,Svappavaara,Svappavaara,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Esrange,Kiruna Flygplats,Vittangi,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio,Katterjåkk A"
-654,Svartberget D,Svartberget D,Arjeplogs kommun,Norrbottens län,"Mierkenis A,Arjeplog Myrheden D,Vaxborg,Arjeplog A,Jäckvik"
-470,Sveg A,Sveg A,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Dravagen A,Malmagen,Ljusnedal,Tännäs A,Medskogen,Ytterhogdal"
-365,Svenska Högarna,Svenska Högarna,Norrtälje kommun,Stockholms län,"Norrby S,Norrveda,Söderarm A,Svenska högarna A,Svanberga A"
-366,Svenska högarna A,Svenska högarna A,Norrtälje kommun,Stockholms län,"Norrby S,Svenska Högarna,Norrveda,Söderarm A,Svanberga A"
-154,Svinhult D,Svinhult D,Ydre kommun,Östergötlands län,Norra Vi D
-235,Sya,Sya,Mjölby kommun,Östergötlands län,Härsnäs
-503,Sylarna A,Sylarna A,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Vallbo,Norderön,Bottnen,Digernäset D,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
-274,Säffle,Säffle,Säffle kommun,Värmlands län,"Svaneholm D,Värmlandsnäs Ekenäs D"
-484,Sänningstjärn D,Sänningstjärn D,Nordanstigs kommun,Gävleborgs län,"Bergsjö,Åsnorrbodarna"
-434,Särna A,Särna A,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Särna D,Idre D,Älvdalen A,Storbron,Mångsbodarna,Trängslet,Gördalen D"
-433,Särna D,Särna D,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Idre D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Trängslet,Gördalen D"
-114,Sätila,Sätila,Marks kommun,Västra Götalands län,"Fotskäl D,Horred,Grebbeshult"
-340,Sätra Gård,Sätra Gård,Upplands Väsby kommun,Stockholms län,
-136,Sävsjö,Sävsjö,Sävsjö kommun,Jönköpings län,Rörvik D
-380,Sågen D,Sågen D,Vansbro kommun,Dalarnas län,Dala Järna D
-198,Såtenäs,Såtenäs,Lidköpings kommun,Västra Götalands län,"Naven A,Lidköping,Lanna,Traneberg"
-451,Söderala D,Söderala D,Söderhamns kommun,Gävleborgs län,Härnebo
-367,Söderarm A,Söderarm A,Norrtälje kommun,Stockholms län,"Svenska Högarna,Norrveda,Norrby S,Svenska högarna A,Svanberga A"
-423,Söderby Karlsäng D,Söderby-Karlsäng D,Östhammars kommun,Uppsala län,"Films Kyrkby A,Risinge,Örskär A"
-386,Söderbärke D,Söderbärke D,Smedjebackens kommun,Dalarnas län,
-254,Söderköping D,Söderköping D,Söderköpings kommun,Östergötlands län,"Börrum D,Gustorp D,Harstena A"
-555,Södersel D,Södersel D,Örnsköldsviks kommun,Västernorrlands län,"Myckelgensjö,Hemling A,Örnsköldsvik,Bredbyn D,Hattsjöbäcken D,Örnsköldsviks Flygplats,Skagsudde A,Aspeå"
-334,Södertälje,Södertälje,Södertälje kommun,Stockholms län,Gnesta
-153,Södra Vi D,Södra Vi D,Vimmerby kommun,Kalmar län,
-277,Sölje D,Sölje D,Arvika kommun,Värmlands län,Arvika A
-131,Söraby,Söraby,Växjö kommun,Kronobergs län,"Växjö D,Berg,Växjö A"
-229,Sörbytorp,Sörbytorp,Askersunds kommun,Örebro län,
-598,Talliden,Talliden,Norsjö kommun,Västerbottens län,Norsjö A
-668,Talljärv D,Talljärv D,Överkalix kommun,Norrbottens län,"Överkalix Svartbyn A,Rödupp"
-518,Tandsbyn D,Tandsbyn D,Östersunds kommun,Jämtlands län,Frösön
-681,Tarfala A,Tarfala A,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Esrange,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Katterjåkk A,Jukkasjärvi D,Naimakka A,Lainio"
-600,Tavelsjö D,Tavelsjö D,Umeå kommun,Västerbottens län,"Röbäcksdalen,Umeå Flygplats,Holmön A,Holmön D"
-205,Tidaholm D,Tidaholm D,Tidaholms kommun,Västra Götalands län,
-60,Tingsryd Degerhaga,Tingsryd-Degerhaga,Tingsryds kommun,Kronobergs län,Stångsmåla D
-243,Tjällmo D,Tjällmo D,Motala kommun,Östergötlands län,"Zinkgruvan,Kettstaka A,Motala,Godegård D"
-657,Tjåkaape Mo,Tjåkaape Mo,Jokkmokks kommun,Norrbottens län,"Jokkmokk,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Murjek D,Björkudden,Puottaure,Jokkmokk Flygplats Mo"
+309,Ställdalen,Ställdalen,Ljusnarsbergs kommun,Örebro län,Kopparberg D
+79,Stångsmåla D,Stångsmåla D,Tingsryds kommun,Kronobergs län,Tingsryd Degerhaga
+388,Stöllet D,Stöllet D,Torsby kommun,Värmlands län,"Tåsan,Höljes,Östmark Åsarna,Letafors D,Kindsjön D"
+506,Sundsvalls Flygplats,Sundsvalls Flygplats,Timrå kommun,Västernorrlands län,"Höglandsbodarna D,Stordalen Midlanda D"
+299,Sunne A,Sunne A,Sunne kommun,Värmlands län,"Östra Ämtervik,Uddheden D"
+371,Svanberga A,Svanberga A,Norrtälje kommun,Stockholms län,"Norrveda,Svenska högarna A,Svenska Högarna,Norrby S,Söderarm A,Svenska Högarna Sol"
+284,Svaneholm D,Svaneholm D,Säffle kommun,Värmlands län,"Säffle,Värmlandsnäs Ekenäs D"
+693,Svanstein,Svanstein,Övertorneå kommun,Norrbottens län,"Ylinenjärvi A,Övertorneå,Kypäsjärvi D"
+709,Svappavaara,Svappavaara,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Esrange,Kiruna Flygplats,Vittangi,Tarfala Sol,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio,Katterjåkk A"
+672,Svartberget D,Svartberget D,Arjeplogs kommun,Norrbottens län,"Mierkenis A,Arjeplog Myrheden D,Vaxborg,Arjeplog A,Jäckvik"
+483,Sveg A,Sveg A,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Dravagen A,Malmagen,Ljusnedal,Tännäs A,Medskogen,Ytterhogdal"
+376,Svenska Högarna,Svenska Högarna,Norrtälje kommun,Stockholms län,"Norrveda,Svenska högarna A,Norrby S,Svanberga A,Söderarm A,Svenska Högarna Sol"
+377,Svenska Högarna Sol,Svenska Högarna Sol,Norrtälje kommun,Stockholms län,"Norrveda,Svenska högarna A,Svenska Högarna,Norrby S,Söderarm A,Svanberga A"
+378,Svenska högarna A,Svenska högarna A,Norrtälje kommun,Stockholms län,"Norrveda,Svenska Högarna,Norrby S,Svanberga A,Söderarm A,Svenska Högarna Sol"
+159,Svinhult D,Svinhult D,Ydre kommun,Östergötlands län,Norra Vi D
+243,Sya,Sya,Mjölby kommun,Östergötlands län,Härsnäs
+516,Sylarna A,Sylarna A,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Storlien Storvallen,Vallbo,Storlien Visjövalen Sol,Norderön,Bottnen,Digernäset D,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
+283,Säffle,Säffle,Säffle kommun,Värmlands län,"Svaneholm D,Värmlandsnäs Ekenäs D"
+497,Sänningstjärn D,Sänningstjärn D,Nordanstigs kommun,Gävleborgs län,"Bergsjö,Åsnorrbodarna"
+447,Särna A,Särna A,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Särna D,Idre D,Älvdalen A,Storbron,Mångsbodarna,Trängslet,Gördalen D"
+446,Särna D,Särna D,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Idre D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Trängslet,Gördalen D"
+119,Sätila,Sätila,Marks kommun,Västra Götalands län,"Fotskäl D,Horred,Grebbeshult"
+350,Sätra Gård,Sätra Gård,Upplands Väsby kommun,Stockholms län,
+141,Sävsjö,Sävsjö,Sävsjö kommun,Jönköpings län,Rörvik D
+392,Sågen D,Sågen D,Vansbro kommun,Dalarnas län,Dala Järna D
+206,Såtenäs,Såtenäs,Lidköpings kommun,Västra Götalands län,"Naven A,Lidköping,Lanna,Traneberg"
+464,Söderala D,Söderala D,Söderhamns kommun,Gävleborgs län,Härnebo
+379,Söderarm A,Söderarm A,Norrtälje kommun,Stockholms län,"Norrveda,Svenska högarna A,Svenska Högarna,Norrby S,Svanberga A,Svenska Högarna Sol"
+436,Söderby Karlsäng D,Söderby-Karlsäng D,Östhammars kommun,Uppsala län,"Films Kyrkby A,Risinge,Örskär A"
+398,Söderbärke D,Söderbärke D,Smedjebackens kommun,Dalarnas län,
+262,Söderköping D,Söderköping D,Söderköpings kommun,Östergötlands län,"Börrum D,Gustorp D,Harstena A"
+571,Södersel D,Södersel D,Örnsköldsviks kommun,Västernorrlands län,"Myckelgensjö,Hemling A,Örnsköldsvik,Bredbyn D,Hattsjöbäcken D,Örnsköldsviks Flygplats,Skagsudde A,Aspeå"
+344,Södertälje,Södertälje,Södertälje kommun,Stockholms län,Gnesta
+158,Södra Vi D,Södra Vi D,Vimmerby kommun,Kalmar län,
+286,Sölje D,Sölje D,Arvika kommun,Värmlands län,Arvika A
+136,Söraby,Söraby,Växjö kommun,Kronobergs län,"Växjö D,Berg,Växjö A,Växjö Sol"
+237,Sörbytorp,Sörbytorp,Askersunds kommun,Örebro län,
+615,Talliden,Talliden,Norsjö kommun,Västerbottens län,Norsjö A
+686,Talljärv D,Talljärv D,Överkalix kommun,Norrbottens län,"Överkalix Svartbyn A,Rödupp"
+533,Tandsbyn D,Tandsbyn D,Östersunds kommun,Jämtlands län,"Östersund Sol,Frösön"
+699,Tarfala A,Tarfala A,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Esrange,Kiruna Flygplats,Vittangi,Svappavaara,Tarfala Sol,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Katterjåkk A,Jukkasjärvi D,Naimakka A,Lainio"
+700,Tarfala Sol,Tarfala Sol,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Övre Soppero,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
+617,Tavelsjö D,Tavelsjö D,Umeå kommun,Västerbottens län,"Röbäcksdalen,Umeå Flygplats,Holmön A,Umeå Sol,Holmön D"
+213,Tidaholm D,Tidaholm D,Tidaholms kommun,Västra Götalands län,
+61,Tingsryd Degerhaga,Tingsryd-Degerhaga,Tingsryds kommun,Kronobergs län,Stångsmåla D
+251,Tjällmo D,Tjällmo D,Motala kommun,Östergötlands län,"Zinkgruvan,Kettstaka A,Motala,Godegård D"
+675,Tjåkaape Mo,Tjåkaape Mo,Jokkmokks kommun,Norrbottens län,"Jokkmokk,Kvikkjokk Årrenjarka,Kvikkjokk Årrenjarka A,Stora Sjöfallet A,Murjek D,Björkudden,Puottaure,Jokkmokk Flygplats Mo"
 10,Tomelilla,Tomelilla,Tomelilla kommun,Skåne län,Brösarp D
-138,Tomtabacken A,Tomtabacken A,Nässjö kommun,Jönköpings län,Malmbäck D
-488,Torpshammar A,Torpshammar A,Ånge kommun,Västernorrlands län,"Rotnäset D,Ånge Parteboda D,Kölsillre"
-558,Torrböle D,Torrböle D,Nordmalings kommun,Västerbottens län,"Järnäsklubb A,Nordanbäck D"
-404,Torsåker D,Torsåker D,Hofors kommun,Gävleborgs län,Hofors
-73,Torsås,Torsås,Torsås kommun,Kalmar län,
-51,Torup A,Torup A,Hylte kommun,Hallands län,
-214,Traneberg,Traneberg,Lidköpings kommun,Västra Götalands län,"Naven A,Såtenäs,Lanna,Lidköping"
+143,Tomtabacken A,Tomtabacken A,Nässjö kommun,Jönköpings län,Malmbäck D
+501,Torpshammar A,Torpshammar A,Ånge kommun,Västernorrlands län,"Rotnäset D,Ånge Parteboda D,Kölsillre"
+574,Torrböle D,Torrböle D,Nordmalings kommun,Västerbottens län,"Järnäsklubb A,Nordanbäck D"
+417,Torsåker D,Torsåker D,Hofors kommun,Gävleborgs län,Hofors
+76,Torsås,Torsås,Torsås kommun,Kalmar län,
+52,Torup A,Torup A,Hylte kommun,Hallands län,
+222,Traneberg,Traneberg,Lidköpings kommun,Västra Götalands län,"Naven A,Såtenäs,Lanna,Lidköping"
 6,Trelleborg,Trelleborg,Trelleborgs kommun,Skåne län,Beddingestrand
-84,Trolleboda D,Trolleboda D,Karlskrona kommun,Blekinge län,"Fridlevstad D,Tvingelshed,Lyckeby,Komstorp,Utklippan A,Karlskrona Söderstjerna Mo"
-250,Tryserum D,Tryserum D,Valdemarsviks kommun,Östergötlands län,
-431,Trängslet,Trängslet,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Särna D,Idre D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Gördalen D"
-196,Trökörna,Trökörna,Grästorps kommun,Västra Götalands län,
-333,Tullinge A,Tullinge A,Botkyrka kommun,Stockholms län,"Norsborg II,Wiad"
-523,Tullus D,Tullus D,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Almdalen,Olden D,Kaxås Åflo D,Föllinge A,Lundsjön,Långan D"
-72,Tvingelshed,Tvingelshed,Karlskrona kommun,Blekinge län,"Fridlevstad D,Trolleboda D,Lyckeby,Komstorp,Utklippan A,Karlskrona Söderstjerna Mo"
-249,Tyllinge D,Tyllinge D,Västerviks kommun,Kalmar län,"Gladhammar A,Hellerö,Ankarsrum D"
-397,Tänger D,Tänger D,Falu kommun,Dalarnas län,"Hillersboda,Falun Lugnet,Bjursås"
-461,Tännäs A,Tännäs A,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Dravagen A,Malmagen,Sveg A,Ljusnedal,Medskogen,Ytterhogdal"
-692,Tärendö D,Tärendö D,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Kangos D,Saittarova A,Saittarova D,Kätkesuando,Jarhois,Paharova A"
-400,Tärnsjö D,Tärnsjö D,Heby kommun,Uppsala län,"Kerstinbo A,Vittinge,Östervåla D"
-28,Tånga,Tånga,Helsingborgs kommun,Skåne län,"Helsingborg 2,Helsingborg A"
-371,Tåsan,Tåsan,Torsby kommun,Värmlands län,"Höljes,Stöllet D,Östmark Åsarna,Letafors D,Kindsjön D"
-272,Töcksfors D,Töcksfors D,Årjängs kommun,Värmlands län,Årjäng
-185,Uddevalla D,Uddevalla D,Uddevalla kommun,Västra Götalands län,
-281,Uddheden D,Uddheden D,Sunne kommun,Värmlands län,"Östra Ämtervik,Sunne A"
-100,Ullared A,Ullared A,Falkenbergs kommun,Hallands län,"Källsjö,Eftra D"
-502,Ullånger,Ullånger,Kramfors kommun,Västernorrlands län,"Kramfors,Nora Östanö D,Västmarkum A"
-126,Ulricehamn,Ulricehamn,Ulricehamns kommun,Västra Götalands län,
-439,Ulvsjö,Ulvsjö,Mora kommun,Dalarnas län,"Mora A,Våmhus D,Gesunda D"
-486,Ulvsjön D,Ulvsjön D,Sundsvalls kommun,Västernorrlands län,"Sidsjö D,Brämön A,Västerlo D"
-564,Umeå Flygplats,Umeå Flygplats,Umeå kommun,Västerbottens län,"Röbäcksdalen,Tavelsjö D,Holmön A,Holmön D"
-150,Ungsberg,Ungsberg,Hultsfreds kommun,Kalmar län,"Målilla A,Virserum Rödmossa"
-194,Uplo,Uplo,Alingsås kommun,Västra Götalands län,"Gendalen,Alingsås D"
-347,Uppsala,Uppsala,Uppsala kommun,Uppsala län,"Uppsala Flygplats,Vattholma D,Björklinge D,Vällnora D,Uppsala Aut,Almunge"
-346,Uppsala Aut,Uppsala Aut,Uppsala kommun,Uppsala län,"Uppsala Flygplats,Vattholma D,Uppsala,Björklinge D,Vällnora D,Almunge"
-348,Uppsala Flygplats,Uppsala Flygplats,Uppsala kommun,Uppsala län,"Vattholma D,Uppsala,Björklinge D,Vällnora D,Uppsala Aut,Almunge"
-25,Utklippan A,Utklippan A,Karlskrona kommun,Blekinge län,"Fridlevstad D,Trolleboda D,Tvingelshed,Komstorp,Lyckeby,Karlskrona Söderstjerna Mo"
-224,Vadstena D,Vadstena D,Vadstena kommun,Östergötlands län,Omberg D
-270,Vagnhärad D,Vagnhärad D,Trosa kommun,Södermanlands län,Åda
-511,Vallbo,Vallbo,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
-360,Vallentuna,Vallentuna,Vallentuna kommun,Stockholms län,
-99,Varberg,Varberg,Varbergs kommun,Hallands län,"Veddige D,Linhult D"
-410,Vattholma D,Vattholma D,Uppsala kommun,Uppsala län,"Uppsala Flygplats,Uppsala,Björklinge D,Vällnora D,Uppsala Aut,Almunge"
-624,Vaxborg,Vaxborg,Arjeplogs kommun,Norrbottens län,"Mierkenis A,Arjeplog Myrheden D,Svartberget D,Arjeplog A,Jäckvik"
-102,Veddige D,Veddige D,Varbergs kommun,Hallands län,"Linhult D,Varberg"
-206,Vedum,Vedum,Vara kommun,Västra Götalands län,Hällum A
+87,Trolleboda D,Trolleboda D,Karlskrona kommun,Blekinge län,"Fridlevstad D,Tvingelshed,Lyckeby,Komstorp,Utklippan A,Karlskrona Söderstjerna Mo,Karlskrona Sol"
+258,Tryserum D,Tryserum D,Valdemarsviks kommun,Östergötlands län,
+444,Trängslet,Trängslet,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Särna D,Idre D,Älvdalen A,Storbron,Särna A,Mångsbodarna,Gördalen D"
+204,Trökörna,Trökörna,Grästorps kommun,Västra Götalands län,
+343,Tullinge A,Tullinge A,Botkyrka kommun,Stockholms län,"Norsborg II,Wiad"
+538,Tullus D,Tullus D,Krokoms kommun,Jämtlands län,"Korsvattnet A,Litsnäset,Almdalen,Olden D,Kaxås Åflo D,Föllinge A,Lundsjön,Långan D"
+75,Tvingelshed,Tvingelshed,Karlskrona kommun,Blekinge län,"Fridlevstad D,Trolleboda D,Lyckeby,Komstorp,Utklippan A,Karlskrona Söderstjerna Mo,Karlskrona Sol"
+257,Tyllinge D,Tyllinge D,Västerviks kommun,Kalmar län,"Gladhammar A,Hellerö,Ankarsrum D"
+410,Tänger D,Tänger D,Falu kommun,Dalarnas län,"Hillersboda,Falun Lugnet,Bjursås"
+474,Tännäs A,Tännäs A,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Dravagen A,Malmagen,Sveg A,Ljusnedal,Medskogen,Ytterhogdal"
+712,Tärendö D,Tärendö D,Pajala kommun,Norrbottens län,"Keräntöjärvi,Pajala A,Parkalompolo A,Markusvinsa,Parkajoki,Kangos D,Saittarova A,Saittarova D,Kätkesuando,Jarhois,Paharova A"
+413,Tärnsjö D,Tärnsjö D,Heby kommun,Uppsala län,"Kerstinbo A,Vittinge,Östervåla D"
+29,Tånga,Tånga,Helsingborgs kommun,Skåne län,"Helsingborg 2,Helsingborg A"
+383,Tåsan,Tåsan,Torsby kommun,Värmlands län,"Höljes,Stöllet D,Östmark Åsarna,Letafors D,Kindsjön D"
+281,Töcksfors D,Töcksfors D,Årjängs kommun,Värmlands län,Årjäng
+192,Uddevalla D,Uddevalla D,Uddevalla kommun,Västra Götalands län,
+290,Uddheden D,Uddheden D,Sunne kommun,Värmlands län,"Östra Ämtervik,Sunne A"
+105,Ullared A,Ullared A,Falkenbergs kommun,Hallands län,"Källsjö,Eftra D"
+515,Ullånger,Ullånger,Kramfors kommun,Västernorrlands län,"Kramfors,Nora Östanö D,Västmarkum A"
+131,Ulricehamn,Ulricehamn,Ulricehamns kommun,Västra Götalands län,
+452,Ulvsjö,Ulvsjö,Mora kommun,Dalarnas län,"Mora A,Våmhus D,Gesunda D"
+499,Ulvsjön D,Ulvsjön D,Sundsvalls kommun,Västernorrlands län,"Sidsjö D,Brämön A,Västerlo D"
+580,Umeå Flygplats,Umeå Flygplats,Umeå kommun,Västerbottens län,"Röbäcksdalen,Tavelsjö D,Umeå Sol,Holmön A,Holmön D"
+582,Umeå Sol,Umeå Sol,Umeå kommun,Västerbottens län,"Röbäcksdalen,Tavelsjö D,Umeå Flygplats,Holmön A,Holmön D"
+155,Ungsberg,Ungsberg,Hultsfreds kommun,Kalmar län,"Målilla A,Virserum Rödmossa"
+202,Uplo,Uplo,Alingsås kommun,Västra Götalands län,"Gendalen,Alingsås D"
+357,Uppsala,Uppsala,Uppsala kommun före 2003,Uppsala län,"Uppsala Flygplats,Vattholma D,Björklinge D,Vällnora D,Uppsala Aut,Almunge"
+356,Uppsala Aut,Uppsala Aut,Uppsala kommun före 2003,Uppsala län,"Uppsala Flygplats,Vattholma D,Uppsala,Björklinge D,Vällnora D,Almunge"
+358,Uppsala Flygplats,Uppsala Flygplats,Uppsala kommun före 2003,Uppsala län,"Vattholma D,Uppsala,Björklinge D,Vällnora D,Uppsala Aut,Almunge"
+26,Utklippan A,Utklippan A,Karlskrona kommun,Blekinge län,"Fridlevstad D,Trolleboda D,Tvingelshed,Komstorp,Lyckeby,Karlskrona Söderstjerna Mo,Karlskrona Sol"
+232,Vadstena D,Vadstena D,Vadstena kommun,Östergötlands län,Omberg D
+279,Vagnhärad D,Vagnhärad D,Trosa kommun,Södermanlands län,Åda
+526,Vallbo,Vallbo,Åre kommun,Jämtlands län,"Mörsil,Höglekardalen,Storlien Storvallen A,Storlien Storvallen,Storlien Visjövalen Sol,Norderön,Bottnen,Digernäset D,Sylarna A,Sandnäs,Järpströmmen,Medstugan,Edevik,Marby D,Blåhammaren A"
+370,Vallentuna,Vallentuna,Vallentuna kommun,Stockholms län,
+104,Varberg,Varberg,Varbergs kommun,Hallands län,"Veddige D,Linhult D"
+423,Vattholma D,Vattholma D,Uppsala kommun före 2003,Uppsala län,"Uppsala Flygplats,Uppsala,Björklinge D,Vällnora D,Uppsala Aut,Almunge"
+641,Vaxborg,Vaxborg,Arjeplogs kommun,Norrbottens län,"Mierkenis A,Arjeplog Myrheden D,Svartberget D,Arjeplog A,Jäckvik"
+107,Veddige D,Veddige D,Varbergs kommun,Hallands län,"Linhult D,Varberg"
+214,Vedum,Vedum,Vara kommun,Västra Götalands län,Hällum A
 4,Ven,Ven,Landskrona kommun,Skåne län,Landskrona D
-635,Vidsel,Vidsel,Arvidsjaurs kommun,Norrbottens län,"Vidsel Mo,Glommersträsk,Abraur,Arvidsjaur A"
-636,Vidsel Mo,Vidsel Mo,Arvidsjaurs kommun,Norrbottens län,"Vidsel,Glommersträsk,Abraur,Arvidsjaur A"
-579,Vilhelmina A,Vilhelmina A,Vilhelmina kommun,Västerbottens län,"Kittelfjäll D,Latikberg D,Stekenjokk A,Stalon II,Gielas A,Laxbäcken"
-592,Vindeln Sunnansjönäs,Vindeln-Sunnansjönäs,Vindelns kommun,Västerbottens län,"Petisträsk A,Malkälen D,Granö D,Brännforssund"
-96,Vinga A,Vinga A,Göteborgs kommun,Västra Götalands län,"Göteborg A,Askim D"
-301,Vingåker D,Vingåker D,Vingåkers kommun,Södermanlands län,
-148,Virserum Rödmossa,Virserum-Rödmossa,Hultsfreds kommun,Kalmar län,"Ungsberg,Målilla A"
-175,Visby D,Visby D,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Fårö D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Fårösund Ar A,Gotska Sandön A"
-176,Visby Flygplats,Visby Flygplats,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Austers D,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Vänge,Fårösund Ar A,Gotska Sandön A"
-219,Visingsö A,Visingsö A,Jönköpings kommun,Jönköpings län,"Huskvarna,Ramsjöholm,Jönköpings Flygplats,Högemålen D"
-690,Vittangi,Vittangi,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Esrange,Kiruna Flygplats,Katterjåkk A,Svappavaara,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio"
-349,Vittinge,Vittinge,Heby kommun,Uppsala län,"Kerstinbo A,Tärnsjö D,Östervåla D"
-14,Vomb,Vomb,Lunds kommun,Skåne län,"Björnstorp,Lund"
-261,Vrena,Vrena,Nyköpings kommun,Södermanlands län,"Aspa D,Frändesta"
-187,Väderöarna A,Väderöarna A,Tanums kommun,Västra Götalands län,Grebbestad
-364,Vällnora D,Vällnora D,Uppsala kommun,Uppsala län,"Uppsala Flygplats,Vattholma D,Uppsala,Björklinge D,Uppsala Aut,Almunge"
-197,Vänersborg,Vänersborg,Vänersborgs kommun,Västra Götalands län,Kroppefjäll Granan A
-171,Vänge,Vänge,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Ljugarn D,Sanda,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Fårösund Ar A,Gotska Sandön A"
-560,Vännäs D,Vännäs D,Vännäs kommun,Västerbottens län,
-217,Värmlandsnäs Ekenäs D,Värmlandsnäs-Ekenäs D,Säffle kommun,Värmlands län,"Säffle,Svaneholm D"
-151,Värne,Värne,Eksjö kommun,Jönköpings län,"Prästkulla,Hässleby D"
-283,Väse D,Väse D,Karlstads kommun,Värmlands län,"Gräsås D,Karlstad Flygplats"
-351,Västerhaninge,Västerhaninge,Haninge kommun,Stockholms län,"Nämdö,Dalarö D,Berga Mo"
-487,Västerlo D,Västerlo D,Sundsvalls kommun,Västernorrlands län,"Ulvsjön D,Brämön A,Sidsjö D"
-320,Västermo,Västermo,Eskilstuna kommun,Södermanlands län,"Hyndevad,Lida D,Eskilstuna,Eskilstuna A,Näshulta"
-326,Västerås,Västerås,Västerås kommun,Västmanlands län,"Hallstaberg,Skultuna"
-528,Västerövsjö D,Västerövsjö D,Bräcke kommun,Jämtlands län,"Öraåtjärnarna D,Rissna D,Mälgåsen D,Hunge A"
-549,Västmarkum A,Västmarkum A,Kramfors kommun,Västernorrlands län,"Kramfors,Ullånger,Nora Östanö D"
-306,Västvalla,Västvalla,Arboga kommun,Västmanlands län,
-63,Växjö A,Växjö A,Växjö kommun,Kronobergs län,"Växjö D,Berg,Söraby"
-64,Växjö D,Växjö D,Växjö kommun,Kronobergs län,"Berg,Växjö A,Söraby"
-436,Våmhus D,Våmhus D,Mora kommun,Dalarnas län,"Mora A,Ulvsjö,Gesunda D"
-240,Vånga D,Vånga D,Norrköpings kommun,Östergötlands län,"Norrköping SMHI,Kolmården Strömsfors A,Skärkind D,Östra Husby D,Hult D"
-192,Vårgårda D,Vårgårda D,Vårgårda kommun,Västra Götalands län,
-332,Wiad,Wiad,Botkyrka kommun,Stockholms län,"Norsborg II,Tullinge A"
-676,Ylinenjärvi A,Ylinenjärvi A,Övertorneå kommun,Norrbottens län,"Svanstein,Övertorneå,Kypäsjärvi D"
+652,Vidsel,Vidsel,Arvidsjaurs kommun,Norrbottens län,"Vidsel Mo,Glommersträsk,Abraur,Arvidsjaur A"
+653,Vidsel Mo,Vidsel Mo,Arvidsjaurs kommun,Norrbottens län,"Vidsel,Glommersträsk,Abraur,Arvidsjaur A"
+596,Vilhelmina A,Vilhelmina A,Vilhelmina kommun,Västerbottens län,"Kittelfjäll D,Latikberg D,Stekenjokk A,Stalon II,Gielas A,Laxbäcken"
+609,Vindeln Sunnansjönäs,Vindeln-Sunnansjönäs,Vindelns kommun,Västerbottens län,"Petisträsk A,Malkälen D,Granö D,Brännforssund"
+100,Vinga A,Vinga A,Göteborgs kommun,Västra Götalands län,"Göteborg Sol,Göteborg A,Askim D"
+311,Vingåker D,Vingåker D,Vingåkers kommun,Södermanlands län,
+153,Virserum Rödmossa,Virserum-Rödmossa,Hultsfreds kommun,Kalmar län,"Ungsberg,Målilla A"
+181,Visby D,Visby D,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Fårö D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+182,Visby Flygplats,Visby Flygplats,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Austers D,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+186,Visby Sol,Visby Sol,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Vänge,Fårösund Ar A,Gotska Sandön A"
+227,Visingsö A,Visingsö A,Jönköpings kommun,Jönköpings län,"Huskvarna,Ramsjöholm,Jönköpings Flygplats,Högemålen D"
+710,Vittangi,Vittangi,Kiruna kommun,Norrbottens län,"Karesuando A,Lannavaara D,Parakka,Övre Soppero,Esrange,Kiruna Flygplats,Katterjåkk A,Svappavaara,Tarfala Sol,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lainio"
+359,Vittinge,Vittinge,Heby kommun,Uppsala län,"Kerstinbo A,Tärnsjö D,Östervåla D"
+14,Vomb,Vomb,Lunds kommun,Skåne län,"Lund Sol,Björnstorp,Lund"
+269,Vrena,Vrena,Nyköpings kommun,Södermanlands län,"Aspa D,Frändesta"
+194,Väderöarna A,Väderöarna A,Tanums kommun,Västra Götalands län,Grebbestad
+374,Vällnora D,Vällnora D,Uppsala kommun före 2003,Uppsala län,"Uppsala Flygplats,Vattholma D,Uppsala,Björklinge D,Uppsala Aut,Almunge"
+205,Vänersborg,Vänersborg,Vänersborgs kommun,Västra Götalands län,Kroppefjäll Granan A
+177,Vänge,Vänge,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Ljugarn D,Sanda,Fårö D,Visby D,Hoburg A,Hejnum,Östergarnsholm A,Hoburg D,Hemse,Hoburg Sol,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+576,Vännäs D,Vännäs D,Vännäs kommun,Västerbottens län,
+225,Värmlandsnäs Ekenäs D,Värmlandsnäs-Ekenäs D,Säffle kommun,Värmlands län,"Säffle,Svaneholm D"
+156,Värne,Värne,Eksjö kommun,Jönköpings län,"Prästkulla,Hässleby D"
+292,Väse D,Väse D,Karlstads kommun,Värmlands län,"Gräsås D,Karlstad Sol,Karlstad Flygplats"
+361,Västerhaninge,Västerhaninge,Haninge kommun,Stockholms län,"Nämdö,Dalarö D,Berga Mo"
+500,Västerlo D,Västerlo D,Sundsvalls kommun,Västernorrlands län,"Ulvsjön D,Brämön A,Sidsjö D"
+330,Västermo,Västermo,Eskilstuna kommun,Södermanlands län,"Hyndevad,Lida D,Eskilstuna,Eskilstuna A,Näshulta"
+336,Västerås,Västerås,Västerås kommun,Västmanlands län,"Hallstaberg,Skultuna"
+544,Västerövsjö D,Västerövsjö D,Bräcke kommun,Jämtlands län,"Öraåtjärnarna D,Rissna D,Mälgåsen D,Hunge A"
+565,Västmarkum A,Västmarkum A,Kramfors kommun,Västernorrlands län,"Kramfors,Ullånger,Nora Östanö D"
+316,Västvalla,Västvalla,Arboga kommun,Västmanlands län,
+64,Växjö A,Växjö A,Växjö kommun,Kronobergs län,"Växjö D,Berg,Söraby,Växjö Sol"
+65,Växjö D,Växjö D,Växjö kommun,Kronobergs län,"Växjö Sol,Berg,Växjö A,Söraby"
+67,Växjö Sol,Växjö Sol,Växjö kommun,Kronobergs län,"Växjö D,Berg,Växjö A,Söraby"
+449,Våmhus D,Våmhus D,Mora kommun,Dalarnas län,"Mora A,Ulvsjö,Gesunda D"
+248,Vånga D,Vånga D,Norrköpings kommun,Östergötlands län,"Norrköping SMHI,Norrköping Sol,Östra Husby D,Kolmården Strömsfors A,Skärkind D,Hult D"
+200,Vårgårda D,Vårgårda D,Vårgårda kommun,Västra Götalands län,
+342,Wiad,Wiad,Botkyrka kommun,Stockholms län,"Norsborg II,Tullinge A"
+694,Ylinenjärvi A,Ylinenjärvi A,Övertorneå kommun,Norrbottens län,"Svanstein,Övertorneå,Kypäsjärvi D"
 7,Ystad,Ystad,Ystads kommun,Skåne län,Bollerup
-471,Ytterberg D,Ytterberg D,Härjedalens kommun,Jämtlands län,"Hedeviken,Myskelåsen D,Dravagen A,Malmagen,Sveg A,Ljusnedal,Tännäs A,Medskogen,Ytterhogdal"
-472,Ytterhogdal,Ytterhogdal,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Dravagen A,Malmagen,Sveg A,Ljusnedal,Tännäs A,Medskogen"
-581,Ytterrissjö D,Ytterrissjö D,Åsele kommun,Västerbottens län,"Fredrika A,Åsele,Åsele A"
-339,Ytterselö D,Ytterselö D,Strängnäs kommun,Södermanlands län,"Strängnäs Vansö,Mariefred"
-246,Zinkgruvan,Zinkgruvan,Motala kommun,Östergötlands län,"Godegård D,Kettstaka A,Motala,Tjällmo D"
-228,Älgarås D,Älgarås D,Töreboda kommun,Västra Götalands län,Fägre D
-145,Älghult,Älghult,Uppvidinge kommun,Kronobergs län,Fagerhult D
-438,Älvdalen A,Älvdalen A,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Särna D,Idre D,Storbron,Särna A,Mångsbodarna,Trängslet,Gördalen D"
-416,Älvkarleby D,Älvkarleby D,Älvkarleby kommun,Uppsala län,
-640,Älvsbyn A,Älvsbyn A,Älvsbyns kommun,Norrbottens län,
-65,Åby,Åby,Ljungby kommun,Kronobergs län,"Lidhult D,Ljungby A,Bakarebo D,Ljungby D"
-267,Åda,Åda,Trosa kommun,Södermanlands län,Vagnhärad D
-499,Åkroken D,Åkroken D,Sollefteå kommun,Västernorrlands län,"Näsåker,Lännäs,Junsele A,Forse,Multrå D,Storfinnforsen,Resele,Sollefteå"
-118,Åminne D,Åminne D,Värnamo kommun,Jönköpings län,"Räfsebo D,Hagshult Mo"
-409,Åmot A,Åmot A,Ockelbo kommun,Gävleborgs län,Ockelbo
-481,Ånge Parteboda D,Ånge-Parteboda D,Ånge kommun,Västernorrlands län,"Rotnäset D,Torpshammar A,Kölsillre"
-202,Ånimskog,Ånimskog,Åmåls kommun,Västra Götalands län,
-278,Årjäng,Årjäng,Årjängs kommun,Värmlands län,Töcksfors D
-476,Åsarna D,Åsarna D,Bergs kommun,Jämtlands län,"Dödre,Handsjön D,Ljungdalen,Börtnan A,Klövsjöhöjden A,Rätan"
-583,Åsele,Åsele,Åsele kommun,Västerbottens län,"Fredrika A,Ytterrissjö D,Åsele A"
-582,Åsele A,Åsele A,Åsele kommun,Västerbottens län,"Fredrika A,Ytterrissjö D,Åsele"
-490,Åsnorrbodarna,Åsnorrbodarna,Nordanstigs kommun,Gävleborgs län,"Bergsjö,Sänningstjärn D"
-290,Åtorp,Åtorp,Degerfors kommun,Örebro län,Degerfors D
-220,Ödeshög D,Ödeshög D,Ödeshögs kommun,Östergötlands län,
-378,Öje D,Öje D,Malung-Sälens kommun,Dalarnas län,"Andersviksberg,Löten D,Malung A"
-167,Ölands Norra Udde,Ölands Norra Udde,Borgholms kommun,Kalmar län,"Bjärby D,Ölands Norra Udde A,Skedemosse D,Löttorp D"
-166,Ölands Norra Udde A,Ölands Norra Udde A,Borgholms kommun,Kalmar län,"Bjärby D,Skedemosse D,Löttorp D,Ölands Norra Udde"
-82,Ölands Södra Udde A,Ölands Södra Udde A,Mörbylånga kommun,Kalmar län,"Norra Möckleby D,Segerstad,Kastlösa"
-305,Ön,Ön,Örebro kommun,Örebro län,"Örebro A,Örebro D,Asker D,Kilsbergen Suttarboda A"
-489,Öraåtjärnarna D,Öraåtjärnarna D,Bräcke kommun,Jämtlands län,"Rissna D,Mälgåsen D,Västerövsjö D,Hunge A"
-303,Örebro A,Örebro A,Örebro kommun,Örebro län,"Örebro D,Asker D,Ön,Kilsbergen Suttarboda A"
-304,Örebro D,Örebro D,Örebro kommun,Örebro län,"Örebro A,Asker D,Ön,Kilsbergen Suttarboda A"
-42,Örkelljunga,Örkelljunga,Örkelljunga kommun,Skåne län,
-550,Örnsköldsvik,Örnsköldsvik,Örnsköldsviks kommun,Västernorrlands län,"Hattsjöbäcken D,Myckelgensjö,Södersel D,Bredbyn D,Hemling A,Örnsköldsviks Flygplats,Skagsudde A,Aspeå"
-551,Örnsköldsviks Flygplats,Örnsköldsviks Flygplats,Örnsköldsviks kommun,Västernorrlands län,"Hattsjöbäcken D,Myckelgensjö,Örnsköldsvik,Södersel D,Bredbyn D,Hemling A,Skagsudde A,Aspeå"
-424,Örskär A,Örskär A,Östhammars kommun,Uppsala län,"Söderby Karlsäng D,Films Kyrkby A,Risinge"
-444,Östanvik D,Östanvik D,Rättviks kommun,Dalarnas län,Finnbacka D
-402,Österfärnebo,Österfärnebo,Sandvikens kommun,Gävleborgs län,"Kungsberget D,Gästrike Hammarby D"
-173,Östergarnsholm A,Östergarnsholm A,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Hoburg D,Hemse,Vänge,Fårösund Ar A,Gotska Sandön A"
-412,Östervåla D,Östervåla D,Heby kommun,Uppsala län,"Kerstinbo A,Vittinge,Tärnsjö D"
-368,Östmark Åsarna,Östmark-Åsarna,Torsby kommun,Värmlands län,"Tåsan,Höljes,Stöllet D,Letafors D,Kindsjön D"
-255,Östra Husby D,Östra Husby D,Norrköpings kommun,Östergötlands län,"Vånga D,Norrköping SMHI,Kolmården Strömsfors A,Skärkind D,Hult D"
-287,Östra Ämtervik,Östra Ämtervik,Sunne kommun,Värmlands län,"Uddheden D,Sunne A"
-667,Överkalix Svartbyn A,Överkalix-Svartbyn A,Överkalix kommun,Norrbottens län,"Talljärv D,Rödupp"
-674,Övertorneå,Övertorneå,Övertorneå kommun,Norrbottens län,"Svanstein,Ylinenjärvi A,Kypäsjärvi D"
-705,Övre Soppero,Övre Soppero,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Kiruna Flygplats,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"
+484,Ytterberg D,Ytterberg D,Härjedalens kommun,Jämtlands län,"Hedeviken,Myskelåsen D,Dravagen A,Malmagen,Sveg A,Ljusnedal,Tännäs A,Medskogen,Ytterhogdal"
+485,Ytterhogdal,Ytterhogdal,Härjedalens kommun,Jämtlands län,"Ytterberg D,Hedeviken,Myskelåsen D,Dravagen A,Malmagen,Sveg A,Ljusnedal,Tännäs A,Medskogen"
+598,Ytterrissjö D,Ytterrissjö D,Åsele kommun,Västerbottens län,"Fredrika A,Åsele,Åsele A"
+349,Ytterselö D,Ytterselö D,Strängnäs kommun,Södermanlands län,"Strängnäs Vansö,Mariefred"
+254,Zinkgruvan,Zinkgruvan,Motala kommun,Östergötlands län,"Godegård D,Kettstaka A,Motala,Tjällmo D"
+236,Älgarås D,Älgarås D,Töreboda kommun,Västra Götalands län,Fägre D
+150,Älghult,Älghult,Uppvidinge kommun,Kronobergs län,Fagerhult D
+451,Älvdalen A,Älvdalen A,Älvdalens kommun,Dalarnas län,"Idre Fjäll A,Nornäs D,Häggberget D,Särna D,Idre D,Storbron,Särna A,Mångsbodarna,Trängslet,Gördalen D"
+429,Älvkarleby D,Älvkarleby D,Älvkarleby kommun,Uppsala län,
+657,Älvsbyn A,Älvsbyn A,Älvsbyns kommun,Norrbottens län,
+66,Åby,Åby,Ljungby kommun,Kronobergs län,"Lidhult D,Ljungby A,Bakarebo D,Ljungby D"
+276,Åda,Åda,Trosa kommun,Södermanlands län,Vagnhärad D
+512,Åkroken D,Åkroken D,Sollefteå kommun,Västernorrlands län,"Näsåker,Lännäs,Junsele A,Forse,Multrå D,Storfinnforsen,Resele,Sollefteå"
+123,Åminne D,Åminne D,Värnamo kommun,Jönköpings län,"Räfsebo D,Hagshult Mo"
+422,Åmot A,Åmot A,Ockelbo kommun,Gävleborgs län,Ockelbo
+494,Ånge Parteboda D,Ånge-Parteboda D,Ånge kommun,Västernorrlands län,"Rotnäset D,Torpshammar A,Kölsillre"
+210,Ånimskog,Ånimskog,Åmåls kommun,Västra Götalands län,
+287,Årjäng,Årjäng,Årjängs kommun,Värmlands län,Töcksfors D
+489,Åsarna D,Åsarna D,Bergs kommun,Jämtlands län,"Dödre,Handsjön D,Ljungdalen,Börtnan A,Klövsjöhöjden A,Rätan"
+600,Åsele,Åsele,Åsele kommun,Västerbottens län,"Fredrika A,Ytterrissjö D,Åsele A"
+599,Åsele A,Åsele A,Åsele kommun,Västerbottens län,"Fredrika A,Ytterrissjö D,Åsele"
+503,Åsnorrbodarna,Åsnorrbodarna,Nordanstigs kommun,Gävleborgs län,"Bergsjö,Sänningstjärn D"
+300,Åtorp,Åtorp,Degerfors kommun,Örebro län,Degerfors D
+228,Ödeshög D,Ödeshög D,Ödeshögs kommun,Östergötlands län,
+390,Öje D,Öje D,Malung-Sälens kommun,Dalarnas län,"Andersviksberg,Löten D,Malung A"
+173,Ölands Norra Udde,Ölands Norra Udde,Borgholms kommun,Kalmar län,"Bjärby D,Ölands Norra Udde A,Skedemosse D,Löttorp D,Ölands Norra Udde Sol"
+171,Ölands Norra Udde A,Ölands Norra Udde A,Borgholms kommun,Kalmar län,"Bjärby D,Ölands Norra Udde Sol,Skedemosse D,Löttorp D,Ölands Norra Udde"
+172,Ölands Norra Udde Sol,Ölands Norra Udde Sol,Borgholms kommun,Kalmar län,"Bjärby D,Ölands Norra Udde A,Skedemosse D,Löttorp D,Ölands Norra Udde"
+85,Ölands Södra Udde A,Ölands Södra Udde A,Mörbylånga kommun,Kalmar län,"Norra Möckleby D,Segerstad,Kastlösa"
+315,Ön,Ön,Örebro kommun,Örebro län,"Örebro A,Örebro D,Asker D,Kilsbergen Suttarboda A"
+502,Öraåtjärnarna D,Öraåtjärnarna D,Bräcke kommun,Jämtlands län,"Rissna D,Mälgåsen D,Västerövsjö D,Hunge A"
+313,Örebro A,Örebro A,Örebro kommun,Örebro län,"Örebro D,Asker D,Ön,Kilsbergen Suttarboda A"
+314,Örebro D,Örebro D,Örebro kommun,Örebro län,"Örebro A,Asker D,Ön,Kilsbergen Suttarboda A"
+43,Örkelljunga,Örkelljunga,Örkelljunga kommun,Skåne län,
+566,Örnsköldsvik,Örnsköldsvik,Örnsköldsviks kommun,Västernorrlands län,"Hattsjöbäcken D,Myckelgensjö,Södersel D,Bredbyn D,Hemling A,Örnsköldsviks Flygplats,Skagsudde A,Aspeå"
+567,Örnsköldsviks Flygplats,Örnsköldsviks Flygplats,Örnsköldsviks kommun,Västernorrlands län,"Hattsjöbäcken D,Myckelgensjö,Örnsköldsvik,Södersel D,Bredbyn D,Hemling A,Skagsudde A,Aspeå"
+437,Örskär A,Örskär A,Östhammars kommun,Uppsala län,"Söderby Karlsäng D,Films Kyrkby A,Risinge"
+457,Östanvik D,Östanvik D,Rättviks kommun,Dalarnas län,Finnbacka D
+415,Österfärnebo,Österfärnebo,Sandvikens kommun,Gävleborgs län,"Kungsberget D,Gästrike Hammarby D"
+179,Östergarnsholm A,Östergarnsholm A,Gotlands kommun,Gotlands län,"Burs D,Mästerby,Visby Flygplats,Austers D,Sanda,Ljugarn D,Fårö D,Visby D,Hoburg A,Hejnum,Hoburg D,Hemse,Hoburg Sol,Vänge,Visby Sol,Fårösund Ar A,Gotska Sandön A"
+543,Östersund Sol,Östersund Sol,Östersunds kommun,Jämtlands län,"Tandsbyn D,Frösön"
+425,Östervåla D,Östervåla D,Heby kommun,Uppsala län,"Kerstinbo A,Vittinge,Tärnsjö D"
+380,Östmark Åsarna,Östmark-Åsarna,Torsby kommun,Värmlands län,"Tåsan,Höljes,Stöllet D,Letafors D,Kindsjön D"
+263,Östra Husby D,Östra Husby D,Norrköpings kommun,Östergötlands län,"Norrköping SMHI,Norrköping Sol,Kolmården Strömsfors A,Skärkind D,Vånga D,Hult D"
+297,Östra Ämtervik,Östra Ämtervik,Sunne kommun,Värmlands län,"Uddheden D,Sunne A"
+685,Överkalix Svartbyn A,Överkalix-Svartbyn A,Överkalix kommun,Norrbottens län,"Talljärv D,Rödupp"
+692,Övertorneå,Övertorneå,Övertorneå kommun,Norrbottens län,"Svanstein,Ylinenjärvi A,Kypäsjärvi D"
+725,Övre Soppero,Övre Soppero,Kiruna kommun,Norrbottens län,"Karesuando A,Katterjåkk A,Parakka,Kiruna Flygplats,Tarfala Sol,Vittangi,Svappavaara,Saarikoski D,Rensjön A,Abisko,Kiruna Sol,Katterjåkk,Tarfala A,Jukkasjärvi D,Naimakka A,Lannavaara D,Lainio,Esrange"

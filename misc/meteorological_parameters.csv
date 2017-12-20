@@ -1,3 +1,5 @@
 id,label,label__sv,label__en
 rainfall,Nederbörd,Nederbörd,Rainfall
 air temperature,Lufttemperatur,Lufttemperatur,Air temperature
+snow depth,Snow depth,Snödjup,Snow depth
+sunshine,Sunshine,Solskenstid,Sunshine
