@@ -1,0 +1,8 @@
+id,label,label__sv,label__en,region_level,parent,neighbours,description
+All nations,All nations,Alla länder,All nations,nation group,,,
+All nations excluding Sweden,All nations excluding Sweden,Alla länder utom Sverige,All nations excluding Sweden,nation group,All nations,,
+The Nordic countries excluding Sweden,The Nordic countries excluding Sweden,Alla nordiska länder utom Sverige,The Nordic countries excluding Sweden,nation group,All nations,,
+Europe excluding the Nordic countries,Europe excluding the Nordic countries,Alla europeiska länder utom Norden,Europe excluding the Nordic countries,nation group,All nations,,
+All nations excluding Europe,All nations excluding Europe,Alla länder utom Europa,All nations excluding Europe,nation group,All nations,,
+Other European nations,Other European nations,Andra europeiska länder,,,,,The constitution of this group may vary
+Other American countries,Other American countries,Andra amerikanska länder,Other American countries,,,,The constitution of this group may vary

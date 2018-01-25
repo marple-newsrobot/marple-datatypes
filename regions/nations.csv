@@ -1,6 +1,4 @@
 id,label,label_short,label__sv,label__en,region_level,start,end,key,parent,neighbours
-Outside Sweden,Utanför Sverige,Utanför Sverige,,,nation,,,,,
-All nations,All nations,,Alla länder,All nations,nation,,,,,
 Afghanistan,Afghanistan,,Afghanistan,Afghanistan,nation,,,af,,
 Angola,Angola,,Angola,Angola,nation,,,ao,,
 Albania,Albanien,,Albanien,Albania,nation,,,al,,
