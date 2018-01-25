@@ -17,6 +17,7 @@ swedish municipality,Swedish municipalities,svenska kommuner,"A Swedish municipa
 swedish county councils,Swedish county councils,svenska landsting,"A Swedish county council, past or present",str,regions/se/county_councils
 country,countries,länder,"A country, past or present",str,regions/nations
 eu country group,EU countries,,"A past or present group of EU countries, such as EU-28",str,regions/eu
+country group,country group,,Custom groupings of countries such as ”All nations except Sweden”,str,regions/country_groups
 place_of_birth,countries of birth,,Subjects country (or continent) of birth,str,regions/nations
 date,date,,An ISO 8601 date/time stamp,date,
 value,value,,Value,"int,float",
@@ -36,3 +37,4 @@ swedish hospitals,Swedish hospitals,Svenska sjukhus,Used by ie Väntetider.se,st
 overcrowding_measurement,Overcrowding measurements,Överbeläggningsmått,Such as overcrowding and dislocated patients. Used by ie Väntetider.se,str,misc/care/overcrowding_measurements
 care_type,Type of care,Vårdtyper,Such as somatic care and psychiatry. Used by ie Väntetider.se,str,misc/care/care_types
 household_origin,Household origins,Ursprung för medlemmar i hushåll,Such as foreign or domestic born. As used by ie Socialstyrelsen,str,misc/household_origins
+parental_allowence_measurement,Parental allowence measurements,Mått på föräldrapenning,"Such as amount, net days and recipients",str,misc/parental_allowence_measurements
