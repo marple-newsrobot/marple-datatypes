@@ -39,3 +39,4 @@
 "household_origin","Household origins","Ursprung för medlemmar i hushåll","Such as foreign or domestic born. As used by ie Socialstyrelsen","str","misc/household_origins"
 "parental_allowence_measurement","Parental allowence measurements","Mått på föräldrapenning","Such as amount, net days and recipients","str","misc/parental_allowence_measurements"
 "road_type","Road type","Vägtyp","A road type and/or network","str","misc/road_types"
+"road_number","Road number","Vägnummer","A numeric roadnumber in a road system, eg 4 for the international e-road “E4”","int",
