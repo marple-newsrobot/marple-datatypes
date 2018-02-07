@@ -1,0 +1,314 @@
+"id","municipality","original_id","road_name","road_number","road_type","station"
+"Rv 55 Enköping-Litslena","Enköpings kommun","Rv 55 Enköping-Litslena","Riksväg 55","55","national_road",
+"E6 Pålen - Tanumshede","Tanums kommun","E6 Pålen - Tanumshede","Länsväg 920","920","county_road",
+"Lv 160 Henån - Rotviksbro","Orusts kommun","Lv 160 Henån - Rotviksbro","Länsväg 160","160","county_road",
+"Rv 19 Brösarp-Degeberga","Kristianstads kommun","Rv 19 Brösarp-Degeberga","Riksväg 19","19","national_road",
+"E10 Morjärv - Gyljen","Kalix kommun","E10 Morjärv - Gyljen","E10","E10","street",
+"E4 Haparanda-Salmis","Haparanda kommun","E4 Haparanda-Salmis","E4","E4","street",
+"Rv 17 Landskrona-Marieholm","Svalövs kommun","Rv 17 Landskrona-Marieholm","Riksväg 17","17","national_road",
+"Rv 21 Klippan-Hyllstofta","Klippans kommun","Rv 21 Klippan-Hyllstofta","Riksväg 21","21","national_road",
+"Rv 24 Finja-Örkelljunga","Hässleholms kommun","Rv 24 Finja-Örkelljunga","Riksväg 24","24","national_road",
+"Lv 117 Vankiva-Emmaljunga","Hässleholms kommun","Lv 117 Vankiva-Emmaljunga","Länsväg 117","117","county_road",
+"Rv 34 Ervasteby - St Sjögestad","Linköpings kommun","Rv 34 Ervasteby - St Sjögestad","Riksväg 34","34","national_road",
+"Lv 169 Myggenäs - Vallhamn","Tjörns kommun","Lv 169 Myggenäs - Vallhamn","Länsväg 169","169","county_road",
+"Rv 50 Bollnäs Alfta","Bollnäs kommun","Rv 50 Bollnäs Alfta","Riksväg 50","50","national_road",
+"Lv 168 Vävra - Tjuvkil","Kungälvs kommun","Lv 168 Vävra - Tjuvkil","Länsväg 168","168","county_road",
+"Lv 268_978 Karby-Brottby","Vallentuna kommun","Lv 268/978 Karby-Brottby","Länsväg 268","268","county_road",
+"Lv 227 Trafikplats Jordbro - Dalarö","Haninge kommun","Lv 227 Trafikplats Jordbro - Dalarö","Länsväg 227","227","county_road",
+"E4 Nikkala-Salmis","Haparanda kommun","E4 Nikkala-Salmis","E4","E4","street",
+"Lv 118 Hammar - Bjärlöv","Kristianstads kommun","Lv 118 Hammar - Bjärlöv","Länsväg 118","118","county_road",
+"Rv 49 Skövde - Tibro","Tibro kommun","Rv 49 Skövde - Tibro","Riksväg 49","49","national_road",
+"Rv 87 Långsele-Österforse","Sollefteå kommun","Rv 87 Långsele-Österforse","Riksväg 87","87","national_road",
+"Rv 23  Braås - Åseda","Uppvidinge kommun","Rv 23  Braås - Åseda","Riksväg 23","23","national_road",
+"Rv 56 Heby-Tärnsjö","Heby kommun","Rv 56 Heby-Tärnsjö","Riksväg 56","56","national_road",
+"Rv 31 Vetlanda - Björkeryd","Vetlanda kommun","Rv 31 Vetlanda - Björkeryd","Riksväg 31","31","national_road",
+"Lv 102 Dalby-Lund","Lunds kommun","Lv 102 Dalby-Lund","Länsväg 102","102","county_road",
+"Lv 940 Forsbäck-E6","Kungsbacka kommun","Lv 940 Forsbäck-E6","Länsväg 940","940","county_road",
+"Lv 194 Värsås-Källebo","Hjo kommun","Lv 194 Värsås-Källebo","Länsväg 194","194","county_road",
+"Lv 200 Skövde(Fjället)-Tidan","Skövde kommun","Lv 200 Skövde(Fjället)-Tidan","Länsväg 200","200","county_road",
+"E10 Svartbyn-Överkalix","Överkalix kommun","E10 Svartbyn-Överkalix","E10","E10","street",
+"Rv 26 Gislaved-Hestra","Gislaveds kommun","Rv 26 Gislaved-Hestra","Riksväg 26","26","national_road",
+"Rv41 Horred -Sundholmen","Marks kommun","Rv41 Horred -Sundholmen","Riksväg 41","41","national_road",
+"Rv 77 Knivsta - Husby Långhundra","Knivsta kommun","Rv 77 Knivsta - Husby Långhundra","Riksväg 77","77","national_road",
+"Lv 132 Huskvarna-Lekeryd","Jönköpings kommun","Lv 132 Huskvarna-Lekeryd","Länsväg 132","132","county_road",
+"Lv 291 Rv76 Älvkarleby-Skutskär","Älvkarleby kommun","Lv 291 Rv76 Älvkarleby-Skutskär","Länsväg 291","291","county_road",
+"RV 25 Hovmantorp-Lessebo","Lessebo kommun","RV 25 Hovmantorp-Lessebo","Riksväg 25","25","national_road",
+"E14 Matfors - Kälsta","Sundsvalls kommun","E14 Matfors - Kälsta","E14","E14","street",
+"21018","Gävle kommun","21018","Riksväg 56","56","national_road","21018"
+"21020","Gävle kommun","21020","Länsväg 509","509","county_road","21020"
+"21021","Hudiksvalls kommun","21021","Riksväg 84","84","national_road","21021"
+"12038","Bjuvs kommun","12038","Länsväg 109","109","county_road","12038"
+"02501","Huddinge kommun","02501","Häradsvägen","Häradsvägen","street","02501"
+"12031","Eslövs kommun","12031","Riksväg 17","17","national_road","12031"
+"12032","Kävlinge kommun","12032","Länsväg 104","104","county_road","12032"
+"12037","Bjuvs kommun","12037","Länsväg 110","110","county_road","12037"
+"25021","Kalix kommun","25021","E10","E10","street","25021"
+"25022","Övertorneå kommun","25022","Riksväg 99","99","national_road","25022"
+"25023","Gällivare kommun","25023","E10","E10","street","25023"
+"20022","Ludvika kommun","20022","Riksväg 66","66","national_road","20022"
+"21024","Hudiksvalls kommun","21024","E4","E4","street","21024"
+"22017","Sundsvalls kommun","22017","E14","E14","street","22017"
+"22018","Härnösands kommun","22018","E4","E4","street","22018"
+"14074","Sotenäs kommun","14074","Länsväg 174","174","county_road","14074"
+"14075","Sotenäs kommun","14075","Länsväg 1186","1186","county_road","14075"
+"14069","Lysekils kommun","14069","Länsväg 162","162","county_road","14069"
+"06016","Sävsjö kommun","06016","Riksväg 30","30","national_road","06016"
+"E22 Hossmo-Rinkabyholm","Kalmar kommun","E22 Hossmo-Rinkabyholm","Riksvägen","Riksvägen","street",
+"E22 Bröms-Påboda","Torsås kommun","E22 Bröms-Påboda","E22","E22","street",
+"Rv 23 Stora Hammaren - Lövhult","Växjö kommun","Rv 23 Stora Hammaren - Lövhult","Riksväg 23","23","national_road",
+"Lv 158 Särö-Kungsbacka","Kungsbacka kommun","Lv 158 Särö-Kungsbacka","Länsväg 158","158","county_road",
+"Rv50 Vadstena-Omberg","Vadstena kommun","Rv50 Vadstena-Omberg","Länsväg 919","919","county_road",
+"Rv55_56 E-länsgräns-Katrineholm","Katrineholms kommun","Rv55/56 E-länsgräns-Katrineholm","Riksväg 55","55","national_road",
+"Lv 512 Plats Röbäck (Röbäck-centrum)","Umeå kommun","Lv 512 Plats Röbäck (Röbäck-centrum)","Riksvägen","Riksvägen","street",
+"Rv 26_47 Månseryd - Slättäng","Jönköpings kommun","Rv 26/47 Månseryd - Slättäng","Riksväg 26","26","national_road",
+"Rv 27 Bor - Bredasten","Värnamo kommun","Rv 27 Bor - Bredasten","Riksväg 27","27","national_road",
+"Rv 25 Sjöatorp - Forsa","Alvesta kommun","Rv 25 Sjöatorp - Forsa","Riksväg 25","25","national_road",
+"Rv 27 Ingelstad - Växjö","Växjö kommun","Rv 27 Ingelstad - Växjö","Riksväg 27","27","national_road",
+"Lv 143 Roma - Roma kyrkby","Gotlands kommun","Lv 143 Roma - Roma kyrkby","Länsväg 143","143","county_road",
+"Lv 108 Svedala - Lund","Svedala kommun","Lv 108 Svedala - Lund","Länsväg 108","108","county_road",
+"E 20 Hova - Bahult","Gullspångs kommun","E 20 Hova - Bahult","E20","E20","street",
+"E4 Hudiksvall-Iggesund","Hudiksvalls kommun","E4 Hudiksvall-Iggesund","Länsväg 583","583","county_road",
+"Rv 50 Överbo - Bollnäs","Söderhamns kommun","Rv 50 Överbo - Bollnäs","Riksväg 50","50","national_road",
+"Rv 90 Veda - Sollefteå","Härnösands kommun","Rv 90 Veda - Sollefteå","Riksväg 90","90","national_road",
+"E 14 Pilgrimstad - Optand","Östersunds kommun","E 14 Pilgrimstad - Optand","E14","E14","street",
+"E 14 Ås - Mörsil","Krokoms kommun","E 14 Ås - Mörsil","E14","E14","street",
+"Rv 23 Rollsberga -  Sandåkra","Höörs kommun","Rv 23 Rollsberga -  Sandåkra","Riksväg 23","23","national_road",
+"Rv 71 Vansbro - Sälen","Vansbro kommun","Rv 71 Vansbro - Sälen","E16","E16","street",
+"E 45 Noppikoski - Älvros","Ljusdals kommun","E 45 Noppikoski - Älvros","E45","E45","street",
+"E 22 Tätort Linderöd (väster-öster)","Kristianstads kommun","E 22 Tätort Linderöd (väster-öster)","E22","E22","street",
+"E 22 Tätort Sätaröd","Kristianstads kommun","E 22 Tätort Sätaröd","E22","E22","street",
+"E 22 Tätort Tollarp (öster-väster)","Kristianstads kommun","E 22 Tätort Tollarp (öster-väster)","E22","E22","street",
+"E6.20 Vädermotet (155) - Klarebergsmotet(45)","Göteborgs kommun","E6.20 Vädermotet (155) - Klarebergsmotet(45)","E6/20","E6/20","street",
+"Rv23_34 Målilla-Gullringen","Vimmerby kommun","Rv23/34 Målilla-Gullringen","Riksväg 23","23","national_road",
+"Rv 52 Skavsta-Nyköping","Nyköpings kommun","Rv 52 Skavsta-Nyköping","Riksväg 52","52","national_road",
+"E 22 Lösen - Jämjö","Karlskrona kommun","E 22 Lösen - Jämjö","E22","E22","street",
+"E 45 Del genom Göta","Lilla Edets kommun","E 45 Del genom Göta","E45","E45","street",
+"Rv 27 Kärda - Bredaryd","Värnamo kommun","Rv 27 Kärda - Bredaryd","Riksväg 27","27","national_road",
+"Rv31_40 Nässjö-Eksjö","Nässjö kommun","Rv31/40 Nässjö-Eksjö","Riksväg 31","31","national_road",
+"E 22_Lv 669 Björketorp korsning (väster-öster)","Ronneby kommun","E 22/Lv 669 Björketorp korsning (väster-öster)","E22","E22","street",
+"RV 40 Getared-Toppsjön","Ulricehamns kommun","RV 40 Getared-Toppsjön","Länsväg 1704","1704","county_road",
+"Rv 50   Söderhamn - Överbo","Söderhamns kommun","Rv 50,  Söderhamn - Överbo","Riksväg 50","50","national_road",
+"Lv 61 Arvika -Speked","Arvika kommun","Lv 61 Arvika -Speked","Riksväg 61","61","national_road",
+"Rv 55 Hjulsta - Enköping","Enköpings kommun","Rv 55 Hjulsta - Enköping","Riksväg 55","55","national_road",
+"Rv 27 Tranemo - Länghem","Tranemo kommun","Rv 27 Tranemo - Länghem","Riksväg 27","27","national_road",
+"E 4  Kalix-Bredviken","Kalix kommun","E 4  Kalix-Bredviken","E4","E4","street",
+"Lv 257 Rosenhill - Västerhaninge","Haninge kommun","Lv 257 Rosenhill - Västerhaninge","Länsväg 257","257","county_road",
+"Lv 266 Hedemora-Uppbo Fäggeby","Hedemora kommun","Lv 266 Hedemora-Uppbo Fäggeby","Riksväg 69","69","national_road",
+"Lv 100 Höllviken","Vellinge kommun","Lv 100 Höllviken","Länsväg 100","100","county_road",
+"Rv 27 Bredaryd-Anderstorp","Värnamo kommun","Rv 27 Bredaryd-Anderstorp","Riksväg 27","27","national_road",
+"Rv 35 Åtvidaberg - Grebo","Åtvidabergs kommun","Rv 35 Åtvidaberg - Grebo","Riksväg 35","35","national_road",
+"Rv 44 Baggården (Tre älgar)- Häljestena","Grästorps kommun","Rv 44 Baggården (Tre älgar)- Häljestena","Riksväg 44","44","national_road",
+"Rv 80 Storvik - Hofors","Hofors kommun","Rv 80 Storvik - Hofors","E16","E16","street",
+"E4 Sangis-Nikkala","Kalix kommun","E4 Sangis-Nikkala","E4","E4","street",
+"Rv50 E-länsgräns - Åsbro","Askersunds kommun","Rv50 E-länsgräns - Åsbro","Riksväg 50","50","national_road",
+"Lv1153 E4-Skärblacka","Norrköpings kommun","Lv1153 E4-Skärblacka","Länsväg 1153","1153","county_road",
+"E22 Gladhammar-Verkebäck","Västerviks kommun","E22 Gladhammar-Verkebäck","Riksväg 40","40","national_road",
+"Rv70 Enköping-Sala","Enköpings kommun","Rv70 Enköping-Sala","Riksväg 70","70","national_road",
+"Lv 259 Glömsta - Jordbro","Huddinge kommun","Lv 259 Glömsta - Jordbro","Länsväg 259","259","county_road",
+"Lv226 Stockholm-Vårsta","Huddinge kommun","Lv226 Stockholm-Vårsta","Länsväg 226","226","county_road",
+"Rv 55 Strängnäsbron - Hjulstabron","Strängnäs kommun","Rv 55 Strängnäsbron - Hjulstabron","Riksväg 55","55","national_road",
+"E 45 Vänerborg - N Brålanda","Vänersborgs kommun","E 45 Vänerborg - N Brålanda","E45","E45","street",
+"Lv 161 Skår - Rotviksbro","Uddevalla kommun","Lv 161 Skår - Rotviksbro","Länsväg 161","161","county_road",
+"E 45 Stallbackabron","Trollhättans kommun","E 45 Stallbackabron","E45","E45","street",
+"E 4 Lillåbron - Bygdeå","Robertsfors kommun","E 4 Lillåbron - Bygdeå","E4","E4","street",
+"E 6.21  Lundbytunneln i Göteborg","Göteborgs kommun","E 6.21, Lundbytunneln i Göteborg","E6/21","E6/21","street",
+"Rv 44 Håsten(2044)-Gålstad(2050)","Trollhättans kommun","Rv 44 Håsten(2044)-Gålstad(2050)","Riksväg 44","44","national_road",
+"E20 Skara(184)-Lundsbrunn(2711)","Skara kommun","E20 Skara(184)-Lundsbrunn(2711)","E20","E20","street",
+"Rv55 Örsundsbro-Kvarnbolund","Enköpings kommun","Rv55 Örsundsbro-Kvarnbolund","Riksväg 55","55","national_road",
+"Lv288 Leista-Gimo-Östhammar","Östhammars kommun","Lv288 Leista-Gimo-Östhammar","Länsväg 288","288","county_road",
+"Rv 56 Gysinge - Överhärde","Gävle kommun","Rv 56 Gysinge - Överhärde","Riksväg 56","56","national_road",
+"E 4 Njururundabommen-Sundsvall","Sundsvalls kommun","E 4 Njururundabommen-Sundsvall","Länsväg 562","562","county_road",
+"Rv 63 Karlstad-Molkom","Karlstads kommun","Rv 63 Karlstad-Molkom","Riksväg 63","63","national_road",
+"E 45 Fagerås-Sunne","Sunne kommun","E 45 Fagerås-Sunne","E45","E45","street",
+"Lv 160 Myggenäs(169)-Varekil (734)","Tjörns kommun","Lv 160 Myggenäs(169)-Varekil (734)","Länsväg 160","160","county_road",
+"Rv 26 Halmstad-Oskarström","Halmstads kommun","Rv 26 Halmstad-Oskarström","Riksväg 26","26","national_road",
+"Rv 41 Veddige(865)-Länsgränsen","Varbergs kommun","Rv 41 Veddige(865)-Länsgränsen","Riksväg 41","41","national_road",
+"Lv 111 Laröd-Domsten","Helsingborgs kommun","Lv 111 Laröd-Domsten","Länsväg 111","111","county_road",
+"Rv 70 N Amsberg - Häradsbygden","Borlänge kommun","Rv 70 N Amsberg - Häradsbygden","E16","E16","street",
+"Rv 70 Leksand - Mora","Rättviks kommun","Rv 70 Leksand - Mora","Riksväg 70","70","national_road",
+"E 4 Sikeå - Grimsmark","Robertsfors kommun","E 4 Sikeå - Grimsmark","E4","E4","street",
+"E 4 Grimsmark - Bureå","Skellefteå kommun","E 4 Grimsmark - Bureå","E4","E4","street",
+"E 12 Lycksele (lugnet-centrum)","Lycksele kommun","E 12 Lycksele (lugnet-centrum)","E12","E12","street",
+"E 12 Kvarntorp - Granö","Vindelns kommun","E 12 Kvarntorp - Granö","E12","E12","street",
+"E 12 Umeå - Vännäs","Umeå kommun","E 12 Umeå - Vännäs","Länsväg 507","507","county_road",
+"Rv 97 Luleå - Boden","Bodens kommun","Rv 97 Luleå - Boden","Riksväg 97","97","national_road",
+"E 4 Rosvik - Kopparnäs","Piteå kommun","E 4 Rosvik - Kopparnäs","E4","E4","street",
+"Lv 596 Bensbyn","Luleå kommun","Lv 596 Bensbyn","Länsväg 596","596","county_road",
+"E 10 Svappavaara - Kiruna","Kiruna kommun","E 10 Svappavaara - Kiruna","E10","E10","street",
+"Lv 276 Åkersberga - Roslags Kulla","Österåkers kommun","Lv 276 Åkersberga - Roslags Kulla","Länsväg 276","276","county_road",
+"Lv600 Uppsala-Björklinge","Uppsala kommun","Lv600 Uppsala-Björklinge","Länsväg 600","600","county_road",
+"Rv 56 Katrineholm - St. Sundby","Katrineholms kommun","Rv 56 Katrineholm - St. Sundby","Riksväg 56","56","national_road",
+"Rv 56 Kvicksund - Västjädra","Västerås kommun","Rv 56 Kvicksund - Västjädra","Riksväg 56","56","national_road",
+"Lv 261 Tappström - Brommaplan","Ekerö kommun","Lv 261 Tappström - Brommaplan","Länsväg 261","261","county_road",
+"Lv222 Mölnvik -Stavsnäs","Värmdö kommun","Lv222 Mölnvik -Stavsnäs","Länsväg 222","222","county_road",
+"Rv 50 Vadstena - Motala","Vadstena kommun","Rv 50 Vadstena - Motala","Länsväg 919","919","county_road",
+"E 20 Alingsås - Ribbingsberg","Vårgårda kommun","E 20 Alingsås - Ribbingsberg","E20","E20","street",
+"Rv 46 Falköping - Borgunda","Falköpings kommun","Rv 46 Falköping - Borgunda","Riksväg 46","46","national_road",
+"Rv 44 Filsbäck (2702) - Götene(2721)","Lidköpings kommun","Rv 44 Filsbäck (2702) - Götene(2721)","Riksväg 44","44","national_road",
+"E 45 N Brålanda - Solberg","Melleruds kommun","E 45 N Brålanda - Solberg","E45","E45","street",
+"E 45 Ånimskog (2228) - Åmål (2557)","Åmåls kommun","E 45 Ånimskog (2228) - Åmål (2557)","E45","E45","street",
+"Lv 268 Upplands Väsby - Vallentuna","Upplands Väsby kommun","Lv 268 Upplands Väsby - Vallentuna","Länsväg 268","268","county_road",
+"Rv 21 Kungsborg (väster-öster)","Kristianstads kommun","Rv 21 Kungsborg (väster-öster)","Riksväg 21","21","national_road",
+"Rv 11 Sjöbo - Ö Tommarp","Lunds kommun","Rv 11 Sjöbo - Ö Tommarp","Riksväg 11","11","national_road",
+"Lv 190 Gunnilse - Stannum","Göteborgs kommun","Lv 190 Gunnilse - Stannum","Länsväg 190","190","county_road",
+"Lv 156 Sandvad - Hyssna","Marks kommun","Lv 156 Sandvad - Hyssna","Länsväg 156","156","county_road",
+"Rv 50 Lindsberg - Löa","Lindesbergs kommun","Rv 50 Lindsberg - Löa","Riksväg 50","50","national_road",
+"Rv 56 Västerås - Sala","Västerås kommun","Rv 56 Västerås - Sala","Riksväg 56","56","national_road",
+"Rv 72 Sala - C-länsgräns","Sala kommun","Rv 72 Sala - C-länsgräns","Riksväg 56","56","national_road",
+"Lv 108 Trelleborg-Svedala","Trelleborgs kommun","Lv 108 Trelleborg-Svedala","Länsväg 108","108","county_road",
+"Lv 225   Ösmo- Vårsta","Nynäshamns kommun","Lv 225,  Ösmo- Vårsta","Länsväg 225","225","county_road",
+"Rv 35 Grebo - Linköping","Åtvidabergs kommun","Rv 35 Grebo - Linköping","Riksväg 35","35","national_road",
+"E4 Saltvik-Överdal","Härnösands kommun","E4 Saltvik-Överdal","E4","E4","street",
+"Lv 112 Åstorp-Höganäs","Ängelholms kommun","Lv 112 Åstorp-Höganäs","Länsväg 112","112","county_road",
+"Rv 13 Klippan - Munka Ljungby","Klippans kommun","Rv 13 Klippan - Munka Ljungby","Riksväg 13","13","national_road",
+"E20 Hassle-Holmestad","Mariestads kommun","E20 Hassle-Holmestad","E20","E20","street",
+"Lv 136 Algutsrum-Köpingsvik","Borgholms kommun","Lv 136 Algutsrum-Köpingsvik","Länsväg 136","136","county_road",
+"Rv 83 Tönnebro Vallsta","Bollnäs kommun","Rv 83 Tönnebro Vallsta","Riksväg 83","83","national_road",
+"Lv 282 Uppsala-Funbo","Uppsala kommun","Lv 282 Uppsala-Funbo","Länsväg 282","282","county_road",
+"E4 Kongberget - Bälingsjön","Nordanstigs kommun","E4 Kongberget - Bälingsjön","E4","E4","street",
+"Lv 209 Norrköping-Östra Husby","Norrköpings kommun","Lv 209 Norrköping-Östra Husby","Länsväg 209","209","county_road",
+"Väg 269 Bro - Erikslund","Upplands-Bro kommun","Väg 269 Bro - Erikslund","Länsväg 269","269","county_road",
+"E4 Ullånger - Docksta","Kramfors kommun","E4 Ullånger - Docksta","E4","E4","street",
+"Lv 127 Sävsjö - Vetlanda","Vetlanda kommun","Lv 127 Sävsjö - Vetlanda","Länsväg 127","127","county_road",
+"08006","Emmaboda kommun","08006","Riksväg 25","25","national_road","08006"
+"13007","Laholms kommun","13007","Riksväg 24","24","national_road","13007"
+"13008","Falkenbergs kommun","13008","Länsväg 154","154","county_road","13008"
+"14049","Bengtsfors kommun","14049","Länsväg 172","172","county_road","14049"
+"02022","Tyresö kommun","02022","Länsväg 260","260","county_road","02022"
+"02023","Norrtälje kommun","02023","Länsväg 280","280","county_road","02023"
+"12025","Vellinge kommun","12025","Länsväg 100","100","county_road","12025"
+"12028","Eslövs kommun","12028","Riksväg 17","17","national_road","12028"
+"12027","Kävlinge kommun","12027","Länsväg 108","108","county_road","12027"
+"12026","Örkelljunga kommun","12026","Riksväg 24","24","national_road","12026"
+"12029","Ystads kommun","12029","Riksväg 9","9","national_road","12029"
+"12030","Eslövs kommun","12030","Länsväg 113","113","county_road","12030"
+"14041","Tidaholms kommun","14041","Riksväg 26","26","national_road","14041"
+"14042","Marks kommun","14042","Riksväg 41","41","national_road","14042"
+"14046","Skara kommun","14046","Riksväg 49","49","national_road","14046"
+"14048","Tjörns kommun","14048","Länsväg 169","169","county_road","14048"
+"14051","Mariestads kommun","14051","Länsväg 202","202","county_road","14051"
+"14052","Göteborgs kommun","14052","Länsväg 587","587","county_road","14052"
+"02026","Värmdö kommun","02026","Länsväg 646","646","county_road","02026"
+"02027","Värmdö kommun","02027","Länsväg 274","274","county_road","02027"
+"02018","Norrtälje kommun","02018","Riksväg 76","76","national_road","02018"
+"02025","Norrtälje kommun","02025","Länsväg 283","283","county_road","02025"
+"21019","Ovanåkers kommun","21019","Länsväg 301","301","county_road","21019"
+"21017","Gävle kommun","21017","Riksväg 56","56","national_road","21017"
+"22015","Örnsköldsviks kommun","22015","E4","E4","street","22015"
+"21016","Ovanåkers kommun","21016","Länsväg 301","301","county_road","21016"
+"20016","Avesta kommun","20016","Riksväg 68","68","national_road","20016"
+"20018","Falu kommun","20018","Riksväg 69","69","national_road","20018"
+"20012","Smedjebackens kommun","20012","Riksväg 66","66","national_road","20012"
+"20013","Ludvika kommun","20013","Riksväg 50","50","national_road","20013"
+"20014","Hedemora kommun","20014","Länsväg 270","270","county_road","20014"
+"03016","Uppsala kommun","03016","Länsväg 272","272","county_road","03016"
+"14067","Uddevalla kommun","14067","Länsväg 678","678","county_road","14067"
+"14054","Tranemo kommun","14054","Riksväg 27","27","national_road","14054"
+"14055","Ulricehamns kommun","14055","Riksväg 46","46","national_road","14055"
+"14058","Marks kommun","14058","Länsväg 156","156","county_road","14058"
+"14059","Härryda kommun","14059","Länsväg 156","156","county_road","14059"
+"14060","Ulricehamns kommun","14060","Länsväg 157","157","county_road","14060"
+"14061","Orusts kommun","14061","Länsväg 160","160","county_road","14061"
+"14062","Lysekils kommun","14062","Länsväg 162","162","county_road","14062"
+"14063","Uddevalla kommun","14063","Länsväg 172","172","county_road","14063"
+"14064","Skara kommun","14064","Länsväg 184","184","county_road","14064"
+"14065","Kungälvs kommun","14065","Länsväg 604","604","county_road","14065"
+"14066","Kungälvs kommun","14066","Länsväg 625","625","county_road","14066"
+"E18 Björkås-Bergvik","Karlstads kommun","E18 Björkås-Bergvik","E18","E18","street",
+"Rv 17 Snogeröd-Fogdarp","Höörs kommun","Rv 17 Snogeröd-Fogdarp","Riksväg 17","17","national_road",
+"Rv 72 Gamla U Lgr-Uppsala","Uppsala kommun","Rv 72 Gamla U Lgr-Uppsala","Riksväg 72","72","national_road",
+"Rv 26 Smålandsst - Gislaved","Gislaveds kommun","Rv 26 Smålandsst - Gislaved","Riksväg 26","26","national_road",
+"E10 Skaulo - Poultikasvaara","Gällivare kommun","E10 Skaulo - Poultikasvaara","E10","E10","street",
+"E10 Gyljen - Landsjärv","Överkalix kommun","E10 Gyljen - Landsjärv","E10","E10","street",
+"Rv 51.01 Kvarntorp-Örebro","Kumla kommun","Rv 51.01 Kvarntorp-Örebro","Riksväg 51","51","national_road",
+"Rv 55 Dunker-Länna","Flens kommun","Rv 55 Dunker-Länna","Riksväg 55","55","national_road",
+"Rv 55 Flen-Malmköping","Flens kommun","Rv 55 Flen-Malmköping","Riksväg 55","55","national_road",
+"E14 Nacksta - Berg","Sundsvalls kommun","E14 Nacksta - Berg","E14","E14","street",
+"E12 Granö - Lycksele","Vindelns kommun","E12 Granö - Lycksele","E12","E12","street",
+"Lv 156 Hajom-Skoghem","Marks kommun","Lv 156 Hajom-Skoghem","Länsväg 156","156","county_road",
+"Rv 26 Hasslerör -Sjötorp","Mariestads kommun","Rv 26 Hasslerör -Sjötorp","Riksväg 26","26","national_road",
+"E20 Korsningar Kungsör (väster - öster)","Kungsörs kommun","E20 Korsningar Kungsör (väster - öster)","E20","E20","street",
+"Rv66 Söderbärke-Smedjebacken","Smedjebackens kommun","Rv66 Söderbärke-Smedjebacken","Riksväg 66","66","national_road",
+"Lv 153 Klastorp - Rolfstorp","Varbergs kommun","Lv 153 Klastorp - Rolfstorp","Länsväg 153","153","county_road",
+"Rv 52 Baggetorp - Katrineholm","Vingåkers kommun","Rv 52 Baggetorp - Katrineholm","Riksväg 52","52","national_road",
+"Rv 13 Ystad - Sjöbo","Ystads kommun","Rv 13 Ystad - Sjöbo","Riksväg 13","13","national_road",
+"Rv 13 Sjöbo - Hörby","Sjöbo kommun","Rv 13 Sjöbo - Hörby","Riksväg 13","13","national_road",
+"Rv 47 Rännefalan-Tpl Falköping","Falköpings kommun","Rv 47 Rännefalan-Tpl Falköping","Riksväg 47","47","national_road",
+"Rv 66 Smedjebacken - Ludvika","Smedjebackens kommun","Rv 66 Smedjebacken - Ludvika","Riksväg 66","66","national_road",
+"Lv 110 Saxstorp-Ekeby","Bjuvs kommun","Lv 110 Saxstorp-Ekeby","Länsväg 110","110","county_road",
+"E4 Hörnefors-Sörmjöle","Umeå kommun","E4 Hörnefors-Sörmjöle","E4","E4","street",
+"Rv 27 Backaryd","Ronneby kommun","Rv 27 Backaryd","Riksväg 27","27","national_road",
+"Lv 263 Sigtuna-Märsta","Sigtuna kommun","Lv 263 Sigtuna-Märsta","Länsväg 263","263","county_road",
+"Rv 57 Mölnbo-Järna","Södertälje kommun","Rv 57 Mölnbo-Järna","Riksväg 57","57","national_road",
+"Rv 25 Tofta-Simlångsdalen","Halmstads kommun","Rv 25 Tofta-Simlångsdalen","Riksväg 25","25","national_road",
+"Rv 13 Hörby-Höör","Hörby kommun","Rv 13 Hörby-Höör","Riksväg 13","13","national_road",
+"Lv 205 Degerfors-Karlskoga","Degerfors kommun","Lv 205 Degerfors-Karlskoga","Länsväg 205","205","county_road",
+"Rv 66 Oti-Fagersta","Fagersta kommun","Rv 66 Oti-Fagersta","Riksväg 66","66","national_road",
+"Rv 52 Stigtomta-Nyköping","Nyköpings kommun","Rv 52 Stigtomta-Nyköping","Riksväg 52","52","national_road",
+"Rv 52 Kävesta - Sköllersta","Hallsbergs kommun","Rv 52 Kävesta - Sköllersta","Riksväg 52","52","national_road",
+"Rv 83 Skästra","Ljusdals kommun","Rv 83 Skästra","Riksväg 83","83","national_road",
+"Rv 51 Kvarntorp-Kumla","Kumla kommun","Rv 51 Kvarntorp-Kumla","Riksväg 52","52","national_road",
+"Lv 250 Köping-Kolsva","Köpings kommun","Lv 250 Köping-Kolsva","Länsväg 250","250","county_road",
+"Lv 274 Ladvik-Vaxholm","Vaxholms kommun","Lv 274 Ladvik-Vaxholm","Länsväg 274","274","county_road",
+"Österleden","Västerås kommun","Österleden","Österleden","Österleden","street",
+"Väg 616 Gäddvik - Bergnäset","Luleå kommun","Väg 616 Gäddvik - Bergnäset","Länsväg 616","616","county_road",
+"Lv 563 Björlanda - Bärby","Göteborgs kommun","Lv 563 Björlanda - Bärby","Länsväg 563","563","county_road",
+"E 20 Åängen - Ledsjön","Götene kommun","E 20 Åängen - Ledsjön","E20","E20","street",
+"Rv 49 Axvall - Varnhem","Skara kommun","Rv 49 Axvall - Varnhem","Riksväg 49","49","national_road",
+"Rv 26 Drevsta Övre Kvarnmotet","Kristinehamns kommun","Rv 26 Drevsta Övre Kvarnmotet","Riksväg 26","26","national_road",
+"Rv 50 Löa-Grängesberg","Ljusnarsbergs kommun","Rv 50 Löa-Grängesberg","Riksväg 50","50","national_road",
+"Rv 50 Nykyrka-Örebro länsgräns","Motala kommun","Rv 50 Nykyrka-Örebro länsgräns","Riksväg 50","50","national_road",
+"Rv 32 Sommen-Boxholm","Boxholms kommun","Rv 32 Sommen-Boxholm","Riksväg 32","32","national_road",
+"RV52 Sköllersta-Lännäs","Örebro kommun","RV52 Sköllersta-Lännäs","Riksväg 52","52","national_road",
+"E20 Lekåsa-Vara","Vara kommun","E20 Lekåsa-Vara","E20","E20","street",
+"14044","Marks kommun","14044","Riksväg 41","41","national_road","14044"
+"14045","Vara kommun","14045","Riksväg 47","47","national_road","14045"
+"19501","Västerås kommun","19501","Stockholmsvägen","Stockholmsvägen","street","19501"
+"13009","Kungsbacka kommun","13009","Länsväg 939","939","county_road","13009"
+"17008","Kils kommun","17008","Riksväg 61","61","national_road","17008"
+"17007","Torsby kommun","17007","E16","E16","street","17007"
+"20009","Falu kommun","20009","E16","E16","street","20009"
+"20010","Borlänge kommun","20010","Riksväg 70","70","national_road","20010"
+"21011","Bollnäs kommun","21011","Riksväg 83","83","national_road","21011"
+"21014","Ljusdals kommun","21014","Riksväg 83","83","national_road","21014"
+"21013","Nordanstigs kommun","21013","E4","E4","street","21013"
+"21012","Gävle kommun","21012","Riksväg 76","76","national_road","21012"
+"22011","Sundsvalls kommun","22011","Riksväg 86","86","national_road","22011"
+"22012","Sundsvalls kommun","22012","E4","E4","street","22012"
+"25014","Pajala kommun","25014","Riksväg 99","99","national_road","25014"
+"14050","Hjo kommun","14050","Länsväg 195","195","county_road","14050"
+"20011","Hedemora kommun","20011","E16","E16","street","20011"
+"03015","Knivsta kommun","03015","Länsväg 255","255","county_road","03015"
+"03013","Enköpings kommun","03013","Länsväg 263","263","county_road","03013"
+"19008","Västerås kommun","19008","Länsväg 681","681","county_road","19008"
+"04009","Strängnäs kommun","04009","Riksväg 55","55","national_road","04009"
+"03014","Uppsala kommun","03014","Länsväg 272","272","county_road","03014"
+"23004","Åre kommun","23004","E14","E14","street","23004"
+"23007","Östersunds kommun","23007","Länsväg 609","609","county_road","23007"
+"23003","Åre kommun","23003","E14","E14","street","23003"
+"22014","Härnösands kommun","22014","E4","E4","street","22014"
+"22013","Ånge kommun","22013","E14","E14","street","22013"
+"23005","Härjedalens kommun","23005","Riksväg 84","84","national_road","23005"
+"23006","Bergs kommun","23006","E45","E45","street","23006"
+"24013","Skellefteå kommun","24013","Riksväg 95","95","national_road","24013"
+"25017","Piteå kommun","25017","Länsväg 506","506","county_road","25017"
+"25015","Piteå kommun","25015","Länsväg 374","374","county_road","25015"
+"25016","Piteå kommun","25016","Länsväg 373","373","county_road","25016"
+"03017","Håbo kommun","03017","Länsväg 545","545","county_road","03017"
+"04010","Flens kommun","04010","Riksväg 53","53","national_road","04010"
+"05010","Motala kommun","05010","Länsväg 1050","1050","county_road","05010"
+"05012","Linköpings kommun","05012","Länsväg 1136","1136","county_road","05012"
+"05011","Motala kommun","05011","Länsväg 1050","1050","county_road","05011"
+"17009","Arvika kommun","17009","Riksväg 61","61","national_road","17009"
+"13012","Halmstads kommun","13012","Länsväg 610","610","county_road","13012"
+"13010","Halmstads kommun","13010","Riksväg 15","15","national_road","13010"
+"13011","Halmstads kommun","13011","Riksväg 15","15","national_road","13011"
+"20017","Älvdalens kommun","20017","Riksväg 70","70","national_road","20017"
+"07007","Växjö kommun","07007","Riksväg 30","30","national_road","07007"
+"08007","Mörbylånga kommun","08007","Länsväg 943","943","county_road","08007"
+"02019","Norrtälje kommun","02019","Riksväg 77","77","national_road","02019"
+"06014","Vetlanda kommun","06014","Riksväg 31","31","national_road","06014"
+"06015","Sävsjö kommun","06015","Riksväg 30","30","national_road","06015"
+"24014","Umeå kommun","24014","Länsväg 642","642","county_road","24014"
+"20019","Avesta kommun","20019","Riksväg 68","68","national_road","20019"
+"20020","Avesta kommun","20020","Riksväg 70","70","national_road","20020"
