@@ -14,6 +14,8 @@ price_change_6months,Price change compared to 6 months ago,"Prisutveckling, 6 m�
 price_change_12months,Price change compared same time period one year ago,"Prisutveckling, 12 m책n",,
 per_100_beds,Care beds per 100 available beds,Antal per 100 v책rdplatser,Antal per 100 v책rdplatser,
 per_capita,Per capita,Per capita,Per inv책nare,Per capita
+count_per_capita,Absolute number per capita (for situations when we have multiple per_capita measures),Count per capita,Antal per inv책nare,Count per capita
+amount_per_capita,Amount per capita (for situations when we have multiple per_capita measures),Amount per capita,M채ngd per inv책nare,Amount per capita
 amount,"Can be used for, for example price amounts",Amount,M채ngd,Amount
 min,Minimum value,Min,Min,Min
 max,Maximum value,Max,Max,Max
