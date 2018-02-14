@@ -88,18 +88,18 @@
 108,Ängelholms sjukhus,Ängelholms sjukhus,Region Skåne,Ängelholms kommun
 109,Örnsköldsviks sjukhus,Örnsköldsviks sjukhus,Västernorrlands läns landsting,Örnsköldsviks kommun
 110,Östersunds sjukhus,Östersunds sjukhus,Region Jämtland Härjedalen,Östersunds kommun
-111,Psykiatriförvaltningen Blekinge,"Psykiatriförvaltningen, Blekinge",,Karlskrona kommun
-112,Säters sjukhus,Säters sjukhus,,Säters kommun
-113,Psykiatri Halland,Psykiatri Halland,,Halmstads kommun
-114,Vuxenpsykiatriska kliniken Växjö Ljungby,"Vuxenpsykiatriska kliniken, Växjö/Ljungby",,Växjö kommun
-115,Psykiatri Region Skåne,"Psykiatri, Region Skåne",,Malmö kommun
-116,Beroendecentrum Stockholm (SLSO),"Beroendecentrum, Stockholm (SLSO)",,Stockholms kommun
-117,Capio Maria (Psykiatrisk mellanvård),Capio Maria (Psykiatrisk mellanvård),,Stockholms kommun
-118,Psykiatri Nordvästra Stockholm (SLSO),Psykiatri Nordvästra Stockholm (SLSO),,Stockholms kommun
-119,Psykiatri Norra Stockholm (SLSO),Psykiatri Norra Stockholm (SLSO),,Stockholms kommun
-120,Psykiatri Sydvästra Stockholm (SLSO),Psykiatri Sydvästra Stockholm (SLSO),,Stockholms kommun
-121,Psykiatri Södra Stockholm (SLSO),Psykiatri Södra Stockholm (SLSO),,Stockholms kommun
-122,Psykiatricentrum Södertälje (SLSO),Psykiatricentrum Södertälje (SLSO),,Södertälje kommun
-123,Psykiatri barn och unga Västmanland,"Psykiatri, barn och unga, Västmanland",,Västerås kommun
-124,Psykiatri vuxna Västmanland,"Psykiatri, vuxna, Västmanland",,Västerås kommun
-125,Psykiatriförvaltningen Örebro läns landsting,Psykiatriförvaltningen Örebro läns landsting,,Örebro kommun
+111,Psykiatriförvaltningen Blekinge,"Psykiatriförvaltningen, Blekinge",Blekinge läns landsting,Karlskrona kommun
+112,Säters sjukhus,Säters sjukhus,Landstinget Dalarna,Säters kommun
+113,Psykiatri Halland,Psykiatri Halland,Region Halland,Halmstads kommun
+114,Vuxenpsykiatriska kliniken Växjö Ljungby,"Vuxenpsykiatriska kliniken, Växjö/Ljungby",Region Kronoberg,Växjö kommun
+115,Psykiatri Region Skåne,"Psykiatri, Region Skåne",Region Skåne,Malmö kommun
+116,Beroendecentrum Stockholm (SLSO),"Beroendecentrum, Stockholm (SLSO)",Stockholms läns landsting,Stockholms kommun
+117,Capio Maria (Psykiatrisk mellanvård),Capio Maria (Psykiatrisk mellanvård),Stockholms läns landsting,Stockholms kommun
+118,Psykiatri Nordvästra Stockholm (SLSO),Psykiatri Nordvästra Stockholm (SLSO),Stockholms läns landsting,Stockholms kommun
+119,Psykiatri Norra Stockholm (SLSO),Psykiatri Norra Stockholm (SLSO),Stockholms läns landsting,Stockholms kommun
+120,Psykiatri Sydvästra Stockholm (SLSO),Psykiatri Sydvästra Stockholm (SLSO),Stockholms läns landsting,Stockholms kommun
+121,Psykiatri Södra Stockholm (SLSO),Psykiatri Södra Stockholm (SLSO),Stockholms läns landsting,Stockholms kommun
+122,Psykiatricentrum Södertälje (SLSO),Psykiatricentrum Södertälje (SLSO),Stockholms läns landsting,Södertälje kommun
+123,Psykiatri barn och unga Västmanland,"Psykiatri, barn och unga, Västmanland",Västmanlands läns landsting,Västerås kommun
+124,Psykiatri vuxna Västmanland,"Psykiatri, vuxna, Västmanland",Västmanlands läns landsting,Västerås kommun
+125,Psykiatriförvaltningen Örebro läns landsting,Psykiatriförvaltningen Örebro läns landsting,Region Örebro län,Örebro kommun
