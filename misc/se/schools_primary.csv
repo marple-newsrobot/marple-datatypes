@@ -1,1 +1,14 @@
-id,label,parent,school_level,municipality
+id,label,municipality,school_level
+71387206,Ahlafors Fria skola,Ale kommun,primary_school
+72616393,Alboskolan,Ale kommun,primary_school
+48529699,Aroseniusskolan,Ale kommun,primary_school
+11043800,Bohusskolan,Ale kommun,primary_school
+61084420,Da Vinciskolan,Ale kommun,primary_school
+97093265,Garnvindeskolan,Ale kommun,primary_school
+54807007,Himlaskolan,Ale kommun,primary_school
+16944234,Kyrkbyskolan,Ale kommun,primary_school
+76059594,Madenskolan,Ale kommun,primary_school
+12789480,Nolskolan,Ale kommun,primary_school
+22564015,Nödingeskolan,Ale kommun,primary_school
+81439850,Surteskolan,Ale kommun,primary_school
+25571287,Älvängenskolan,Ale kommun,primary_school
