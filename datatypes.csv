@@ -40,7 +40,9 @@ household_origin,Household origins,Ursprung för medlemmar i hushåll,Such as fo
 parental_allowence_measurement,Parental allowence measurements,Mått på föräldrapenning,"Such as amount, net days and recipients",str,misc/parental_allowence_measurements
 road_type,Road type,Vägtyp,A road type and/or network,str,misc/road_types
 road_number,Road number,Vägnummer,"A numeric roadnumber in a road system, eg 4 for the international e-road “E4”",int,
-road_segment,Road segment,Vägsträck,A part of a road,str,misc/se/road_segments
+road_segment,Road segment,Vägsträcka,A part of a road,str,misc/se/road_segments
 swedish_school,Swedish schools,Svenska skolor,A Swedish school on any level,str,misc/se/schools_*
 swedish_primary_school,Swedish primary schools,Svenska grundskolor,A Swedish primary school,str,misc/se/schools_primary
 swedish_secondary_school,Swedish secondary schools,Svenska gymnasieskolor,A Swedish secondary school,str,misc/se/schools_secondary
+school_level,School level,Skolnivå,A level of schooling such as ”primary school”,str,misc/schools/school_levels
+teacher_certification,Teacher certification,Lärarbehörighet,For grouping teachers based on certification,str,misc/schools/teacher_certifications
