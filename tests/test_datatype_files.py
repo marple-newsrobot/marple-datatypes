@@ -4,6 +4,7 @@
 
 from fixtures import get_datatype_files, get_ids, get_relations
 import csvkit as csv
+import pandas as pd
 
 def get_duplicates(l):
     return set([x for x in l if l.count(x) > 1])
@@ -75,3 +76,11 @@ def test_regional_datatypes(get_datatype_files):
             reader = csv.DictReader(f)
             headers = reader.fieldnames
             assert "region_level" in headers, "region_level missing in {}".format(file_path)
+
+def test_datatype_file_readability(get_datatype_files):
+    region_files = get_datatype_files(directories=["regions"])
+    for file_path in region_files:
+        try:
+            pd.read_csv(file_path, encoding="utf-8", dtype=object)
+        except:
+            raise AssertionError(file_path)
