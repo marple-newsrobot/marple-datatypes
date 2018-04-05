@@ -46,3 +46,4 @@ swedish_primary_school,Swedish primary schools,Svenska grundskolor,A Swedish pri
 swedish_secondary_school,Swedish secondary schools,Svenska gymnasieskolor,A Swedish secondary school,str,misc/se/schools_secondary
 school_level,School level,Skolnivå,A level of schooling such as ”primary school”,str,misc/schools/school_levels
 teacher_certification,Teacher certification,Lärarbehörighet,For grouping teachers based on certification,str,misc/schools/teacher_certifications
+nace_code,NACE,NACE,"Classification of economic activities in the European Community, revision 2. ",str,misc/eu/nace_codes

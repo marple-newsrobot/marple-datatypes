@@ -1,0 +1,31 @@
+id,label
+NACE: A-S,All NACE activities (except activities of households as employers and as own use producers; activities of extra-territorial organisations and bodies)
+NACE: A,"Agriculture, forestry and fishing"
+NACE: B-S,"Industry, construction and services (except activities of households as employers and extra-territorial organisations and bodies)"
+NACE: B-N,Business economy
+NACE: B-F,Industry and construction
+NACE: B-E,Industry (except construction)
+NACE: B,Mining and quarrying
+NACE: C,Manufacturing
+NACE: D,"Electricity, gas, steam and air conditioning supply"
+NACE: E,"Water supply; sewerage, waste management and remediation activities"
+NACE: F,Construction
+NACE: G-N,Services of the business economy
+NACE: G-I,"Wholesale and retail trade, transport, accomodation and food service activities"
+NACE: G,Wholesale and retail trade; repair of motor vehicles and motorcycles
+NACE: H,Transportation and storage
+NACE: I,Accommodation and food service activities
+NACE: J,Information and communication
+NACE: K,Financial and insurance activities
+NACE: L,Real estate activities
+NACE: M-N,"Professional, scientific and technical activities; administrative and support service activities"
+NACE: M,"Professional, scientific and technical activities"
+NACE: N,Administrative and support service activities
+NACE: O-S,"Public administration and defence; compulsory social security; education; human health and social work activities; arts, entertainment and recreation; other service activities"
+NACE: O-Q,"Public administration, defence, education, human health and social work activities"
+NACE: O,Public administration and defence; compulsory social security
+NACE: P,Education
+NACE: Q,Human health and social work activities
+NACE: R-S,"Arts, entertainment and recreation; other service activities"
+NACE: R,"Arts, entertainment and recreation"
+NACE: S,Other service activities
