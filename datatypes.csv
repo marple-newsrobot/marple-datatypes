@@ -49,4 +49,4 @@ teacher_certification,Teacher certification,Lärarbehörighet,For grouping teach
 nursery_school_certification,Nursery school certification,Behörighet och utbildning i för förskolepersonal,,str,misc/schools/teacher_certifications
 nace_code,NACE,NACE,"Classification of economic activities in the European Community, revision 2. ",str,misc/eu/nace_codes
 ownership,Public/private ownership,Offentligt/privat ägande,Different kinds of ownerships (typically public/private),str,misc/ownerships
-European port,European port,Europeisk hamn,"Maritime ports in Europe, with ids based on Eurostat",str,misc/european_ports
+european port,European port,Europeisk hamn,"Maritime ports in Europe, with ids based on Eurostat",str,misc/european_ports
