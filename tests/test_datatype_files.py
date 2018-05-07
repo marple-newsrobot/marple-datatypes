@@ -76,6 +76,10 @@ def test_regional_datatypes(get_datatype_files):
             reader = csv.DictReader(f)
             headers = reader.fieldnames
             assert "region_level" in headers, "region_level missing in {}".format(file_path)
+            for row in reader:
+                msg = u"'{}' has no region_level in {}".format(row["id"], file_path)
+                assert row["region_level"] is not None, msg
+                assert row["region_level"] != "", msg
 
 def test_datatype_file_readability(get_datatype_files):
     region_files = get_datatype_files(directories=["regions"])
