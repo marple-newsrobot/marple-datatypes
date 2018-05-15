@@ -20,3 +20,4 @@ amount,"Can be used for, for example price amounts",Amount,Mängd,Amount
 min,Minimum value,Min,Min,Min
 max,Maximum value,Max,Max,Max
 children_per_staff,Number of children per staff member,Children per staff,Antal barn per personal,Children per staff
+indicator,Some kind of computed value,Indicator,Indikator,Indicator
