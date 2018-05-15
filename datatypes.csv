@@ -50,4 +50,4 @@ nursery_school_certification,Nursery school certification,Behörighet och utbild
 nace_code,NACE,NACE,"Classification of economic activities in the European Community, revision 2. ",str,misc/eu/nace_codes
 ownership,Public/private ownership,Offentligt/privat ägande,Different kinds of ownerships (typically public/private),str,misc/ownerships
 european port,European port,Europeisk hamn,"Maritime ports in Europe, with ids based on Eurostat",str,misc/european_ports
-economic_sentiment_indicator,Economic sentiment indicator,Indikator för tilltro till ekonomin,A sentiment indicator for how the economy is performing as defined by Eurostat,str,misc/economic_sentiment_indicators  
+economic_sentiment_indicator,Economic sentiment indicator,Indikator för tilltro till ekonomin,A sentiment indicator for how the economy is performing as defined by Eurostat,str,misc/economic_sentiment_indicators
