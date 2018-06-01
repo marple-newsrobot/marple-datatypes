@@ -5,6 +5,7 @@ BE_0BEOST,Oostende (Ostend),Belgium,port
 BE_0BEZEE,Zeebrugge,Belgium,port
 BG_0BGBOJ,Burgas,Bulgaria,port
 BG_0BGVAR,Varna,Bulgaria,port
+BG_0BG888,Bulgaria - other ports,Bulgaria,port
 DK_0DKAAL,Aalborg,Denmark,port
 DK_0DKARK,Ærøskøbing,Denmark,port
 DK_0DKAAR,Århus,Denmark,port
@@ -72,7 +73,10 @@ DE_1DECUX,Cuxhaven,Germany,port
 DE_1DEDAG,Dagebüll,Germany,port
 DE_2DEECK,Eckernförde,Germany,port
 DE_1DEEME,Emden,Germany,port
+DE_1DE76Y,Esens,Germany,port
 DE_2DEFLF,Flensburg,Germany,port
+DE_2DE117,Flensburger Förde - other ports,Germany,port
+DE_1DE017,Föhr,Germany,port
 DE_1DEHAM,Hamburg,Germany,port
 DE_2DEHHF,Heiligenhafen,Germany,port
 DE_1DEHGL,Helgoland,Germany,port
@@ -99,12 +103,15 @@ DE_1DEAGE,Wangerooge,Germany,port
 DE_1DEWED,Wedel-Schulau,Germany,port
 DE_1DEWVN,Wilhelmshaven,Germany,port
 DE_1DEWMD,Wittmund,Germany,port
+DE_2DE115,Germany (Baltic Sea) - other ports,Germany,port
+DE_9DE888,Germany (unknown maritime coastal area) - other ports,Germany,port
 EE_0EEHLT,Heltermaa,Estonia,port
 EE_0EEKUI,Kuivastu,Estonia,port
 EE_0EEPAR,Patareisadam,Estonia,port
 EE_0EERHK,Rohuküla,Estonia,port
 EE_0EETLL,Tallinn,Estonia,port
 EE_0EEVIR,Virtsu,Estonia,port
+EE_0EE888,Estonia - other ports,Estonia,port
 IE_0IEORK,Cork,Ireland,port
 IE_0IEDUB,Dublin,Ireland,port
 IE_0IEDLG,Dun Laoghaire,Ireland,port
@@ -245,6 +252,7 @@ EL_0GRVTH,Vathy Samou,Greece,port
 EL_0GRVOL,Volos,Greece,port
 EL_0GRHYD,Ydra,Greece,port
 EL_0GRZTH,Zakynthos,Greece,port
+EL_0GR888,Greece - other ports,Greece,port
 ES_2ESALG,Algeciras,Spain,port
 ES_2ESALC,Alicante,Spain,port
 ES_2ESLEI,Almería,Spain,port
@@ -406,9 +414,13 @@ IT_0ITTMT,Tremiti,Italy,port
 IT_0ITTRS,Trieste,Italy,port
 IT_0ITVCE,Venezia,Italy,port
 IT_0ITVUL,Vulcano Porto,Italy,port
+IT_0IT88C,Italy - main ports (confidential data aggregated by Eurostat),Italy,port
+IT_0IT888,Italy - other ports,Italy,port
 CY_0CYLCA,Larnaka,,port
 CY_0CYLMS,Lemesos,,port
+CY_0CY888,Cyprus - other ports,,port
 LV_0LVRIX,Riga,Latvia,port
+LV_0LV888,Latvia - other ports,Latvia,port
 LT_0LTKLJ,Klaipeda,Lithuania,port
 MT_0MTCKW,Cirkewwa,Malta,port
 MT_0MTMGZ,"Mgarr, Gozo",Malta,port
@@ -424,6 +436,7 @@ NL_0NLTNZ,Terneuzen,Netherlands,port
 NL_0NLVLA,Vlaardingen,Netherlands,port
 NL_0NLVLI,Vlissingen,Netherlands,port
 NL_0NLZSP,Zeeland Seaports,Netherlands,port
+NL_0NL888,Netherlands - other ports,Netherlands,port
 PL_0PLGDN,Gdansk,Poland,port
 PL_0PLGDY,Gdynia,Poland,port
 PL_0PLHEL,Hel,Poland,port
@@ -431,7 +444,9 @@ PL_0PLSWI,Swinoujscie,Poland,port
 PT_0PTFNC,Funchal (Madeira),Portugal,port
 PT_0PTPXO,"Porto Santo (Ilha de Porto Santo, Madeira)",Portugal,port
 PT_0PTSET,Setúbal,Portugal,port
+RO_0RO888,Romania - other ports,,port
 SI_0SIKOP,Koper,Slovenia,port
+SI_0SI888,Slovenia - other ports,Slovenia,port
 FI_0FIECK,Eckerö,Finland,port
 FI_0FIHEL,Helsinki,Finland,port
 FI_0FIMHQ,Mariehamn,Finland,port
@@ -460,6 +475,7 @@ SE_2SEVAG,Varberg,Sweden,port
 SE_1SEVVK,Västervik,Sweden,port
 SE_1SEVBY,Visby,Sweden,port
 SE_1SEYST,Ystad,Sweden,port
+SE_9SE88C,Sweden (confidential data aggregated by Eurostat),Sweden,port
 UK_1GBABD,Aberdeen,United Kingdom of Great Britain,port
 UK_1GBBIF,Barrow-In-Furness,United Kingdom of Great Britain,port
 UK_1GBBEL,Belfast,United Kingdom of Great Britain,port
@@ -507,6 +523,7 @@ UK_1GBTYN,Tyne,United Kingdom of Great Britain,port
 UK_1GBWPT,Warrenpoint,United Kingdom of Great Britain,port
 UK_1GBWEY,Weymouth,United Kingdom of Great Britain,port
 UK_1GBWHV,Whitehaven,United Kingdom of Great Britain,port
+UK_1GB888,United Kingdom - other ports,United Kingdom of Great Britain,port
 NO_0NOBGO,Bergen,Norway,port
 NO_0NOBRG,Borg,Norway,port
 NO_0NOEGD,Eigersund,Norway,port
@@ -560,3 +577,4 @@ TR_2TRTEK,Tekirdag,Turkey,port
 TR_1TRTZX,Trabzon,Turkey,port
 TR_2TRYAL,Yalova,Turkey,port
 TR_1TRZON,Zonguldak,Turkey,port
+TR_9TR888,Turkey (unknown maritime coastal area) - other ports,Turkey,port
