@@ -1,0 +1,19 @@
+id,label,parent,region_level
+DE_1,Germany: North Sea,Germany,costal area
+DE_2,Germany: Baltic Sea,Germany,costal area
+DE_9,Germany: unspecified maritime coastal area,Germany,costal area
+ES_1,Spain: North Atlantic,Spain,costal area
+ES_2,Spain: Mediterranean and South Atlantic,Spain,costal area
+ES_3,Spain: Ceuta,Spain,costal area
+ES_4,Spain: Melilla,Spain,costal area
+FR_1,France: Atlantic / North Sea,France,costal area
+FR_2,France: Mediterranean,France,costal area
+FR_4,France: Guadeloupe and Martinique,France,costal area
+FR_5,France: Réunion,France,costal area
+SE_1,Sweden: Baltic Sea,Sweden,costal area
+SE_2,Sweden: North Sea,Sweden,costal area
+SE_9,Sweden: unspecified maritime coastal area,Sweden,costal area
+UK_1,United Kingdom: Great Britain and Northern Ireland,United Kingdom of Great Britain,costal area
+TR_1,Turkey: Black Sea,Turkey,costal area
+TR_2,Turkey: Mediterranean,Turkey,costal area
+TR_9,Turkey: unspecified maritime coastal area,Turkey,costal area
