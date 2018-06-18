@@ -416,9 +416,9 @@ IT_0ITVCE,Venezia,Italy,port
 IT_0ITVUL,Vulcano Porto,Italy,port
 IT_0IT88C,Italy - main ports (confidential data aggregated by Eurostat),Italy,port
 IT_0IT888,Italy - other ports,Italy,port
-CY_0CYLCA,Larnaka,,port
-CY_0CYLMS,Lemesos,,port
-CY_0CY888,Cyprus - other ports,,port
+CY_0CYLCA,Larnaka,Cyprus,port
+CY_0CYLMS,Lemesos,Cyprus,port
+CY_0CY888,Cyprus - other ports,Cyprus,port
 LV_0LVRIX,Riga,Latvia,port
 LV_0LV888,Latvia - other ports,Latvia,port
 LT_0LTKLJ,Klaipeda,Lithuania,port
@@ -444,7 +444,7 @@ PL_0PLSWI,Swinoujscie,Poland,port
 PT_0PTFNC,Funchal (Madeira),Portugal,port
 PT_0PTPXO,"Porto Santo (Ilha de Porto Santo, Madeira)",Portugal,port
 PT_0PTSET,Setúbal,Portugal,port
-RO_0RO888,Romania - other ports,,port
+RO_0RO888,Romania - other ports,Portugal,port
 SI_0SIKOP,Koper,Slovenia,port
 SI_0SI888,Slovenia - other ports,Slovenia,port
 FI_0FIECK,Eckerö,Finland,port
