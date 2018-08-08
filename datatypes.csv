@@ -44,6 +44,7 @@ road_segment,Road segment,Vägsträcka,A part of a road,str,misc/se/road_segment
 swedish_school,Swedish schools,Svenska skolor,A Swedish school on any level,str,misc/se/schools_*
 swedish_primary_school,Swedish primary schools,Svenska grundskolor,A Swedish primary school,str,misc/se/schools_primary
 swedish_secondary_school,Swedish secondary schools,Svenska gymnasieskolor,A Swedish secondary school,str,misc/se/schools_secondary
+swedish_utbildningsforbund,Svenska utbildningsförbund,Svenska utbildningsförbund,Ett kommunalförbund som står som huvudman för en gymnasieutbildning,str,misc/se/gymnasieforbund
 school_level,School level,Skolnivå,A level of schooling such as ”primary school”,str,misc/schools/school_levels
 teacher_certification,Teacher certification,Lärarbehörighet,For grouping teachers based on certification,str,misc/schools/teacher_certifications
 nursery_school_certification,Nursery school certification,Behörighet och utbildning i för förskolepersonal,,str,misc/schools/teacher_certifications
