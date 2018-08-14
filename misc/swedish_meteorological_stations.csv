@@ -38,8 +38,8 @@ smhi_106360,Gästrike-Hammarby D,106360,Sandvikens kommun,Gävleborgs län,"smhi
 smhi_106460,Kungsberget D,106460,Sandvikens kommun,Gävleborgs län,"smhi_106180,smhi_106360"
 smhi_106540,Ockelbo,106540,Ockelbo kommun,Gävleborgs län,smhi_106570
 smhi_106570,Åmot A,106570,Ockelbo kommun,Gävleborgs län,smhi_106540
-smhi_107010,Vattholma D,107010,Uppsala kommun före 2003,Uppsala län,"smhi_98570,smhi_107040,smhi_97520,smhi_97530,smhi_97510,smhi_98560"
-smhi_107040,Björklinge D,107040,Uppsala kommun före 2003,Uppsala län,"smhi_98570,smhi_97520,smhi_97530,smhi_97510,smhi_107010,smhi_98560"
+smhi_107010,Vattholma D,107010,Uppsala kommun,Uppsala län,"smhi_98570,smhi_107040,smhi_97520,smhi_97530,smhi_97510,smhi_98560"
+smhi_107040,Björklinge D,107040,Uppsala kommun,Uppsala län,"smhi_98570,smhi_97520,smhi_97530,smhi_97510,smhi_107010,smhi_98560"
 smhi_107100,Östervåla D,107100,Heby kommun,Uppsala län,"smhi_106160,smhi_97540"
 smhi_107140,Film A,107140,Östhammars kommun,Uppsala län,"smhi_108180,smhi_108320,smhi_108110"
 smhi_107230,Hedesunda,107230,Gävle kommun,Gävleborgs län,"smhi_107430,smhi_107440,smhi_107560,smhi_107420"
@@ -520,8 +520,7 @@ smhi_81140,Henån,81140,Orusts kommun,Västra Götalands län,smhi_81050
 smhi_81170,Lysekil D,81170,Lysekils kommun,Västra Götalands län,
 smhi_81210,Uddevalla D,81210,Uddevalla kommun,Västra Götalands län,
 smhi_81310,Heden,81310,Munkedals kommun,Västra Götalands län,
-smhi_81350,Väderöarna A,81350,Tanums kommun,Västra Götalands län,smhi_81420
-smhi_81420,Grebbestad,81420,Tanums kommun,Västra Götalands län,smhi_81350
+smhi_81350,Väderöarna A,81350,Tanums kommun,Västra Götalands län,
 smhi_81540,Nordkoster A,81540,Strömstads kommun,Västra Götalands län,smhi_81570
 smhi_81550,Ed D,81550,Dals-Eds kommun,Västra Götalands län,
 smhi_81570,Håvelund,81570,Strömstads kommun,Västra Götalands län,smhi_81540
@@ -533,7 +532,6 @@ smhi_82160,Trökörna,82160,Grästorps kommun,Västra Götalands län,
 smhi_82230,Vänersborg,82230,Vänersborgs kommun,Västra Götalands län,smhi_82360
 smhi_82260,Såtenäs,82260,Lidköpings kommun,Västra Götalands län,"smhi_83210,smhi_83420,smhi_83320,smhi_83400"
 smhi_82360,Kroppefjäll-Granan A,82360,Vänersborgs kommun,Västra Götalands län,smhi_82230
-smhi_82380,Erikstad,82380,Melleruds kommun,Västra Götalands län,
 smhi_82490,Bäckefors,82490,Bengtsfors kommun,Västra Götalands län,smhi_92130
 smhi_82530,Ånimskog,82530,Åmåls kommun,Västra Götalands län,
 smhi_83060,Herrljunga D,83060,Herrljunga kommun,Västra Götalands län,
@@ -634,7 +632,6 @@ smhi_95130,Örebro Flygplats,95130,Örebro kommun,Örebro län,"smhi_95100,smhi_
 smhi_95160,Örebro D,95160,Örebro kommun,Örebro län,"smhi_95100,smhi_95130,smhi_94190,smhi_95240"
 smhi_95240,Ön,95240,Örebro kommun,Örebro län,"smhi_95100,smhi_95130,smhi_94190,smhi_95160"
 smhi_95250,Västvalla,95250,Arboga kommun,Västmanlands län,
-smhi_95300,Nora D,95300,Nora kommun,Örebro län,
 smhi_95340,Spannarboda D,95340,Lindesbergs kommun,Örebro län,"smhi_95530,smhi_95540"
 smhi_95360,Kolsva D,95360,Köpings kommun,Västmanlands län,
 smhi_95490,Riddarhyttan,95490,Skinnskattebergs kommun,Västmanlands län,
@@ -673,9 +670,9 @@ smhi_97350,Hacksta,97350,Enköpings kommun,Uppsala län,"smhi_97330,smhi_97370,s
 smhi_97370,Enköping Mo,97370,Enköpings kommun,Uppsala län,"smhi_97330,smhi_97350,smhi_97380"
 smhi_97380,Enköping,97380,Enköpings kommun,Uppsala län,"smhi_97330,smhi_97350,smhi_97370"
 smhi_97400,Stockholm-Arlanda,97400,Sigtuna kommun,Stockholms län,
-smhi_97510,Uppsala Aut,97510,Uppsala kommun före 2003,Uppsala län,"smhi_98570,smhi_107040,smhi_97520,smhi_97530,smhi_98560,smhi_107010"
-smhi_97520,Uppsala,97520,Uppsala kommun före 2003,Uppsala län,"smhi_98570,smhi_107040,smhi_98560,smhi_97530,smhi_97510,smhi_107010"
-smhi_97530,Uppsala Flygplats,97530,Uppsala kommun före 2003,Uppsala län,"smhi_98570,smhi_107040,smhi_97520,smhi_97510,smhi_107010,smhi_98560"
+smhi_97510,Uppsala Aut,97510,Uppsala kommun,Uppsala län,"smhi_98570,smhi_107040,smhi_97520,smhi_97530,smhi_98560,smhi_107010"
+smhi_97520,Uppsala,97520,Uppsala kommun,Uppsala län,"smhi_98570,smhi_107040,smhi_98560,smhi_97530,smhi_97510,smhi_107010"
+smhi_97530,Uppsala Flygplats,97530,Uppsala kommun,Uppsala län,"smhi_98570,smhi_107040,smhi_97520,smhi_97510,smhi_107010,smhi_98560"
 smhi_97540,Vittinge,97540,Heby kommun,Uppsala län,"smhi_107100,smhi_106160"
 smhi_98040,Berga Mo,98040,Haninge kommun,Stockholms län,"smhi_98110,smhi_98080,smhi_98090"
 smhi_98080,Västerhaninge,98080,Haninge kommun,Stockholms län,"smhi_98110,smhi_98090,smhi_98040"
@@ -690,8 +687,8 @@ smhi_98230,Stockholm A,98230,Stockholms kommun,Stockholms län,"smhi_98210,smhi_
 smhi_98310,Vallentuna,98310,Vallentuna kommun,Stockholms län,
 smhi_98490,Svanberga A,98490,Norrtälje kommun,Stockholms län,"smhi_99270,smhi_108040,smhi_99280,smhi_98500,smhi_99450"
 smhi_98500,Norrveda,98500,Norrtälje kommun,Stockholms län,"smhi_98490,smhi_99270,smhi_108040,smhi_99280,smhi_99450"
-smhi_98560,Almunge,98560,Uppsala kommun före 2003,Uppsala län,"smhi_98570,smhi_107040,smhi_97520,smhi_97530,smhi_97510,smhi_107010"
-smhi_98570,Vällnora D,98570,Uppsala kommun före 2003,Uppsala län,"smhi_107040,smhi_97520,smhi_97530,smhi_97510,smhi_107010,smhi_98560"
+smhi_98560,Almunge,98560,Uppsala kommun,Uppsala län,"smhi_98570,smhi_107040,smhi_97520,smhi_97530,smhi_97510,smhi_107010"
+smhi_98570,Vällnora D,98570,Uppsala kommun,Uppsala län,"smhi_107040,smhi_97520,smhi_97530,smhi_97510,smhi_107010,smhi_98560"
 smhi_99270,Svenska Högarna,99270,Norrtälje kommun,Stockholms län,"smhi_98490,smhi_99450,smhi_108040,smhi_99280,smhi_98500"
 smhi_99280,Svenska Högarna A,99280,Norrtälje kommun,Stockholms län,"smhi_98490,smhi_99270,smhi_108040,smhi_98500,smhi_99450"
 smhi_99450,Söderarm A,99450,Norrtälje kommun,Stockholms län,"smhi_98490,smhi_99270,smhi_108040,smhi_99280,smhi_98500"
