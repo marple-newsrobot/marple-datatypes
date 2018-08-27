@@ -43,7 +43,8 @@ smhi_107040,Björklinge D,107040,Uppsala kommun,Uppsala län,"smhi_98570,smhi_97
 smhi_107100,Östervåla D,107100,Heby kommun,Uppsala län,"smhi_106160,smhi_97540"
 smhi_107140,Film A,107140,Östhammars kommun,Uppsala län,"smhi_108180,smhi_108320,smhi_108110"
 smhi_107230,Hedesunda,107230,Gävle kommun,Gävleborgs län,"smhi_107430,smhi_107440,smhi_107560,smhi_107420"
-smhi_107250,Lövsta,107250,Tierps kommun,Uppsala län,
+smhi_107250,Lövsta,107250,Tierps kommun,Uppsala län,smhi_107260
+smhi_107260,Västland,107260,Tierps kommun,Uppsala län,smhi_107250
 smhi_107340,Älvkarleby D,107340,Älvkarleby kommun,Uppsala län,
 smhi_107420,Gävle A,107420,Gävle kommun,Gävleborgs län,"smhi_107430,smhi_107440,smhi_107230,smhi_107560"
 smhi_107430,Gävle-Åbyggeby,107430,Gävle kommun,Gävleborgs län,"smhi_107440,smhi_107230,smhi_107420,smhi_107560"
