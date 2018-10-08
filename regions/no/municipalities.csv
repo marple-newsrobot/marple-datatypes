@@ -226,7 +226,8 @@ Nannestad,Nannestad,Nannestad kommune,Nannestad,Akershus,,municipality,,57862,0,
 Narvik,Narvik,Narvik kommune,Narvik,Nordland,,municipality,,59101,0,9,"Ballangen,Evenes,Skånland,Gratangen,Lavangen,Bardu"
 Naustdal,Naustdal,Naustdal kommune,Naustdal,Sogn og Fjordane,,municipality,,503622,0,9,"Gloppen,Jølster,Flora,Førde,Askvoll"
 Nedre Eiker,Nedre Eiker,Nedre Eiker kommune,Nedre Eiker,Buskerud,,municipality,,110268,0,9,"Lier,Modum,Drammen,Hof (until 2017-12-31),Øvre Eiker,Holmestrand"
-Nes,Nes,Nes kommune i Akershus,Nes,Akershus,,municipality,,488026,0,9,"Eidsvoll,Nord-Odal,Sør-Odal,Eidskog,Aurskog-Høland,Sørum,Ullensaker"
+Nes i Buskerud,Nes,Nes kommune i Buskerud,Nes,Buskerud,{0} i Buskerud,municipality,,483986,0,9,
+Nes i Akershus,Nes,Nes kommune i Akershus,Nes,Akershus,{0} i Akershus,municipality,,488026,0,9,"Eidsvoll,Nord-Odal,Sør-Odal,Eidskog,Aurskog-Høland,Sørum,Ullensaker"
 Nesna,Nesna,Nesna kommune,Nesna,Nordland,,municipality,,494062,0,9,"Rana,Lurøy,Leirfjord,Dønna"
 Nesodden,Nesodden,Nesodden kommune,Nesodden,Akershus,,municipality,,57864,0,9,"Frogn,Oslo,Bærum,Asker"
 Nesseby,Nesseby,Nesseby kommune,Nesseby,Finnmark,,municipality,,113662,0,9,"Tana,Vadsø,Sør-Varanger,Utsjok"
