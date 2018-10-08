@@ -51,5 +51,8 @@ nursery_school_certification,Nursery school certification,Behörighet och utbild
 nace_code,NACE,NACE,"Classification of economic activities in the European Community, revision 2. ",str,misc/eu/nace_codes
 ownership,Public/private ownership,Offentligt/privat ägande,Different kinds of ownerships (typically public/private),str,misc/ownerships
 european port,European port,Europeisk hamn,"Maritime ports in Europe, with ids based on Eurostat",str,misc/european_ports
-european costal area,European costal area,Europeiskt kustområde,"As used by Eurostat",str,misc/european_costal_areas
+european costal area,European costal area,Europeiskt kustområde,As used by Eurostat,str,misc/european_costal_areas
 economic_sentiment_indicator,Economic sentiment indicator,Indikator för tilltro till ekonomin,A sentiment indicator for how the economy is performing as defined by Eurostat,str,misc/economic_sentiment_indicators
+norwegian region,norwegian regions,Norska regioner,A norwegian administrative region,str,regions/no/*
+norwegian county,norwegian counties,Norska fylken,"A norwegian county (fylke), past or present",str,regions/no/counties
+norwegian municipality,norwegian municipalities,Norska kommuner,"A norwegian municipality, past or present",str,regions/no/municipalities
