@@ -43,8 +43,7 @@ smhi_107040,Björklinge D,107040,Uppsala kommun,Uppsala län,"smhi_98570,smhi_97
 smhi_107100,Östervåla D,107100,Heby kommun,Uppsala län,"smhi_106160,smhi_97540"
 smhi_107140,Film A,107140,Östhammars kommun,Uppsala län,"smhi_108180,smhi_108320,smhi_108110"
 smhi_107230,Hedesunda,107230,Gävle kommun,Gävleborgs län,"smhi_107430,smhi_107440,smhi_107560,smhi_107420"
-smhi_107250,Lövsta,107250,Tierps kommun,Uppsala län,smhi_107260
-smhi_107260,Västland,107260,Tierps kommun,Uppsala län,smhi_107250
+smhi_107260,Västland,107260,Tierps kommun,Uppsala län,
 smhi_107340,Älvkarleby D,107340,Älvkarleby kommun,Uppsala län,
 smhi_107420,Gävle A,107420,Gävle kommun,Gävleborgs län,"smhi_107430,smhi_107440,smhi_107230,smhi_107560"
 smhi_107430,Gävle-Åbyggeby,107430,Gävle kommun,Gävleborgs län,"smhi_107440,smhi_107230,smhi_107420,smhi_107560"
@@ -55,19 +54,18 @@ smhi_108110,Risinge,108110,Östhammars kommun,Uppsala län,"smhi_108180,smhi_107
 smhi_108180,Söderby-Karlsäng D,108180,Östhammars kommun,Uppsala län,"smhi_107140,smhi_108320,smhi_108110"
 smhi_108320,Örskär A,108320,Östhammars kommun,Uppsala län,"smhi_108180,smhi_107140,smhi_108110"
 smhi_112020,Löten D,112020,Malung-Sälens kommun,Dalarnas län,"smhi_103490,smhi_103420"
-smhi_112230,Storbron,112230,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113230,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_113050,smhi_112540,smhi_114140"
-smhi_112360,Gördalen D,112360,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113230,smhi_113260,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
-smhi_112520,Idre D,112520,Älvdalens kommun,Dalarnas län,"smhi_113420,smhi_113230,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
-smhi_112540,Idre Fjäll A,112540,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113230,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_114140"
-smhi_113050,Mångsbodarna,113050,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113230,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_112540,smhi_114140"
-smhi_113230,Trängslet,113230,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
-smhi_113260,Nornäs D,113260,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113230,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
-smhi_113410,Särna D,113410,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113230,smhi_113260,smhi_112360,smhi_123020,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
-smhi_113420,Särna A,113420,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113230,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
+smhi_112230,Storbron,112230,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_113050,smhi_112540,smhi_114140"
+smhi_112360,Gördalen D,112360,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113260,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
+smhi_112520,Idre D,112520,Älvdalens kommun,Dalarnas län,"smhi_113420,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
+smhi_112540,Idre Fjäll A,112540,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_114140"
+smhi_113050,Mångsbodarna,113050,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_112540,smhi_114140"
+smhi_113260,Nornäs D,113260,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
+smhi_113410,Särna D,113410,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113260,smhi_112360,smhi_123020,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
+smhi_113420,Särna A,113420,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
 smhi_114070,Orsa D,114070,Orsa kommun,Dalarnas län,smhi_114120
 smhi_114080,Våmhus D,114080,Mora kommun,Dalarnas län,"smhi_104580,smhi_104540"
 smhi_114120,Skattungbyn D,114120,Orsa kommun,Dalarnas län,smhi_114070
-smhi_114140,Älvdalen A,114140,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113230,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_112540"
+smhi_114140,Älvdalen A,114140,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113260,smhi_112360,smhi_113410,smhi_123020,smhi_112230,smhi_113050,smhi_112540"
 smhi_114390,Lillhamra D,114390,Ljusdals kommun,Gävleborgs län,"smhi_114480,smhi_116430,smhi_115500,smhi_115450,smhi_126120,smhi_125030,smhi_114410"
 smhi_114410,Hamra A,114410,Ljusdals kommun,Gävleborgs län,"smhi_114480,smhi_116430,smhi_115500,smhi_115450,smhi_126120,smhi_125030,smhi_114390"
 smhi_114480,Fågelsjö D,114480,Ljusdals kommun,Gävleborgs län,"smhi_116430,smhi_115500,smhi_115450,smhi_126120,smhi_125030,smhi_114390,smhi_114410"
@@ -94,7 +92,7 @@ smhi_122270,Medskogen,122270,Härjedalens kommun,Jämtlands län,"smhi_122330,sm
 smhi_122330,Ljusnedal,122330,Härjedalens kommun,Jämtlands län,"smhi_122200,smhi_122260,smhi_122270,smhi_123340,smhi_123060,smhi_124040,smhi_124110,smhi_122370,smhi_124030"
 smhi_122370,Malmagen,122370,Härjedalens kommun,Jämtlands län,"smhi_122330,smhi_122260,smhi_122270,smhi_123340,smhi_122200,smhi_123060,smhi_124040,smhi_124110,smhi_124030"
 smhi_122510,Ljungdalen,122510,Bergs kommun,Jämtlands län,"smhi_124280,smhi_124300,smhi_124290,smhi_124400,smhi_123460,smhi_124480"
-smhi_123020,Häggberget D,123020,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113230,smhi_113260,smhi_112360,smhi_113410,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
+smhi_123020,Häggberget D,123020,Älvdalens kommun,Dalarnas län,"smhi_112520,smhi_113420,smhi_113260,smhi_112360,smhi_113410,smhi_112230,smhi_113050,smhi_112540,smhi_114140"
 smhi_123060,Dravagen A,123060,Härjedalens kommun,Jämtlands län,"smhi_122330,smhi_122260,smhi_122270,smhi_123340,smhi_122200,smhi_124040,smhi_124110,smhi_122370,smhi_124030"
 smhi_123340,Hedeviken,123340,Härjedalens kommun,Jämtlands län,"smhi_122330,smhi_122260,smhi_122270,smhi_122200,smhi_123060,smhi_124040,smhi_124110,smhi_122370,smhi_124030"
 smhi_123460,Börtnan A,123460,Bergs kommun,Jämtlands län,"smhi_124280,smhi_124400,smhi_124300,smhi_122510,smhi_124480,smhi_124290"
@@ -215,11 +213,10 @@ smhi_147100,Åsele,147100,Åsele kommun,Västerbottens län,"smhi_148040,smhi_14
 smhi_147390,Latikberg D,147390,Vilhelmina kommun,Västerbottens län,"smhi_155770,smhi_146350,smhi_145570,smhi_155790,smhi_154730"
 smhi_147560,Gunnarn A,147560,Storumans kommun,Västerbottens län,"smhi_156230,smhi_156780,smhi_155970,smhi_156840,smhi_155940,smhi_155960,smhi_164730"
 smhi_148040,Fredrika A,148040,Åsele kommun,Västerbottens län,"smhi_147090,smhi_147020,smhi_147100"
-smhi_148200,Granträsk D,148200,Lycksele kommun,Västerbottens län,"smhi_148370,smhi_148490,smhi_148550,smhi_148330"
-smhi_148330,Lycksele A,148330,Lycksele kommun,Västerbottens län,"smhi_148370,smhi_148490,smhi_148550,smhi_148200"
-smhi_148370,Bäverträsk,148370,Lycksele kommun,Västerbottens län,"smhi_148550,smhi_148490,smhi_148330,smhi_148200"
-smhi_148490,Rusksele D,148490,Lycksele kommun,Västerbottens län,"smhi_148370,smhi_148550,smhi_148330,smhi_148200"
-smhi_148550,Norrby,148550,Lycksele kommun,Västerbottens län,"smhi_148370,smhi_148490,smhi_148330,smhi_148200"
+smhi_148200,Granträsk D,148200,Lycksele kommun,Västerbottens län,"smhi_148370,smhi_148490,smhi_148330"
+smhi_148330,Lycksele A,148330,Lycksele kommun,Västerbottens län,"smhi_148370,smhi_148490,smhi_148200"
+smhi_148370,Bäverträsk,148370,Lycksele kommun,Västerbottens län,"smhi_148490,smhi_148330,smhi_148200"
+smhi_148490,Rusksele D,148490,Lycksele kommun,Västerbottens län,"smhi_148370,smhi_148330,smhi_148200"
 smhi_149120,Vindeln-Sunnansjönäs,149120,Vindelns kommun,Västerbottens län,"smhi_149230,smhi_149340,smhi_149150,smhi_149390"
 smhi_149150,Granö D,149150,Vindelns kommun,Västerbottens län,"smhi_149230,smhi_149340,smhi_149120,smhi_149390"
 smhi_149230,Malkälen D,149230,Vindelns kommun,Västerbottens län,"smhi_149340,smhi_149120,smhi_149150,smhi_149390"
@@ -601,11 +598,12 @@ smhi_87590,Sjögärde,87590,Nynäshamns kommun,Stockholms län,"smhi_87450,smhi_
 smhi_87600,Aspa D,87600,Nyköpings kommun,Södermanlands län,"smhi_96010,smhi_86520"
 smhi_87610,Vagnhärad D,87610,Trosa kommun,Södermanlands län,smhi_87580
 smhi_89230,Gotska Sandön A,89230,Gotlands kommun,Gotlands län,"smhi_78320,smhi_78550,smhi_78390,smhi_78140,smhi_78480,smhi_78420,smhi_78230,smhi_68560,smhi_78400,smhi_78270,smhi_68550,smhi_78130,smhi_78190,smhi_78280"
+smhi_91330,Töcksfors,91330,Årjängs kommun,Värmlands län,smhi_92380
 smhi_92100,Säffle,92100,Säffle kommun,Värmlands län,"smhi_83550,smhi_92120"
 smhi_92120,Svaneholm D,92120,Säffle kommun,Värmlands län,"smhi_92100,smhi_83550"
 smhi_92130,Blomskog A,92130,Bengtsfors kommun,Västra Götalands län,smhi_82490
 smhi_92290,Sölje D,92290,Arvika kommun,Värmlands län,smhi_92410
-smhi_92380,Årjäng,92380,Årjängs kommun,Värmlands län,
+smhi_92380,Årjäng,92380,Årjängs kommun,Värmlands län,smhi_91330
 smhi_92410,Arvika A,92410,Arvika kommun,Värmlands län,smhi_92290
 smhi_92530,Charlottenberg,92530,Eda kommun,Värmlands län,
 smhi_92570,Uddheden D,92570,Sunne kommun,Värmlands län,"smhi_93440,smhi_93520"
