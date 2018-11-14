@@ -13,15 +13,15 @@ id,label,municipality,parent,school_level
 17474377,Alingsås Yrkesgymnasium,Alingsås kommun,Alingsås kommun,secondary_school
 94660328,Allhamra Gymnasieskola,Kinda kommun,Kinda kommun,secondary_school
 47108212,Allvar Gullstrandgymnasiet,Landskrona kommun,Landskrona kommun,secondary_school
-70969714,Alléskolan 1,Hallsbergs kommun,Hallsbergs kommun,secondary_school
-85003442,Alléskolan 2,Hallsbergs kommun,Hallsbergs kommun,secondary_school
-22752398,Alléskolan 3,Hallsbergs kommun,Hallsbergs kommun,secondary_school
-68734112,Alléskolan 4,Hallsbergs kommun,Hallsbergs kommun,secondary_school
-71922787,Alléskolan 5,Hallsbergs kommun,Hallsbergs kommun,secondary_school
-31843016,Alléskolan 6,Hallsbergs kommun,Hallsbergs kommun,secondary_school
-71763475,Alléskolan 6,Hallsbergs kommun,Hallsbergs kommun,secondary_school
-74148070,Alléskolan 7,Hallsbergs kommun,Hallsbergs kommun,secondary_school
-24357034,Alléskolan 8,Hallsbergs kommun,Hallsbergs kommun,secondary_school
+70969714,Alléskolan 1,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
+85003442,Alléskolan 2,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
+22752398,Alléskolan 3,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
+68734112,Alléskolan 4,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
+71922787,Alléskolan 5,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
+31843016,Alléskolan 6,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
+71763475,Alléskolan 6,Hallsbergs kommun,Sydnärkes utbildningsförbund,secondary_school
+74148070,Alléskolan 7,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
+24357034,Alléskolan 8,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
 68920727,AlmaAkademin,Karlstads kommun,Karlstads kommun,secondary_school
 18425335,Almåsgymnasiet A,Borås kommun,Borås kommun,secondary_school
 93281974,Almåsgymnasiet B,Borås kommun,Borås kommun,secondary_school
@@ -78,10 +78,10 @@ id,label,municipality,parent,school_level
 13981977,Bildningscentrum Facetten 2,Åtvidabergs kommun,Åtvidabergs kommun,secondary_school
 24538846,Bildningscentrum Facetten 3,Åtvidabergs kommun,Åtvidabergs kommun,secondary_school
 36886750,Bildningscentrum Facetten 4,Åtvidabergs kommun,Åtvidabergs kommun,secondary_school
-50133877,Birger Sjöberggymnasiet 1,Vänersborgs kommun,Vänersborgs kommun,secondary_school
-49868916,Birger Sjöberggymnasiet 2,Vänersborgs kommun,Vänersborgs kommun,secondary_school
-49951088,Birger Sjöberggymnasiet 3,Vänersborgs kommun,Vänersborgs kommun,secondary_school
-49847116,Birger Sjöberggymnasiet 4,Vänersborgs kommun,Vänersborgs kommun,secondary_school
+50133877,Birger Sjöberggymnasiet 1,Vänersborgs kommun,Kunskapsförbundet Väst,secondary_school
+49868916,Birger Sjöberggymnasiet 2,Vänersborgs kommun,Kunskapsförbundet Väst,secondary_school
+49951088,Birger Sjöberggymnasiet 3,Vänersborgs kommun,Kunskapsförbundet Väst,secondary_school
+49847116,Birger Sjöberggymnasiet 4,Vänersborgs kommun,Kunskapsförbundet Väst,secondary_school
 99279503,Birgittaskolan 1,Linköpings kommun,Linköpings kommun,secondary_school
 63653488,Birgittaskolan 2,Linköpings kommun,Linköpings kommun,secondary_school
 40991561,"Björkhagsskolan, gymnasium",Hofors kommun,Hofors kommun,secondary_school
@@ -95,7 +95,7 @@ id,label,municipality,parent,school_level
 85819857,Blackebergs gymnasium 85819857,Stockholms kommun,Stockholms kommun,secondary_school
 21938183,Bladins gymnasium,Malmö kommun,Malmö kommun,secondary_school
 56802300,Bobergsgymnasiet,Ånge kommun,Ånge kommun,secondary_school
-39555838,Bokenskolan,Jokkmokks kommun,Jokkmokks kommun,secondary_school
+39555838,Bokenskolan,Jokkmokks kommun,Lapplands Kommunalförbund,secondary_school
 87871635,Bolandgymnasiet,Uppsala kommun,Uppsala kommun,secondary_school
 65234368,Bollerups lantbruksinstitut,Tomelilla kommun,Tomelilla kommun,secondary_school
 21648755,Borgarskolan,Gävle kommun,Gävle kommun,secondary_school
@@ -316,12 +316,12 @@ id,label,municipality,parent,school_level
 70847078,Friluftsgymnasiet,Norrtälje kommun,Norrtälje kommun,secondary_school
 21567982,Friskolan Nytorp,Bollnäs kommun,Bollnäs kommun,secondary_school
 19586169,"Frivilliga skolformer, Spångbergsgymnasiet",Filipstads kommun,Filipstads kommun,secondary_school
-29324709,Furubygg,Bromölla kommun,Bromölla kommun,secondary_school
+29324709,Furubygg,Bromölla kommun,Sölvesborgs-Bromöllas Kommunalförbund,secondary_school
 40667807,Furuhedsskolan 1,Kalix kommun,Kalix kommun,secondary_school
 18091973,Furuhedsskolan 2,Kalix kommun,Kalix kommun,secondary_school
-23476801,Furulundsskolan 1,Sölvesborgs kommun,Sölvesborgs kommun,secondary_school
-86351879,Furulundsskolan 2,Sölvesborgs kommun,Sölvesborgs kommun,secondary_school
-56041144,Furulundsskolan 3,Sölvesborgs kommun,Sölvesborgs kommun,secondary_school
+23476801,Furulundsskolan 1,Sölvesborgs kommun,Sölvesborgs-Bromöllas Kommunalförbund,secondary_school
+86351879,Furulundsskolan 2,Sölvesborgs kommun,Sölvesborgs-Bromöllas Kommunalförbund,secondary_school
+56041144,Furulundsskolan 3,Sölvesborgs kommun,Sölvesborgs-Bromöllas Kommunalförbund,secondary_school
 72984079,Fyrisskolan,Uppsala kommun,Uppsala kommun,secondary_school
 51760971,Fässbergsgymnasiet enhet 2,Mölndals kommun,Mölndals kommun,secondary_school
 74322969,"Fågelvik, gymnasieskola",Tibro kommun,Tibro kommun,secondary_school
@@ -384,8 +384,8 @@ id,label,municipality,parent,school_level
 76485705,Hagagymnasiet skolenhet grön,Norrköpings kommun,Norrköpings kommun,secondary_school
 31771188,Hagagymnasiet skolenhet gul,Norrköpings kommun,Norrköpings kommun,secondary_school
 93239262,Hagagymnasiet skolenhet röd,Norrköpings kommun,Norrköpings kommun,secondary_school
-67422309,Haganässkolan 1,Älmhults kommun,Älmhults kommun,secondary_school
 36234905,Haganässkolan 1,Älmhults kommun,Älmhults kommun,secondary_school
+67422309,Haganässkolan 1,Älmhults kommun,Älmhults kommun,secondary_school
 67058407,Haganässkolan2,Älmhults kommun,Älmhults kommun,secondary_school
 55155562,Hagströmska gymnasiet Falun,Falu kommun,Falu kommun,secondary_school
 14057258,Hagströmska gymnasiet Linköping,Linköpings kommun,Linköpings kommun,secondary_school
@@ -406,10 +406,10 @@ id,label,municipality,parent,school_level
 71043974,Hersby gymnasium,Lidingö kommun,Lidingö kommun,secondary_school
 26734780,Hersby gymnasium NATEIM,Lidingö kommun,Lidingö kommun,secondary_school
 25745773,Himmelstalundsgymnasiet,Norrköpings kommun,Norrköpings kommun,secondary_school
-81619482,Hjalmar Lundbohmsskolan enhet 1,Kiruna kommun,Kiruna kommun,secondary_school
-83829189,Hjalmar Lundbohmsskolan enhet 2,Kiruna kommun,Kiruna kommun,secondary_school
-46145886,Hjalmar Lundbohmsskolan enhet 3,Kiruna kommun,Kiruna kommun,secondary_school
-12395564,Hjalmar Lundbohmsskolan enhet 4,Kiruna kommun,Kiruna kommun,secondary_school
+81619482,Hjalmar Lundbohmsskolan enhet 1,Kiruna kommun,Lapplands Kommunalförbund,secondary_school
+83829189,Hjalmar Lundbohmsskolan enhet 2,Kiruna kommun,Lapplands Kommunalförbund,secondary_school
+46145886,Hjalmar Lundbohmsskolan enhet 3,Kiruna kommun,Lapplands Kommunalförbund,secondary_school
+12395564,Hjalmar Lundbohmsskolan enhet 4,Kiruna kommun,Lapplands Kommunalförbund,secondary_school
 59386837,Hjalmar Strömerskolan,Strömsunds kommun,Strömsunds kommun,secondary_school
 99394620,Holavedsgymnasiet ASB,Tranås kommun,Tranås kommun,secondary_school
 95368476,Holavedsgymnasiet CAX,Tranås kommun,Tranås kommun,secondary_school
@@ -494,37 +494,37 @@ id,label,municipality,parent,school_level
 49170638,JENSEN Gymnasium Västerås,Västerås kommun,Västerås kommun,secondary_school
 92192566,JENSEN Gymnasium Örebro,Örebro kommun,Örebro kommun,secondary_school
 46660042,Jacobsskolan,Hässleholms kommun,Hässleholms kommun,secondary_school
-75870780,Jenny Nyströmsskolan 1 ES,Kalmar kommun,Kalmar kommun,secondary_school
-62439199,"Jenny Nyströmsskolan 1 HT, IM",Kalmar kommun,Kalmar kommun,secondary_school
-66132676,"Jenny Nyströmsskolan 2 ES, RL",Kalmar kommun,Kalmar kommun,secondary_school
-12886223,"Jenny Nyströmsskolan 2 HT, RL",Kalmar kommun,Kalmar kommun,secondary_school
-99360748,Jenny Nyströmsskolan 3 IM,Kalmar kommun,Kalmar kommun,secondary_school
-80762863,"Jenny Nyströmsskolan 4 BF, VO",Kalmar kommun,Kalmar kommun,secondary_school
-56271955,Jenny Nyströmsskolan 6 NA,Kalmar kommun,Kalmar kommun,secondary_school
+75870780,Jenny Nyströmsskolan 1 ES,Kalmar kommun,Kalmarsunds gymnasieförbund,secondary_school
+62439199,"Jenny Nyströmsskolan 1 HT, IM",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
+66132676,"Jenny Nyströmsskolan 2 ES, RL",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
+12886223,"Jenny Nyströmsskolan 2 HT, RL",Kalmar kommun,Kalmarsunds gymnasieförbund,secondary_school
+99360748,Jenny Nyströmsskolan 3 IM,Kalmar kommun,Kalmarsunds gymnasieförbund,secondary_school
+80762863,"Jenny Nyströmsskolan 4 BF, VO",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
+56271955,Jenny Nyströmsskolan 6 NA,Kalmar kommun,Kalmarsunds gymnasieförbund,secondary_school
 69747871,Johan Movingers Gymnasium,Solna kommun,Solna kommun,secondary_school
 20228162,Johannes Hedberggymnasiet,Helsingborgs kommun,Helsingborgs kommun,secondary_school
 23350817,John Norlandergymnasiet,Kumla kommun,Kumla kommun,secondary_school
-17184072,"Jämtlands Gymn, Bispgården",Ragunda kommun,Ragunda kommun,secondary_school
-26864271,"Jämtlands Gymn, Bräcke 4A",Bräcke kommun,Bräcke kommun,secondary_school
-64411379,"Jämtlands Gymn, Bräcke 4B",Bräcke kommun,Bräcke kommun,secondary_school
-32239920,"Jämtlands Gymn, Fyrvalla 3A",Östersunds kommun,Östersunds kommun,secondary_school
-98781765,"Jämtlands Gymn, Fyrvalla 3B",Östersunds kommun,Östersunds kommun,secondary_school
-93208318,"Jämtlands Gymn, Palmcrantz 2C",Östersunds kommun,Östersunds kommun,secondary_school
-31611451,"Jämtlands Gymn, Palmcrantz 3A",Östersunds kommun,Östersunds kommun,secondary_school
-75442735,"Jämtlands Gymn, Palmcrantz 3B",Östersunds kommun,Östersunds kommun,secondary_school
-74661027,"Jämtlands Gymn, Palmcrantz 3D",Östersunds kommun,Östersunds kommun,secondary_school
-64725297,"Jämtlands Gymn, Torsta",Krokoms kommun,Krokoms kommun,secondary_school
-38880984,"Jämtlands Gymn, Wargentin 1A",Östersunds kommun,Östersunds kommun,secondary_school
-28872974,"Jämtlands Gymn, Wargentin 1B",Östersunds kommun,Östersunds kommun,secondary_school
-87112995,"Jämtlands Gymn, Wargentin 1C",Östersunds kommun,Östersunds kommun,secondary_school
-36869352,"Jämtlands Gymn, Wargentin 1D",Östersunds kommun,Östersunds kommun,secondary_school
-69812576,"Jämtlands Gymn, Wargentin 1E",Östersunds kommun,Östersunds kommun,secondary_school
-18686599,"Jämtlands Gymn, Wargentin 2A",Östersunds kommun,Östersunds kommun,secondary_school
-93779220,"Jämtlands Gymn, Wargentin 2B",Östersunds kommun,Östersunds kommun,secondary_school
-77797484,"Jämtlands Gymn, Wargentin 2C",Östersunds kommun,Östersunds kommun,secondary_school
-53279140,"Jämtlands Gymn, Wargentin 2D",Östersunds kommun,Östersunds kommun,secondary_school
-43362941,"Jämtlands Gymn, Wången",Krokoms kommun,Krokoms kommun,secondary_school
-15149235,"Jämtlands Gymn, Åre",Åre kommun,Åre kommun,secondary_school
+17184072,"Jämtlands Gymn, Bispgården",Ragunda kommun,Jämtlands Gymnasieförbund,secondary_school
+26864271,"Jämtlands Gymn, Bräcke 4A",Bräcke kommun,Jämtlands Gymnasieförbund,secondary_school
+64411379,"Jämtlands Gymn, Bräcke 4B",Bräcke kommun,Jämtlands Gymnasieförbund,secondary_school
+32239920,"Jämtlands Gymn, Fyrvalla 3A",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+98781765,"Jämtlands Gymn, Fyrvalla 3B",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+93208318,"Jämtlands Gymn, Palmcrantz 2C",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+31611451,"Jämtlands Gymn, Palmcrantz 3A",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+75442735,"Jämtlands Gymn, Palmcrantz 3B",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+74661027,"Jämtlands Gymn, Palmcrantz 3D",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+64725297,"Jämtlands Gymn, Torsta",Krokoms kommun,Jämtlands Gymnasieförbund,secondary_school
+38880984,"Jämtlands Gymn, Wargentin 1A",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+28872974,"Jämtlands Gymn, Wargentin 1B",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+87112995,"Jämtlands Gymn, Wargentin 1C",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+36869352,"Jämtlands Gymn, Wargentin 1D",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+69812576,"Jämtlands Gymn, Wargentin 1E",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+18686599,"Jämtlands Gymn, Wargentin 2A",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+93779220,"Jämtlands Gymn, Wargentin 2B",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+77797484,"Jämtlands Gymn, Wargentin 2C",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+53279140,"Jämtlands Gymn, Wargentin 2D",Östersunds kommun,Jämtlands Gymnasieförbund,secondary_school
+43362941,"Jämtlands Gymn, Wången",Krokoms kommun,Jämtlands Gymnasieförbund,secondary_school
+15149235,"Jämtlands Gymn, Åre",Åre kommun,Jämtlands Gymnasieförbund,secondary_school
 82084961,Järfälla gymnasium,Järfälla kommun,Järfälla kommun,secondary_school
 80280597,Järna Naturbruksgymnasium,Södertälje kommun,Södertälje kommun,secondary_school
 19456482,KC-gymnasiet,Sotenäs kommun,Sotenäs kommun,secondary_school
@@ -539,14 +539,14 @@ id,label,municipality,parent,school_level
 45830583,Karlskoga Idrottsgymnasium,Karlskoga kommun,Karlskoga kommun,secondary_school
 21363125,Karolinaskolan,Höörs kommun,Höörs kommun,secondary_school
 56886667,Karolinska gymnasiet,Örebro kommun,Örebro kommun,secondary_school
-32550660,Katedralskolan,Uppsala kommun,Uppsala kommun,secondary_school
 56639389,Katedralskolan,Lunds kommun,Lunds kommun,secondary_school
+32550660,Katedralskolan,Uppsala kommun,Uppsala kommun,secondary_school
 53821161,Katedralskolan 1,Linköpings kommun,Linköpings kommun,secondary_school
 46707989,Katedralskolan 1,Växjö kommun,Växjö kommun,secondary_school
-31199511,Katedralskolan 2,Linköpings kommun,Linköpings kommun,secondary_school
 46986216,Katedralskolan 2,Växjö kommun,Växjö kommun,secondary_school
-67924816,Katedralskolan 3,Växjö kommun,Växjö kommun,secondary_school
+31199511,Katedralskolan 2,Linköpings kommun,Linköpings kommun,secondary_school
 12934438,Katedralskolan 3,Linköpings kommun,Linköpings kommun,secondary_school
+67924816,Katedralskolan 3,Växjö kommun,Växjö kommun,secondary_school
 92805465,Katedralskolan 4,Växjö kommun,Växjö kommun,secondary_school
 77986149,Katedralskolan Skara Ro A,Skara kommun,Skara kommun,secondary_school
 30706655,Katedralskolan Skara Ro B,Skara kommun,Skara kommun,secondary_school
@@ -576,7 +576,7 @@ id,label,municipality,parent,school_level
 89461767,Klara Norra Gymnasium Sthlm,Stockholms kommun,Stockholms kommun,secondary_school
 94717858,Klara Södra Gymnasium Sthlm,Stockholms kommun,Stockholms kommun,secondary_school
 60923874,Klaragymnasiet,Halmstads kommun,Halmstads kommun,secondary_school
-15763669,Klaragymnasiet med internat,Olofströms kommun,Olofströms kommun,secondary_school
+15763669,Klaragymnasiet med internat,Olofströms kommun,Kommunsamverkan Cura Individutveckling,secondary_school
 46379730,Kopparlundsgymnasiet,Västerås kommun,Västerås kommun,secondary_school
 31533003,Kristinegymnasiet RO1,Falu kommun,Falu kommun,secondary_school
 31429031,Kristinegymnasiet RO2,Falu kommun,Falu kommun,secondary_school
@@ -635,12 +635,12 @@ id,label,municipality,parent,school_level
 66095163,LBS Ljud & Bildskolan Varberg,Varbergs kommun,Varbergs kommun,secondary_school
 17083056,LBS Ljud & Bildskolan Växjö,Växjö kommun,Växjö kommun,secondary_school
 43826783,Labora Gymnasium,Hylte kommun,Hylte kommun,secondary_school
-75324351,Laestadiusskolan,Pajala kommun,Pajala kommun,secondary_school
+75324351,Laestadiusskolan,Pajala kommun,Lapplands Kommunalförbund,secondary_school
 59521477,Lagmansgymnasiet,Vara kommun,Vara kommun,secondary_school
-77688926,"Lars Kaggskolan 1 NA, HV",Kalmar kommun,Kalmar kommun,secondary_school
-14508922,"Lars Kaggskolan 2 TE, VF",Kalmar kommun,Kalmar kommun,secondary_school
-89409574,Lars Kaggskolan 3 IM,Kalmar kommun,Kalmar kommun,secondary_school
-69629086,"Lars Kaggskolan 4 BA, EE, FT",Kalmar kommun,Kalmar kommun,secondary_school
+77688926,"Lars Kaggskolan 1 NA, HV",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
+14508922,"Lars Kaggskolan 2 TE, VF",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
+89409574,Lars Kaggskolan 3 IM,Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
+69629086,"Lars Kaggskolan 4 BA, EE, FT",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
 95700485,Lars-Erik Larssongymnasiet,Lunds kommun,Lunds kommun,secondary_school
 52705247,Lejongymnasiet,Kristianstads kommun,Kristianstads kommun,secondary_school
 44417214,Leksands gymnasium,Leksands kommun,Leksands kommun,secondary_school
@@ -700,10 +700,10 @@ id,label,municipality,parent,school_level
 69271071,Magelungens Gymnasium Jönköping,Jönköpings kommun,Jönköpings kommun,secondary_school
 45466628,Magelungens Gymnasium Uppsala,Uppsala kommun,Uppsala kommun,secondary_school
 24147242,Magelungens gymnasium Södermalm,Stockholms kommun,Stockholms kommun,secondary_school
-92949043,Magnus Åbergsgymnasiet 1,Trollhättans kommun,Trollhättans kommun,secondary_school
-92818240,Magnus Åbergsgymnasiet 2,Trollhättans kommun,Trollhättans kommun,secondary_school
-92712591,Magnus Åbergsgymnasiet 3,Trollhättans kommun,Trollhättans kommun,secondary_school
-92608619,Magnus Åbergsgymnasiet 4,Trollhättans kommun,Trollhättans kommun,secondary_school
+92949043,Magnus Åbergsgymnasiet 1,Trollhättans kommun,Kunskapsförbundet Väst,secondary_school
+92818240,Magnus Åbergsgymnasiet 2,Trollhättans kommun,Kunskapsförbundet Väst,secondary_school
+92712591,Magnus Åbergsgymnasiet 3,Trollhättans kommun,Kunskapsförbundet Väst,secondary_school
+92608619,Magnus Åbergsgymnasiet 4,Trollhättans kommun,Kunskapsförbundet Väst,secondary_school
 27964873,"Malenagymnasiet, Rektorsområde 1",Sjöbo kommun,Sjöbo kommun,secondary_school
 63931325,Malgomajskolan,Vilhelmina kommun,Vilhelmina kommun,secondary_school
 30361243,Malmö Borgarskola Ro 1,Malmö kommun,Malmö kommun,secondary_school
@@ -715,7 +715,7 @@ id,label,municipality,parent,school_level
 40610473,Malmö Latinskola Ro 2,Malmö kommun,Malmö kommun,secondary_school
 15244697,Malmö Latinskola Ro 3,Malmö kommun,Malmö kommun,secondary_school
 20984584,Malmö Lärlingscenter Ro1,Malmö kommun,Malmö kommun,secondary_school
-68381790,Malung-Sälens gymnasieskola,Malung-Sälens kommun,Malung-Sälens kommun,secondary_school
+68381790,Malung-Sälens gymnasieskola,Malung-Sälens kommun,Västerdalarnas Utbildningsförbund,secondary_school
 73138140,Malå gymnasieskola,Malå kommun,Malå kommun,secondary_school
 82814120,Marina läroverket i Danderyd,Danderyds kommun,Danderyds kommun,secondary_school
 16956086,Marks Gymnasieskola,Marks kommun,Marks kommun,secondary_school
@@ -759,7 +759,7 @@ id,label,municipality,parent,school_level
 71160225,Mjölby gymnasium 2,Mjölby kommun,Mjölby kommun,secondary_school
 67752682,Mjölby gymnasium 4,Mjölby kommun,Mjölby kommun,secondary_school
 47884009,Mjölby gymnasium 5,Mjölby kommun,Mjölby kommun,secondary_school
-98714145,Mjölnergymnasiet 1,Torsås kommun,Torsås kommun,secondary_school
+98714145,Mjölnergymnasiet 1,Torsås kommun,Kalmarsunds Gymnasieförbund,secondary_school
 44672598,"Mora gymnasium, ro 1",Mora kommun,Mora kommun,secondary_school
 75340089,"Mora gymnasium, ro 2",Mora kommun,Mora kommun,secondary_school
 63997677,"Mora gymnasium, ro 3",Mora kommun,Mora kommun,secondary_school
@@ -797,8 +797,8 @@ id,label,municipality,parent,school_level
 48244956,NTI-gymnasiet Sundsvall,Sundsvalls kommun,Sundsvalls kommun,secondary_school
 37517404,NTI-gymnasiet Södertälje,Södertälje kommun,Södertälje kommun,secondary_school
 57668673,NTI-gymnasiet Umeå,Umeå kommun,Umeå kommun,secondary_school
-32420077,"NVU, Brinellskolan 1",Fagersta kommun,Fagersta kommun,secondary_school
-48434184,"NVU, Brinellskolan 2",Fagersta kommun,Fagersta kommun,secondary_school
+32420077,"NVU, Brinellskolan 1",Fagersta kommun,Norra Västmanlands Utbildningsförbund,secondary_school
+48434184,"NVU, Brinellskolan 2",Fagersta kommun,Norra Västmanlands Utbildningsförbund,secondary_school
 62855448,Nacka Enskilda Gymnasium,Nacka kommun,Nacka kommun,secondary_school
 36252055,"Nacka gymnasium, Natur & Teknik",Nacka kommun,Nacka kommun,secondary_school
 91812793,"Nacka gymnasium, Samhälle",Nacka kommun,Nacka kommun,secondary_school
@@ -814,9 +814,9 @@ id,label,municipality,parent,school_level
 49379603,Naturlära i Hälsingland,Bollnäs kommun,Bollnäs kommun,secondary_school
 44392995,Nicolaiskolan,Helsingborgs kommun,Helsingborgs kommun,secondary_school
 44240250,Nifsarpsskolan fri,Eksjö kommun,Eksjö kommun,secondary_school
-84329061,Nils Ericsonsgymnasiet 1,Trollhättans kommun,Trollhättans kommun,secondary_school
-84225089,Nils Ericsonsgymnasiet 2,Trollhättans kommun,Trollhättans kommun,secondary_school
-84978047,Nils Ericsonsgymnasiet 3,Trollhättans kommun,Trollhättans kommun,secondary_school
+84329061,Nils Ericsonsgymnasiet 1,Trollhättans kommun,Kunskapsförbundet Väst,secondary_school
+84225089,Nils Ericsonsgymnasiet 2,Trollhättans kommun,Kunskapsförbundet Väst,secondary_school
+84978047,Nils Ericsonsgymnasiet 3,Trollhättans kommun,Kunskapsförbundet Väst,secondary_school
 58518163,Nils Fredriksson Utbildning,Svedala kommun,Svedala kommun,secondary_school
 22446331,Nils Holgerssongy i Skurup,Skurups kommun,Skurups kommun,secondary_school
 61119556,Njudungsgymnasiet 1,Vetlanda kommun,Vetlanda kommun,secondary_school
@@ -859,8 +859,8 @@ id,label,municipality,parent,school_level
 63943560,Odenplansgymnasiet,Stockholms kommun,Stockholms kommun,secondary_school
 16555851,Olinsgymnasiet,Skara kommun,Skara kommun,secondary_school
 53462953,Olympiaskolan,Helsingborgs kommun,Helsingborgs kommun,secondary_school
-71512894,Osbecksgymnasiet RO1,Laholms kommun,Laholms kommun,secondary_school
 71517572,Osbecksgymnasiet RO1,Laholms kommun,Laholms kommun,secondary_school
+71512894,Osbecksgymnasiet RO1,Laholms kommun,Laholms kommun,secondary_school
 70969556,Osbecksgymnasiet RO2,Laholms kommun,Laholms kommun,secondary_school
 11311971,Osbecksgymnasiet RO3,Laholms kommun,Laholms kommun,secondary_school
 85459854,Oscarsgymnasiet A,Oskarshamns kommun,Oskarshamns kommun,secondary_school
@@ -1074,8 +1074,8 @@ id,label,municipality,parent,school_level
 25160697,Snitz Gymnasium Malmö,Malmö kommun,Malmö kommun,secondary_school
 25074310,Sofiaängens skola gy,Stockholms kommun,Stockholms kommun,secondary_school
 48009865,Solbergagymnasiet,Arvika kommun,Arvika kommun,secondary_school
-90550365,Sollefteå gymnasium,Sollefteå kommun,Sollefteå kommun,secondary_school
 76903284,Sollefteå gymnasium,Sollefteå kommun,Sollefteå kommun,secondary_school
+90550365,Sollefteå gymnasium,Sollefteå kommun,Sollefteå kommun,secondary_school
 79346084,Solna Gymnasium,Solna kommun,Solna kommun,secondary_school
 65192707,Soltorgsgymnasiet,Borlänge kommun,Borlänge kommun,secondary_school
 98927766,Sorsele gymnasieskola,Sorsele kommun,Sorsele kommun,secondary_school
@@ -1086,12 +1086,12 @@ id,label,municipality,parent,school_level
 95233730,Spångbergsgymnasiet Re 2,Filipstads kommun,Filipstads kommun,secondary_school
 81555202,Spångbergsgymnasiet Re 3,Filipstads kommun,Filipstads kommun,secondary_school
 93242695,"Spångbergsgymnasiet Re 3, IM",Filipstads kommun,Filipstads kommun,secondary_school
-45593337,Staffangymnasiet RO6,Söderhamns kommun,Söderhamns kommun,secondary_school
-90312942,Staffangymnasiet RO7,Söderhamns kommun,Söderhamns kommun,secondary_school
-18768922,Staffangymnasiet RO8,Söderhamns kommun,Söderhamns kommun,secondary_school
-21008461,"Stagneliusskolan 1 SA, SA-A, HA-A, IMIND-A",Kalmar kommun,Kalmar kommun,secondary_school
-54606928,"Stagneliusskolan 2 EK, HA",Kalmar kommun,Kalmar kommun,secondary_school
-53893730,"Stagneliusskolan 3, SA",Kalmar kommun,Kalmar kommun,secondary_school
+45593337,Staffangymnasiet RO6,Söderhamns kommun,Hälsinglands Utbildningsförbund,secondary_school
+90312942,Staffangymnasiet RO7,Söderhamns kommun,Hälsinglands Utbildningsförbund,secondary_school
+18768922,Staffangymnasiet RO8,Söderhamns kommun,Hälsinglands Utbildningsförbund,secondary_school
+21008461,"Stagneliusskolan 1 SA, SA-A, HA-A, IMIND-A",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
+54606928,"Stagneliusskolan 2 EK, HA",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
+53893730,"Stagneliusskolan 3, SA",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
 79592087,Startskolan,Malmö kommun,Malmö kommun,secondary_school
 11033803,Stenstansgymnasiet i Sundsvall,Sundsvalls kommun,Sundsvalls kommun,secondary_school
 85054102,Sthlm Transp&Fordon 85054102,Stockholms kommun,Stockholms kommun,secondary_school
@@ -1210,9 +1210,9 @@ id,label,municipality,parent,school_level
 11673760,Tingvallagymnasiet,Karlstads kommun,Karlstads kommun,secondary_school
 43601850,Torekällgymnasiet,Södertälje kommun,Södertälje kommun,secondary_school
 11294673,Tornedalsskolan,Haparanda kommun,Haparanda kommun,secondary_school
-42218661,Torsbergsgymnasiet RO3,Bollnäs kommun,Bollnäs kommun,secondary_school
-73171934,Torsbergsgymnasiet RO4,Bollnäs kommun,Bollnäs kommun,secondary_school
-83474173,Torsbergsgymnasiet RO5,Bollnäs kommun,Bollnäs kommun,secondary_school
+42218661,Torsbergsgymnasiet RO3,Bollnäs kommun,Hälsinglands Utbildningsförbund,secondary_school
+73171934,Torsbergsgymnasiet RO4,Bollnäs kommun,Hälsinglands Utbildningsförbund,secondary_school
+83474173,Torsbergsgymnasiet RO5,Bollnäs kommun,Hälsinglands Utbildningsförbund,secondary_school
 90076461,Torsås Korrespondensgymnasium 2,Torsås kommun,Torsås kommun,secondary_school
 55150847,Torsås korrespondensgymnasium 1,Torsås kommun,Torsås kommun,secondary_school
 15938431,Traineegymnasiet,Hylte kommun,Hylte kommun,secondary_school
@@ -1269,16 +1269,16 @@ id,label,municipality,parent,school_level
 11953769,Uppvidinge gymnasieskola,Uppvidinge kommun,Uppvidinge kommun,secondary_school
 88573795,"Utsikten, Dals-Eds gymnasium",Dals-Eds kommun,Dals-Eds kommun,secondary_school
 34672151,Uven gymnasiet,Uppsala kommun,Uppsala kommun,secondary_school
-11102578,VBU Högbergsskolan 1,Ludvika kommun,Ludvika kommun,secondary_school
-69306209,VBU Högbergsskolan 2,Ludvika kommun,Ludvika kommun,secondary_school
-92651253,VBU Malmen,Ludvika kommun,Ludvika kommun,secondary_school
-12496135,VBU Smeden,Smedjebackens kommun,Smedjebackens kommun,secondary_school
-29220606,VBU Stegelbacken,Smedjebackens kommun,Smedjebackens kommun,secondary_school
+11102578,VBU Högbergsskolan 1,Ludvika kommun,Västerbergslagens Utbildningsförbund Vbu,secondary_school
+69306209,VBU Högbergsskolan 2,Ludvika kommun,Västerbergslagens Utbildningsförbund Vbu,secondary_school
+92651253,VBU Malmen,Ludvika kommun,Västerbergslagens Utbildningsförbund Vbu,secondary_school
+12496135,VBU Smeden,Smedjebackens kommun,Västerbergslagens Utbildningsförbund Vbu,secondary_school
+29220606,VBU Stegelbacken,Smedjebackens kommun,Västerbergslagens Utbildningscentrum Vbu,secondary_school
 89630851,Vackstanäsgymnasiet,Södertälje kommun,Södertälje kommun,secondary_school
 13006857,Vadsbogymnasiet,Mariestads kommun,Mariestads kommun,secondary_school
 28646435,Vadstenagymnasiet,Vadstena kommun,Vadstena kommun,secondary_school
 85788659,Vallentuna gymnasium,Vallentuna kommun,Vallentuna kommun,secondary_school
-95340745,Vansbro utbildningscenter gy.,Vansbro kommun,Vansbro kommun,secondary_school
+95340745,Vansbro utbildningscenter gy.,Vansbro kommun,Västerdalarnas Utbildningsförbund,secondary_school
 71262305,Vasagymnasiet,Arboga kommun,Arboga kommun,secondary_school
 54965510,Vasaskolan,Gävle kommun,Gävle kommun,secondary_school
 12448823,Vettergymnasiet Jönköping,Jönköpings kommun,Jönköpings kommun,secondary_school
@@ -1308,10 +1308,10 @@ id,label,municipality,parent,school_level
 19741742,Vägga gymnasieskola 3,Karlshamns kommun,Karlshamns kommun,secondary_school
 29032715,Vägga gymnasieskola 4,Karlshamns kommun,Karlshamns kommun,secondary_school
 63983100,Vägga gymnasieskola 5,Karlshamns kommun,Karlshamns kommun,secondary_school
-20666515,Välkommaskolan enhet 1,Gällivare kommun,Gällivare kommun,secondary_school
-37906565,Välkommaskolan enhet 2,Gällivare kommun,Gällivare kommun,secondary_school
-23063954,Välkommaskolan enhet 3,Gällivare kommun,Gällivare kommun,secondary_school
-67279303,Välkommaskolan enhet 4,Gällivare kommun,Gällivare kommun,secondary_school
+20666515,Välkommaskolan enhet 1,Gällivare kommun,Lapplands Kommunalförbund,secondary_school
+37906565,Välkommaskolan enhet 2,Gällivare kommun,Lapplands Kommunalförbund,secondary_school
+23063954,Välkommaskolan enhet 3,Gällivare kommun,Lapplands Kommunalförbund,secondary_school
+67279303,Välkommaskolan enhet 4,Gällivare kommun,Lapplands Kommunalförbund,secondary_school
 76007769,Vänergymnasiet,Mariestads kommun,Mariestads kommun,secondary_school
 34002355,Värmdö Tekniska gymnasieskola,Värmdö kommun,Värmdö kommun,secondary_school
 44412461,Värmdö gymnasium,Värmdö kommun,Värmdö kommun,secondary_school
@@ -1401,7 +1401,7 @@ id,label,municipality,parent,school_level
 34692873,Åva gymnasium 2,Täby kommun,Täby kommun,secondary_school
 77358716,Öckerö Seglande gymnasieskola,Öckerö kommun,Öckerö kommun,secondary_school
 34990065,Öknaskolan,Nyköpings kommun,Nyköpings kommun,secondary_school
-91487291,Ölands Gymnasium 1,Borgholms kommun,Borgholms kommun,secondary_school
+91487291,Ölands Gymnasium 1,Borgholms kommun,Kalmarsunds Gymnasieförbund,secondary_school
 61547652,Önnestadsgymnasiet,Kristianstads kommun,Kristianstads kommun,secondary_school
 28248021,Öresundsgymnasiet Landskrona,Landskrona kommun,Landskrona kommun,secondary_school
 64693272,"Örkelljunga Utb.centrum, gy.",Örkelljunga kommun,Örkelljunga kommun,secondary_school
