@@ -19,7 +19,7 @@ id,label,municipality,parent,school_level
 68734112,Alléskolan 4,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
 71922787,Alléskolan 5,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
 31843016,Alléskolan 6,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
-71763475,Alléskolan 6,Hallsbergs kommun,Sydnärkes utbildningsförbund,secondary_school
+71763475,Alléskolan 6,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
 74148070,Alléskolan 7,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
 24357034,Alléskolan 8,Hallsbergs kommun,Sydnärkes Utbildningsförbund,secondary_school
 68920727,AlmaAkademin,Karlstads kommun,Karlstads kommun,secondary_school
@@ -494,13 +494,13 @@ id,label,municipality,parent,school_level
 49170638,JENSEN Gymnasium Västerås,Västerås kommun,Västerås kommun,secondary_school
 92192566,JENSEN Gymnasium Örebro,Örebro kommun,Örebro kommun,secondary_school
 46660042,Jacobsskolan,Hässleholms kommun,Hässleholms kommun,secondary_school
-75870780,Jenny Nyströmsskolan 1 ES,Kalmar kommun,Kalmarsunds gymnasieförbund,secondary_school
+75870780,Jenny Nyströmsskolan 1 ES,Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
 62439199,"Jenny Nyströmsskolan 1 HT, IM",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
 66132676,"Jenny Nyströmsskolan 2 ES, RL",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
-12886223,"Jenny Nyströmsskolan 2 HT, RL",Kalmar kommun,Kalmarsunds gymnasieförbund,secondary_school
-99360748,Jenny Nyströmsskolan 3 IM,Kalmar kommun,Kalmarsunds gymnasieförbund,secondary_school
+12886223,"Jenny Nyströmsskolan 2 HT, RL",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
+99360748,Jenny Nyströmsskolan 3 IM,Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
 80762863,"Jenny Nyströmsskolan 4 BF, VO",Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
-56271955,Jenny Nyströmsskolan 6 NA,Kalmar kommun,Kalmarsunds gymnasieförbund,secondary_school
+56271955,Jenny Nyströmsskolan 6 NA,Kalmar kommun,Kalmarsunds Gymnasieförbund,secondary_school
 69747871,Johan Movingers Gymnasium,Solna kommun,Solna kommun,secondary_school
 20228162,Johannes Hedberggymnasiet,Helsingborgs kommun,Helsingborgs kommun,secondary_school
 23350817,John Norlandergymnasiet,Kumla kommun,Kumla kommun,secondary_school
@@ -715,7 +715,7 @@ id,label,municipality,parent,school_level
 40610473,Malmö Latinskola Ro 2,Malmö kommun,Malmö kommun,secondary_school
 15244697,Malmö Latinskola Ro 3,Malmö kommun,Malmö kommun,secondary_school
 20984584,Malmö Lärlingscenter Ro1,Malmö kommun,Malmö kommun,secondary_school
-68381790,Malung-Sälens gymnasieskola,Malung-Sälens kommun,Västerdalarnas Utbildningsförbund,secondary_school
+68381790,Malung-Sälens gymnasieskola,Malung-Sälens kommun,Västerdalarnas utbildningsförbund,secondary_school
 73138140,Malå gymnasieskola,Malå kommun,Malå kommun,secondary_school
 82814120,Marina läroverket i Danderyd,Danderyds kommun,Danderyds kommun,secondary_school
 16956086,Marks Gymnasieskola,Marks kommun,Marks kommun,secondary_school
@@ -1273,12 +1273,12 @@ id,label,municipality,parent,school_level
 69306209,VBU Högbergsskolan 2,Ludvika kommun,Västerbergslagens Utbildningsförbund Vbu,secondary_school
 92651253,VBU Malmen,Ludvika kommun,Västerbergslagens Utbildningsförbund Vbu,secondary_school
 12496135,VBU Smeden,Smedjebackens kommun,Västerbergslagens Utbildningsförbund Vbu,secondary_school
-29220606,VBU Stegelbacken,Smedjebackens kommun,Västerbergslagens Utbildningscentrum Vbu,secondary_school
+29220606,VBU Stegelbacken,Smedjebackens kommun,Västerbergslagens Utbildningsförbund Vbu,secondary_school
 89630851,Vackstanäsgymnasiet,Södertälje kommun,Södertälje kommun,secondary_school
 13006857,Vadsbogymnasiet,Mariestads kommun,Mariestads kommun,secondary_school
 28646435,Vadstenagymnasiet,Vadstena kommun,Vadstena kommun,secondary_school
 85788659,Vallentuna gymnasium,Vallentuna kommun,Vallentuna kommun,secondary_school
-95340745,Vansbro utbildningscenter gy.,Vansbro kommun,Västerdalarnas Utbildningsförbund,secondary_school
+95340745,Vansbro utbildningscenter gy.,Vansbro kommun,Västerdalarnas utbildningsförbund,secondary_school
 71262305,Vasagymnasiet,Arboga kommun,Arboga kommun,secondary_school
 54965510,Vasaskolan,Gävle kommun,Gävle kommun,secondary_school
 12448823,Vettergymnasiet Jönköping,Jönköpings kommun,Jönköpings kommun,secondary_school
