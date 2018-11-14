@@ -36,6 +36,7 @@ def test_one_to_one_relations(get_datatype_files, get_ids, get_relations):
     """
     files, ids, relations = get_datatype_files(), get_ids, get_relations
     one_to_one_relations = relations["one_to_one"]
+    invalid_ids = []
     for file_path in files:
         with open(file_path) as f:
             reader = csv.DictReader(f)
@@ -45,10 +46,15 @@ def test_one_to_one_relations(get_datatype_files, get_ids, get_relations):
                     for row in reader:
                         value = row[col]
                         if (value is not None) and (value != ''):
-                            msg = u"{} in column {} is not a valid index"\
-                                    .format(value, col)
-                            assert value in ids
-
+                            if value not in ids:
+                                d = (value, col)
+                                if d not in invalid_ids:
+                                    invalid_ids.append(d)
+    if len(invalid_ids) > 0:
+        l = "\n".join([u"{} in column {}".format(x[0], x[1]) for x in invalid_ids])
+        raise Exception(u"Found {} invalid one to one relationships:\n{}"\
+                                            .format(len(invalid_ids), l)
+)
 def test_one_to_many_relations(get_datatype_files, get_ids, get_relations):
     """ Make sure that all values in eg. neighbous columns are
         valid indecies
