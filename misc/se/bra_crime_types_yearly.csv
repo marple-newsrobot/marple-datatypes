@@ -1,0 +1,820 @@
+id,label,parent
+bra_5036,Totalt antal brott,
+bra_11084,Brott mot brottsbalken,
+bra_11085,Brott mot specialstraffrättsliga författningar,
+bra_11087,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet",bra_11084
+bra_11088,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten",bra_11084
+bra_11089,"Brott mot brottsbalken, 16-22 kap. Brott mot staten",bra_11084
+bra_11086,"Brott mot brottsbalken, 3-7 kap. Brott mot person",bra_11084
+bra_13039,"Brott mot specialstraffrättsliga författningar, Tobakslagen",bra_11085
+bra_13065,"Brott mot specialstraffrättsliga författningar, Lag om förbud mot köp av sexuell tjänst (t.o.m. 2005-03)",bra_11085
+bra_13067,"Brott mot specialstraffrättsliga författningar, Lag om försäljning av teknisk sprit m.m. (t.o.m. 2010-12)",bra_11085
+bra_13092,"Brott mot specialstraffrättsliga författningar, Lag om straff för penningtvättsbrott",bra_11085
+bra_13097,"Brott mot specialstraffrättsliga författningar, Lag med förbud mot könsstympning av kvinnor",bra_11085
+bra_13101,"Brott mot specialstraffrättsliga författningar, Lagen om straff för folkmord (t.o.m. 2014-12)",bra_11085
+bra_13104,"Brott mot specialstraffrättsliga författningar, Brott mot miljöskyddslagen eller naturvårdslagen (t.o.m. 1998-12)",bra_11085
+bra_13105,"Brott mot specialstraffrättsliga författningar, Brott mot skattebrottslagen (2-10 §)",bra_11085
+bra_13113,"Brott mot specialstraffrättsliga författningar, Lagen om näringsförbud, överträdelse (47 §)",bra_11085
+bra_13115,"Brott mot specialstraffrättsliga författningar, Aktiebolagslagen (30 kap.)",bra_11085
+bra_13120,"Brott mot specialstraffrättsliga författningar, Lag om straff för marknadsmissbruk (t.o.m. 2017)",bra_11085
+bra_13175,"Brott mot specialstraffrättsliga författningar, Lag om straff för terroristbrott (2 §)",bra_11085
+bra_13176,"Brott mot specialstraffrättsliga författningar, Lag om straff för offentlig uppmaning, rekrytering och utbildning avseende terroristbrott och annan särskild allvarlig brottslighet (5 §)",bra_11085
+bra_13177,"Brott mot specialstraffrättsliga författningar, Lag om vissa internationella sanktioner (8, 15  §)",bra_11085
+bra_13191,"Brott mot specialstraffrättsliga författningar, Kulturmiljölagen (2 kap. 21 §)",bra_11085
+bra_5066,"Brott mot specialstraffrättsliga författningar, Lag om straff för marknadsmissbruk på värdepappersmarknaden",bra_11085
+bra_5067,"Brott mot specialstraffrättsliga författningar, Lag om straff för marknadsmissbruk på värdepappersmarknaden, Insiderbrott, inkl. grovt (1, 7 §)",bra_11085
+bra_5068,"Brott mot specialstraffrättsliga författningar, Lag om straff för marknadsmissbruk på värdepappersmarknaden, Obehörigt röjande av insiderinformation (3 §)",bra_11085
+bra_5069,"Brott mot specialstraffrättsliga författningar, Lag om straff för marknadsmissbruk på värdepappersmarknaden, Marknadsmanipulation, inkl. grov (4, 7 §)",bra_11085
+bra_11643,"Brott mot specialstraffrättsliga författningar, Brott mot trafikbrottslagen",bra_11085
+bra_11650,"Brott mot specialstraffrättsliga författningar, Brott mot narkotikastrafflagen",bra_11085
+bra_11655,"Brott mot specialstraffrättsliga författningar, Brott mot miljöbalken (29 kap.)",bra_11085
+bra_11689,"Brott mot specialstraffrättsliga författningar, Brott mot bidragsbrottslagen",bra_11085
+bra_11694,"Brott mot specialstraffrättsliga författningar, Lag om straff för smuggling (3-14 §) ",bra_11085
+bra_11699,"Brott mot specialstraffrättsliga författningar, Lagen om punktskattekontroll (5 kap. 1, 1 a §)",bra_11085
+bra_11700,"Brott mot specialstraffrättsliga författningar, Lagen om kontroll av narkotika (13 §)",bra_11085
+bra_11701,"Brott mot specialstraffrättsliga författningar, Alkohollagen (10 kap.)",bra_11085
+bra_11708,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §)",bra_11085
+bra_11713,"Brott mot specialstraffrättsliga författningar, Lagen om förbud betr. knivar m.m. (1, 2, 4 §)",bra_11085
+bra_11714,"Brott mot specialstraffrättsliga författningar, Jaktlagen (43-44, 46 §)",bra_11085
+bra_11717,"Brott mot specialstraffrättsliga författningar, Fiskelagen (37-38, 40 §)",bra_11085
+bra_11718,"Brott mot specialstraffrättsliga författningar, Lagen om åtgärder mot förorening från fartyg (10 kap. 1-5 §)",bra_11085
+bra_11719,"Brott mot specialstraffrättsliga författningar, Arbetsmiljölagen (8 kap. 1,  2 §)",bra_11085
+bra_11720,"Brott mot specialstraffrättsliga författningar, Utlänningslagen (20 kap.)",bra_11085
+bra_11724,"Brott mot specialstraffrättsliga författningar, Lagen om kontaktförbud/besöksförbud",bra_11085
+bra_11725,"Brott mot specialstraffrättsliga författningar, Lagen om tillträdesförbud vid idrottsarrangemang, överträdelse (22 §)",bra_11085
+bra_11726,"Brott mot specialstraffrättsliga författningar, Lagen om förbud mot vissa dopningsmedel (3 §)",bra_11085
+bra_11727,"Brott mot specialstraffrättsliga författningar, Personuppgiftslagen (49 §)",bra_11085
+bra_11728,"Brott mot specialstraffrättsliga författningar, Övriga trafikbrott (ej TBL) m. fängelse i straffskalan",bra_11085
+bra_11729,"Brott mot specialstraffrättsliga författningar, Sjölagen (20 kap.)",bra_11085
+bra_11732,"Brott mot specialstraffrättsliga författningar, Lag om straff för folkmord, brott mot mänskligheten och krigsförbrytelser",bra_11085
+bra_11733,"Brott mot specialstraffrättsliga författningar, Övriga författningar",bra_11085
+bra_11850,"Brott mot specialstraffrättsliga författningar, Lag om straff för finansiering av särskilt allvarlig brottslighet m.m. (3, 4 §)",bra_11085
+bra_11090,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa",bra_11086
+bra_11091,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid",bra_11086
+bra_11092,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott",bra_11086
+bra_11093,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott",bra_11086
+bra_11094,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 7 kap. Brott mot familj",bra_11086
+bra_11095,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m.",bra_11087
+bra_11096,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet",bra_11087
+bra_11097,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 10 kap. Förskingring och annan trolöshet",bra_11087
+bra_11098,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 11 kap. Brott mot borgenärer m.m.",bra_11087
+bra_11099,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 12 kap. Skadegörelsebrott",bra_11087
+bra_11100,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 13 kap. Allmänfarliga brott",bra_11088
+bra_11101,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 14 kap. Förfalskningsbrott",bra_11088
+bra_11102,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 15 kap. Mened, falskt åtal m.m.",bra_11088
+bra_11103,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 16 kap. Brott mot allmän ordning",bra_11089
+bra_11104,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 17 kap. Brott mot allmän verksamhet",bra_11089
+bra_11105,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 18 kap. Högmålsbrott",bra_11089
+bra_11106,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 19 kap. Brott mot rikets säkerhet",bra_11089
+bra_11107,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 20 kap. Tjänstefel m.m.",bra_11089
+bra_11108,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 22 kap. Om landsförräderi m.m.",bra_11089
+bra_11849,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 21 kap. Om brott av krigsmän (kapitel träder i tillämpning när riket kommer i krig)",bra_11089
+bra_11130,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §)",bra_11090
+bra_11131,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Vållande till annans död (7, 10 §)",bra_11090
+bra_11734,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Vållande till kroppsskada/sjukdom, ej i samband med trafikolycka (8, 10 §)",bra_11090
+bra_11740,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Framkallande av fara för annan (9, 10 §)",bra_11090
+bra_11802,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Försök till mord eller dråp (1, 2 §)",bra_11090
+bra_13044,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för sexuella ändamål ",bra_11091
+bra_13045,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för tvångsarbete",bra_11091
+bra_13046,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för tiggeri",bra_11091
+bra_13047,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för organhandel",bra_11091
+bra_13048,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för sexuella ändamål , Med barn under 18 år",bra_11091
+bra_13049,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för tvångsarbete, Med barn under 18 år",bra_11091
+bra_13050,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för tiggeri, Med barn under 18 år",bra_11091
+bra_13051,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för organhandel, Med barn under 18 år",bra_11091
+bra_13052,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för sexuella ändamål , Med person 18 år eller äldre",bra_11091
+bra_13053,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för tvångsarbete, Med person 18 år eller äldre",bra_11091
+bra_13054,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för tiggeri, Med person 18 år eller äldre",bra_11091
+bra_13055,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för organhandel, Med person 18 år eller äldre",bra_11091
+bra_13056,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Annan människohandel än för sexuella ändamål",bra_11091
+bra_13057,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Annan människohandel än för sexuella ändamål, Med barn under 18 år",bra_11091
+bra_13058,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Annan människohandel än för sexuella ändamål, Med person 18 år eller äldre",bra_11091
+bra_13072,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för krigstjänst",bra_11091
+bra_13073,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för krigstjänst, Med barn under 18 år",bra_11091
+bra_13074,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för krigstjänst, Med person 18 år eller äldre",bra_11091
+bra_13075,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för övriga ändamål",bra_11091
+bra_13076,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för övriga ändamål, Med barn under 18 år",bra_11091
+bra_13077,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §), Människohandel för övriga ändamål, Med person 18 år eller äldre",bra_11091
+bra_13084,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Kränkande fotografering (6 a §)",bra_11091
+bra_13086,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Äktenskapstvång, vilseledande till tvångsäktenskapsresa (4 c, 4 d §)",bra_11091
+bra_13125,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot barn under 18 år, Mot flicka under 18 år, Internetrelaterat",bra_11091
+bra_13126,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot barn under 18 år, Mot flicka under 18 år, Ej internetrelaterat",bra_11091
+bra_13127,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot barn under 18 år, Mot pojke under 18 år, Internetrelaterat",bra_11091
+bra_13128,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot barn under 18 år, Mot pojke under 18 år, Ej internetrelaterat",bra_11091
+bra_13129,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot kvinna 18 år eller äldre, Internetrelaterad",bra_11091
+bra_13130,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot kvinna 18 år eller äldre, Ej internetrelaterad",bra_11091
+bra_13131,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot man 18 år eller äldre, Internetrelaterad",bra_11091
+bra_13132,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot man 18 år eller äldre, Ej internetrelaterad",bra_11091
+bra_13133,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot grupp, Internetrelaterad",bra_11091
+bra_13134,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot grupp, Ej internetrelaterad",bra_11091
+bra_13184,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olovlig identitetsanvändning (6 b §)",bra_11091
+bra_13185,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olovlig identitetsanvändning (6 b §), Mot barn under 18 år",bra_11091
+bra_13186,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olovlig identitetsanvändning (6 b §), Mot barn under 18 år, Mot flicka under 18 år",bra_11091
+bra_13187,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olovlig identitetsanvändning (6 b §), Mot barn under 18 år, Mot pojke under 18 år",bra_11091
+bra_13188,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olovlig identitetsanvändning (6 b §), Mot kvinna 18 år eller äldre",bra_11091
+bra_13189,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olovlig identitetsanvändning (6 b §), Mot man 18 år eller äldre",bra_11091
+bra_5046,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga tvång (4 §)",bra_11091
+bra_5047,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga tvång (4 §), Mot barn under 18 år",bra_11091
+bra_5048,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga tvång (4 §), Mot kvinna 18 år eller äldre",bra_11091
+bra_5049,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga tvång (4 §), Mot man 18 år eller äldre",bra_11091
+bra_5050,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga tvång (4 §), Mot barn under 18 år, Mot flicka under 18 år",bra_11091
+bra_5051,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga tvång (4 §), Mot barn under 18 år, Mot pojke under 18 år",bra_11091
+bra_5053,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga integritetsintrång (6 c, 6 d §)",bra_11091
+bra_5054,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga integritetsintrång (6 c, 6 d §), Mot barn under 18 år",bra_11091
+bra_5055,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga integritetsintrång (6 c, 6 d §), Mot kvinna 18 år eller äldre",bra_11091
+bra_5056,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga integritetsintrång (6 c, 6 d §), Mot man 18 år eller äldre",bra_11091
+bra_5057,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga integritetsintrång (6 c, 6 d §), Mot barn under 18 år, Mot flicka under 18 år",bra_11091
+bra_5058,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga integritetsintrång (6 c, 6 d §), Mot barn under 18 år, Mot pojke under 18 år",bra_11091
+bra_11297,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människorov, olaga frihetsberövande (1-2 §)",bra_11091
+bra_11298,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människohandel (1 a §)",bra_11091
+bra_11305,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olovlig avlyssning m.m. (8-9 a §)",bra_11091
+bra_11306,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Grov fridskränkning (4 a §)",bra_11091
+bra_11307,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Grov fridskränkning (4 a §), Mot barn under 18 år",bra_11091
+bra_11308,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Grov fridskränkning (4 a §), Mot barn under 18 år, Mot flicka under 18 år",bra_11091
+bra_11314,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §)",bra_11091
+bra_11315,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot barn under 18 år",bra_11091
+bra_11316,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot barn under 18 år, Mot flicka under 18 år",bra_11091
+bra_11317,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot barn under 18 år, Mot pojke under 18 år",bra_11091
+bra_11318,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot kvinna 18 år eller äldre",bra_11091
+bra_11319,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot man 18 år eller äldre",bra_11091
+bra_11320,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga hot (5 §), Mot grupp",bra_11091
+bra_11323,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga förföljelse (4 b §)",bra_11091
+bra_11324,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga förföljelse (4 b §), Mot barn under 18 år",bra_11091
+bra_11325,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga förföljelse (4 b §), Mot barn under 18 år, Mot flicka under 18 år",bra_11091
+bra_11326,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga förföljelse (4 b §), Mot barn under 18 år, Mot pojke under 18 år",bra_11091
+bra_11327,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga förföljelse (4 b §), Mot kvinna 18 år eller äldre",bra_11091
+bra_11328,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Olaga förföljelse (4 b §), Mot man 18 år eller äldre",bra_11091
+bra_11329,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Hemfridsbrott, olaga intrång (6 §)",bra_11091
+bra_11330,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Ofredande (7 §)",bra_11091
+bra_11331,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Ofredande (7 §), Mot barn under 18 år",bra_11091
+bra_11332,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Ofredande (7 §), Mot barn under 18 år, Mot flicka under 18 år",bra_11091
+bra_11333,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Ofredande (7 §), Mot barn under 18 år, Mot pojke under 18 år",bra_11091
+bra_11334,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Ofredande (7 §), Mot kvinna 18 år eller äldre",bra_11091
+bra_11335,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Ofredande (7 §), Mot man 18 år eller äldre",bra_11091
+bra_11336,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Ofredande (7 §), Mot grupp",bra_11091
+bra_11337,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Dataintrång (9 c §)",bra_11091
+bra_5225,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människoexploatering (1 b §)",bra_11091
+bra_5226,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människoexploatering (1 b §), Människoexploatering för tvångsarbete el. arbete under orimliga villkor",bra_11091
+bra_5227,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människoexploatering (1 b §), Människoexploatering för tiggeri",bra_11091
+bra_5228,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människoexploatering (1 b §), Människoexploatering för tvångsarbete el. arbete under orimliga villkor, Med barn under 18 år",bra_11091
+bra_5229,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människoexploatering (1 b §), Människoexploatering för tiggeri, Med barn under 18 år",bra_11091
+bra_5230,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människoexploatering (1 b §), Människoexploatering för tvångsarbete el. arbete under orimliga villkor, Med person 18 år eller äldre",bra_11091
+bra_5231,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Människoexploatering (1 b §), Människoexploatering för tiggeri, Med person 18 år eller äldre",bra_11091
+bra_11748,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Grov fridskränkning (4 a §), Mot barn under 18 år, Mot pojke under 18 år",bra_11091
+bra_11749,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Grov fridskränkning (4 a §), Mot kvinna 18 år eller äldre",bra_11091
+bra_11750,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Grov fridskränkning (4 a §), Mot man 18 år eller äldre",bra_11091
+bra_11751,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 4 kap. Brott mot frihet och frid, Grov kvinnofridskränkning (4 a §)",bra_11091
+bra_13087,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot barn under 18 år",bra_11092
+bra_13088,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot kvinna 18 år eller äldre",bra_11092
+bra_13089,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot man 18 år eller äldre",bra_11092
+bra_13090,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot barn under 18 år, Mot flicka under 18 år",bra_11092
+bra_13091,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot barn under 18 år, Mot pojke under 18 år",bra_11092
+bra_13135,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot barn under 18 år, Mot flicka under 18 år, Internetrelaterad",bra_11092
+bra_13136,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot barn under 18 år, Mot flicka under 18 år, Ej internetrelaterad",bra_11092
+bra_13137,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot barn under 18 år, Mot pojke under 18 år, Internetrelaterad",bra_11092
+bra_13138,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot barn under 18 år, Mot pojke under 18 år, Ej internetrelaterad",bra_11092
+bra_13139,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot kvinna 18 år eller äldre, Internetrelaterad",bra_11092
+bra_13140,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot kvinna 18 år eller äldre, Ej internetrelaterad",bra_11092
+bra_13141,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot man 18 år eller äldre, Internetrelaterad",bra_11092
+bra_13142,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 5 kap. Ärekränkningsbrott, Mot man 18 år eller äldre, Ej internetrelaterad",bra_11092
+bra_11338,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §)",bra_11093
+bra_11339,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06)",bra_11093
+bra_5232,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §)",bra_11093
+bra_5246,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt övergrepp (2 §) (Fr. o. m. 2018-07)",bra_11093
+bra_5247,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsamt sexuellt övergrepp (3 §) (Fr. o. m. 2018-07)",bra_11093
+bra_5248,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Samlag med avkomling eller syskon (7 §) (Fr. o. m. 2018-07)",bra_11093
+bra_11770,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Utnyttjande av barn under 18 år för sexuell posering, inkl grov (8 §)",bra_11093
+bra_11771,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Köp av sexuell handling av barn under 18 år (9 §)",bra_11093
+bra_11772,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §)",bra_11093
+bra_11778,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Köp av sexuell tjänst (11 §) (Fr.o.m. 2005-04)",bra_11093
+bra_11779,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Koppleri, inkl grovt (12 §)",bra_11093
+bra_11780,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Kontakt med barn i sexuellt syfte (grooming) (10 a §)",bra_11093
+bra_11445,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 7 kap. Brott mot familj, Egenmäktighet med barn (4 §)",bra_11094
+bra_11446,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 7 kap. Brott mot familj, Övriga brott mot kap. 7 (1-3 §)",bra_11094
+bra_11447,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av motordrivet fortskaffningsmedel (7 §)",bra_11095
+bra_11462,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §)",bra_11095
+bra_11490,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Stöld (även inbrott) av skjutvapen, ammunition och sprängämnen (1, 2, 4 §)",bra_11095
+bra_11495,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §)",bra_11095
+bra_11522,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §)",bra_11095
+bra_11562,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övriga brott mot 8 kap. (8-10 §)",bra_11095
+bra_11788,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av icke motordrivet fortskaffningsmedel (1, 2, 4 §)",bra_11095
+bra_12987,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Subventionsmissbruk (3 a §)",bra_11096
+bra_13059,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Utpressning, ocker",bra_11096
+bra_13060,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Utpressning, ocker, Utpressning (4 §)",bra_11096
+bra_13061,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Utpressning, ocker, Ocker (5 §)",bra_11096
+bra_13066,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §), Mot Försäkringskassan (t.o.m. 2007-07)",bra_11096
+bra_13098,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Häleri, häleriförseelse (6, 7 §), Penninghäleri, penninghäleriförseelse (t.o.m. 2014-06)",bra_11096
+bra_11563,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §)",bra_11096
+bra_11564,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §), Automatmissbruk",bra_11096
+bra_11565,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §), Datorbedrägeri",bra_11096
+bra_11566,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §), Med kontokort (inte automatmissbruk)",bra_11096
+bra_11567,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §), Med hjälp av Internet",bra_11096
+bra_11568,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §), Investeringsbedrägeri",bra_11096
+bra_11569,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §), Överskridet eget konto",bra_11096
+bra_11570,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §), Mot försäkringsbolag",bra_11096
+bra_11571,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §), Mot EU:s finansiella intressen",bra_11096
+bra_11573,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §), Avs. husrum, förtäring, transport m.m.",bra_11096
+bra_11574,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §), Bedrägeri med hjälp av bluffaktura",bra_11096
+bra_11576,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Bedrägeri inkl. grovt, bedrägligt beteende (1-3 §), Övrigt bedrägeri",bra_11096
+bra_11577,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Häleri, häleriförseelse (6, 7 §)",bra_11096
+bra_11579,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Häleri, häleriförseelse (6, 7 §), Vanemässigt eller stor omfattning (6 §)",bra_11096
+bra_11580,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Häleri, häleriförseelse (6, 7 §), Övrig häleri, häleriförseelse (7 §)",bra_11096
+bra_11581,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 9 kap. Bedrägeri och annan oredlighet, Övriga brott mot 9 kap. (3 a, 8-10 §)",bra_11096
+bra_13031,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 10 kap. Förskingring och annan trolöshet, Tagande av muta inkl. grov (5 a, c §)(fr.o.m. 2012-07)",bra_11097
+bra_13032,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 10 kap. Förskingring och annan trolöshet, Givande av muta inkl. grov (5 b, c §) (fr.o.m. 2012-07)",bra_11097
+bra_13033,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 10 kap. Förskingring och annan trolöshet, Handel med inflytande, vårdslös finansiering av mutbrott (5 d, e §)",bra_11097
+bra_11582,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 10 kap. Förskingring och annan trolöshet, Förskingring inkl. grov, undandräkt (1-3 §)",bra_11097
+bra_11583,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 10 kap. Förskingring och annan trolöshet, Olovligt förfogande (4 §)",bra_11097
+bra_11584,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 10 kap. Förskingring och annan trolöshet, Trolöshet mot huvudman (5 §)",bra_11097
+bra_11585,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 10 kap. Förskingring och annan trolöshet, Olovligt brukande (7 §)",bra_11097
+bra_11586,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 10 kap. Förskingring och annan trolöshet, Fyndförseelse (8 §)",bra_11097
+bra_11587,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 10 kap. Förskingring och annan trolöshet, Behörighetsmissbruk (6 §)",bra_11097
+bra_11588,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 11 kap. Brott mot borgenärer m.m., Oredlighet mot borgenärer (1, 2 §)",bra_11098
+bra_11589,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 11 kap. Brott mot borgenärer m.m., Försvårande av konkurs/exekutiv förrättning (2 §)",bra_11098
+bra_11590,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 11 kap. Brott mot borgenärer m.m., Vårdslöshet mot borgenärer (3 §)",bra_11098
+bra_11591,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 11 kap. Brott mot borgenärer m.m., Otillbörligt gynnande av borgenär (4 §)",bra_11098
+bra_11592,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 11 kap. Brott mot borgenärer m.m., Bokföringsbrott (5 §)",bra_11098
+bra_13062,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 12 kap. Skadegörelsebrott, Skadegörelse inkl. grov, åverkan (1-3 §), Klotter, Klotter mot kollektivtrafik",bra_11099
+bra_13063,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 12 kap. Skadegörelsebrott, Skadegörelse inkl. grov, åverkan (1-3 §), Klotter, Övrigt klotter",bra_11099
+bra_13147,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 12 kap. Skadegörelsebrott, Skadegörelse inkl. grov, åverkan (1-3 §), Genom brand, Bilbrand eller brand på andra motorfordon",bra_11099
+bra_11594,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 12 kap. Skadegörelsebrott, Skadegörelse inkl. grov, åverkan (1-3 §)",bra_11099
+bra_11595,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 12 kap. Skadegörelsebrott, Skadegörelse inkl. grov, åverkan (1-3 §), På motorfordon (ej genom brand)",bra_11099
+bra_11596,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 12 kap. Skadegörelsebrott, Skadegörelse inkl. grov, åverkan (1-3 §), Genom brand",bra_11099
+bra_11597,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 12 kap. Skadegörelsebrott, Skadegörelse inkl. grov, åverkan (1-3 §), Klotter",bra_11099
+bra_11599,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 12 kap. Skadegörelsebrott, Skadegörelse inkl. grov, åverkan (1-3 §), Mot stat, kommun, landsting (ej klotter)",bra_11099
+bra_11600,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 12 kap. Skadegörelsebrott, Skadegörelse inkl. grov, åverkan (1-3 §), Annan skadegörelse (ej klotter)",bra_11099
+bra_11601,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 12 kap. Skadegörelsebrott, Tagande av olovlig väg (4 §)",bra_11099
+bra_13148,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 12 kap. Skadegörelsebrott, Skadegörelse inkl. grov, åverkan (1-3 §), Genom brand, Brand på annat än motorfordon",bra_11099
+bra_5061,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 13 kap. Allmänfarliga brott, Allmänfarlig ödeläggelse (3 §)",bra_11100
+bra_5062,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 13 kap. Allmänfarliga brott, Allmänfarlig ödeläggelse (3 §), Genom sprängning",bra_11100
+bra_5063,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 13 kap. Allmänfarliga brott, Allmänfarlig ödeläggelse (3 §), Ej genom sprängning",bra_11100
+bra_11602,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 13 kap. Allmänfarliga brott, Mordbrand inkl. grov (1, 2 §)",bra_11100
+bra_11603,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 13 kap. Allmänfarliga brott, Allmänfarlig vårdslöshet (6 §)",bra_11100
+bra_11604,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 13 kap. Allmänfarliga brott, Allmänfarlig vårdslöshet (6 §), Vållande av brand",bra_11100
+bra_11605,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 13 kap. Allmänfarliga brott, Allmänfarlig vårdslöshet (6 §), Annan allmänfarlig vårdslöshet",bra_11100
+bra_11606,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 13 kap. Allmänfarliga brott, Spridande av gift/smitta förgöring, vårdslöshet m gift/smittämne (7-9 §)",bra_11100
+bra_11607,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 13 kap. Allmänfarliga brott, Övriga brott mot 13 kap. (4-5 b, 10 §)",bra_11100
+bra_11608,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 14 kap. Förfalskningsbrott, Urkundsförfalskning m.m. (1-4, 9 §)",bra_11101
+bra_11609,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 14 kap. Förfalskningsbrott, Urkundsförfalskning m.m. (1-4, 9 §), Check",bra_11101
+bra_11610,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 14 kap. Förfalskningsbrott, Urkundsförfalskning m.m. (1-4, 9 §), Legitimationshandling",bra_11101
+bra_11611,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 14 kap. Förfalskningsbrott, Urkundsförfalskning m.m. (1-4, 9 §), Legitimationshandling, Handling som  använts för illegal invandring",bra_11101
+bra_11612,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 14 kap. Förfalskningsbrott, Urkundsförfalskning m.m. (1-4, 9 §), Legitimationshandling, Övrig legitimationshandling",bra_11101
+bra_11613,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 14 kap. Förfalskningsbrott, Urkundsförfalskning m.m. (1-4, 9 §), Övrig urkundsförfalskning",bra_11101
+bra_11614,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 14 kap. Förfalskningsbrott, Signaturförfalskning (5, 9 §)",bra_11101
+bra_11615,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 14 kap. Förfalskningsbrott, Penningförfalskning m.m. (6, 6 a, 9, 10 §)",bra_11101
+bra_11616,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 14 kap. Förfalskningsbrott, Övriga brott mot 14 kap. (7-9 §)",bra_11101
+bra_11617,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 15 kap. Mened, falskt åtal m.m., Mened, osann partsutsaga m.m. (1-3 §)",bra_11102
+bra_11618,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 15 kap. Mened, falskt åtal m.m., Falsk tillvitelse, vårdslös tillvitelse (7 §)",bra_11102
+bra_11619,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 15 kap. Mened, falskt åtal m.m., Missbruk av urkund avs pass m.m./utfärdat pass på falska grunder (11, 12 §)",bra_11102
+bra_11620,"Brott mot brottsbalken, 13-15 kap. Brott mot allmänheten, 15 kap. Mened, falskt åtal m.m., Övriga brott mot 15 kap. (4 a, 4 b, 5,6, 8-13 §)",bra_11102
+bra_13034,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 16 kap. Brott mot allmän ordning, Djurplågeri (13 §)",bra_11103
+bra_11621,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 16 kap. Brott mot allmän ordning, Falskt larm (15 § 1, 2 st.)",bra_11103
+bra_11622,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 16 kap. Brott mot allmän ordning, Missbruk av larmanordning (15 § 3 st.)",bra_11103
+bra_11623,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 16 kap. Brott mot allmän ordning, Hets mot folkgrupp (8 §)",bra_11103
+bra_11624,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 16 kap. Brott mot allmän ordning, Olaga diskriminering (9 §)",bra_11103
+bra_11625,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 16 kap. Brott mot allmän ordning, Barnpornografibrott (10 a §)",bra_11103
+bra_11626,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 16 kap. Brott mot allmän ordning, Barnpornografibrott (10 a §), Internetrelaterat barnpornografibrott",bra_11103
+bra_11627,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 16 kap. Brott mot allmän ordning, Barnpornografibrott (10 a §), Övriga barnpornografibrott",bra_11103
+bra_11628,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 16 kap. Brott mot allmän ordning, Övriga brott mot 16 kap. (1-6, 10-12, 14 §)",bra_11103
+bra_13068,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 17 kap. Brott mot allmän verksamhet, Bestickning (t.o.m. 2012-06)",bra_11104
+bra_11629,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 17 kap. Brott mot allmän verksamhet, Våld mot tjänsteman (1, 5 §)",bra_11104
+bra_11630,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 17 kap. Brott mot allmän verksamhet, Våld mot tjänsteman (1, 5 §), Mot polisman (1 §)",bra_11104
+bra_11631,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 17 kap. Brott mot allmän verksamhet, Våld mot tjänsteman (1, 5 §), Mot ordningsvakt (1 §)",bra_11104
+bra_11632,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 17 kap. Brott mot allmän verksamhet, Våld mot tjänsteman (1, 5 §), Mot övriga tjänstemän (1, 5 §)",bra_11104
+bra_11633,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 17 kap. Brott mot allmän verksamhet, Hot m.m. mot tjänsteman (1, 2, 5 §)",bra_11104
+bra_11634,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 17 kap. Brott mot allmän verksamhet, Våldsamt motstånd (4, 5 §)",bra_11104
+bra_11636,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 17 kap. Brott mot allmän verksamhet, Övergrepp i rättssak (10 §)",bra_11104
+bra_11637,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 17 kap. Brott mot allmän verksamhet, Övriga brott mot 17 kap. (8, 9, 11-13, 15 §)",bra_11104
+bra_13069,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 20 kap. Tjänstefel m.m., Mutbrott (t.o.m. 2012-06)",bra_11107
+bra_11638,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 20 kap. Tjänstefel m.m., Tjänstefel inkl. grovt (1 §)",bra_11107
+bra_11640,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 20 kap. Tjänstefel m.m., Brott mot tystnadsplikt (3 §)",bra_11107
+bra_13099,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 22 kap. Om landsförräderi m.m., Folkrättsbrott (t.o.m. 2014-12)",bra_11108
+bra_13100,"Brott mot brottsbalken, 16-22 kap. Brott mot staten, 22 kap. Om landsförräderi m.m., Övriga brott mot 22 kap.",bra_11108
+bra_12140,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder",bra_11130
+bra_12141,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön ",bra_11130
+bra_11287,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Vållande till annans död (7, 10 §), I samband med trafikolycka",bra_11131
+bra_11738,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Vållande till annans död (7, 10 §), I samband med arbetsolycka",bra_11131
+bra_11739,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Vållande till annans död (7, 10 §), Övriga fall",bra_11131
+bra_12818,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder",bra_11338
+bra_12819,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön ",bra_11338
+bra_13157,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt tvång, utnyttjande m.m (2, 3, 5, 7 §), Mot barn 15-17 år (5 §) (2, 3, 7 § t.o.m. 2018-06), Mot flicka 15-17 år",bra_11339
+bra_13158,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt tvång, utnyttjande m.m (2, 3, 5, 7 §), Mot barn 15-17 år (5 §) (2, 3, 7 § t.o.m. 2018-06), Mot pojke 15-17 år",bra_11339
+bra_13159,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt tvång, utnyttjande m.m (2, 3, 5, 7 §), Mot person 18 år eller äldre, Mot kvinna 18 år eller äldre",bra_11339
+bra_13160,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt tvång, utnyttjande m.m (2, 3, 5, 7 §), Mot person 18 år eller äldre, Mot man 18 år eller äldre",bra_11339
+bra_13161,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt övergrepp mot barn (6 §)",bra_11339
+bra_13162,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt övergrepp mot barn (6 §), Mot barn under 15 år",bra_11339
+bra_13163,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt övergrepp mot barn (6 §), Mot barn 15-17 år",bra_11339
+bra_13164,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt övergrepp mot barn (6 §), Mot barn under 15 år, Mot flicka under 15 år",bra_11339
+bra_13165,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt övergrepp mot barn (6 §), Mot barn under 15 år, Mot pojke under 15 år",bra_11339
+bra_13166,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt övergrepp mot barn (6 §), Mot barn 15-17 år, Mot flicka 15-17 år",bra_11339
+bra_13167,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt övergrepp mot barn (6 §), Mot barn 15-17 år, Mot pojke 15-17 år",bra_11339
+bra_13154,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt tvång, utnyttjande m.m (2, 3, 5, 7 §), Mot person 15 år eller äldre",bra_11339
+bra_13155,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt tvång, utnyttjande m.m (2, 3, 5, 7 §), Sexuellt utnyttjande av barn under 15 år (5 § ), Mot flicka under 15 år",bra_11339
+bra_13156,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt tvång, utnyttjande m.m (2, 3, 5, 7 §), Sexuellt utnyttjande av barn under 15 år (5 § ), Mot pojke under 15 år",bra_11339
+bra_13150,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt tvång, utnyttjande m.m (2, 3, 5, 7 §)",bra_11339
+bra_13151,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt tvång, utnyttjande m.m (2, 3, 5, 7 §), Sexuellt utnyttjande av barn under 15 år (5 § )",bra_11339
+bra_13152,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt tvång, utnyttjande m.m (2, 3, 5, 7 §), Mot barn 15-17 år (5 §) (2, 3, 7 § t.o.m. 2018-06)",bra_11339
+bra_13153,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt tvång, utnyttjande m.m. (5-6 §) (2, 3, 7 § t.o.m. 2018-06), Sexuellt tvång, utnyttjande m.m (2, 3, 5, 7 §), Mot person 18 år eller äldre",bra_11339
+bra_11448,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av motordrivet fortskaffningsmedel (7 §), Bil",bra_11447
+bra_11450,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av motordrivet fortskaffningsmedel (7 §), Bil, Försök till biltillgrepp",bra_11447
+bra_11781,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av motordrivet fortskaffningsmedel (7 §), Bil, Fullbordat biltilgrepp",bra_11447
+bra_11782,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av motordrivet fortskaffningsmedel (7 §), Bil, Fullbordat biltilgrepp, Lastbil, släp, järnvägsv. o.d. avsedd avsedd för yrkesmässig godsbefordran",bra_11447
+bra_11783,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av motordrivet fortskaffningsmedel (7 §), Bil, Fullbordat biltilgrepp, Övriga bilar",bra_11447
+bra_11784,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av motordrivet fortskaffningsmedel (7 §), Motorcykel",bra_11447
+bra_11785,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av motordrivet fortskaffningsmedel (7 §), Moped",bra_11447
+bra_11786,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av motordrivet fortskaffningsmedel (7 §), Båt",bra_11447
+bra_11787,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av motordrivet fortskaffningsmedel (7 §), Annat motordrivet fortskaffningsmedel",bra_11447
+bra_11463,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I skola, kyrka, idrottsanläggning och lokal för kultur",bra_11462
+bra_11464,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I skola, kyrka, idrottsanläggning och lokal för kultur, I skola, bibliotek, fritidshem m.m.",bra_11462
+bra_11465,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I skola, kyrka, idrottsanläggning och lokal för kultur, I idrottsanläggning, kyrka, museum m.m.",bra_11462
+bra_11466,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I hotell, kafé, restaurang, biograf, teater, nöjes-, samlingslokal m.m.",bra_11462
+bra_11467,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I butik, apotek, kiosk m.m.",bra_11462
+bra_11468,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I butik, apotek, kiosk m.m., I butik, varuhus o.d.",bra_11462
+bra_11469,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I butik, apotek, kiosk m.m., I kiosk, automat och skyltskåp",bra_11462
+bra_11470,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I butik, apotek, kiosk m.m., I apotek och läkemedelsförråd",bra_11462
+bra_11471,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I industri, verkstad, byggplats, lager, garage, hamnområde, kontor m.m.",bra_11462
+bra_11472,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I industri, verkstad, byggplats, lager, garage, hamnområde, kontor m.m., I kontor",bra_11462
+bra_11473,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I industri, verkstad, byggplats, lager, garage, hamnområde, kontor m.m., Övrigt",bra_11462
+bra_11475,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I bostad, fritidshus m.m.",bra_11462
+bra_11476,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I bostad, fritidshus m.m., I bostad (lägenhet & villa)",bra_11462
+bra_11480,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I bostad, fritidshus m.m., I bostad (lägenhet & villa), Villa, radhus o.d.",bra_11462
+bra_11481,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I bostad, fritidshus m.m., I bostad (lägenhet & villa), Villa, radhus o.d., Fullbordat inbrott",bra_11462
+bra_11482,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I bostad, fritidshus m.m., I bostad (lägenhet & villa), Villa, radhus o.d., Försök till inbrott",bra_11462
+bra_11483,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I bostad, fritidshus m.m., I bostad (lägenhet & villa), Lägenhet",bra_11462
+bra_11484,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I bostad, fritidshus m.m., I bostad (lägenhet & villa), Lägenhet, Fullbordat inbrott",bra_11462
+bra_11485,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I bostad, fritidshus m.m., I bostad (lägenhet & villa), Lägenhet, Försök till inbrott",bra_11462
+bra_11486,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I bostad, fritidshus m.m., I källare och på vind",bra_11462
+bra_11488,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), I bostad, fritidshus m.m., I fritidshus",bra_11462
+bra_11489,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Inbrottsstöld, ej av skjutvapen (1, 2, 4 §), Övrig inbrottsstöld",bra_11462
+bra_11491,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Stöld (även inbrott) av skjutvapen, ammunition och sprängämnen (1, 2, 4 §), Från militärt förråd/inom militärförläggning",bra_11490
+bra_11492,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Stöld (även inbrott) av skjutvapen, ammunition och sprängämnen (1, 2, 4 §), Från skytteorganisation, vapenhandlare och sprängämnesförråd",bra_11490
+bra_11493,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Stöld (även inbrott) av skjutvapen, ammunition och sprängämnen (1, 2, 4 §), I bostad (lägenhet, villa) och fritidshus",bra_11490
+bra_11494,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Stöld (även inbrott) av skjutvapen, ammunition och sprängämnen (1, 2, 4 §), Övrig stöld av skjutvapen o.d.",bra_11490
+bra_13027,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Stöld av drivmedel (1, 2, 4 §)",bra_11495
+bra_13169,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Stöld av drivmedel (1, 2, 4 §), Stöld av diesel",bra_11495
+bra_13170,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Stöld av drivmedel (1, 2, 4 §), Stöld av drivmedel (även diesel)",bra_11495
+bra_13171,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Stöld av drivmedel (1, 2, 4 §), Stöld av diesel, Ur fordonstank (även entrepenadmaskin m.m.)",bra_11495
+bra_13172,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Stöld av drivmedel (1, 2, 4 §), Stöld av diesel, Ur större tankar (ej kopplade till fordon)",bra_11495
+bra_13173,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Stöld av drivmedel (1, 2, 4 §), Stöld av drivmedel (även diesel), Genom smitning (från bensinstation)",bra_11495
+bra_13174,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Stöld av drivmedel (1, 2, 4 §), Stöld av drivmedel (även diesel), Ej genom smitning",bra_11495
+bra_13182,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Stöld av drivmedel (1, 2, 4 §), Stöld av diesel (t.o.m. 2015-12)",bra_11495
+bra_13183,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Stöld av drivmedel (1, 2, 4 §), Stöld av andra drivmedel (t.o.m. 2015-12)",bra_11495
+bra_5059,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Från fordon m.m., Ur och från motordrivet fordon, Av fast interiör/exteriör",bra_11495
+bra_5060,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Från fordon m.m., Ur och från motordrivet fordon, Av andra föremål (ej fast interiö/exteriör)",bra_11495
+bra_5099,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I bostad m.m., I bostad (lägenhet, villa), Mot funktionsnedsatt",bra_11495
+bra_5100,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I bostad m.m., I bostad (lägenhet, villa), Mot ej funktionsnedsatt",bra_11495
+bra_11496,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Från fordon m.m.",bra_11495
+bra_11497,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Från fordon m.m., Ur och från motordrivet fordon",bra_11495
+bra_11498,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Från fordon m.m., Från cykel",bra_11495
+bra_11499,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Från fordon m.m., Från båt (annat än båtmotor)",bra_11495
+bra_11500,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Från fordon m.m., Av båtmotor",bra_11495
+bra_11501,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Från fordon m.m., Under ykesmässig transport",bra_11495
+bra_11502,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Från fordon m.m., Under ykesmässig transport, Ur/från lastbil, släp, järnvägsv. o d yrkesm godsbeford",bra_11495
+bra_11503,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Från fordon m.m., Under ykesmässig transport, Under övrig yrkesmässig transport",bra_11495
+bra_11504,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I skola, kyrka, idrottsanläggning och lokal för kultur",bra_11495
+bra_11505,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I skola, kyrka, idrottsanläggning och lokal för kultur, I skola, bibliotek, fritidshem m.m.",bra_11495
+bra_11506,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I skola, kyrka, idrottsanläggning och lokal för kultur, I idrottsanläggning, kyrka, museum m.m.",bra_11495
+bra_11507,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I hotell, kafé, restaurang, biograf, teater, nöjes-, samlingslokal m.m.",bra_11495
+bra_11508,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I butik, varuhus o. d.",bra_11495
+bra_11509,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I industri, verkstad, byggplats, lager, garage, hamnområde, kontor m.m.",bra_11495
+bra_11510,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I industri, verkstad, byggplats, lager, garage, hamnområde, kontor m.m., I kontor",bra_11495
+bra_11511,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I industri, verkstad, byggplats, lager, garage, hamnområde, kontor m.m., Övrigt",bra_11495
+bra_11512,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I bostad m.m.",bra_11495
+bra_11513,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I bostad m.m., I bostad (lägenhet, villa)",bra_11495
+bra_11514,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), I bostad m.m., I källare och på vind",bra_11495
+bra_11515,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Väskryckning (ej rån)",bra_11495
+bra_11516,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Väskryckning (ej rån), Mot funktionsnedsatt ",bra_11495
+bra_11517,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Väskryckning (ej rån), Mot ej funktionsnedsatt ",bra_11495
+bra_11518,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Fickstöld",bra_11495
+bra_11519,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Fickstöld, Mot funktionsnedsatt ",bra_11495
+bra_11520,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Fickstöld, Mot ej funktionsnedsatt ",bra_11495
+bra_11521,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Övrig stöld (1, 2, 4 §), Övrig stöld eller snatteri",bra_11495
+bra_12964,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot funktionsnedsatt privatperson ",bra_11522
+bra_12965,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson ",bra_11522
+bra_12966,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot funktionsnedsatt privatperson , Med användning av skjutvapen",bra_11522
+bra_12967,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Med användning av skjutvapen",bra_11522
+bra_12968,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot funktionsnedsatt privatperson , Utan användning av skjutvapen",bra_11522
+bra_12969,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Utan användning av skjutvapen",bra_11522
+bra_12972,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Med användning av skjutvapen, Utomhus",bra_11522
+bra_12973,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Utan användning av skjutvapen, Utomhus",bra_11522
+bra_12977,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Med användning av skjutvapen, Inomhus",bra_11522
+bra_12978,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Utan användning av skjutvapen, Inomhus",bra_11522
+bra_13006,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person under 18 år",bra_11522
+bra_13007,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person 18 år eller äldre",bra_11522
+bra_13009,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person under 18 år, Med användning av skjutvapen",bra_11522
+bra_13010,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person 18 år eller äldre, Med användning av skjutvapen",bra_11522
+bra_13011,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person under 18 år, Utan användning av skjutvapen",bra_11522
+bra_13012,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person 18 år eller äldre, Utan användning av skjutvapen",bra_11522
+bra_13013,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person under 18 år, Med användning av skjutvapen, Utomhus",bra_11522
+bra_13014,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person under 18 år, Utan användning av skjutvapen, Utomhus",bra_11522
+bra_13015,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person 18 år eller äldre, Med användning av skjutvapen, Utomhus",bra_11522
+bra_13016,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person 18 år eller äldre, Utan användning av skjutvapen, Utomhus",bra_11522
+bra_13017,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person under 18 år, Med användning av skjutvapen, Inomhus",bra_11522
+bra_13018,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person under 18 år, Utan användning av skjutvapen, Inomhus",bra_11522
+bra_13019,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person 18 år eller äldre, Med användning av skjutvapen, Inomhus",bra_11522
+bra_13020,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot ej funktionsnedsatt privatperson , Mot person 18 år eller äldre, Utan användning av skjutvapen, Inomhus",bra_11522
+bra_13042,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Samtliga rån med användning av skjutvapen",bra_11522
+bra_13043,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Samtliga rån utan användning av skjutvapen",bra_11522
+bra_11523,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Bankrån",bra_11522
+bra_11524,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Bankrån, Med användning av skjutvapen",bra_11522
+bra_11525,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Bankrån, Utan användning av skjutvapen",bra_11522
+bra_11526,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Butiksrån",bra_11522
+bra_11527,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot värdebefordran",bra_11522
+bra_11528,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot värdetransport",bra_11522
+bra_11529,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Taxirån",bra_11522
+bra_11530,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Postrån (t.o.m. 2007-06)",bra_11522
+bra_11539,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Övriga rån",bra_11522
+bra_11540,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Butiksrån, Med användning av skjutvapen",bra_11522
+bra_11541,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot värdebefordran, Med användning av skjutvapen",bra_11522
+bra_11542,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot värdetransport, Med användning av skjutvapen",bra_11522
+bra_11543,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Taxirån, Med användning av skjutvapen",bra_11522
+bra_11544,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Postrån (t.o.m. 2007-06), Med användning av skjutvapen (t.o.m. 2007)",bra_11522
+bra_11550,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Övriga rån, Med användning av skjutvapen",bra_11522
+bra_11551,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Butiksrån, Utan användning av skjutvapen",bra_11522
+bra_11552,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot värdebefordran, Utan användning av skjutvapen",bra_11522
+bra_11553,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Rån mot värdetransport, Utan användning av skjutvapen",bra_11522
+bra_11554,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Taxirån, Utan användning av skjutvapen",bra_11522
+bra_11555,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Postrån (t.o.m. 2007-06), Utan användning av skjutvapen (t.o.m. 2007)",bra_11522
+bra_11561,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Rån, inkl. grovt (5, 6 §), Övriga rån, Utan användning av skjutvapen",bra_11522
+bra_5064,"Brott mot specialstraffrättsliga författningar, Brott mot trafikbrottslagen, Smitning (5 §), Med betydande materialskador, personskador eller dödl utfall",bra_11643
+bra_11644,"Brott mot specialstraffrättsliga författningar, Brott mot trafikbrottslagen, Grov vårdslöshet i trafik (1 § 2 st)",bra_11643
+bra_11645,"Brott mot specialstraffrättsliga författningar, Brott mot trafikbrottslagen, Olovlig körning inkl. grov (3 § 1 st)",bra_11643
+bra_11646,"Brott mot specialstraffrättsliga författningar, Brott mot trafikbrottslagen, Rattfylleri inkl. grovt (4, 4 a §)",bra_11643
+bra_11647,"Brott mot specialstraffrättsliga författningar, Brott mot trafikbrottslagen, Rattfylleri under påverkan av narkotika (4 § 2 st)",bra_11643
+bra_11648,"Brott mot specialstraffrättsliga författningar, Brott mot trafikbrottslagen, Smitning (5 §)",bra_11643
+bra_11649,"Brott mot specialstraffrättsliga författningar, Brott mot trafikbrottslagen, Övriga brott mot trafikbrottslagen (3 § 2 och 3 st §)",bra_11643
+bra_5065,"Brott mot specialstraffrättsliga författningar, Brott mot trafikbrottslagen, Smitning (5 §), Med inga eller lindriga material- och personskador",bra_11643
+bra_11651,"Brott mot specialstraffrättsliga författningar, Brott mot narkotikastrafflagen, Överlåtelse m.m. (1-3 a §)",bra_11650
+bra_11652,"Brott mot specialstraffrättsliga författningar, Brott mot narkotikastrafflagen, Innehav (1-3 a §)",bra_11650
+bra_11653,"Brott mot specialstraffrättsliga författningar, Brott mot narkotikastrafflagen, Eget bruk (1-3 a §)",bra_11650
+bra_11654,"Brott mot specialstraffrättsliga författningar, Brott mot narkotikastrafflagen, Framställning (1-3 a §)",bra_11650
+bra_11656,"Brott mot specialstraffrättsliga författningar, Brott mot miljöbalken (29 kap.), Miljöbrott inkl. grovt (1 §)",bra_11655
+bra_11657,"Brott mot specialstraffrättsliga författningar, Brott mot miljöbalken (29 kap.), Brott eller förseelse mot områdesskydd (2, 2 a §)",bra_11655
+bra_11658,"Brott mot specialstraffrättsliga författningar, Brott mot miljöbalken (29 kap.), Artskydd inkl. grovt (2 b §)",bra_11655
+bra_11659,"Brott mot specialstraffrättsliga författningar, Brott mot miljöbalken (29 kap.), Miljöfarlig eller olovlig kemikaliehantering (3, 3 a §)",bra_11655
+bra_11660,"Brott mot specialstraffrättsliga författningar, Brott mot miljöbalken (29 kap.), Otillåten miljöverksamhet (4 §, 1-2 st.)",bra_11655
+bra_11661,"Brott mot specialstraffrättsliga författningar, Brott mot miljöbalken (29 kap.), Otillåten avfallstransport (4 a § 1-15 p.)",bra_11655
+bra_11662,"Brott mot specialstraffrättsliga författningar, Brott mot miljöbalken (29 kap.), Försvårande av miljökontroll (5 §)",bra_11655
+bra_11663,"Brott mot specialstraffrättsliga författningar, Brott mot miljöbalken (29 kap.), Bristfällig miljöinformation (6 §)",bra_11655
+bra_11664,"Brott mot specialstraffrättsliga författningar, Brott mot miljöbalken (29 kap.), Nedskräpning (7 §)",bra_11655
+bra_11665,"Brott mot specialstraffrättsliga författningar, Brott mot miljöbalken (29 kap.), Övriga brott mot miljöbalken (8 §) m.m.",bra_11655
+bra_11690,"Brott mot specialstraffrättsliga författningar, Brott mot bidragsbrottslagen, Mot Försäkringskassan",bra_11689
+bra_11691,"Brott mot specialstraffrättsliga författningar, Brott mot bidragsbrottslagen, Mot kommunerna",bra_11689
+bra_11692,"Brott mot specialstraffrättsliga författningar, Brott mot bidragsbrottslagen, Mot a-kassorna och Arbetsförmedlningen",bra_11689
+bra_11693,"Brott mot specialstraffrättsliga författningar, Brott mot bidragsbrottslagen, Mot PPM, CSN, och Migrationsverket",bra_11689
+bra_11695,"Brott mot specialstraffrättsliga författningar, Lag om straff för smuggling (3-14 §) , Smugglingsbrott/olovlig in- och utförsel (ej narkotika) (3-5, 7 §)",bra_11694
+bra_11696,"Brott mot specialstraffrättsliga författningar, Lag om straff för smuggling (3-14 §) , Narkotikasmuggling/olovlig in- och utförsel av narkotika (6, 7 §) ",bra_11694
+bra_11697,"Brott mot specialstraffrättsliga författningar, Lag om straff för smuggling (3-14 §) , Tullbrott och vårdslös tullredovisning (8-11 §)",bra_11694
+bra_11698,"Brott mot specialstraffrättsliga författningar, Lag om straff för smuggling (3-14 §) , Olovlig befattning med smuggelgods (12-13 §)",bra_11694
+bra_13064,"Brott mot specialstraffrättsliga författningar, Alkohollagen (10 kap.), Olovlig försäljning av teknisk sprit m.m. (fr.o.m. 2011-01)",bra_11701
+bra_11702,"Brott mot specialstraffrättsliga författningar, Alkohollagen (10 kap.), Olovlig sprittillverkning m.m. (1 § 1 p., 2 , 4 §)",bra_11701
+bra_11703,"Brott mot specialstraffrättsliga författningar, Alkohollagen (10 kap.), Förvärv/innehav av olovligt tillv. sprit/mäsk avsedd för olovlig sprittillv. (1 § 2 p., 4 §)",bra_11701
+bra_11704,"Brott mot specialstraffrättsliga författningar, Alkohollagen (10 kap.), Olovlig försäljning inkl. grov, innehav, olovligt anskaffande av alkoholdrycker (3, 4, 6 §)",bra_11701
+bra_11705,"Brott mot specialstraffrättsliga författningar, Alkohollagen (10 kap.), Olovlig vin-, starköl-, öltillverkning (5 §)",bra_11701
+bra_11706,"Brott mot specialstraffrättsliga författningar, Alkohollagen (10 kap.), Olovlig dryckeshantering (7, 9 §)",bra_11701
+bra_5077,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Vapenbrott; innehav av annat vapen (1 §), grovt brott, synnerligen grovt brott",bra_11708
+bra_5070,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Vapenbrott; överlåtelse, utlåning av skjutvapen (1 §)",bra_11708
+bra_5072,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Vapenbrott; innehav av jaktvapen (1 §), ej grovt brott",bra_11708
+bra_5073,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Vapenbrott; innehav av annat vapen (1 §), ej grovt brott",bra_11708
+bra_5074,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Vapenbrott; överlåtelse, utlåning av skjutvapen (1 §), ej grovt brott",bra_11708
+bra_5075,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Vapenbrott; innehav av pistol, revolver, kpist (1 §), grovt brott, synnerligen grovt brott",bra_11708
+bra_5076,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Vapenbrott; innehav av jaktvapen (1 §), grovt brott, synnerligen grovt brott",bra_11708
+bra_5078,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Vapenbrott; överlåtelse, utlåning av skjutvapen (1 §), grovt brott, synnerligen grovt brott",bra_11708
+bra_11709,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Vapenbrott; innehav av pistol, revolver, kpist (1 §)",bra_11708
+bra_11710,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Vapenbrott; innehav av jaktvapen (1 §)",bra_11708
+bra_11711,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Vapenbrott; innehav av annat vapen (1 §)",bra_11708
+bra_11712,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Annat brott mot Vapenlagen (1 b, 2 §)",bra_11708
+bra_5071,"Brott mot specialstraffrättsliga författningar, Vapenlagen (9 kap. 1-2 §), Vapenbrott; innehav av pistol, revolver, kpist (1 §), ej grovt brott",bra_11708
+bra_11715,"Brott mot specialstraffrättsliga författningar, Jaktlagen (43-44, 46 §), Illegal rovdjursjakt (varg, björn, järv, lodjur och kungsörn)",bra_11714
+bra_11716,"Brott mot specialstraffrättsliga författningar, Jaktlagen (43-44, 46 §), Övriga brott mot jaktlagen",bra_11714
+bra_5079,"Brott mot specialstraffrättsliga författningar, Utlänningslagen (20 kap.), Uppehåller sig i Sverige trots beslut om utvisning (2 §)",bra_11720
+bra_5080,"Brott mot specialstraffrättsliga författningar, Utlänningslagen (20 kap.), Har utlänning anställd som inte har rätt att vistas i Sverige eller saknar arb.tillst. (5 §)",bra_11720
+bra_11721,"Brott mot specialstraffrättsliga författningar, Utlänningslagen (20 kap.), Människosmuggling (8 §) ",bra_11720
+bra_11722,"Brott mot specialstraffrättsliga författningar, Utlänningslagen (20 kap.), Organiserande av människosmuggling (9 §)",bra_11720
+bra_11723,"Brott mot specialstraffrättsliga författningar, Utlänningslagen (20 kap.), Övriga brott mot utlänningslagen (4, 6, 7 §)",bra_11720
+bra_11846,"Brott mot specialstraffrättsliga författningar, Lagen om kontaktförbud/besöksförbud, Överträdelse av kontaktförbud (24 §)",bra_11724
+bra_11847,"Brott mot specialstraffrättsliga författningar, Lagen om kontaktförbud/besöksförbud, Hindrande av elektronisk övervakning (25 §)",bra_11724
+bra_13035,"Brott mot specialstraffrättsliga författningar, Lagen om förbud mot vissa dopningsmedel (3 §), Överlåtelse m.m. (2-3 a §)",bra_11726
+bra_13036,"Brott mot specialstraffrättsliga författningar, Lagen om förbud mot vissa dopningsmedel (3 §), Innehav (2-3 a §)",bra_11726
+bra_13037,"Brott mot specialstraffrättsliga författningar, Lagen om förbud mot vissa dopningsmedel (3 §), Eget bruk (2-3 a §)",bra_11726
+bra_13038,"Brott mot specialstraffrättsliga författningar, Lagen om förbud mot vissa dopningsmedel (3 §), Framställning (2-3 a §)",bra_11726
+bra_11730,"Brott mot specialstraffrättsliga författningar, Sjölagen (20 kap.), Sjöfylleri (4, 5 §)",bra_11729
+bra_11731,"Brott mot specialstraffrättsliga författningar, Sjölagen (20 kap.), Övriga brott mot sjölagen (1, 2, 6-9 §)",bra_11729
+bra_11735,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Vållande till kroppsskada/sjukdom, ej i samband med trafikolycka (8, 10 §), I samband med arbetsolycka",bra_11734
+bra_11736,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Vållande till kroppsskada/sjukdom, ej i samband med trafikolycka (8, 10 §), Övriga fall",bra_11734
+bra_11741,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Framkallande av fara för annan (9, 10 §), Fara som framkallats för arbetstagare",bra_11740
+bra_11742,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Framkallande av fara för annan (9, 10 §), Övriga fall",bra_11740
+bra_13078,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §), Annat sexuellt ofredande, Mot barn under 15 år, Mot flicka under 15 år",bra_11772
+bra_13079,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §), Annat sexuellt ofredande, Mot barn under 15 år, Mot pojke under 15 år",bra_11772
+bra_13080,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §), Annat sexuellt ofredande, Mot barn 15-17 år, Mot flicka 15-17 år",bra_11772
+bra_13081,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §), Annat sexuellt ofredande, Mot barn 15-17 år, Mot pojke 15-17 år",bra_11772
+bra_13082,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §), Annat sexuellt ofredande, Mot person 18 år eller äldre, Mot kvinna 18 år eller äldre",bra_11772
+bra_13083,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §), Annat sexuellt ofredande, Mot person 18 år eller äldre, Mot man 18 år eller äldre",bra_11772
+bra_13190,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §), Annat sexuellt ofredande, Mot person 15 år eller äldre",bra_11772
+bra_11773,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §), Exhibitionism (blottning)",bra_11772
+bra_11774,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §), Annat sexuellt ofredande",bra_11772
+bra_11775,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §), Annat sexuellt ofredande, Mot barn under 15 år",bra_11772
+bra_11776,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §), Annat sexuellt ofredande, Mot barn 15-17 år",bra_11772
+bra_11777,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt ofredande (10 §), Annat sexuellt ofredande, Mot person 18 år eller äldre",bra_11772
+bra_11789,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av icke motordrivet fortskaffningsmedel (1, 2, 4 §), Cykel",bra_11788
+bra_11790,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av icke motordrivet fortskaffningsmedel (1, 2, 4 §), Båt ",bra_11788
+bra_11791,"Brott mot brottsbalken, 8-12 kap. Brott mot förmögenhet, 8 kap. Stöld, rån m.m., Tillgrepp av icke motordrivet fortskaffningsmedel (1, 2, 4 §), Annat icke motordrivet fortskaffningsmedel",bra_11788
+bra_12997,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Försök till mord eller dråp (1, 2 §), Mot kvinna/flicka",bra_11802
+bra_12998,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Försök till mord eller dråp (1, 2 §), Mot man/pojke ",bra_11802
+bra_12999,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Försök till mord eller dråp (1, 2 §), Mot kvinna/flicka, Med användning av skjutvapen",bra_11802
+bra_13000,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Försök till mord eller dråp (1, 2 §), Mot man/pojke , Med användning av skjutvapen",bra_11802
+bra_13001,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Försök till mord eller dråp (1, 2 §), Mot kvinna/flicka, Utan användning av skjutvapen",bra_11802
+bra_13002,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Försök till mord eller dråp (1, 2 §), Mot man/pojke , Utan användning av skjutvapen",bra_11802
+bra_13003,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Försök till mord eller dråp (1, 2 §), Mot samtliga personer (även där kön är okänt)",bra_11802
+bra_13004,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Försök till mord eller dråp (1, 2 §), Mot samtliga personer (även där kön är okänt), Med användning av skjutvapen",bra_11802
+bra_13005,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Försök till mord eller dråp (1, 2 §), Mot samtliga personer (även där kön är okänt), Utan användning av skjutvapen",bra_11802
+bra_12547,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år",bra_12140
+bra_12548,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år",bra_12140
+bra_12549,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 18 år och äldre",bra_12140
+bra_12550,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 18 år och äldre",bra_12140
+bra_12551,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 15 år och äldre",bra_12140
+bra_12552,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 15 år och äldre ",bra_12140
+bra_12553,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Utomhus",bra_12140
+bra_12554,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Utomhus",bra_12140
+bra_12555,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Utomhus",bra_12140
+bra_12556,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 18 år och äldre, Utomhus",bra_12140
+bra_12557,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 18 år och äldre, Utomhus",bra_12140
+bra_12558,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 15 år och äldre, Utomhus",bra_12140
+bra_12559,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 15 år och äldre , Utomhus",bra_12140
+bra_12560,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Inomhus",bra_12140
+bra_12561,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Inomhus",bra_12140
+bra_12562,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Inomhus",bra_12140
+bra_12563,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 18 år och äldre, Inomhus",bra_12140
+bra_12564,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 18 år och äldre, Inomhus",bra_12140
+bra_12565,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 15 år och äldre, Inomhus",bra_12140
+bra_12566,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 15 år och äldre , Inomhus",bra_12140
+bra_12567,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Utomhus, Obekant med offret",bra_12140
+bra_12568,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Inomhus, Obekant med offret",bra_12140
+bra_12569,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Utomhus, Obekant med offret",bra_12140
+bra_12570,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Inomhus, Obekant med offret",bra_12140
+bra_12571,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Utomhus, Obekant med offret",bra_12140
+bra_12572,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Inomhus, Obekant med offret",bra_12140
+bra_12573,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 18 år och äldre, Utomhus, Obekant med offret",bra_12140
+bra_12574,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 18 år och äldre, Inomhus, Obekant med offret",bra_12140
+bra_12575,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 18 år och äldre, Utomhus, Obekant med offret",bra_12140
+bra_12576,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 18 år och äldre, Inomhus, Obekant med offret",bra_12140
+bra_12577,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 15 år och äldre, Utomhus, Obekant med offret",bra_12140
+bra_12578,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 15 år och äldre, Inomhus, Obekant med offret",bra_12140
+bra_12579,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 15 år och äldre , Utomhus, Obekant med offret",bra_12140
+bra_12580,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 15 år och äldre , Inomhus, Obekant med offret",bra_12140
+bra_12581,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Utomhus, Bekant med offret",bra_12140
+bra_12582,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Inomhus, Bekant med offret",bra_12140
+bra_12584,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Utomhus, Bekant med offret",bra_12140
+bra_12585,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Inomhus, Bekant med offret",bra_12140
+bra_12586,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Utomhus, Bekant med offret",bra_12140
+bra_12587,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Inomhus, Bekant med offret",bra_12140
+bra_12588,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 18 år och äldre, Utomhus, Bekant med offret",bra_12140
+bra_12589,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 18 år och äldre, Inomhus, Bekant med offret",bra_12140
+bra_12590,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 18 år och äldre, Utomhus, Bekant med offret",bra_12140
+bra_12591,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 18 år och äldre, Inomhus, Bekant med offret",bra_12140
+bra_12592,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 15 år och äldre, Utomhus, Bekant med offret",bra_12140
+bra_12593,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 15 år och äldre, Inomhus, Bekant med offret",bra_12140
+bra_12594,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 15 år och äldre , Utomhus, Bekant med offret",bra_12140
+bra_12595,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 15 år och äldre , Inomhus, Bekant med offret",bra_12140
+bra_12596,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Utomhus, Obekant med offret, Mot flicka 0-6 år",bra_12140
+bra_12597,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Utomhus, Bekant med offret, Mot flicka 0-6 år",bra_12140
+bra_12598,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Inomhus, Obekant med offret, Mot flicka 0-6 år",bra_12140
+bra_12599,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Inomhus, Bekant med offret, Mot flicka 0-6 år",bra_12140
+bra_12600,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Utomhus, Obekant med offret, Mot pojke 0-6 år",bra_12140
+bra_12601,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Utomhus, Bekant med offret, Mot pojke 0-6 år",bra_12140
+bra_12602,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Inomhus, Obekant med offret, Mot pojke 0-6 år",bra_12140
+bra_12603,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år, Inomhus, Bekant med offret, Mot pojke 0-6 år",bra_12140
+bra_12604,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Utomhus, Obekant med offret, Mot flicka 7-14 år",bra_12140
+bra_12605,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Utomhus, Bekant med offret, Mot flicka 7-14 år",bra_12140
+bra_12606,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Inomhus, Obekant med offret, Mot flicka 7-14 år",bra_12140
+bra_12607,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Inomhus, Bekant med offret, Mot flicka 7-14 år",bra_12140
+bra_12608,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Utomhus, Obekant med offret, Mot pojke 7-14 år",bra_12140
+bra_12609,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Utomhus, Bekant med offret, Mot pojke 7-14 år",bra_12140
+bra_12610,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Inomhus, Obekant med offret, Mot pojke 7-14 år",bra_12140
+bra_12611,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 7-14 år, Inomhus, Bekant med offret, Mot pojke 7-14 år",bra_12140
+bra_12612,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Utomhus, Obekant med offret, Mot flicka 15-17 år",bra_12140
+bra_12613,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Utomhus, Bekant med offret, Mot flicka 15-17 år",bra_12140
+bra_12614,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Inomhus, Obekant med offret, Mot flicka 15-17 år",bra_12140
+bra_12615,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Inomhus, Bekant med offret, Mot flicka 15-17 år",bra_12140
+bra_12616,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Utomhus, Obekant med offret, Mot pojke 15-17 år",bra_12140
+bra_12617,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Utomhus, Bekant med offret, Mot pojke 15-17 år",bra_12140
+bra_12618,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Inomhus, Obekant med offret, Mot pojke 15-17 år",bra_12140
+bra_12619,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 15-17 år, Inomhus, Bekant med offret, Mot pojke 15-17 år",bra_12140
+bra_12620,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 18 år och äldre, Inomhus, Bekant med offret, I nära relation med offret",bra_12140
+bra_12621,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 18 år och äldre, Inomhus, Bekant med offret, I nära relation med offret",bra_12140
+bra_12622,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 18 år och äldre, Inomhus, Bekant med offret, Ej i nära relation med offret",bra_12140
+bra_12623,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 18 år och äldre, Inomhus, Bekant med offret, Ej i nära relation med offret",bra_12140
+bra_5038,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 18 år och äldre, Utomhus, Bekant med offret, I nära relation med offret",bra_12140
+bra_5039,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot kvinna 18 år och äldre, Utomhus, Bekant med offret, Ej i nära relation med offret",bra_12140
+bra_5040,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 18 år och äldre, Utomhus, Bekant med offret, Ej i nära relation med offret",bra_12140
+bra_5041,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot man 18 år och äldre, Utomhus, Bekant med offret, I nära relation med offret",bra_12140
+bra_12144,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter ålder, Mot barn 0-6 år",bra_12140
+bra_12625,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus",bra_12141
+bra_12626,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus",bra_12141
+bra_12627,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus",bra_12141
+bra_12628,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus",bra_12141
+bra_12629,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Obekant med offret",bra_12141
+bra_12630,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Obekant med offret",bra_12141
+bra_12631,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Obekant med offret",bra_12141
+bra_12632,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Obekant med offret",bra_12141
+bra_12633,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Bekant med offret",bra_12141
+bra_12634,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Bekant med offret",bra_12141
+bra_12635,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Bekant med offret",bra_12141
+bra_12636,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Bekant med offret",bra_12141
+bra_12637,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Obekant med offret, Mot flicka 0-6 år",bra_12141
+bra_12638,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Bekant med offret, Mot flicka 0-6 år",bra_12141
+bra_12639,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Obekant med offret, Mot flicka 0-6 år",bra_12141
+bra_12640,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Bekant med offret, Mot flicka 0-6 år",bra_12141
+bra_12641,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Obekant med offret, Mot pojke 0-6 år",bra_12141
+bra_12642,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Bekant med offret, Mot pojke 0-6 år",bra_12141
+bra_12643,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Obekant med offret, Mot pojke 0-6 år",bra_12141
+bra_12644,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Bekant med offret, Mot pojke 0-6 år",bra_12141
+bra_12646,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Obekant med offret, Mot flicka 7-14 år",bra_12141
+bra_12647,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Bekant med offret, Mot flicka 7-14 år",bra_12141
+bra_12648,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Obekant med offret, Mot flicka 7-14 år",bra_12141
+bra_12649,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Bekant med offret, Mot flicka 7-14 år",bra_12141
+bra_12650,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Obekant med offret, Mot pojke 7-14 år",bra_12141
+bra_12651,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Bekant med offret, Mot pojke 7-14 år",bra_12141
+bra_12652,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Obekant med offret, Mot pojke 7-14 år",bra_12141
+bra_12653,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Bekant med offret, Mot pojke 7-14 år",bra_12141
+bra_12654,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Obekant med offret, Mot flicka 15-17 år",bra_12141
+bra_12655,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Bekant med offret, Mot flicka 15-17 år",bra_12141
+bra_12656,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Obekant med offret, Mot flicka 15-17 år",bra_12141
+bra_12657,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Bekant med offret, Mot flicka 15-17 år",bra_12141
+bra_12658,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Obekant med offret, Mot pojke 15-17 år",bra_12141
+bra_12659,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Bekant med offret, Mot pojke 15-17 år",bra_12141
+bra_12660,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Obekant med offret, Mot kvinna 18 år och äldre",bra_12141
+bra_12661,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Bekant med offret, Mot kvinna 18 år och äldre",bra_12141
+bra_12662,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Obekant med offret, Mot kvinna 18 år och äldre",bra_12141
+bra_12663,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Bekant med offret, Mot kvinna 18 år och äldre",bra_12141
+bra_12664,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Obekant med offret, Mot man 18 år och äldre",bra_12141
+bra_12665,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Bekant med offret, Mot man 18 år och äldre",bra_12141
+bra_12666,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Obekant med offret, Mot man 18 år och äldre",bra_12141
+bra_12667,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Bekant med offret, Mot man 18 år och äldre",bra_12141
+bra_12668,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Obekant med offret, Mot pojke 15-17 år ",bra_12141
+bra_12669,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Bekant med offret, Mot pojke 15-17 år ",bra_12141
+bra_12670,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Obekant med offret, Mot kvinna 15 år och äldre ",bra_12141
+bra_12671,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Bekant med offret, Mot kvinna 15 år och äldre",bra_12141
+bra_12672,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Obekant med offret, Mot kvinna 15 år och äldre",bra_12141
+bra_12673,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Bekant med offret, Mot kvinna 15 år och äldre ",bra_12141
+bra_12674,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Obekant med offret, Mot man 15 år och äldre",bra_12141
+bra_12675,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Bekant med offret, Mot man 15 år och äldre",bra_12141
+bra_12676,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Obekant med offret, Mot man 15 år och äldre",bra_12141
+bra_12677,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Bekant med offret, Mot man 15 år och äldre ",bra_12141
+bra_12678,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Bekant med offret, Mot kvinna 18 år och äldre, I nära relation med offret",bra_12141
+bra_12679,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Inomhus, Bekant med offret, Mot kvinna 18 år och äldre, Ej i nära relation med offret",bra_12141
+bra_12680,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Bekant med offret, Mot man 18 år och äldre, I nära relation med offret",bra_12141
+bra_12681,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Inomhus, Bekant med offret, Mot man 18 år och äldre, Ej i nära relation med offret",bra_12141
+bra_5042,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Bekant med offret, Mot kvinna 18 år och äldre, I nära relation med offret",bra_12141
+bra_5043,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor, Utomhus, Bekant med offret, Mot kvinna 18 år och äldre, Ej i nära relation med offret",bra_12141
+bra_5044,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Bekant med offret, Mot man 18 år och äldre, Ej i nära relation med offret",bra_12141
+bra_5045,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män, Utomhus, Bekant med offret, Mot man 18 år och äldre, I nära relation med offret",bra_12141
+bra_12255,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot flickor och kvinnor",bra_12141
+bra_12256,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 3 kap. Brott mot liv och hälsa, Misshandel inkl. grov (5, 6 §), Indelat efter kön , Mot pojkar och män",bra_12141
+bra_12820,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §)",bra_12818
+bra_12821,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §)",bra_12818
+bra_12823,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot man 18 år eller äldre (1 §)",bra_12818
+bra_12824,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot person 15 år eller äldre",bra_12818
+bra_12861,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot man 18 år eller äldre (1 §), Fullbordad våldtäkt",bra_12818
+bra_12862,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot person 15 år eller äldre, Fullbordad våldtäkt",bra_12818
+bra_12864,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot man 18 år eller äldre (1 §), Försök till våldtäkt",bra_12818
+bra_12865,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot person 15 år eller äldre, Försök till våldtäkt",bra_12818
+bra_12868,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot man 18 år eller äldre (1 §), Fullbordad våldtäkt, Utomhus",bra_12818
+bra_12869,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot man 18 år eller äldre (1 §), Försök till våldtäkt, Utomhus",bra_12818
+bra_12870,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot person 15 år eller äldre, Fullbordad våldtäkt, Utomhus",bra_12818
+bra_12871,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot person 15 år eller äldre, Försök till våldtäkt, Utomhus",bra_12818
+bra_12874,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot man 18 år eller äldre (1 §), Fullbordad våldtäkt, Inomhus",bra_12818
+bra_12875,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot man 18 år eller äldre (1 §), Försök till våldtäkt, Inomhus",bra_12818
+bra_12876,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot person 15 år eller äldre, Fullbordad våldtäkt, Inomhus",bra_12818
+bra_12877,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot person 15 år eller äldre, Försök till våldtäkt, Inomhus",bra_12818
+bra_12878,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Fullbordad våldtäkt",bra_12818
+bra_12879,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Försök till våldtäkt",bra_12818
+bra_12880,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot flicka under 15 år",bra_12818
+bra_12881,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot pojke under 15 år",bra_12818
+bra_12882,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot flicka under 15 år, Fullbordad våldtäkt",bra_12818
+bra_12883,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot pojke under 15 år, Fullbordad våldtäkt",bra_12818
+bra_12884,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot flicka under 15 år, Försök till våldtäkt",bra_12818
+bra_12885,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot pojke under 15 år, Försök till våldtäkt",bra_12818
+bra_12886,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Fullbordad våldtäkt, Utomhus",bra_12818
+bra_12887,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Försök till våldtäkt, Utomhus",bra_12818
+bra_12888,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot flicka under 15 år, Fullbordad våldtäkt, Utomhus",bra_12818
+bra_12889,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot flicka under 15 år, Försök till våldtäkt, Utomhus",bra_12818
+bra_12890,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot pojke under 15 år, Fullbordad våldtäkt, Utomhus",bra_12818
+bra_12891,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot pojke under 15 år, Försök till våldtäkt, Utomhus",bra_12818
+bra_12892,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Fullbordad våldtäkt, Inomhus",bra_12818
+bra_12893,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Försök till våldtäkt, Inomhus",bra_12818
+bra_12894,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot flicka under 15 år, Fullbordad våldtäkt, Inomhus",bra_12818
+bra_12895,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot flicka under 15 år, Försök till våldtäkt, Inomhus",bra_12818
+bra_12896,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot pojke under 15 år, Fullbordad våldtäkt, Inomhus",bra_12818
+bra_12897,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn under 15 år (4 §), Mot pojke under 15 år, Försök till våldtäkt, Inomhus",bra_12818
+bra_12898,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot flicka 15-17 år",bra_12818
+bra_12899,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot pojke 15-17 år",bra_12818
+bra_12900,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot flicka 15-17 år, Fullbordad våldtäkt",bra_12818
+bra_12901,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot pojke 15-17 år, Fullbordad våldtäkt",bra_12818
+bra_12902,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot flicka 15-17 år, Försök till våldtäkt",bra_12818
+bra_12903,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot pojke 15-17 år, Försök till våldtäkt",bra_12818
+bra_12904,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot flicka 15-17 år, Fullbordad våldtäkt, Utomhus",bra_12818
+bra_12905,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot flicka 15-17 år, Försök till våldtäkt, Utomhus",bra_12818
+bra_12906,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot pojke 15-17 år, Fullbordad våldtäkt, Utomhus",bra_12818
+bra_12907,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot pojke 15-17 år, Försök till våldtäkt, Utomhus",bra_12818
+bra_12908,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot kvinna 18 år eller äldre (1 §)",bra_12818
+bra_12909,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot kvinna 18 år eller äldre (1 §), Fullbordad våldtäkt",bra_12818
+bra_12910,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot kvinna 18 år eller äldre (1 §), Försök till våldtäkt",bra_12818
+bra_12911,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot kvinna 18 år eller äldre (1 §), Fullbordad våldtäkt, Utomhus",bra_12818
+bra_12912,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot kvinna 18 år eller äldre (1 §), Försök till våldtäkt, Utomhus",bra_12818
+bra_12913,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot kvinna 18 år eller äldre (1 §), Försök till våldtäkt, Inomhus",bra_12818
+bra_12914,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot kvinna 18 år eller äldre (1 §), Fullbordad våldtäkt, Inomhus",bra_12818
+bra_12915,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot pojke 15-17 år, Försök till våldtäkt, Inomhus",bra_12818
+bra_12916,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot pojke 15-17 år, Fullbordad våldtäkt, Inomhus",bra_12818
+bra_12917,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot flicka 15-17 år, Försök till våldtäkt, Inomhus",bra_12818
+bra_12918,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter ålder, Mot barn 15-17 år (1, 4 §), Mot flicka 15-17 år, Fullbordad våldtäkt, Inomhus",bra_12818
+bra_12919,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor",bra_12819
+bra_12920,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män",bra_12819
+bra_12921,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka under 15 år (4 §)",bra_12819
+bra_12922,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke under 15 år (4 §)",bra_12819
+bra_12923,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka 15-17 år (1, 4 §) ",bra_12819
+bra_12924,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke 15-17 år (1, 4 §) ",bra_12819
+bra_12925,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot kvinna 18 år eller äldre (1 §)",bra_12819
+bra_12926,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot man 18 år eller äldre (1 §)",bra_12819
+bra_12927,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka under 15 år (4 §), Fullbordad våldtäkt",bra_12819
+bra_12928,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka 15-17 år (1, 4 §) , Fullbordad våldtäkt",bra_12819
+bra_12929,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot kvinna 18 år eller äldre (1 §), Fullbordad våldtäkt",bra_12819
+bra_12930,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke under 15 år (4 §), Fullbordad våldtäkt",bra_12819
+bra_12931,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke 15-17 år (1, 4 §) , Fullbordad våldtäkt",bra_12819
+bra_12932,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot man 18 år eller äldre (1 §), Fullbordad våldtäkt",bra_12819
+bra_12933,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka under 15 år (4 §), Försök till våldtäkt",bra_12819
+bra_12934,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka 15-17 år (1, 4 §) , Försök till våldtäkt",bra_12819
+bra_12935,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot kvinna 18 år eller äldre (1 §), Försök till våldtäkt",bra_12819
+bra_12936,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke under 15 år (4 §), Försök till våldtäkt",bra_12819
+bra_12937,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke 15-17 år (1, 4 §) , Försök till våldtäkt",bra_12819
+bra_12938,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot man 18 år eller äldre (1 §), Försök till våldtäkt",bra_12819
+bra_12939,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka under 15 år (4 §), Fullbordad våldtäkt, Utomhus",bra_12819
+bra_12940,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka under 15 år (4 §), Försök till våldtäkt, Utomhus",bra_12819
+bra_12941,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka 15-17 år (1, 4 §) , Fullbordad våldtäkt, Utomhus",bra_12819
+bra_12942,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka 15-17 år (1, 4 §) , Försök till våldtäkt, Utomhus",bra_12819
+bra_12943,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot kvinna 18 år eller äldre (1 §), Fullbordad våldtäkt, Utomhus",bra_12819
+bra_12944,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot kvinna 18 år eller äldre (1 §), Försök till våldtäkt, Utomhus",bra_12819
+bra_12945,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke under 15 år (4 §), Fullbordad våldtäkt, Utomhus",bra_12819
+bra_12946,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke under 15 år (4 §), Försök till våldtäkt, Utomhus",bra_12819
+bra_12947,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke 15-17 år (1, 4 §) , Fullbordad våldtäkt, Utomhus",bra_12819
+bra_12948,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke 15-17 år (1, 4 §) , Försök till våldtäkt, Utomhus",bra_12819
+bra_12949,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot man 18 år eller äldre (1 §), Fullbordad våldtäkt, Utomhus",bra_12819
+bra_12950,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot man 18 år eller äldre (1 §), Försök till våldtäkt, Utomhus",bra_12819
+bra_12951,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka under 15 år (4 §), Fullbordad våldtäkt, Inomhus",bra_12819
+bra_12952,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka under 15 år (4 §), Försök till våldtäkt, Inomhus",bra_12819
+bra_12953,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka 15-17 år (1, 4 §) , Fullbordad våldtäkt, Inomhus",bra_12819
+bra_12954,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot flicka 15-17 år (1, 4 §) , Försök till våldtäkt, Inomhus",bra_12819
+bra_12955,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot kvinna 18 år eller äldre (1 §), Fullbordad våldtäkt, Inomhus",bra_12819
+bra_12956,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot flickor och kvinnor, Mot kvinna 18 år eller äldre (1 §), Försök till våldtäkt, Inomhus",bra_12819
+bra_12957,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke under 15 år (4 §), Fullbordad våldtäkt, Inomhus",bra_12819
+bra_12958,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke under 15 år (4 §), Försök till våldtäkt, Inomhus",bra_12819
+bra_12959,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke 15-17 år (1, 4 §) , Fullbordad våldtäkt, Inomhus",bra_12819
+bra_12960,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot pojke 15-17 år (1, 4 §) , Försök till våldtäkt, Inomhus",bra_12819
+bra_12961,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot man 18 år eller äldre (1 §), Fullbordad våldtäkt, Inomhus",bra_12819
+bra_12962,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Våldtäkt inkl. grov (1, 4 §), Indelat efter kön , Mot pojkar och män, Mot man 18 år eller äldre (1 §), Försök till våldtäkt, Inomhus",bra_12819
+bra_13093,"Brott mot specialstraffrättsliga författningar, Lag om straff för penningtvättsbrott, Pennintvättsbrott (3-4 §)",bra_13092
+bra_13094,"Brott mot specialstraffrättsliga författningar, Lag om straff för penningtvättsbrott, Penningtvättsbrott, grovt brott (5 §)",bra_13092
+bra_13095,"Brott mot specialstraffrättsliga författningar, Lag om straff för penningtvättsbrott, Penningtvättsförseelse (6 §)",bra_13092
+bra_13096,"Brott mot specialstraffrättsliga författningar, Lag om straff för penningtvättsbrott, Näringspenningtvätt (7 § 1-3 st.)",bra_13092
+bra_13106,"Brott mot specialstraffrättsliga författningar, Brott mot skattebrottslagen (2-10 §), Grovt skattebrott",bra_13105
+bra_13107,"Brott mot specialstraffrättsliga författningar, Brott mot skattebrottslagen (2-10 §), Skattebrott (2 §), skatteförseelse (3 §), grovt skattebrott avs. mervärdesskattelagen (4 §)",bra_13105
+bra_13108,"Brott mot specialstraffrättsliga författningar, Brott mot skattebrottslagen (2-10 §), Skattebrott (2 §), skatteförseelse (3 §), grovt skattebrott avs. övrig skattelagstiftning (4 §)",bra_13105
+bra_13109,"Brott mot specialstraffrättsliga författningar, Brott mot skattebrottslagen (2-10 §), Vårdslös skatteuppgift (5 §)",bra_13105
+bra_13110,"Brott mot specialstraffrättsliga författningar, Brott mot skattebrottslagen (2-10 §), Skatteavdragsbrott (6 §)",bra_13105
+bra_13111,"Brott mot specialstraffrättsliga författningar, Brott mot skattebrottslagen (2-10 §), Skatteredovisningsbrott (7 §), vårdslös skatteredovisning (8 §)",bra_13105
+bra_13112,"Brott mot specialstraffrättsliga författningar, Brott mot skattebrottslagen (2-10 §), Försvårande av skattekontroll (10 §)",bra_13105
+bra_13116,"Brott mot specialstraffrättsliga författningar, Aktiebolagslagen (30 kap.), Underlåtenhet att föra/hålla aktiebok tillgänglig (1 § 1 st. 2 p.)",bra_13115
+bra_13117,"Brott mot specialstraffrättsliga författningar, Aktiebolagslagen (30 kap.), Brott mot låneförbud m.m. (1 § 1 st. 4 p.)",bra_13115
+bra_13118,"Brott mot specialstraffrättsliga författningar, Aktiebolagslagen (30 kap.), Brott mot bulvan/målvaktsbestämmelser (1 § 3 st.)",bra_13115
+bra_13119,"Brott mot specialstraffrättsliga författningar, Aktiebolagslagen (30 kap.), Övriga brott mot aktiebolagslagen (1 § 1 st. 1 p., 3 p.)",bra_13115
+bra_13121,"Brott mot specialstraffrättsliga författningar, Lag om straff för marknadsmissbruk (t.o.m. 2017), Insiderbrott m.m. (2-4, 7 §)",bra_13120
+bra_13122,"Brott mot specialstraffrättsliga författningar, Lag om straff för marknadsmissbruk (t.o.m. 2017), Marknadsmissbruk (8 §)",bra_13120
+bra_13123,"Brott mot specialstraffrättsliga författningar, Lag om straff för marknadsmissbruk (t.o.m. 2017), Rapporteringsskyldighet, åsidosättande (13 §)",bra_13120
+bra_5233,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot barn 15-17 år",bra_5232
+bra_5234,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot kvinna 18 år eller äldre ",bra_5232
+bra_5235,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot man 18 år eller äldre",bra_5232
+bra_5236,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot barn 15-17 år, Mot flicka 15-17 år",bra_5232
+bra_5237,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot barn 15-17 år, Mot pojke 15-17 år",bra_5232
+bra_5238,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot barn 15-17 år, Mot flicka 15-17 år, Utomhus",bra_5232
+bra_5239,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot barn 15-17 år, Mot pojke 15-17 år, Utomhus",bra_5232
+bra_5240,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot kvinna 18 år eller äldre , Utomhus",bra_5232
+bra_5241,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot man 18 år eller äldre, Utomhus",bra_5232
+bra_5242,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot barn 15-17 år, Mot flicka 15-17 år, Inomhus",bra_5232
+bra_5243,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot barn 15-17 år, Mot pojke 15-17 år, Inomhus",bra_5232
+bra_5244,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot kvinna 18 år eller äldre , Inomhus",bra_5232
+bra_5245,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsam våldtäkt (1 a §), Mot man 18 år eller äldre, Inomhus",bra_5232
+bra_5249,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt övergrepp (2 §) (Fr. o. m. 2018-07), Mot barn 15-17 år",bra_5246
+bra_5250,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt övergrepp (2 §) (Fr. o. m. 2018-07), Mot kvinna 18 år eller äldre",bra_5246
+bra_5251,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt övergrepp (2 §) (Fr. o. m. 2018-07), Mot man 18 år eller äldre",bra_5246
+bra_5252,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt övergrepp (2 §) (Fr. o. m. 2018-07), Mot barn 15-17 år, Mot flicka 15-17 år",bra_5246
+bra_5253,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Sexuellt övergrepp (2 §) (Fr. o. m. 2018-07), Mot barn 15-17 år, Mot pojke 15-17 år",bra_5246
+bra_5254,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsamt sexuellt övergrepp (3 §) (Fr. o. m. 2018-07), Mot barn 15-17 år",bra_5247
+bra_5255,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsamt sexuellt övergrepp (3 §) (Fr. o. m. 2018-07), Mot barn 15-17 år, Mot flicka 15-17 år",bra_5247
+bra_5256,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsamt sexuellt övergrepp (3 §) (Fr. o. m. 2018-07), Mot barn 15-17 år, Mot pojke 15-17 år",bra_5247
+bra_5257,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsamt sexuellt övergrepp (3 §) (Fr. o. m. 2018-07), Mot kvinna 18 år eller äldre",bra_5247
+bra_5258,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Oaktsamt sexuellt övergrepp (3 §) (Fr. o. m. 2018-07), Mot man 18 år eller äldre",bra_5247
+bra_5259,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Samlag med avkomling eller syskon (7 §) (Fr. o. m. 2018-07), Mot barn 15-17 år",bra_5248
+bra_5261,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Samlag med avkomling eller syskon (7 §) (Fr. o. m. 2018-07), Mot barn 15-17 år, Mot flicka 15-17 år",bra_5248
+bra_5262,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Samlag med avkomling eller syskon (7 §) (Fr. o. m. 2018-07), Mot barn 15-17 år, Mot pojke 15-17 år",bra_5248
+bra_5263,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Samlag med avkomling eller syskon (7 §) (Fr. o. m. 2018-07), Mot kvinna 18 år eller äldre",bra_5248
+bra_5264,"Brott mot brottsbalken, 3-7 kap. Brott mot person, 6 kap. Sexualbrott, Samlag med avkomling eller syskon (7 §) (Fr. o. m. 2018-07), Mot man 18 år eller äldre",bra_5248

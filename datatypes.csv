@@ -1,6 +1,6 @@
 id,label__en,label__sv,description,value_type,allowed_values
 age_group,age group,,,str,misc/age_groups
-crime_type,crime type,,A crime type (brottstyp) used by the Swedish police. ,str,misc/crime_types*
+crime_type,crime type,,A crime type (brottstyp) as categoized (and with the id strucutre of) Brottsförebyggande rådet.),str,misc/se/bra_crime_types*
 foreignborn,foreign born,,Is the subject born outside Sweden?,str,misc/foreignborn
 gender,gender,,A subjects gender,str,misc/genders
 house_type,house type,,House types as defined by Mäklarstatistik,str,misc/house_types
