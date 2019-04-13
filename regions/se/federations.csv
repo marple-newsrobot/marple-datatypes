@@ -1,13 +1,13 @@
 id,label,start,end,wikidata,region_level,desc
-Attunda kommunalförbund,Brandkåren Attunda,0,9,Q10547383,municipality_federation,
-Storstockholms kommunalförbund,Storstockholms brandförsvar,0,9,Q10681396,municipality_federation,
-Södertörns kommunalförbund,Södertörns brandförsvarsförbund,0,9,Q10688828,municipality_federation,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+Attunda kommunalförbund,Brandkåren Attunda,0,9,Q10547383,municipality_federation,Räddningstjänstföbund
+Storstockholms kommunalförbund,Storstockholms brandförsvar,0,9,Q10681396,municipality_federation,Räddningstjänstföbund
+Södertörns kommunalförbund,Södertörns brandförsvarsförbund,0,9,Q10688828,municipality_federation,Räddningstjänstföbund
+Enköping-Håbos kommunalförbund,Räddningstjänsten Enköping-Håbo,0,9,,municipality_federation,Räddningstjänstföbund
+Uppsala kommunalförbund,Uppsala Brandförsvar,0,9,,municipality_federation,Räddningstjänstföbund
+Västra Sörmlands kommunalförbund,Västra Sörmlands Räddningstjänst,0,9,,municipality_federation,Räddningstjänstföbund
+Östra Götalands kommunalförbund,Räddningstjänsten Östra Götaland,0,9,Q49099056,municipality_federation,Räddningstjänstföbund
+Gislaved-Gnosjö kommunalförbund,Gislaved-Gnosjö Räddningstjänst,0,9,,municipality_federation,Räddningstjänstföbund
+Höglandets kommunalförbund,Höglandets Räddningstjänstförbund,0,9,,municipality_federation,Räddningstjänstföbund
 ,,,,,,
 ,,,,,,
 ,,,,,,
