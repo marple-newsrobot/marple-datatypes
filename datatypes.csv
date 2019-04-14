@@ -57,4 +57,4 @@ economic_sentiment_indicator,Economic sentiment indicator,Indikator för tilltro
 norwegian region,norwegian regions,Norska regioner,A norwegian administrative region,str,regions/no/*
 norwegian county,norwegian counties,Norska fylken,"A norwegian county (fylke), past or present",str,regions/no/counties
 norwegian municipality,norwegian municipalities,Norska kommuner,"A norwegian municipality, past or present",str,regions/no/municipalities
-municipality_federation,Swedish municipality federations,Svenska kommunalförbund,Two or more Swedish municipalities organized in a federation,str,regions/se/federations
+municipality_federation_fire,Swedish municipality federations organizing firefighting and civil defence,Svenska kommunalförbund för räddningstjänst,Two or more Swedish municipalities organized in a federation,str,regions/se/federations-fire
