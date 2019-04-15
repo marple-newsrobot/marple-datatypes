@@ -4,3 +4,4 @@ neighbours,one_to_many
 county,one_to_one
 municipality,one_to_one
 road_type,one_to_one
+municipality_federation,one_to_one
