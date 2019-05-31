@@ -17,7 +17,7 @@ swedish municipality,Swedish municipalities,svenska kommuner,"A Swedish municipa
 swedish county councils,Swedish county councils,svenska landsting,"A Swedish county council, past or present",str,regions/se/county_councils
 country,countries,länder,"A country, past or present",str,regions/nations
 eu country group,EU countries,,"A past or present group of EU countries, such as EU-28",str,regions/eu
-nuts region,NUTS region,NUTS region,A NUTS1/2/3 region,srt,regions/nuts
+nuts region,NUTS region,NUTS region,A NUTS1/2/3 region,srt,regions/eu/nuts
 country group,country group,,Custom groupings of countries such as ”All nations except Sweden”,str,regions/country_groups
 place_of_birth,countries of birth,,Subjects country (or continent) of birth,str,regions/nations
 date,date,,An ISO 8601 date/time stamp,date,
