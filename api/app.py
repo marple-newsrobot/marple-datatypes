@@ -6,6 +6,7 @@ from marple.utils import isNaN, parse_lingual_object
 import csvkit as csv
 import os
 import json
+import numpy as np
 from settings import DATATYPES_DIR, DEFAULT_LANG, RELATIONS_CSV_PATH
 
 ALL_DOMAINS = Domain("**/*", datatypes_dir=DATATYPES_DIR)
@@ -158,11 +159,21 @@ def get_domain(url):
     return "/".join(url.split("/", 3)[:3])
 
 def jsonify_item(item_id, lang, domain):
-    return {
+    item = {
         "id": item_id,
         "label": ALL_DOMAINS.label(item_id, lang=lang),
         "path": u"{}/item/{}?lang={}".format(domain, item_id,lang)
     }
+    for key, value in ALL_DOMAINS.row(item_id).iteritems():
+        if key in item:
+            continue
+        if isNaN(value):
+            continue
+        item[key] = value
+
+    return item
+
+
 
 def get_lang(req_args):
     """ Get languge from request
