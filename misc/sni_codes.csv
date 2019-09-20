@@ -37,3 +37,1711 @@ SNI2007_86_88,"enheter för vård och omsorg, socialtjänst"
 SNI2007_90_93,enheter för kultur nöje och fritid
 SNI2007_94_99+84,"andra serviceföretag och företag för personliga tjänster, civila myndigheter och försvaret"
 SNI2007_US,uppgift saknas
+SNI2007_01110,"odling av spannmål (utom ris), baljväxter och oljeväxter"
+SNI2007_01120,odling av ris
+SNI2007_01131,potatisodling
+SNI2007_01132,sockerbetsodling
+SNI2007_01133,odling av grönsaker (köksväxter) på friland
+SNI2007_01134,odling av grönsaker (köksväxter) i växthus
+SNI2007_01135,svampodling m.m.
+SNI2007_01140,odling av sockerrör
+SNI2007_01150,odling av tobak
+SNI2007_01160,odling av fiberväxter
+SNI2007_01191,odling av prydnadsväxter i växthus
+SNI2007_01199,odling av övriga ett- och tvååriga växter
+SNI2007_01210,odling av druvor
+SNI2007_01220,odling av tropiska och subtropiska frukter
+SNI2007_01230,odling av citrusfrukter
+SNI2007_01240,odling av kärnfrukter och stenfrukter
+SNI2007_01250,odling av andra frukter och bär samt nötter
+SNI2007_01260,odling av oljehaltiga frukter
+SNI2007_01270,odling av växter för dryckesframställning
+SNI2007_01280,"odling av kryddväxter, drog- och medicinalväxter"
+SNI2007_01290,odling av andra fleråriga växter
+SNI2007_01301,odling av plantskoleväxter i växthus
+SNI2007_01302,odling av plantskoleväxter m.m. på friland
+SNI2007_01410,mjölkproduktion och uppfödning av nötkreatur av mjölkras
+SNI2007_01420,uppfödning av andra nötkreatur och bufflar
+SNI2007_01430,uppfödning av hästar och andra hästdjur
+SNI2007_01440,uppfödning av kameler och kameldjur
+SNI2007_01450,uppfödning av får och getter
+SNI2007_01461,uppfödning av smågrisar
+SNI2007_01462,uppfödning av slaktsvin
+SNI2007_01471,äggproduktion (för försäljning)
+SNI2007_01472,"uppfödning av fjäderfä, ej äggproduktion"
+SNI2007_01491,renskötsel
+SNI2007_01492,uppfödning av sällskapsdjur
+SNI2007_01499,övrig uppfödning av andra djur
+SNI2007_01500,blandat jordbruk
+SNI2007_01610,service till växtodling
+SNI2007_01620,service till husdjursskötsel
+SNI2007_01630,bearbetning av skördade växter
+SNI2007_01640,bearbetning av utsäde
+SNI2007_01700,jakt och service i anslutning härtill
+SNI2007_02101,skogsförvaltning
+SNI2007_02102,skogsskötsel
+SNI2007_02109,övrig skoglig verksamhet
+SNI2007_02200,drivning
+SNI2007_02300,insamling av annat vilt växande skogsmaterial än trä
+SNI2007_02401,virkesmätning
+SNI2007_02409,övrig service till skogsbruk
+SNI2007_03111,trålfiske i saltvatten
+SNI2007_03119,övrigt saltvattensfiske
+SNI2007_03120,sötvattensfiske
+SNI2007_03210,fiskodling i saltvatten
+SNI2007_03220,fiskodling i sötvatten
+SNI2007_05100,stenkolsutvinning
+SNI2007_05200,brunkolsutvinning
+SNI2007_06100,utvinning av råpetroleum
+SNI2007_06200,utvinning av naturgas
+SNI2007_07100,järnmalmsutvinning
+SNI2007_07210,utvinning av uran- och toriummalm
+SNI2007_07290,utvinning av annan malm
+SNI2007_08110,"brytning av natursten, kalk- och gipssten, krita och skiffer"
+SNI2007_08120,"utvinning av sand, grus och berg; utvinning av lera och kaolin"
+SNI2007_08910,brytning av kemiska mineral
+SNI2007_08920,torvutvinning
+SNI2007_08930,saltutvinning
+SNI2007_08990,diverse övrig utvinning av mineral
+SNI2007_09100,stödtjänster till råpetroleum- och naturgasutvinning
+SNI2007_09900,stödtjänster till annan utvinning
+SNI2007_10111,kreatursslakt
+SNI2007_10112,styckning av kött
+SNI2007_10120,beredning och hållbarhetsbehandling av fjäderfäkött
+SNI2007_10130,charkuteri- och annan köttvarutillverkning
+SNI2007_10200,beredning och hållbarhetsbehandling av fisk samt skal- och blötdjur
+SNI2007_10310,beredning och hållbarhetsbehandling av potatis
+SNI2007_10320,juice- och safttillverkning
+SNI2007_10390,"annan beredning och hållbarhetsbehandling av frukt, bär och grönsaker"
+SNI2007_10410,framställning av oljor och fetter
+SNI2007_10420,matfettstillverkning
+SNI2007_10511,osttillverkning
+SNI2007_10519,annan mejerivarutillverkning
+SNI2007_10520,glasstillverkning
+SNI2007_10611,mjöltillverkning
+SNI2007_10612,"tillverkning av frukostflingor, mixer och andra livsmedelsberedningar av kvarnprodukter"
+SNI2007_10620,stärkelsetillverkning
+SNI2007_10710,tillverkning av mjukt matbröd och färska bakverk
+SNI2007_10721,knäckebrödstillverkning
+SNI2007_10722,tillverkning av kex och konserverade bakverk
+SNI2007_10730,tillverkning av pastaprodukter
+SNI2007_10810,sockertillverkning
+SNI2007_10821,tillverkning av sockerkonfektyrer
+SNI2007_10822,tillverkning av choklad och chokladkonfektyrer
+SNI2007_10830,framställning av te och kaffe
+SNI2007_10840,"tillverkning av senap, ketchup, kryddor och andra smaksättningsmedel"
+SNI2007_10850,tillverkning av lagad mat och färdigrätter
+SNI2007_10860,tillverkning av homogeniserade livsmedelspreparat inklusive dietmat
+SNI2007_10890,framställning av andra livsmedel
+SNI2007_10910,framställning av beredda fodermedel
+SNI2007_10920,framställning av mat till sällskapsdjur
+SNI2007_11010,"destillering, rening och tillblandning av spritdrycker"
+SNI2007_11020,framställning av vin från druvor
+SNI2007_11030,framställning av cider och andra fruktviner
+SNI2007_11040,framställning av andra icke-destillerade jästa drycker
+SNI2007_11050,framställning av öl
+SNI2007_11060,framställning av malt
+SNI2007_11070,"framställning av läskedrycker, mineralvatten och annat vatten på flaska"
+SNI2007_12000,tobaksvarutillverkning
+SNI2007_13100,garntillverkning
+SNI2007_13200,vävnadstillverkning
+SNI2007_13300,"blekning, färgning och annan textilberedning"
+SNI2007_13910,tillverkning av trikåväv
+SNI2007_13921,"sömnad av gardiner, sängkläder och linnevaror"
+SNI2007_13922,"tillverkning av presenningar, tält, segel o.d."
+SNI2007_13930,tillverkning av mattor
+SNI2007_13940,tågvirkes- och bindgarnstillverkning
+SNI2007_13950,tillverkning av bondad duk
+SNI2007_13960,tillverkning av andra tekniska textilier och industritextilier
+SNI2007_13990,övrig textilietillverkning
+SNI2007_14110,tillverkning av läder- och skinnkläder
+SNI2007_14120,"tillverkning av arbets-, skydds- och överdragskläder"
+SNI2007_14130,tillverkning av andra gång- och ytterkläder
+SNI2007_14140,"tillverkning av underkläder, skjortor och blusar"
+SNI2007_14190,tillverkning av andra beklädnadsvaror och tillbehör
+SNI2007_14200,tillverkning av pälsvaror
+SNI2007_14310,tillverkning av strumpor
+SNI2007_14390,tillverkning av andra trikåvaror
+SNI2007_15110,garvning och annan läderberedning; pälsberedning
+SNI2007_15120,"tillverkning av reseffekter, handväskor, sadel- och seldon m. m."
+SNI2007_15200,tillverkning av skodon
+SNI2007_16101,sågning av trä
+SNI2007_16102,hyvling av trä
+SNI2007_16103,träimpregnering
+SNI2007_16210,tillverkning av fanér och träbaserade skivor
+SNI2007_16220,tillverkning av sammansatta parkettgolv
+SNI2007_16231,tillverkning av monteringsfärdiga trähus
+SNI2007_16232,tillverkning av dörrar av trä
+SNI2007_16233,tillverkning av fönster av trä
+SNI2007_16239,tillverkning av övriga byggnads- och inredningssnickerier
+SNI2007_16240,träförpackningstillverkning
+SNI2007_16291,tillverkning av förädlade trädbränslen
+SNI2007_16292,övrig trävarutillverkning
+SNI2007_16293,"tillverkning av varor av kork, halm, rotting o.d."
+SNI2007_17111,tillverkning av mekanisk eller halvkemisk massa
+SNI2007_17112,sulfatmassatillverkning
+SNI2007_17113,sulfitmassatillverkning
+SNI2007_17121,tillverkning av tidnings- och journalpapper
+SNI2007_17122,"tryckpapperstillverkning, ej tidnings- och journalpapper"
+SNI2007_17123,tillverkning av kraftpapper och kraftpapp
+SNI2007_17129,övrig tillverkning av papper och papp
+SNI2007_17211,tillverkning av wellpapp och wellpappförpackningar
+SNI2007_17219,övrig tillverkning av pappers- och pappförpackningar
+SNI2007_17220,tillverkning av hushålls- och hygienartiklar av papper
+SNI2007_17230,"tillverkning av skrivpapper, kuvert o.d."
+SNI2007_17240,tapettillverkning
+SNI2007_17290,tillverkning av andra pappers- och pappvaror
+SNI2007_18110,tryckning av dagstidningar
+SNI2007_18121,tryckning av tidskrifter
+SNI2007_18122,tryckning av böcker och övriga trycksaker
+SNI2007_18130,grafiska tjänster före tryckning (prepress/premedia)
+SNI2007_18140,bokbindning och andra tjänster i samband med tryckning
+SNI2007_18200,reproduktion av inspelningar
+SNI2007_19100,tillverkning av stenkolsprodukter
+SNI2007_19200,petroleumraffinering
+SNI2007_20110,industrigasframställning
+SNI2007_20120,tillverkning av färgämnen
+SNI2007_20130,tillverkning av andra oorganiska baskemikalier
+SNI2007_20140,tillverkning av andra organiska baskemikalier
+SNI2007_20150,tillverkning av gödselmedel och kväveprodukter
+SNI2007_20160,basplastframställning
+SNI2007_20170,tillverkning av syntetiskt basgummi
+SNI2007_20200,tillverkning av bekämpningsmedel och andra lantbrukskemiska produkter
+SNI2007_20300,"tillverkning av färg, lack, tryckfärg m.m."
+SNI2007_20410,"tillverkning av tvål, såpa, tvättmedel och polermedel"
+SNI2007_20420,tillverkning av parfymer och toalettartiklar
+SNI2007_20510,sprängämnestillverkning
+SNI2007_20520,tillverkning av lim
+SNI2007_20530,tillverkning av eteriska oljor
+SNI2007_20590,tillverkning av övriga kemiska produkter
+SNI2007_20600,konstfibertillverkning
+SNI2007_21100,tillverkning av farmaceutiska basprodukter
+SNI2007_21200,tillverkning av läkemedel
+SNI2007_22110,tillverkning av däck och slangar; regummering
+SNI2007_22190,annan gummivarutillverkning
+SNI2007_22210,tillverkning av plasthalvfabrikat
+SNI2007_22220,plastförpackningstillverkning
+SNI2007_22230,byggplastvarutillverkning
+SNI2007_22290,annan plastvarutillverkning
+SNI2007_23110,framställning av planglas
+SNI2007_23120,bearbetning av planglas
+SNI2007_23130,"tillverkning av buteljer, glasförpackningar och husgeråd av glas"
+SNI2007_23140,tillverkning av glasfiber
+SNI2007_23190,tillverkning av andra glasvaror inklusive tekniska glasvaror
+SNI2007_23200,tillverkning av eldfasta produkter
+SNI2007_23310,tillverkning av keramiska golv- och väggplattor
+SNI2007_23320,"tillverkning av murtegel, takpannor och andra byggvaror av tegel"
+SNI2007_23410,tillverkning av keramiska hushålls- och prydnadsartiklar
+SNI2007_23420,tillverkning av keramiska sanitetsartiklar
+SNI2007_23430,tillverkning av keramiska isolatorer o.d.
+SNI2007_23440,tillverkning av andra tekniska keramiska produkter
+SNI2007_23490,tillverkning av andra keramiska produkter
+SNI2007_23510,tillverkning av cement
+SNI2007_23520,tillverkning av kalk och gips
+SNI2007_23610,tillverkning av betongvaror  för byggändamål
+SNI2007_23620,tillverkning av gipsvaror  för byggändamål
+SNI2007_23630,tillverkning av fabriksblandad betong
+SNI2007_23640,tillverkning av murbruk
+SNI2007_23650,tillverkning av fibercementvaror
+SNI2007_23690,"tillverkning av andra varor av betong, cement och gips"
+SNI2007_23701,"huggning, formning och slutlig bearbetning av sten för byggnadsändamål"
+SNI2007_23709,"huggning, formning och slutlig bearbetning av sten för prydnadsändamål"
+SNI2007_23910,slipmedelstillverkning
+SNI2007_23991,tillverkning av varor av sten- och mineralull
+SNI2007_23999,diverse övrig tillverkning av icke-metalliska mineraliska produkter
+SNI2007_24100,framställning av järn och stål samt ferrolegeringar
+SNI2007_24200,"tillverkning av rör, ledningar, ihåliga profiler och tillbehör av stål"
+SNI2007_24310,tillverkning av kalldragen stålstång
+SNI2007_24320,tillverkning av kallvalsade stålband
+SNI2007_24330,tillverkning av andra kallformade produkter av stål
+SNI2007_24340,tillverkning av kalldragen ståltråd
+SNI2007_24410,framställning av ädla metaller
+SNI2007_24420,framställning av aluminium
+SNI2007_24430,"framställning av bly, zink och tenn"
+SNI2007_24440,framställning av koppar
+SNI2007_24450,framställning av andra metaller
+SNI2007_24460,tillverkning av kärnbränsle
+SNI2007_24510,gjutning av järn
+SNI2007_24520,gjutning av stål
+SNI2007_24530,gjutning av lättmetall
+SNI2007_24540,gjutning av andra metaller
+SNI2007_25110,tillverkning av metallstommar och delar därav
+SNI2007_25120,tillverkning av dörrar och fönster av metall
+SNI2007_25210,tillverkning av radiatorer och pannor för centraluppvärmning
+SNI2007_25290,"tillverkning av andra cisterner, tankar, kar och andra behållare av metall"
+SNI2007_25300,tillverkning av ånggeneratorer utom varmvattenpannor för centraluppvärmning
+SNI2007_25400,tillverkning av vapen och ammunition
+SNI2007_25500,"smidning, pressning, prägling och valsning av metall; pulvermetallurgi"
+SNI2007_25610,beläggning och överdragning av metall
+SNI2007_25620,metallegoarbeten
+SNI2007_25710,tillverkning av bestick
+SNI2007_25720,tillverkning av lås och gångjärn
+SNI2007_25730,tillverkning av verktyg och redskap
+SNI2007_25910,tillverkning av stålfat o.d. behållare
+SNI2007_25920,tillverkning av lättmetallförpackningar
+SNI2007_25930,"tillverkning av metalltrådvaror, kedjor och fjädrar"
+SNI2007_25940,tillverkning av nitar och skruvar
+SNI2007_25991,"tillverkning av diskbänkar, sanitetsgods m. m. av metall för byggändamål"
+SNI2007_25999,diverse övrig metallvarutillverkning
+SNI2007_26110,tillverkning av elektroniska komponenter
+SNI2007_26120,tillverkning av kretskort
+SNI2007_26200,tillverkning av datorer och kringutrustning
+SNI2007_26300,tillverkning av kommunikationsutrustning
+SNI2007_26400,tillverkning av hemelektronik
+SNI2007_26510,"tillverkning av instrument och apparater för mätning, provning och navigering"
+SNI2007_26520,urtillverkning
+SNI2007_26600,tillverkning av strålningsutrustning samt elektromedicinsk och elektroterapeutisk utrustning
+SNI2007_26700,tillverkning av optiska instrument och fotoutrustning
+SNI2007_26800,tillverkning av magnetiska och optiska medier
+SNI2007_27110,"tillverkning av elmotorer, generatorer och transformatorer"
+SNI2007_27120,tillverkning av eldistributions- och elkontrollapparater
+SNI2007_27200,batteri- och ackumulatortillverkning
+SNI2007_27310,tillverkning av optiska fiberkablar
+SNI2007_27320,tillverkning av andra elektroniska och elektriska ledningar och kablar
+SNI2007_27330,tillverkning av kabeltillbehör
+SNI2007_27400,tillverkning av belysningsarmatur
+SNI2007_27510,tillverkning av elektriska hushållsmaskiner och hushållsapparater
+SNI2007_27520,tillverkning av icke-elektriska hushållsmaskiner och hushållsapparater
+SNI2007_27900,tillverkning av annan elapparatur
+SNI2007_28110,tillverkning av motorer och turbiner utom för luftfartyg och fordon
+SNI2007_28120,tillverkning av fluidteknisk utrustning
+SNI2007_28130,tillverkning av andra pumpar och kompressorer
+SNI2007_28140,tillverkning av andra kranar och ventiler
+SNI2007_28150,"tillverkning av lager, kugghjul och andra delar för kraftöverföring"
+SNI2007_28210,tillverkning av ugnar och brännare
+SNI2007_28220,tillverkning av lyft- och godshanteringsanordningar
+SNI2007_28230,tillverkning av kontorsmaskiner och kontorsutrustning (utom datorer och kringutrustning)
+SNI2007_28240,tillverkning av motordrivna handverktyg
+SNI2007_28250,tillverkning av maskiner och apparater för kyla och ventilation utom för hushåll
+SNI2007_28290,övrig tillverkning av maskiner för allmänt ändamål
+SNI2007_28300,tillverkning av jord- och skogsbruksmaskiner
+SNI2007_28410,tillverkning av verktygsmaskiner för metallbearbetning
+SNI2007_28490,tillverkning av övriga verktygsmaskiner
+SNI2007_28910,tillverkning av maskiner för metallurgi
+SNI2007_28920,"tillverkning av gruv-, bergbrytnings- och byggmaskiner"
+SNI2007_28930,"tillverkning av maskiner för framställning av livsmedel, drycker och tobaksvaror"
+SNI2007_28940,"tillverkning av maskiner för produktion av textil-, beklädnads- och lädervaror"
+SNI2007_28950,"tillverkning av maskiner för produktion av massa, papper och papp"
+SNI2007_28960,tillverkning av maskiner för gummi och plast
+SNI2007_28990,tillverkning av övriga specialmaskiner
+SNI2007_29101,tillverkning av personbilar och andra lätta motorfordon
+SNI2007_29102,tillverkning av lastbilar och andra tunga motorfordon
+SNI2007_29200,tillverkning av karosserier för motorfordon; tillverkning av släpfordon och påhängsvagnar
+SNI2007_29310,tillverkning av elektrisk och elektronisk utrustning för motorfordon
+SNI2007_29320,tillverkning av andra delar och tillbehör till motorfordon
+SNI2007_30110,byggande av fartyg och flytande materiel
+SNI2007_30120,byggande av fritidsbåtar
+SNI2007_30200,tillverkning av rälsfordon
+SNI2007_30300,"tillverkning av luftfartyg, rymdfarkoster o.d."
+SNI2007_30400,tillverkning av militära stridsfordon
+SNI2007_30910,tillverkning av motorcyklar
+SNI2007_30920,tillverkning av cyklar och invalidfordon
+SNI2007_30990,diverse övrig transportmedelstillverkning
+SNI2007_31011,tillverkning av kontors- och butiksmöbler
+SNI2007_31012,tillverkning av kontors- och butiksinredningar
+SNI2007_31021,tillverkning av köksmöbler
+SNI2007_31022,tillverkning av köksinredningar
+SNI2007_31030,tillverkning av madrasser
+SNI2007_31090,tillverkning av andra möbler
+SNI2007_32110,prägling av mynt
+SNI2007_32120,"tillverkning av smycken, guld- och silversmedsvaror"
+SNI2007_32130,tillverkning av bijouterier o.d.
+SNI2007_32200,tillverkning av musikinstrument
+SNI2007_32300,tillverkning av sportartiklar
+SNI2007_32400,tillverkning av spel och leksaker
+SNI2007_32501,tillverkning av medicinska och dentala instrument och tillbehör
+SNI2007_32502,tillverkning av tandproteser
+SNI2007_32910,tillverkning av borstbinderiarbeten
+SNI2007_32990,diverse övrig tillverkning
+SNI2007_33110,reparation av metallvaror
+SNI2007_33120,reparation av maskiner
+SNI2007_33130,reparation av elektronisk och optisk utrustning
+SNI2007_33140,reparation av elapparatur
+SNI2007_33150,reparation och underhåll av fartyg och båtar
+SNI2007_33160,reparation och underhåll av luftfartyg och rymdfarkoster
+SNI2007_33170,reparation och underhåll av andra transportmedel
+SNI2007_33190,reparation av annan utrustning
+SNI2007_33200,installation av industrimaskiner och -utrustning
+SNI2007_35110,generering av elektricitet
+SNI2007_35120,överföring av elektricitet
+SNI2007_35130,distribution av elektricitet
+SNI2007_35140,handel med elektricitet
+SNI2007_35210,framställning av gas
+SNI2007_35220,distribution av gasformiga bränslen via rörnät
+SNI2007_35230,handel med gas via rörnät
+SNI2007_35300,försörjning av värme och kyla
+SNI2007_36001,grundvattenförsörjning
+SNI2007_36002,ytvattenförsörjning
+SNI2007_37000,avloppsrening
+SNI2007_38110,insamling av icke-farligt avfall
+SNI2007_38120,insamling av farligt avfall
+SNI2007_38210,behandling och bortskaffande av icke-farligt avfall
+SNI2007_38220,behandling och bortskaffande av farligt avfall
+SNI2007_38311,demontering av uttjänta fordon
+SNI2007_38312,demontering av elektrisk och elektronisk utrustning
+SNI2007_38319,demontering av övrig kasserad utrustning
+SNI2007_38320,återvinning av källsorterat material
+SNI2007_39000,"sanering, efterbehandling av jord och vatten samt annan verksamhet för föroreningsbekämpning"
+SNI2007_41100,utformning av byggprojekt
+SNI2007_41200,byggande av bostadshus och andra byggnader
+SNI2007_42110,anläggning av vägar och motorvägar
+SNI2007_42120,anläggning av järnvägar och tunnelbanor
+SNI2007_42130,anläggning av broar och tunnlar
+SNI2007_42210,"allmännyttiga anläggningsarbeten för värme, vatten och avlopp"
+SNI2007_42220,anläggningsarbeten för el och telekommunikation
+SNI2007_42910,vattenbyggnad
+SNI2007_42990,övriga anläggningsarbeten
+SNI2007_43110,rivning av hus och byggnader
+SNI2007_43120,mark- och grundarbeten
+SNI2007_43130,markundersökning
+SNI2007_43210,elinstallationer
+SNI2007_43221,värme- och sanitetsarbeten
+SNI2007_43222,ventilationsarbeten
+SNI2007_43223,kyl- och frysinstallationsarbeten
+SNI2007_43229,övriga vvs-arbeten
+SNI2007_43290,andra bygginstallationer
+SNI2007_43310,"puts-, fasad- och stuckatörsarbeten"
+SNI2007_43320,byggnadssnickeriarbeten
+SNI2007_43330,golv- och väggbeläggningsarbeten
+SNI2007_43341,måleriarbeten
+SNI2007_43342,glasmästeriarbeten
+SNI2007_43390,annan slutbehandling av byggnader
+SNI2007_43911,takarbeten av plåt
+SNI2007_43912,takarbeten av andra material än plåt
+SNI2007_43991,uthyrning av bygg- och anläggningsmaskiner med förare
+SNI2007_43999,diverse övrig specialiserad bygg- och anläggningsverksamhet
+SNI2007_45110,handel med personbilar och lätta motorfordon
+SNI2007_45191,"handel med lastbilar, bussar och specialfordon"
+SNI2007_45192,"handel med husvagnar, husbilar, släpfordon och påhängsvagnar"
+SNI2007_45201,allmän service och reparation av motorfordon utom motorcyklar
+SNI2007_45202,"plåt-, lack- och glasreparationer på motorfordon utom motorcyklar"
+SNI2007_45203,installationer och reparationer av elsystem till motorfordon utom motorcyklar
+SNI2007_45204,däckservice
+SNI2007_45310,parti- och provisionshandel med reservdelar och tillbehör till motorfordon utom motorcyklar
+SNI2007_45320,detaljhandel med reservdelar och tillbehör till motorfordon utom motorcyklar
+SNI2007_45400,handel med och service av motorcyklar inklusive reservdelar och tillbehör
+SNI2007_46110,"provisionshandel med jordbruksråvaror, levande djur, textilråvaror och textilhalvfabrikat"
+SNI2007_46120,"provisionshandel med bränsle, malm, metaller och industrikemikalier"
+SNI2007_46130,provisionshandel med virke och byggmaterial
+SNI2007_46141,"provisionshandel med maskiner, industriell utrustning, fartyg och luftfartyg utom kontorsutrustning och datorer"
+SNI2007_46142,provisionshandel med kontorsutrustning och datorer
+SNI2007_46150,"provisionshandel med möbler, hushålls- och järnhandelsvaror"
+SNI2007_46160,"provisionshandel med textilier, kläder, skodon och lädervaror"
+SNI2007_46170,"provisionshandel med livsmedel, drycker och tobak"
+SNI2007_46180,provisionshandel med annat specialsortiment
+SNI2007_46190,provisionshandel med blandat sortiment
+SNI2007_46210,"partihandel med spannmål, råtobak, utsäde och djurfoder"
+SNI2007_46220,partihandel med blommor och växter
+SNI2007_46230,partihandel med levande djur
+SNI2007_46240,"partihandel med hudar, skinn och läder"
+SNI2007_46310,partihandel med frukt och grönsaker
+SNI2007_46320,partihandel med kött- och köttvaror
+SNI2007_46330,"partihandel med mejeriprodukter, ägg, matolja och matfett"
+SNI2007_46340,partihandel med drycker
+SNI2007_46350,partihandel med tobak
+SNI2007_46360,"partihandel med socker, choklad och sockerkonfektyrer"
+SNI2007_46370,"partihandel med kaffe, te, kakao och kryddor"
+SNI2007_46380,"partihandel med andra livsmedel, bl.a. fisk samt skal- och blötdjur"
+SNI2007_46390,"icke specialiserad partihandel med livsmedel, drycker och tobak"
+SNI2007_46410,partihandel med textilier
+SNI2007_46420,partihandel med kläder och skodon
+SNI2007_46431,partihandel med elektriska hushållsmaskiner och -apparater
+SNI2007_46432,partihandel med ljud- och bildanläggningar samt videoutrustning
+SNI2007_46433,partihandel med inspelade band och skivor för musik och bild
+SNI2007_46434,partihandel med elartiklar
+SNI2007_46435,partihandel med fotografiska och optiska produkter
+SNI2007_46440,"partihandel med glas och porslin, rengöringsmedel"
+SNI2007_46450,partihandel med parfym och kosmetika
+SNI2007_46460,partihandel med medicinsk utrustning och apoteksvaror
+SNI2007_46470,"partihandel med möbler, mattor och belysningsartiklar"
+SNI2007_46480,partihandel med ur och guldsmedsvaror
+SNI2007_46491,partihandel med sport- och fritidsartiklar
+SNI2007_46492,partihandel med kontorsförbrukningsvaror
+SNI2007_46499,partihandel med övriga hushållsvaror
+SNI2007_46510,partihandel med datorer och kringutrustning samt programvara
+SNI2007_46521,partihandel med elektronikkomponenter
+SNI2007_46522,partihandel med teleprodukter
+SNI2007_46610,partihandel med jordbruksmaskiner och -utrustning
+SNI2007_46620,partihandel med verktygsmaskiner
+SNI2007_46630,"partihandel med gruv-, bygg- och anläggningsmaskiner"
+SNI2007_46640,"partihandel med textil-, sy- och stickmaskiner"
+SNI2007_46650,partihandel med kontorsmöbler
+SNI2007_46660,partihandel med andra kontorsmaskiner och kontorsutrustning
+SNI2007_46691,partihandel med mät- och precisionsinstrument
+SNI2007_46692,partihandel med datoriserad materialhanteringsutrustning
+SNI2007_46699,partihandel med diverse övriga maskiner och utrustning
+SNI2007_46710,partihandel med bränslen
+SNI2007_46720,partihandel med metaller och metallmalmer
+SNI2007_46731,partihandel med virke och andra byggmaterial
+SNI2007_46732,partihandel med sanitetsgods
+SNI2007_46741,partihandel med järnhandelsvaror
+SNI2007_46742,partihandel med vvs-varor
+SNI2007_46750,partihandel med kemiska produkter
+SNI2007_46761,partihandel med industriförnödenheter
+SNI2007_46762,partihandel med emballage
+SNI2007_46769,partihandel med övriga insatsvaror
+SNI2007_46771,partihandel med uttjänta fordon
+SNI2007_46772,partihandel med metallavfall och metallskrot
+SNI2007_46773,partihandel med avfall och skrot av icke-metall
+SNI2007_46900,övrig partihandel
+SNI2007_47111,"varuhus- och stormarknadshandel, mest livsmedel, drycker och tobak"
+SNI2007_47112,"livsmedelshandel med brett sortiment, ej varuhus eller stormarknad"
+SNI2007_47191,annan varuhus- och stormarknadshandel
+SNI2007_47199,övrig detaljhandel med brett sortiment
+SNI2007_47210,specialiserad butikshandel med frukt och grönsaker
+SNI2007_47220,specialiserad butikshandel med kött och charkuterier
+SNI2007_47230,"specialiserad butikshandel med fisk, skal- och blötdjur"
+SNI2007_47241,specialiserad butikshandel med bröd och konditorivaror
+SNI2007_47242,specialiserad butikshandel med konfektyrer
+SNI2007_47250,specialiserad butikshandel med alkoholhaltiga och andra drycker
+SNI2007_47260,specialiserad butikshandel med tobaksvaror
+SNI2007_47291,specialiserad butikshandel med hälsokost
+SNI2007_47299,övrig specialiserad butikshandel med livsmedel
+SNI2007_47300,specialiserad detaljhandel med drivmedel
+SNI2007_47410,"specialiserad butikshandel med datorer, programvara, data- och tv-spel"
+SNI2007_47420,specialiserad butikshandel med telekommunikationsutrustning
+SNI2007_47430,specialiserad butikshandel med ljud- och bildanläggningar samt videoutrustning
+SNI2007_47510,specialiserad butikshandel med textilier
+SNI2007_47521,specialiserad butikshandel med virke och byggvaror
+SNI2007_47522,specialiserad butikshandel med järn- och vvs-varor
+SNI2007_47523,"specialiserad butikshandel med färger, fernissor och lacker"
+SNI2007_47531,specialiserad butikshandel med mattor och annan vägg- och golvbeklädnad
+SNI2007_47532,specialiserad butikshandel med inredningstextilier
+SNI2007_47540,specialiserad butikshandel med elektriska hushållsmaskiner och hushållsapparater
+SNI2007_47591,specialiserad butikshandel med möbler för hemmet
+SNI2007_47592,specialiserad butikshandel med kontorsmöbler
+SNI2007_47593,"specialiserad butikshandel med glas, porslin och andra bosättningsvaror"
+SNI2007_47594,specialiserad butikshandel med belysningsartiklar
+SNI2007_47595,specialiserad butikshandel med musikinstrument och noter
+SNI2007_47610,specialiserad butikshandel med böcker
+SNI2007_47621,specialiserad butikshandel med tidningar
+SNI2007_47622,specialiserad butikshandel med kontorsförbrukningsvaror
+SNI2007_47630,specialiserad butikshandel med inspelade och oinspelade band och skivor för musik och bild
+SNI2007_47641,specialiserad butikshandel med sport- och fritidsartiklar utom cyklar och båtar
+SNI2007_47642,specialiserad butikshandel med cyklar
+SNI2007_47643,specialiserad butikshandel med båtar
+SNI2007_47650,specialiserad butikshandel med spel och leksaker
+SNI2007_47711,"specialiserad butikshandel med herr-, dam- och barnkläder, blandat"
+SNI2007_47712,specialiserad butikshandel med herrkläder
+SNI2007_47713,specialiserad butikshandel med damkläder
+SNI2007_47714,specialiserad butikshandel med barnkläder
+SNI2007_47715,specialiserad butikshandel med pälsar
+SNI2007_47721,specialiserad butikshandel med skodon
+SNI2007_47722,"specialiserad butikshandel med väskor, reseffekter och lädervaror"
+SNI2007_47730,apotekshandel
+SNI2007_47740,specialiserad butikshandel med sjukvårdsartiklar
+SNI2007_47750,specialiserad butikshandel med kosmetika och hygienartiklar
+SNI2007_47761,"specialiserad butikshandel med blommor och andra växter, frön och gödselmedel"
+SNI2007_47762,specialiserad butikshandel med små sällskapsdjur
+SNI2007_47771,specialiserad butikshandel med ur
+SNI2007_47772,specialiserad butikshandel med guldsmedsvaror och smycken
+SNI2007_47781,specialiserad butikshandel med glasögon och andra optiska artiklar utom fotoutrustning
+SNI2007_47782,specialiserad butikshandel med fotoutrustning
+SNI2007_47783,specialiserad butikshandel med konst samt galleriverksamhet
+SNI2007_47784,specialiserad butikshandel med mynt och frimärken
+SNI2007_47789,övrig specialiserad butikshandel
+SNI2007_47791,specialiserad butikshandel med antikviteter och begagnade böcker
+SNI2007_47792,specialiserad butikshandel med övriga begagnade varor
+SNI2007_47793,auktioner i butik
+SNI2007_47810,"torg- och marknadshandel med livsmedel, drycker och tobak"
+SNI2007_47820,"torg- och marknadshandel med textilier, kläder och skodon"
+SNI2007_47890,torg- och marknadshandel med övriga varor
+SNI2007_47911,postorderhandel och detaljhandel på internet med brett sortiment
+SNI2007_47912,postorderhandel och detaljhandel på internet med beklädnadsvaror
+SNI2007_47913,postorderhandel och detaljhandel på internet med böcker och andra mediavaror
+SNI2007_47914,postorderhandel och detaljhandel på internet med datorer och annan elektronisk utrustning
+SNI2007_47915,postorderhandel och detaljhandel på internet med sport- och fritidsutrustning
+SNI2007_47916,postorderhandel och detaljhandel på internet med bosättningsvaror
+SNI2007_47917,auktioner på internet
+SNI2007_47919,postorderhandel och detaljhandel på internet med övriga varor
+SNI2007_47991,provisionsdetaljhandel (ej auktioner)
+SNI2007_47992,ambulerande och tillfällig handel med livsmedel
+SNI2007_47993,ambulerande och tillfällig handel med övriga varor
+SNI2007_47994,auktioner ej i butik eller på internet
+SNI2007_47999,övrig detaljhandel ej i butik
+SNI2007_49100,"järnvägstransport, passagerartrafik"
+SNI2007_49200,"järnvägstransport, godstrafik"
+SNI2007_49311,linjebussverksamhet
+SNI2007_49319,övrig kollektivtrafik
+SNI2007_49320,taxitrafik
+SNI2007_49390,annan landtransport av passagerare
+SNI2007_49410,"vägtransport, godstrafik"
+SNI2007_49420,flyttjänster
+SNI2007_49500,transport i rörsystem
+SNI2007_50101,reguljär sjötrafik över hav och kust av passagerare
+SNI2007_50102,icke reguljär sjötrafik över hav och kust av passagerare
+SNI2007_50201,reguljär sjötrafik över hav och kust av gods
+SNI2007_50202,icke reguljär sjötrafik över hav och kust av gods
+SNI2007_50301,reguljär sjötrafik på inre vattenvägar av passagerare
+SNI2007_50302,icke reguljär sjötrafik på inre vattenvägar av passagerare
+SNI2007_50401,reguljär sjötrafik på inre vattenvägar av gods
+SNI2007_50402,icke reguljär sjötrafik på inre vattenvägar av gods
+SNI2007_51101,reguljär lufttransport av passagerare
+SNI2007_51102,icke reguljär lufttransport av passagerare
+SNI2007_51211,reguljär lufttransport av gods
+SNI2007_51212,icke reguljär lufttransport av gods
+SNI2007_51220,rymdfart
+SNI2007_52100,magasinering och varulagring
+SNI2007_52211,bärgning för landtransport
+SNI2007_52219,övriga stödtjänster till landtransport
+SNI2007_52220,stödtjänster till sjötransport
+SNI2007_52230,stödtjänster till lufttransport
+SNI2007_52241,hamngodshantering
+SNI2007_52249,övrig godshantering
+SNI2007_52290,övriga stödtjänster till transport
+SNI2007_53100,postbefordran via nationella posten
+SNI2007_53201,annan postbefordran
+SNI2007_53202,bud- och kurirverksamhet
+SNI2007_53203,tidningsdistribution
+SNI2007_55101,hotellverksamhet med restaurangrörelse
+SNI2007_55102,drift av konferensanläggningar
+SNI2007_55103,hotellverksamhet utan restaurangrörelse
+SNI2007_55201,vandrarhemsverksamhet
+SNI2007_55202,stugbyverksamhet m.m.
+SNI2007_55300,campingplatsverksamhet
+SNI2007_55900,annan logiverksamhet
+SNI2007_56100,restaurangverksamhet
+SNI2007_56210,cateringverksamhet vid enskilda evenemang
+SNI2007_56291,drift av personalmatsalar
+SNI2007_56292,centralköksverksamhet för sjukhus
+SNI2007_56293,"centralköksverksamhet för skolor, omsorgs- och andra institutioner"
+SNI2007_56294,cateringverksamhet för transportsektorn
+SNI2007_56299,övrig cateringverksamhet
+SNI2007_56300,barverksamhet
+SNI2007_58110,bokutgivning
+SNI2007_58120,publicering av kataloger och sändlistor
+SNI2007_58131,dagstidningsutgivning
+SNI2007_58132,annonstidningsutgivning
+SNI2007_58140,utgivning av tidskrifter
+SNI2007_58190,annan förlagsverksamhet
+SNI2007_58210,utgivning av dataspel
+SNI2007_58290,utgivning av annan programvara
+SNI2007_59110,"produktion av film, video och tv-program"
+SNI2007_59120,"efterproduktion av film, video och tv-program"
+SNI2007_59130,"film-, video- och tv-programdistribution"
+SNI2007_59140,filmvisning
+SNI2007_59200,ljudinspelning och fonogramutgivning
+SNI2007_60100,sändning av radioprogram
+SNI2007_60200,planering av tv-program och sändningsverksamhet
+SNI2007_61100,trådbunden telekommunikation
+SNI2007_61200,trådlös telekommunikation
+SNI2007_61300,telekommunikation via satellit
+SNI2007_61900,annan telekommunikation
+SNI2007_62010,dataprogrammering
+SNI2007_62020,datakonsultverksamhet
+SNI2007_62030,datordrifttjänster
+SNI2007_62090,andra it- och datatjänster
+SNI2007_63110,"databehandling, hosting o.d."
+SNI2007_63120,webbportaler
+SNI2007_63910,nyhetsservice
+SNI2007_63990,övriga informationstjänster
+SNI2007_64110,centralbanksverksamhet
+SNI2007_64190,annan monetär finansförmedling
+SNI2007_64201,holdingverksamhet i finansiella koncerner
+SNI2007_64202,holdingverksamhet i icke-finansiella koncerner
+SNI2007_64301,investeringsfonder
+SNI2007_64309,andra fonder och liknande finansiella enheter
+SNI2007_64910,finansiell leasing
+SNI2007_64920,annan kreditgivning
+SNI2007_64991,investment- och riskkapitalbolagsverksamhet
+SNI2007_64992,"handel med och förvaltning av värdepapper, för egen räkning"
+SNI2007_64993,förvaltning av och handel med värdepapper för en begränsad och sluten krets av ägare
+SNI2007_64999,diverse övrig finansförmedling
+SNI2007_65111,fondanknuten livförsäkring
+SNI2007_65119,övrig livförsäkring
+SNI2007_65120,skadeförsäkring
+SNI2007_65200,återförsäkring
+SNI2007_65300,pensionsfondsverksamhet
+SNI2007_66110,administrativa tjänster till finansiella marknader
+SNI2007_66120,verksamhet utförd av värdepappers- och varumäklare
+SNI2007_66190,andra stödtjänster till finansiella tjänster utom försäkring och pensionsfondsverksamhet
+SNI2007_66210,risk- och skadebedömning
+SNI2007_66220,verksamhet utförd av försäkringsombud och försäkringsmäklare
+SNI2007_66290,andra stödtjänster till försäkring och pensionsfondsverksamhet
+SNI2007_66301,förvaltning av investeringsfonder
+SNI2007_66309,annan fondförvaltning
+SNI2007_68100,handel med egna fastigheter
+SNI2007_68201,uthyrning och förvaltning av egna eller arrenderade bostäder
+SNI2007_68202,uthyrning och förvaltning av egna eller arrenderade industrilokaler
+SNI2007_68203,"uthyrning och förvaltning av egna eller arrenderade, andra lokaler"
+SNI2007_68204,förvaltning i bostadsrättsföreningar
+SNI2007_68209,övrig förvaltning av egna eller arrenderade fastigheter
+SNI2007_68310,fastighetsförmedling
+SNI2007_68320,fastighetsförvaltning på uppdrag
+SNI2007_69101,advokatbyråverksamhet
+SNI2007_69102,juridiska byråers verksamhet m.m.
+SNI2007_69103,patentbyråverksamhet m.m.
+SNI2007_69201,redovisning och bokföring
+SNI2007_69202,revision
+SNI2007_69203,skatterådgivning
+SNI2007_70100,verksamheter som utövas av huvudkontor
+SNI2007_70210,pr och kommunikation
+SNI2007_70220,konsultverksamhet avseende företags organisation
+SNI2007_71110,arkitektverksamhet
+SNI2007_71121,teknisk konsultverksamhet inom bygg- och anläggningsteknik
+SNI2007_71122,teknisk konsultverksamhet inom industriteknik
+SNI2007_71123,teknisk konsultverksamhet inom elteknik
+SNI2007_71124,"teknisk konsultverksamhet inom energi-, miljö- och vvs-teknik"
+SNI2007_71129,övrig teknisk konsultverksamhet
+SNI2007_71200,teknisk provning och analys
+SNI2007_72110,bioteknisk forskning och utveckling
+SNI2007_72190,annan naturvetenskaplig och teknisk forskning och utveckling
+SNI2007_72200,samhällsvetenskaplig och humanistisk forskning och utveckling
+SNI2007_73111,reklambyråverksamhet
+SNI2007_73112,direktreklamverksamhet
+SNI2007_73119,övrig reklamverksamhet
+SNI2007_73120,mediebyråverksamhet och annonsförsäljning
+SNI2007_73200,marknads- och opinionsundersökning
+SNI2007_74101,industri- och produktdesignverksamhet
+SNI2007_74102,grafisk designverksamhet
+SNI2007_74103,inredningsarkitektverksamhet
+SNI2007_74201,porträttfotoverksamhet
+SNI2007_74202,reklamfotoverksamhet
+SNI2007_74203,press- och övrig fotografverksamhet
+SNI2007_74204,fotolaboratorieverksamhet
+SNI2007_74300,översättning och tolkning
+SNI2007_74900,"övrig verksamhet inom juridik, ekonomi, vetenskap och teknik"
+SNI2007_75000,veterinärverksamhet
+SNI2007_77110,uthyrning och leasing av personbilar och lätta motorfordon
+SNI2007_77120,uthyrning och leasing av lastbilar och andra tunga motorfordon
+SNI2007_77210,uthyrning och leasing av fritids- och sportutrustning
+SNI2007_77220,uthyrning av videokassetter och dvd-skivor
+SNI2007_77290,uthyrning och leasing av andra hushållsartiklar och varor för personligt bruk
+SNI2007_77310,uthyrning och leasing av jordbruksmaskiner och jordbruksredskap
+SNI2007_77320,uthyrning och leasing av bygg- och anläggningsmaskiner
+SNI2007_77330,uthyrning och leasing av kontorsmaskiner och kontorsutrustning (inklusive datorer)
+SNI2007_77340,uthyrning och leasing av fartyg och båtar
+SNI2007_77350,uthyrning och leasing av flygplan
+SNI2007_77390,uthyrning och leasing av övrig utrustning och övriga maskiner och materiella tillgångar
+SNI2007_77400,"leasing av immateriell egendom och liknande produkter, med undantag för upphovsrättsskyddade verk"
+SNI2007_78100,arbetsförmedling och rekrytering
+SNI2007_78200,personaluthyrning
+SNI2007_78300,övrigt tillhandahållande av personalfunktioner
+SNI2007_79110,resebyråverksamhet
+SNI2007_79120,researrangemang
+SNI2007_79900,turist- och bokningsservice
+SNI2007_80100,säkerhetsverksamhet
+SNI2007_80200,säkerhetssystemtjänster
+SNI2007_80300,spanings- och detektivverksamhet
+SNI2007_81100,fastighetsrelaterade stödtjänster
+SNI2007_81210,lokalvård
+SNI2007_81221,rengöring av byggnader
+SNI2007_81222,skorstensfejarverksamhet
+SNI2007_81290,annan rengöring
+SNI2007_81300,skötsel och underhåll av grönytor
+SNI2007_82110,kombinerade kontorstjänster
+SNI2007_82190,"kopiering, dokumentsammanställning och andra specialiserade kontorstjänster"
+SNI2007_82200,callcenterverksamhet
+SNI2007_82300,arrangemang av kongresser och mässor
+SNI2007_82910,inkassoföretags och kreditupplysningsföretags verksamhet
+SNI2007_82920,förpackningsverksamhet
+SNI2007_82990,övriga företagstjänster
+SNI2007_84111,"stats- och kommunledning, lagstiftning och övergripande planering"
+SNI2007_84112,"inspektion, kontroll, tillståndsgivning"
+SNI2007_84113,"skatteförvaltning, indrivning"
+SNI2007_84114,samhällelig informationsförsörjning
+SNI2007_84115,personalförvaltning och andra allmänna stödtjänster
+SNI2007_84121,administration av grundskole- och gymnasieskoleutbildning
+SNI2007_84122,administration av universitets- och högskoleutbildning samt forskning
+SNI2007_84123,administration av hälso- och sjukvård
+SNI2007_84124,administration av omsorg och socialtjänst
+SNI2007_84125,"administration av program för kultur, miljö, boende m.m."
+SNI2007_84131,administration av infrastrukturprogram
+SNI2007_84132,"administration av program för jordbruk, skogsbruk, jakt och fiske"
+SNI2007_84133,administration av arbetsmarknadsprogram
+SNI2007_84139,administration av andra näringslivsprogram
+SNI2007_84210,utrikesförvaltning
+SNI2007_84221,militärt försvar
+SNI2007_84222,gemensam verksamhet för totalförsvaret
+SNI2007_84223,civilt försvar och frivilligförsvar
+SNI2007_84231,åklagarverksamhet
+SNI2007_84232,domstolsverksamhet
+SNI2007_84233,kriminalvård
+SNI2007_84240,polisverksamhet
+SNI2007_84250,brand- och räddningsverksamhet
+SNI2007_84300,obligatorisk socialförsäkring
+SNI2007_85100,förskoleutbildning
+SNI2007_85201,grundskoleutbildning och förskoleklass
+SNI2007_85202,utbildning inom grundsärskola
+SNI2007_85311,studieförberedande gymnasial utbildning
+SNI2007_85312,kommunal vuxenutbildning o.d.
+SNI2007_85321,gymnasial yrkesutbildning
+SNI2007_85322,utbildning inom gymnasiesärskola
+SNI2007_85323,annan gymnasial utbildning
+SNI2007_85324,yrkesförarutbildning m.m.
+SNI2007_85410,eftergymnasial utbildning vid annat än universitet och högskola
+SNI2007_85420,universitets- eller högskoleutbildning
+SNI2007_85510,sport- och fritidsutbildning
+SNI2007_85521,kommunala kulturskolans utbildning
+SNI2007_85522,"övrig musik-, dans- och kulturell utbildning"
+SNI2007_85530,trafikskoleverksamhet
+SNI2007_85591,arbetsmarknadsutbildning
+SNI2007_85592,folkhögskoleutbildning
+SNI2007_85593,studieförbundens och frivilligorganisationernas utbildning
+SNI2007_85594,personalutbildning
+SNI2007_85599,diverse övrig utbildning
+SNI2007_85600,stödverksamhet för utbildningsväsendet
+SNI2007_86101,sluten primärvård
+SNI2007_86102,specialiserad sluten somatisk hälso- och sjukvård på sjukhus
+SNI2007_86103,specialiserad sluten psykiatrisk hälso- och sjukvård på sjukhus
+SNI2007_86211,primärvårdsmottagningar med läkare m.m.
+SNI2007_86212,"annan allmän öppen hälso- och sjukvård, ej primärvård"
+SNI2007_86221,"specialistläkarverksamhet inom öppenvård, på sjukhus"
+SNI2007_86222,"specialistläkarverksamhet inom öppenvård, ej på sjukhus"
+SNI2007_86230,tandläkarverksamhet
+SNI2007_86901,medicinsk laboratorieverksamhet m.m.
+SNI2007_86902,ambulanstransporter och ambulanssjukvård
+SNI2007_86903,"primärvård, ej läkare"
+SNI2007_86904,tandhygienistverksamhet
+SNI2007_86905,fysioterapeutisk verksamhet  o.d.
+SNI2007_86909,"annan öppen hälso- och sjukvård, utan läkare"
+SNI2007_87100,boende med sjuksköterskevård
+SNI2007_87201,boende med särskild service för personer med utvecklingsstörning eller  psykiska funktionshinder
+SNI2007_87202,boende med särskild service för barn och ungdomar med missbruksproblem
+SNI2007_87203,boende med särskild service för vuxna med missbruksproblem
+SNI2007_87301,vård och omsorg i särskilda boendeformer för äldre personer
+SNI2007_87302,vård och omsorg i särskilda boendeformer för  personer med funktionshinder
+SNI2007_87901,heldygnsvård med boende för barn och ungdomar med sociala problem
+SNI2007_87902,omsorg och sociala insatser i övriga boendeformer för vuxna
+SNI2007_88101,öppna sociala insatser för äldre personer
+SNI2007_88102,öppna sociala insatser för personer med funktionshinder
+SNI2007_88910,dagbarnvård
+SNI2007_88991,öppna sociala insatser för barn och ungdomar med sociala problem
+SNI2007_88992,öppna sociala insatser för vuxna med missbruksproblem
+SNI2007_88993,övriga öppna sociala insatser för vuxna
+SNI2007_88994,humanitära insatser
+SNI2007_88995,drift av flyktingförläggning
+SNI2007_90010,artistisk verksamhet
+SNI2007_90020,stödtjänster till artistisk verksamhet
+SNI2007_90030,litterärt och konstnärligt skapande
+SNI2007_90040,"drift av teatrar, konserthus o.d."
+SNI2007_91011,biblioteksverksamhet
+SNI2007_91012,arkivverksamhet
+SNI2007_91020,museiverksamhet
+SNI2007_91030,vård av historiska minnesmärken och byggnader och liknande sevärdheter
+SNI2007_91040,"drift av botaniska trädgårdar, djurparker och naturreservat"
+SNI2007_92000,spel- och vadhållningsverksamhet
+SNI2007_93111,drift av skidsportanläggningar
+SNI2007_93112,drift av golfbanor
+SNI2007_93113,drift av motorbanor
+SNI2007_93114,drift av trav- och galoppbanor
+SNI2007_93119,"drift av sporthallar, idrottsplatser och andra sportanläggningar"
+SNI2007_93120,sportklubbars och idrottsföreningars verksamhet
+SNI2007_93130,drift av gymanläggningar
+SNI2007_93191,tävling med hästar
+SNI2007_93199,övrig sportverksamhet
+SNI2007_93210,nöjes- och temaparksverksamhet
+SNI2007_93290,övrig fritids- och nöjesverksamhet
+SNI2007_94111,intressebevakning inom branschorganisationer
+SNI2007_94112,intressebevakning inom arbetsgivarorganisationer
+SNI2007_94120,intressebevakning inom yrkesorganisationer
+SNI2007_94200,intressebevakning inom arbetstagarorganisationer
+SNI2007_94910,verksamhet i religiösa samfund
+SNI2007_94920,verksamhet i politiska organisationer
+SNI2007_94990,verksamhet i andra intresseorganisationer
+SNI2007_95110,reparation av datorer och kringutrustning
+SNI2007_95120,reparation av kommunikationsutrustning
+SNI2007_95210,reparation av hemelektronik
+SNI2007_95220,reparation av hushållsapparater samt av utrustning för hem och trädgård
+SNI2007_95230,lagning av skodon och lädervaror
+SNI2007_95240,reparation av möbler och heminredning
+SNI2007_95250,reparation av ur och guldsmedsvaror
+SNI2007_95290,reparation av andra hushållsartiklar och personliga artiklar
+SNI2007_96011,industri- och institutionstvätt
+SNI2007_96012,konsumenttvätt
+SNI2007_96021,hårvård
+SNI2007_96022,skönhetsvård
+SNI2007_96030,begravningsverksamhet
+SNI2007_96040,kroppsvård
+SNI2007_96090,övriga konsumenttjänster
+SNI2007_97000,förvärvsarbete i hushåll
+SNI2007_98100,hushållens produktion av diverse varor för eget bruk
+SNI2007_98200,hushållens produktion av diverse tjänster för eget bruk
+SNI2007_99000,"verksamhet vid internationella organisationer, utländska ambassader o.d."
+SNI2007_0111,"odling av spannmål (utom ris), baljväxter och oljeväxter"
+SNI2007_0112,odling av ris
+SNI2007_0113,"odling av grönsaker och meloner, rotfrukter och stam- eller rotknölar"
+SNI2007_0114,odling av sockerrör
+SNI2007_0115,odling av tobak
+SNI2007_0116,odling av fiberväxter
+SNI2007_0119,odling av andra ett- och tvååriga växter
+SNI2007_0121,odling av druvor
+SNI2007_0122,odling av tropiska och subtropiska frukter
+SNI2007_0123,odling av citrusfrukter
+SNI2007_0124,odling av kärnfrukter och stenfrukter
+SNI2007_0125,odling av andra frukter och bär samt nötter
+SNI2007_0126,odling av oljehaltiga frukter
+SNI2007_0127,odling av växter för dryckesframställning
+SNI2007_0128,"odling av kryddväxter, drog- och medicinalväxter"
+SNI2007_0129,odling av andra fleråriga växter
+SNI2007_0130,odling av plantskoleväxter
+SNI2007_0141,mjölkproduktion och uppfödning av nötkreatur av mjölkras
+SNI2007_0142,uppfödning av andra nötkreatur och bufflar
+SNI2007_0143,uppfödning av hästar och andra hästdjur
+SNI2007_0144,uppfödning av kameler och kameldjur
+SNI2007_0145,uppfödning av får och getter
+SNI2007_0146,uppfödning av svin
+SNI2007_0147,äggproduktion och uppfödning av fjäderfä
+SNI2007_0149,uppfödning av andra djur
+SNI2007_0150,blandat jordbruk
+SNI2007_0161,service till växtodling
+SNI2007_0162,service till husdjursskötsel
+SNI2007_0163,bearbetning av skördade växter
+SNI2007_0164,bearbetning av utsäde
+SNI2007_0170,jakt och service i anslutning härtill
+SNI2007_0210,skogsförvaltning och skogsskötsel
+SNI2007_0220,drivning
+SNI2007_0230,insamling av annat vilt växande skogsmaterial än trä
+SNI2007_0240,service till skogsbruk
+SNI2007_0311,saltvattensfiske
+SNI2007_0312,sötvattensfiske
+SNI2007_0321,fiskodling i salvatten
+SNI2007_0322,fiskodling i sötvatten
+SNI2007_0510,stenkolsutvinning
+SNI2007_0520,brunkolsutvinning
+SNI2007_0610,utvinning av råpetroleum
+SNI2007_0620,utvinning av naturgas
+SNI2007_0710,järnmalmsutvinning
+SNI2007_0721,utvinning av uran- och toriummalm
+SNI2007_0729,utvinning av annan malm
+SNI2007_0811,"brytning av natursten, kalk- och gipssten, krita och skiffer"
+SNI2007_0812,"utvinning av sand, grus och berg; utvinning av lera och kaolin"
+SNI2007_0891,brytning av kemiska mineral
+SNI2007_0892,torvutvinning
+SNI2007_0893,saltutvinning
+SNI2007_0899,diverse övrig utvinning av mineral
+SNI2007_0910,stödtjänster till råpetroleum- och naturgasutvinning
+SNI2007_0990,stödtjänster till annan utvinning
+SNI2007_1011,beredning och hållbarhetsbehandling av kreaturskött
+SNI2007_1012,beredning och hållbarhetsbehandling av fjäderfäkött
+SNI2007_1013,charkuteri- och annan köttvarutillverkning
+SNI2007_1020,beredning och hållbarhetsbehandling av fisk samt skal- och blötdjur
+SNI2007_1031,beredning och hållbarhetsbehandling av potatis
+SNI2007_1032,juice- och safttillverkning
+SNI2007_1039,"annan beredning och hållbarhetsbehandling av frukt, bär och grönsaker"
+SNI2007_1041,framställning av oljor och fetter
+SNI2007_1042,matfettstillverkning
+SNI2007_1051,mejerivarutillverkning
+SNI2007_1052,glasstillverkning
+SNI2007_1061,tillverkning av kvarnprodukter
+SNI2007_1062,stärkelsetillverkning
+SNI2007_1071,tillverkning av mjukt matbröd och färska bakverk
+SNI2007_1072,"tillverkning av knäckebröd, kex och konserverade bakverk"
+SNI2007_1073,tillverkning av pastaprodukter
+SNI2007_1081,sockertillverkning
+SNI2007_1082,"tillverkning av choklad, choklad- och sockerkonfektyrer"
+SNI2007_1083,framställning av te och kaffe
+SNI2007_1084,"tillverkning av senap, ketchup, kryddor och andra smaksättningsmedel"
+SNI2007_1085,tillverkning av lagad mat och färdigrätter
+SNI2007_1086,tillverkning av homogeniserade livsmedelspreparat inklusive dietmat
+SNI2007_1089,framställning av andra livsmedel
+SNI2007_1091,framställning av beredda fodermedel
+SNI2007_1092,framställning av mat till sällskapsdjur
+SNI2007_1101,"destillering, rening och tillblandning av spritdrycker"
+SNI2007_1102,framställning av vin från druvor
+SNI2007_1103,framställning av cider och andra fruktviner
+SNI2007_1104,framställning av andra icke-destillerade jästa drycker
+SNI2007_1105,framställning av öl
+SNI2007_1106,framställning av malt
+SNI2007_1107,"framställning av läskedrycker, mineralvatten och annat vatten på flaska"
+SNI2007_1200,tobaksvarutillverkning
+SNI2007_1310,garntillverkning
+SNI2007_1320,vävnadstillverkning
+SNI2007_1330,"blekning, färgning och annan textilberedning"
+SNI2007_1391,tillverkning av trikåväv
+SNI2007_1392,tillverkning av sydda textilvaror utom beklädnadsvaror
+SNI2007_1393,tillverkning av mattor
+SNI2007_1394,tågvirkes- och bindgarnstillverkning
+SNI2007_1395,tillverkning av bondad duk
+SNI2007_1396,tillverkning av andra tekniska textilier och industritextilier
+SNI2007_1399,övrig textilietillverkning
+SNI2007_1411,tillverkning av läder- och skinnkläder
+SNI2007_1412,"tillverkning av arbets-, skydds- och överdragskläder"
+SNI2007_1413,tillverkning av andra gång- och ytterkläder
+SNI2007_1414,"tillverkning av underkläder, skjortor och blusar"
+SNI2007_1419,tillverkning av andra beklädnadsvaror och tillbehör
+SNI2007_1420,tillverkning av pälsvaror
+SNI2007_1431,tillverkning av strumpor
+SNI2007_1439,tillverkning av andra trikåvaror
+SNI2007_1511,garvning och annan läderberedning; pälsberedning
+SNI2007_1512,"tillverkning av reseffekter, handväskor, sadel- och seldon m. m."
+SNI2007_1520,tillverkning av skodon
+SNI2007_1610,sågning och hyvling av trä
+SNI2007_1621,tillverkning av fanér och träbaserade skivor
+SNI2007_1622,tillverkning av sammansatta parkettgolv
+SNI2007_1623,tillverkning av andra byggnads- och inredningssnickerier
+SNI2007_1624,träförpackningstillverkning
+SNI2007_1629,"övrig trävarutillverkning; tillverkning av varor av kork, halm, rotting o.d."
+SNI2007_1711,massatillverkning
+SNI2007_1712,pappers- och papptillverkning
+SNI2007_1721,tillverkning av wellpapp och pappers- och pappförpackningar
+SNI2007_1722,tillverkning av hushålls- och hygienartiklar av papper
+SNI2007_1723,"tillverkning av skrivpapper, kuvert o.d."
+SNI2007_1724,tapettillverkning
+SNI2007_1729,tillverkning av andra pappers- och pappvaror
+SNI2007_1811,tryckning av dagstidningar
+SNI2007_1812,annan tryckning
+SNI2007_1813,grafiska tjänster före tryckning (prepress/premedia)
+SNI2007_1814,bokbindning och andra tjänster i samband med tryckning
+SNI2007_1820,reproduktion av inspelningar
+SNI2007_1910,tillverkning av stenkolsprodukter
+SNI2007_1920,petroleumraffinering
+SNI2007_2011,industrigasframställning
+SNI2007_2012,tillverkning av färgämnen
+SNI2007_2013,tillverkning av andra oorganiska baskemikalier
+SNI2007_2014,tillverkning av andra organiska baskemikalier
+SNI2007_2015,tillverkning av gödselmedel och kväveprodukter
+SNI2007_2016,basplastframställning
+SNI2007_2017,tillverkning av syntetiskt basgummi
+SNI2007_2020,tillverkning av bekämpningsmedel och andra lantbrukskemiska produkter
+SNI2007_2030,"tillverkning av färg, lack, tryckfärg m.m."
+SNI2007_2041,"tillverkning av tvål, såpa, tvättmedel och polermedel"
+SNI2007_2042,tillverkning av parfymer och toalettartiklar
+SNI2007_2051,sprängämnestillverkning
+SNI2007_2052,tillverkning av lim
+SNI2007_2053,tillverkning av eteriska oljor
+SNI2007_2059,tillverkning av övriga kemiska produkter
+SNI2007_2060,konstfibertillverkning
+SNI2007_2110,tillverkning av farmaceutiska basprodukter
+SNI2007_2120,tillverkning av läkemedel
+SNI2007_2211,tillverkning av däck och slangar; regummering
+SNI2007_2219,annan gummivarutillverkning
+SNI2007_2221,tillverkning av plasthalvfabrikat
+SNI2007_2222,plastförpackningstillverkning
+SNI2007_2223,byggplastvarutillverkning
+SNI2007_2229,annan plastvarutillverkning
+SNI2007_2311,framställning av planglas
+SNI2007_2312,bearbetning av planglas
+SNI2007_2313,"tillverkning av buteljer, glasförpackningar och husgeråd av glas"
+SNI2007_2314,tillverkning av glasfiber
+SNI2007_2319,tillverkning av andra glasvaror inklusive tekniska glasvaror
+SNI2007_2320,tillverkning av eldfasta produkter
+SNI2007_2331,tillverkning av keramiska golv- och väggplattor
+SNI2007_2332,"tillverkning av murtegel, takpannor och andra byggvaror av tegel"
+SNI2007_2341,tillverkning av keramiska hushålls- och prydnadsartiklar
+SNI2007_2342,tillverkning av keramiska sanitetsartiklar
+SNI2007_2343,tillverkning av keramiska isolatorer o.d.
+SNI2007_2344,tillverkning av andra tekniska keramiska produkter
+SNI2007_2349,tillverkning av andra keramiska produkter
+SNI2007_2351,tillverkning av cement
+SNI2007_2352,tillverkning av kalk och gips
+SNI2007_2361,tillverkning av betongvaror  för byggändamål
+SNI2007_2362,tillverkning av gipsvaror  för byggändamål
+SNI2007_2363,tillverkning av fabriksblandad betong
+SNI2007_2364,tillverkning av murbruk
+SNI2007_2365,tillverkning av fibercementvaror
+SNI2007_2369,"tillverkning av andra varor av betong, cement och gips"
+SNI2007_2370,"huggning, formning och slutlig bearbetning av sten"
+SNI2007_2391,slipmedelstillverkning
+SNI2007_2399,tillverkning av övriga icke-metalliska mineraliska produkter
+SNI2007_2410,framställning av järn och stål samt ferrolegeringar
+SNI2007_2420,"tillverkning av rör, ledningar, ihåliga profiler och tillbehör av stål"
+SNI2007_2431,tillverkning av kalldragen stålstång
+SNI2007_2432,tillverkning av kallvalsade stålband
+SNI2007_2433,tillverkning av andra kallformade produkter av stål
+SNI2007_2434,tillverkning av kalldragen ståltråd
+SNI2007_2441,framställning av ädla metaller
+SNI2007_2442,framställning av aluminium
+SNI2007_2443,"framställning av bly, zink och tenn"
+SNI2007_2444,framställning av koppar
+SNI2007_2445,framställning av andra metaller
+SNI2007_2446,tillverkning av kärnbränsle
+SNI2007_2451,gjutning av järn
+SNI2007_2452,gjutning av stål
+SNI2007_2453,gjutning av lättmetall
+SNI2007_2454,gjutning av andra metaller
+SNI2007_2511,tillverkning av metallstommar och delar därav
+SNI2007_2512,tillverkning av dörrar och fönster av metall
+SNI2007_2521,tillverkning av radiatorer och pannor för centraluppvärmning
+SNI2007_2529,"tillverkning av andra cisterner, tankar, kar och andra behållare av metall"
+SNI2007_2530,tillverkning av ånggeneratorer utom varmvattenpannor för centraluppvärmning
+SNI2007_2540,tillverkning av vapen och ammunition
+SNI2007_2550,"smidning, pressning, prägling och valsning av metall; pulvermetallurgi"
+SNI2007_2561,beläggning och överdragning av metall
+SNI2007_2562,metallegoarbeten
+SNI2007_2571,tillverkning av bestick
+SNI2007_2572,tillverkning av lås och gångjärn
+SNI2007_2573,tillverkning av verktyg och redskap
+SNI2007_2591,tillverkning av stålfat o.d. behållare
+SNI2007_2592,tillverkning av lättmetallförpackningar
+SNI2007_2593,"tillverkning av metalltrådvaror, kedjor och fjädrar"
+SNI2007_2594,tillverkning av nitar och skruvar
+SNI2007_2599,övrig metallvarutillverkning
+SNI2007_2611,tillverkning av elektroniska komponenter
+SNI2007_2612,tillverkning av kretskort
+SNI2007_2620,tillverkning av datorer och kringutrustning
+SNI2007_2630,tillverkning av kommunikationsutrustning
+SNI2007_2640,tillverkning av hemelektronik
+SNI2007_2651,"tillverkning av instrument och apparater för mätning, provning och navigering"
+SNI2007_2652,urtillverkning
+SNI2007_2660,tillverkning av strålningsutrustning samt elektromedicinsk och elektroterapeutisk utrustning
+SNI2007_2670,tillverkning av optiska instrument och fotoutrustning
+SNI2007_2680,tillverkning av magnetiska och optiska medier
+SNI2007_2711,"tillverkning av elmotorer, generatorer och transformatorer"
+SNI2007_2712,tillverkning av eldistributions- och elkontrollapparater
+SNI2007_2720,batteri- och ackumulatortillverkning
+SNI2007_2731,tillverkning av optiska fiberkablar
+SNI2007_2732,tillverkning av andra elektroniska och elektriska ledningar och kablar
+SNI2007_2733,tillverkning av kabeltillbehör
+SNI2007_2740,tillverkning av belysningsarmatur
+SNI2007_2751,tillverkning av elektriska hushållsmaskiner och hushållsapparater
+SNI2007_2752,tillverkning av icke-elektriska hushållsmaskiner och hushållsapparater
+SNI2007_2790,tillverkning av annan elapparatur
+SNI2007_2811,tillverkning av motorer och turbiner utom för luftfartyg och fordon
+SNI2007_2812,tillverkning av fluidteknisk utrustning
+SNI2007_2813,tillverkning av andra pumpar och kompressorer
+SNI2007_2814,tillverkning av andra kranar och ventiler
+SNI2007_2815,"tillverkning av lager, kugghjul och andra delar för kraftöverföring"
+SNI2007_2821,tillverkning av ugnar och brännare
+SNI2007_2822,tillverkning av lyft- och godshanteringsanordningar
+SNI2007_2823,tillverkning av kontorsmaskiner och kontorsutrustning (utom datorer och kringutrustning)
+SNI2007_2824,tillverkning av motordrivna handverktyg
+SNI2007_2825,tillverkning av maskiner och apparater för kyla och ventilation utom för hushåll
+SNI2007_2829,övrig tillverkning av maskiner för allmänt ändamål
+SNI2007_2830,tillverkning av jord- och skogsbruksmaskiner
+SNI2007_2841,tillverkning av verktygsmaskiner för metallbearbetning
+SNI2007_2849,tillverkning av övriga verktygsmaskiner
+SNI2007_2891,tillverkning av maskiner för metallurgi
+SNI2007_2892,"tillverkning av gruv-, bergbrytnings- och byggmaskiner"
+SNI2007_2893,"tillverkning av maskiner för framställning av livsmedel, drycker och tobaksvaror"
+SNI2007_2894,"tillverkning av maskiner för produktion av textil-, beklädnads- och lädervaror"
+SNI2007_2895,"tillverkning av maskiner för produktion av massa, papper och papp"
+SNI2007_2896,tillverkning av maskiner för gummi och plast
+SNI2007_2899,tillverkning av övriga specialmaskiner
+SNI2007_2910,motorfordonstillverkning
+SNI2007_2920,tillverkning av karosserier för motorfordon; tillverkning av släpfordon och påhängsvagnar
+SNI2007_2931,tillverkning av elektrisk och elektronisk utrustning för motorfordon
+SNI2007_2932,tillverkning av andra delar och tillbehör till motorfordon
+SNI2007_3011,byggande av fartyg och flytande materiel
+SNI2007_3012,byggande av fritidsbåtar
+SNI2007_3020,tillverkning av rälsfordon
+SNI2007_3030,"tillverkning av luftfartyg, rymdfarkoster o.d."
+SNI2007_3040,tillverkning av militära stridsfordon
+SNI2007_3091,tillverkning av motorcyklar
+SNI2007_3092,tillverkning av cyklar och invalidfordon
+SNI2007_3099,diverse övrig transportmedelstillverkning
+SNI2007_3101,tillverkning av kontors- och butiksmöbler samt kontors- och butiksinredningar
+SNI2007_3102,tillverkning av köksmöbler och köksinredningar
+SNI2007_3103,tillverkning av madrasser
+SNI2007_3109,tillverkning av andra möbler
+SNI2007_3211,prägling av mynt
+SNI2007_3212,"tillverkning av smycken, guld- och silversmedsvaror"
+SNI2007_3213,tillverkning av bijouterier o.d.
+SNI2007_3220,tillverkning av musikinstrument
+SNI2007_3230,tillverkning av sportartiklar
+SNI2007_3240,tillverkning av spel och leksaker
+SNI2007_3250,tillverkning av medicinsk och dental utrustning
+SNI2007_3291,tillverkning av borstbinderiarbeten
+SNI2007_3299,diverse övrig tillverkning
+SNI2007_3311,reparation av metallvaror
+SNI2007_3312,reparation av maskiner
+SNI2007_3313,reparation av elektronisk och optisk utrustning
+SNI2007_3314,reparation av elapparatur
+SNI2007_3315,reparation och underhåll av fartyg och båtar
+SNI2007_3316,reparation och underhåll av luftfartyg och rymdfarkoster
+SNI2007_3317,reparation och underhåll av andra transportmedel
+SNI2007_3319,reparation av annan utrustning
+SNI2007_3320,installation av industrimaskiner och -utrustning
+SNI2007_3511,generering av elektricitet
+SNI2007_3512,överföring av elektricitet
+SNI2007_3513,distribution av elektricitet
+SNI2007_3514,handel med elektricitet
+SNI2007_3521,framställning av gas
+SNI2007_3522,distribution av gasformiga bränslen via rörnät
+SNI2007_3523,handel med gas via rörnät
+SNI2007_3530,försörjning av värme och kyla
+SNI2007_3600,vattenförsörjning
+SNI2007_3700,avloppsrening
+SNI2007_3811,insamling av icke-farligt avfall
+SNI2007_3812,insamling av farligt avfall
+SNI2007_3821,behandling och bortskaffande av icke-farligt avfall
+SNI2007_3822,behandling och bortskaffande av farligt avfall
+SNI2007_3831,demontering av uttjänta fordon och maskiner
+SNI2007_3832,återvinning av källsorterat material
+SNI2007_3900,"sanering, efterbehandling av jord och vatten samt annan verksamhet för föroreningsbekämpning"
+SNI2007_4110,utformning av byggprojekt
+SNI2007_4120,byggande av bostadshus och andra byggnader
+SNI2007_4211,anläggning av vägar och motorvägar
+SNI2007_4212,anläggning av järnvägar och tunnelbanor
+SNI2007_4213,anläggning av broar och tunnlar
+SNI2007_4221,"allmännyttiga anläggningsarbeten för värme, vatten och avlopp"
+SNI2007_4222,anläggningsarbeten för el och telekommunikation
+SNI2007_4291,vattenbyggnad
+SNI2007_4299,övriga anläggningsarbeten
+SNI2007_4311,rivning av hus och byggnader
+SNI2007_4312,mark- och grundarbeten
+SNI2007_4313,markundersökning
+SNI2007_4321,elinstallationer
+SNI2007_4322,vvs-arbeten
+SNI2007_4329,andra bygginstallationer
+SNI2007_4331,"puts-, fasad- och stuckatörsarbeten"
+SNI2007_4332,byggnadssnickeriarbeten
+SNI2007_4333,golv- och väggbeläggningsarbeten
+SNI2007_4334,måleri- och glasmästeriarbeten
+SNI2007_4339,annan slutbehandling av byggnader
+SNI2007_4391,takarbeten
+SNI2007_4399,övrig specialiserad bygg- och anläggningsverksamhet
+SNI2007_4511,handel med personbilar och lätta motorfordon
+SNI2007_4519,handel med andra motorfordon utom motorcyklar
+SNI2007_4520,underhåll och reparation av motorfordon utom motorcyklar
+SNI2007_4531,parti- och provisionshandel med reservdelar och tillbehör till motorfordon utom motorcyklar
+SNI2007_4532,detaljhandel med reservdelar och tillbehör till motorfordon utom motorcyklar
+SNI2007_4540,handel med och service av motorcyklar inklusive reservdelar och tillbehör
+SNI2007_4611,"provisionshandel med jordbruksråvaror, levande djur, textilråvaror och textilhalvfabrikat"
+SNI2007_4612,"provisionshandel med bränsle, malm, metaller och industrikemikalier"
+SNI2007_4613,provisionshandel med virke och byggmaterial
+SNI2007_4614,"provisionshandel med maskiner, industriell utrustning, fartyg och luftfartyg"
+SNI2007_4615,"provisionshandel med möbler, hushålls- och järnhandelsvaror"
+SNI2007_4616,"provisionshandel med textilier, kläder, skodon och lädervaror"
+SNI2007_4617,"provisionshandel med livsmedel, drycker och tobak"
+SNI2007_4618,provisionshandel med annat specialsortiment
+SNI2007_4619,provisionshandel med blandat sortiment
+SNI2007_4621,"partihandel med spannmål, råtobak, utsäde och djurfoder"
+SNI2007_4622,partihandel med blommor och växter
+SNI2007_4623,partihandel med levande djur
+SNI2007_4624,"partihandel med hudar, skinn och läder"
+SNI2007_4631,partihandel med frukt och grönsaker
+SNI2007_4632,partihandel med kött- och köttvaror
+SNI2007_4633,"partihandel med mejeriprodukter, ägg, matolja och matfett"
+SNI2007_4634,partihandel med drycker
+SNI2007_4635,partihandel med tobak
+SNI2007_4636,"partihandel med socker, choklad och sockerkonfektyrer"
+SNI2007_4637,"partihandel med kaffe, te, kakao och kryddor"
+SNI2007_4638,"partihandel med andra livsmedel, bl.a. fisk samt skal- och blötdjur"
+SNI2007_4639,"icke specialiserad partihandel med livsmedel, drycker och tobak"
+SNI2007_4641,partihandel med textilier
+SNI2007_4642,partihandel med kläder och skodon
+SNI2007_4643,"partihandel med hushållsapparater, samt elartiklar"
+SNI2007_4644,"partihandel med glas och porslin, rengöringsmedel"
+SNI2007_4645,partihandel med parfym och kosmetika
+SNI2007_4646,partihandel med medicinsk utrustning och apoteksvaror
+SNI2007_4647,"partihandel med möbler, mattor och belysningsartiklar"
+SNI2007_4648,partihandel med ur och guldsmedsvaror
+SNI2007_4649,partihandel med andra hushållsvaror
+SNI2007_4651,partihandel med datorer och kringutrustning samt programvara
+SNI2007_4652,partihandel med elektronik- och telekommunikationsutrustning
+SNI2007_4661,partihandel med jordbruksmaskiner och -utrustning
+SNI2007_4662,partihandel med verktygsmaskiner
+SNI2007_4663,"partihandel med gruv-, bygg- och anläggningsmaskiner"
+SNI2007_4664,"partihandel med textil-, sy- och stickmaskiner"
+SNI2007_4665,partihandel med kontorsmöbler
+SNI2007_4666,partihandel med andra kontorsmaskiner och kontorsutrustning
+SNI2007_4669,partihandel med andra maskiner och annan utrustning
+SNI2007_4671,partihandel med bränslen
+SNI2007_4672,partihandel med metaller och metallmalmer
+SNI2007_4673,"partihandel med virke, andra byggmaterial och sanitetsgods"
+SNI2007_4674,partihandel med järnhandelsvaror och vvs-armatur
+SNI2007_4675,partihandel med kemiska produkter
+SNI2007_4676,partihandel med andra insatsvaror
+SNI2007_4677,partihandel med avfallsprodukter och skrot
+SNI2007_4690,övrig partihandel
+SNI2007_4711,"detaljhandel med brett sortiment, mest livsmedel, drycker och tobak"
+SNI2007_4719,annan detaljhandel med brett sortiment
+SNI2007_4721,specialiserad butikshandel med frukt och grönsaker
+SNI2007_4722,specialiserad butikshandel med kött och charkuterier
+SNI2007_4723,"specialiserad butikshandel med fisk, skal- och blötdjur"
+SNI2007_4724,"specialiserad butikshandel med bröd, konditorivaror och konfektyrer"
+SNI2007_4725,specialiserad butikshandel med alkoholhaltiga och andra drycker
+SNI2007_4726,specialiserad butikshandel med tobaksvaror
+SNI2007_4729,annan specialiserad butikshandel med livsmedel
+SNI2007_4730,specialiserad detaljhandel med drivmedel
+SNI2007_4741,"specialiserad butikshandel med datorer, programvara, data- och tv-spel"
+SNI2007_4742,specialiserad butikshandel med telekommunikationsutrustning
+SNI2007_4743,specialiserad butikshandel med ljud- och bildanläggningar samt videoutrustning
+SNI2007_4751,specialiserad butikshandel med textilier
+SNI2007_4752,"specialiserad butikshandel med bygg-, järn- och vvs-varor samt färger och glas"
+SNI2007_4753,specialiserad butikshandel med mattor och inredningstextilier
+SNI2007_4754,specialiserad butikshandel med elektriska hushållsmaskiner och hushållsapparater
+SNI2007_4759,"specialiserad butikshandel med möbler, belysnings- och heminredningsartiklar"
+SNI2007_4761,specialiserad butikshandel med böcker
+SNI2007_4762,specialiserad butikshandel med tidningar och kontorsförbrukningsvaror
+SNI2007_4763,specialiserad butikshandel med inspelade och oinspelade band och skivor för musik och bild
+SNI2007_4764,specialiserad butikshandel med sport- och fritidsartiklar
+SNI2007_4765,specialiserad butikshandel med spel och leksaker
+SNI2007_4771,specialiserad butikshandel med kläder
+SNI2007_4772,specialiserad butikshandel med skodon och lädervaror
+SNI2007_4773,apotekshandel
+SNI2007_4774,specialiserad butikshandel med sjukvårdsartiklar
+SNI2007_4775,specialiserad butikshandel med kosmetika och hygienartiklar
+SNI2007_4776,"specialiserad butikshandel med blommor och andra växter, frön och gödselmedel samt små sällskapsdjur"
+SNI2007_4777,"specialiserad butikshandel med ur, guldsmedsvaror och smycken"
+SNI2007_4778,annan specialiserad butikshandel med nya varor
+SNI2007_4779,specialiserad butikshandel med antikviteter och andra begagnade varor
+SNI2007_4781,"torg- och marknadshandel med livsmedel, drycker och tobak"
+SNI2007_4782,"torg- och marknadshandel med textilier, kläder och skodon"
+SNI2007_4789,torg- och marknadshandel med övriga varor
+SNI2007_4791,postorderhandel och detaljhandel på internet
+SNI2007_4799,"övrig detaljhandel ej i butik, på torg eller marknad"
+SNI2007_4910,"järnvägstransport, passagerartrafik"
+SNI2007_4920,"järnvägstransport, godstrafik"
+SNI2007_4931,kollektivtrafik
+SNI2007_4932,taxitrafik
+SNI2007_4939,annan landtransport av passagerare
+SNI2007_4941,"vägtransport, godstrafik"
+SNI2007_4942,flyttjänster
+SNI2007_4950,transport i rörsystem
+SNI2007_5010,"havs- och kustsjöfart, passagerartrafik"
+SNI2007_5020,"havs- och kustsjöfart, godstrafik"
+SNI2007_5030,"sjöfart på inre vattenvägar, passagerartrafik"
+SNI2007_5040,"sjöfart på inre vattenvägar, godstrafik"
+SNI2007_5110,"lufttransport, passagerartrafik"
+SNI2007_5121,"lufttransport, godstrafik"
+SNI2007_5122,rymdfart
+SNI2007_5210,magasinering och varulagring
+SNI2007_5221,stödtjänster till landtransport
+SNI2007_5222,stödtjänster till sjötransport
+SNI2007_5223,stödtjänster till lufttransport
+SNI2007_5224,godshantering
+SNI2007_5229,övriga stödtjänster till transport
+SNI2007_5310,postbefordran via nationella posten
+SNI2007_5320,annan postbefordran samt kurirverksamhet
+SNI2007_5510,hotellverksamhet
+SNI2007_5520,semesterbostäder och annan korttidsinkvartering
+SNI2007_5530,campingplatsverksamhet
+SNI2007_5590,annan logiverksamhet
+SNI2007_5610,restaurangverksamhet
+SNI2007_5621,cateringverksamhet vid enskilda evenemang
+SNI2007_5629,annan catering- och centralköksverksamhet
+SNI2007_5630,barverksamhet
+SNI2007_5811,bokutgivning
+SNI2007_5812,publicering av kataloger och sändlistor
+SNI2007_5813,tidningsutgivning
+SNI2007_5814,utgivning av tidskrifter
+SNI2007_5819,annan förlagsverksamhet
+SNI2007_5821,utgivning av dataspel
+SNI2007_5829,utgivning av annan programvara
+SNI2007_5911,"produktion av film, video och tv-program"
+SNI2007_5912,"efterproduktion av film, video och tv-program"
+SNI2007_5913,"film-, video- och tv-programdistribution"
+SNI2007_5914,filmvisning
+SNI2007_5920,ljudinspelning och fonogramutgivning
+SNI2007_6010,sändning av radioprogram
+SNI2007_6020,planering av tv-program och sändningsverksamhet
+SNI2007_6110,trådbunden telekommunikation
+SNI2007_6120,trådlös telekommunikation
+SNI2007_6130,telekommunikation via satellit
+SNI2007_6190,annan telekommunikation
+SNI2007_6201,dataprogrammering
+SNI2007_6202,datakonsultverksamhet
+SNI2007_6203,datordrifttjänster
+SNI2007_6209,andra it- och datatjänster
+SNI2007_6311,"databehandling, hosting o.d."
+SNI2007_6312,webbportaler
+SNI2007_6391,nyhetsservice
+SNI2007_6399,övriga informationstjänster
+SNI2007_6411,centralbanksverksamhet
+SNI2007_6419,annan monetär finansförmedling
+SNI2007_6420,holdingverksamhet
+SNI2007_6430,fonder och liknande finansiella enheter
+SNI2007_6491,finansiell leasing
+SNI2007_6492,annan kreditgivning
+SNI2007_6499,diverse övriga finansiella tjänster utom försäkring och pensionsfondsverksamhet
+SNI2007_6511,livförsäkring
+SNI2007_6512,skadeförsäkring
+SNI2007_6520,återförsäkring
+SNI2007_6530,pensionsfondsverksamhet
+SNI2007_6611,administrativa tjänster till finansiella marknader
+SNI2007_6612,verksamhet utförd av värdepappers- och varumäklare
+SNI2007_6619,andra stödtjänster till finansiella tjänster utom försäkring och pensionsfondsverksamhet
+SNI2007_6621,risk- och skadebedömning
+SNI2007_6622,verksamhet utförd av försäkringsombud och försäkringsmäklare
+SNI2007_6629,andra stödtjänster till försäkring och pensionsfondsverksamhet
+SNI2007_6630,fondförvaltning
+SNI2007_6810,handel med egna fastigheter
+SNI2007_6820,uthyrning och förvaltning av egna eller arrenderade fastigheter
+SNI2007_6831,fastighetsförmedling
+SNI2007_6832,fastighetsförvaltning på uppdrag
+SNI2007_6910,juridisk verksamhet
+SNI2007_6920,"redovisning och bokföring, revision, skatterådgivning"
+SNI2007_7010,verksamheter som utövas av huvudkontor
+SNI2007_7021,pr och kommunikation
+SNI2007_7022,konsultverksamhet avseende företags organisation
+SNI2007_7111,arkitektverksamhet
+SNI2007_7112,teknisk konsultverksamhet o.d.
+SNI2007_7120,teknisk provning och analys
+SNI2007_7211,bioteknisk forskning och utveckling
+SNI2007_7219,annan naturvetenskaplig och teknisk forskning och utveckling
+SNI2007_7220,samhällsvetenskaplig och humanistisk forskning och utveckling
+SNI2007_7311,reklambyråverksamhet o.d.
+SNI2007_7312,mediebyråverksamhet och annonsförsäljning
+SNI2007_7320,marknads- och opinionsundersökning
+SNI2007_7410,specialiserad designverksamhet
+SNI2007_7420,fotoverksamhet
+SNI2007_7430,översättning och tolkning
+SNI2007_7490,"övrig verksamhet inom juridik, ekonomi, vetenskap och teknik"
+SNI2007_7500,veterinärverksamhet
+SNI2007_7711,uthyrning och leasing av personbilar och lätta motorfordon
+SNI2007_7712,uthyrning och leasing av lastbilar och andra tunga motorfordon
+SNI2007_7721,uthyrning och leasing av fritids- och sportutrustning
+SNI2007_7722,uthyrning av videokassetter och dvd-skivor
+SNI2007_7729,uthyrning och leasing av andra hushållsartiklar och varor för personligt bruk
+SNI2007_7731,uthyrning och leasing av jordbruksmaskiner och jordbruksredskap
+SNI2007_7732,uthyrning och leasing av bygg- och anläggningsmaskiner
+SNI2007_7733,uthyrning och leasing av kontorsmaskiner och kontorsutrustning (inklusive datorer)
+SNI2007_7734,uthyrning och leasing av fartyg och båtar
+SNI2007_7735,uthyrning och leasing av flygplan
+SNI2007_7739,uthyrning och leasing av övrig utrustning och övriga maskiner och materiella tillgångar
+SNI2007_7740,"leasing av immateriell egendom och liknande produkter, med undantag för upphovsrättsskyddade verk"
+SNI2007_7810,arbetsförmedling och rekrytering
+SNI2007_7820,personaluthyrning
+SNI2007_7830,övrigt tillhandahållande av personalfunktioner
+SNI2007_7911,resebyråverksamhet
+SNI2007_7912,researrangemang
+SNI2007_7990,turist- och bokningsservice
+SNI2007_8010,säkerhetsverksamhet
+SNI2007_8020,säkerhetssystemtjänster
+SNI2007_8030,spanings- och detektivverksamhet
+SNI2007_8110,fastighetsrelaterade stödtjänster
+SNI2007_8121,lokalvård
+SNI2007_8122,rengöring och sotning av byggnader
+SNI2007_8129,annan rengöring
+SNI2007_8130,skötsel och underhåll av grönytor
+SNI2007_8211,kombinerade kontorstjänster
+SNI2007_8219,"kopiering, dokumentsammanställning och andra specialiserade kontorstjänster"
+SNI2007_8220,callcenterverksamhet
+SNI2007_8230,arrangemang av kongresser och mässor
+SNI2007_8291,inkassoföretags och kreditupplysningsföretags verksamhet
+SNI2007_8292,förpackningsverksamhet
+SNI2007_8299,övriga företagstjänster
+SNI2007_8411,övergripande offentlig förvaltning
+SNI2007_8412,"administration av vård, utbildning, kulturell verksamhet och annan samhällsservice"
+SNI2007_8413,administration av näringslivsprogram
+SNI2007_8421,utrikesförvaltning
+SNI2007_8422,totalförsvar
+SNI2007_8423,rättskipning
+SNI2007_8424,polisverksamhet
+SNI2007_8425,brand- och räddningsverksamhet
+SNI2007_8430,obligatorisk socialförsäkring
+SNI2007_8510,förskoleutbildning
+SNI2007_8520,grundskoleutbildning
+SNI2007_8531,studieförberedande gymnasial utbildning m.m.
+SNI2007_8532,gymnasial yrkesutbildning m.m.
+SNI2007_8541,eftergymnasial utbildning vid annat än universitet och högskola
+SNI2007_8542,universitets- eller högskoleutbildning
+SNI2007_8551,sport- och fritidsutbildning
+SNI2007_8552,"musik-, dans- och övrig kulturell utbildning"
+SNI2007_8553,trafikskoleverksamhet
+SNI2007_8559,övrig utbildning
+SNI2007_8560,stödverksamhet för utbildningsväsendet
+SNI2007_8610,sluten sjukvård
+SNI2007_8621,allmänpraktiserande läkarverksamhet
+SNI2007_8622,specialistläkarverksamhet inom öppenvård
+SNI2007_8623,tandläkarverksamhet
+SNI2007_8690,annan hälso- och sjukvård
+SNI2007_8710,boende med sjuksköterskevård
+SNI2007_8720,"boende med särskild service för personer med utvecklingsstörning, psykiska funktionshinder eller missbruksproblem"
+SNI2007_8730,vård och omsorg i särskilda boendeformer för äldre och funktionshindrade personer
+SNI2007_8790,annan vård och omsorg med boende
+SNI2007_8810,öppna sociala insatser för äldre och funktionshindrade personer
+SNI2007_8891,dagbarnvård
+SNI2007_8899,övriga öppna sociala insatser
+SNI2007_9001,artistisk verksamhet
+SNI2007_9002,stödtjänster till artistisk verksamhet
+SNI2007_9003,litterärt och konstnärligt skapande
+SNI2007_9004,"drift av teatrar, konserthus o.d."
+SNI2007_9101,biblioteks- och arkivverksamhet
+SNI2007_9102,museiverksamhet
+SNI2007_9103,vård av historiska minnesmärken och byggnader och liknande sevärdheter
+SNI2007_9104,"drift av botaniska trädgårdar, djurparker och naturreservat"
+SNI2007_9200,spel- och vadhållningsverksamhet
+SNI2007_9311,drift av sportanläggningar
+SNI2007_9312,sportklubbars och idrottsföreningars verksamhet
+SNI2007_9313,drift av gymanläggningar
+SNI2007_9319,annan sportverksamhet
+SNI2007_9321,nöjes- och temaparksverksamhet
+SNI2007_9329,övrig fritids- och nöjesverksamhet
+SNI2007_9411,intressebevakning inom bransch- och arbetsgivarorganisationer
+SNI2007_9412,intressebevakning inom yrkesorganisationer
+SNI2007_9420,intressebevakning inom arbetstagarorganisationer
+SNI2007_9491,verksamhet i religiösa samfund
+SNI2007_9492,verksamhet i politiska organisationer
+SNI2007_9499,verksamhet i andra intresseorganisationer
+SNI2007_9511,reparation av datorer och kringutrustning
+SNI2007_9512,reparation av kommunikationsutrustning
+SNI2007_9521,reparation av hemelektronik
+SNI2007_9522,reparation av hushållsapparater samt av utrustning för hem och trädgård
+SNI2007_9523,lagning av skodon och lädervaror
+SNI2007_9524,reparation av möbler och heminredning
+SNI2007_9525,reparation av ur och guldsmedsvaror
+SNI2007_9529,reparation av andra hushållsartiklar och personliga artiklar
+SNI2007_9601,tvätteriverksamhet
+SNI2007_9602,hår- och skönhetsvård
+SNI2007_9603,begravningsverksamhet
+SNI2007_9604,kroppsvård
+SNI2007_9609,övriga konsumenttjänster
+SNI2007_9700,förvärvsarbete i hushåll
+SNI2007_9810,hushållens produktion av diverse varor för eget bruk
+SNI2007_9820,hushållens produktion av diverse tjänster för eget bruk
+SNI2007_9900,"verksamhet vid internationella organisationer, utländska ambassader o.d."
+SNI2007_011,odling av ett- och tvååriga växter
+SNI2007_012,odling av fleråriga växter
+SNI2007_013,odling av plantskoleväxter
+SNI2007_014,husdjursskötsel
+SNI2007_015,blandat jordbruk
+SNI2007_016,service till jordbruk och bearbetning av skördade växter
+SNI2007_017,jakt och service i anslutning härtill
+SNI2007_021,skogsförvaltning och skogsskötsel
+SNI2007_022,drivning
+SNI2007_023,insamling av annat vilt växande skogsmaterial än trä
+SNI2007_024,service till skogsbruk
+SNI2007_031,fiske
+SNI2007_032,vattenbruk
+SNI2007_051,stenkolsutvinning
+SNI2007_052,brunkolsutvinning
+SNI2007_061,utvinning av råpetroleum
+SNI2007_062,utvinning av naturgas
+SNI2007_071,järnmalmsutvinning
+SNI2007_072,utvinning av andra metallmalmer än järnmalm
+SNI2007_081,"utvinning av sand, grus, sten och lera"
+SNI2007_089,övrig utvinning av mineral
+SNI2007_091,stödtjänster till råpetroleum- och naturgasutvinning
+SNI2007_099,stödtjänster till annan utvinning
+SNI2007_101,beredning och hållbarhetsbehandling av kött och köttvaror
+SNI2007_102,beredning och hållbarhetsbehandling av fisk samt skal- och blötdjur
+SNI2007_103,"beredning och hållbarhetsbehandling av frukt, bär och grönsaker"
+SNI2007_104,framställning av vegetabiliska och animaliska oljor och fetter
+SNI2007_105,mejerivaru- och glasstillverkning
+SNI2007_106,tillverkning av kvarnprodukter och stärkelse
+SNI2007_107,tillverkning av bageri- och mjölprodukter
+SNI2007_108,annan livsmedelsframställning
+SNI2007_109,framställning av beredda djurfoder
+SNI2007_110,framställning av drycker
+SNI2007_120,tobaksvarutillverkning
+SNI2007_131,garntillverkning
+SNI2007_132,vävnadstillverkning
+SNI2007_133,"blekning, färgning och annan textilberedning"
+SNI2007_139,annan textilietillverkning
+SNI2007_141,"tillverkning av kläder, utom pälsvaror"
+SNI2007_142,tillverkning av pälsvaror
+SNI2007_143,tillverkning av trikåvaror
+SNI2007_151,"garvning och annan läderberedning; tillverkning av reseffekter, handväskor, sadel- och seldon; pälsberedning"
+SNI2007_152,tillverkning av skodon
+SNI2007_161,sågning och hyvling av trä
+SNI2007_162,"tillverkning av varor av trä, kork, halm, rotting o.d."
+SNI2007_171,"massa-, pappers- och papptillverkning"
+SNI2007_172,tillverkning av pappers- och pappvaror
+SNI2007_181,grafisk produktion
+SNI2007_182,reproduktion av inspelningar
+SNI2007_191,tillverkning av stenkolsprodukter
+SNI2007_192,petroleumraffinering
+SNI2007_201,"tillverkning av baskemikalier, gödselmedel och kväveprodukter, plaster och syntetgummi i obearbetad form"
+SNI2007_202,tillverkning av bekämpningsmedel och andra lantbrukskemiska produkter
+SNI2007_203,"tillverkning av färg, lack, tryckfärg m.m."
+SNI2007_204,"tillverkning av rengöringsmedel, parfym och toalettartiklar"
+SNI2007_205,tillverkning av andra kemiska produkter
+SNI2007_206,konstfibertillverkning
+SNI2007_211,tillverkning av farmaceutiska basprodukter
+SNI2007_212,tillverkning av läkemedel
+SNI2007_221,tillverkning av gummivaror
+SNI2007_222,plastvarutillverkning
+SNI2007_231,glas- och glasvarutillverkning
+SNI2007_232,tillverkning av eldfasta produkter
+SNI2007_233,tillverkning av byggmaterial av lergods
+SNI2007_234,tillverkning av andra porslinsprodukter och keramiska produkter
+SNI2007_235,"tillverkning av cement, kalk och gips"
+SNI2007_236,"tillverkning av varor av betong, cement och gips"
+SNI2007_237,"huggning, formning och slutlig bearbetning av sten"
+SNI2007_239,tillverkning av slipmedel och övriga icke-metalliska mineraliska produkter
+SNI2007_241,framställning av järn och stål samt ferrolegeringar
+SNI2007_242,"tillverkning av rör, ledningar, ihåliga profiler och tillbehör av stål"
+SNI2007_243,annan primärbearbetning av stål
+SNI2007_244,framställning av andra metaller än järn
+SNI2007_245,gjutning av metall
+SNI2007_251,byggnadsmetallvarutillverkning
+SNI2007_252,"tillverkning av cisterner, tankar, kar och andra behållare av metall"
+SNI2007_253,tillverkning av ånggeneratorer utom varmvattenpannor för centraluppvärmning
+SNI2007_254,tillverkning av vapen och ammunition
+SNI2007_255,"smidning, pressning, prägling och valsning av metall; pulvermetallurgi"
+SNI2007_256,beläggning och överdragning av metall; metallegoarbeten
+SNI2007_257,"tillverkning av bestick, verktyg och andra järnhandelsvaror"
+SNI2007_259,annan metallvarutillverkning
+SNI2007_261,tillverkning av elektroniska komponenter och kretskort
+SNI2007_262,tillverkning av datorer och kringutrustning
+SNI2007_263,tillverkning av kommunikationsutrustning
+SNI2007_264,tillverkning av hemelektronik
+SNI2007_265,"tillverkning av instrument och apparater för mätning, provning och navigering samt ur"
+SNI2007_266,tillverkning av strålningsutrustning samt elektromedicinsk och elektroterapeutisk utrustning
+SNI2007_267,tillverkning av optiska instrument och fotoutrustning
+SNI2007_268,tillverkning av magnetiska och optiska medier
+SNI2007_271,"tillverkning av elmotorer, generatorer och transformatorer samt eldistributions- och elkontrollapparater"
+SNI2007_272,batteri- och ackumulatortillverkning
+SNI2007_273,tillverkning av ledningar och kablar och kabeltillbehör
+SNI2007_274,tillverkning av belysningsarmatur
+SNI2007_275,tillverkning av hushållsmaskiner och hushållsapparater
+SNI2007_279,tillverkning av annan elapparatur
+SNI2007_281,tillverkning av maskiner för allmänt ändamål
+SNI2007_282,tillverkning av andra maskiner för allmänt ändamål
+SNI2007_283,tillverkning av jord- och skogsbruksmaskiner
+SNI2007_284,tillverkning av maskiner för metallbearbetning och verktygsmaskiner
+SNI2007_289,tillverkning av andra specialmaskiner
+SNI2007_291,motorfordonstillverkning
+SNI2007_292,tillverkning av karosserier för motorfordon; tillverkning av släpfordon och påhängsvagnar
+SNI2007_293,tillverkning av delar och tillbehör till motorfordon
+SNI2007_301,byggande av fartyg och båtar
+SNI2007_302,tillverkning av rälsfordon
+SNI2007_303,"tillverkning av luftfartyg, rymdfarkoster o.d."
+SNI2007_304,tillverkning av militära stridsfordon
+SNI2007_309,övrig tillverkning av transportmedel
+SNI2007_310,tillverkning av möbler
+SNI2007_321,"tillverkning av smycken, guld- och silversmedsvaror samt bijouterier"
+SNI2007_322,tillverkning av musikinstrument
+SNI2007_323,tillverkning av sportartiklar
+SNI2007_324,tillverkning av spel och leksaker
+SNI2007_325,tillverkning av medicinsk och dental utrustning
+SNI2007_329,övrig tillverkning
+SNI2007_331,"reparation av metallvaror, maskiner och apparater"
+SNI2007_332,installation av industrimaskiner och -utrustning
+SNI2007_351,"generering, överföring och distribution av elkraft"
+SNI2007_352,gasförsörjning; distribution av gasformiga bränslen via rörnät
+SNI2007_353,försörjning av värme och kyla
+SNI2007_360,vattenförsörjning
+SNI2007_370,avloppsrening
+SNI2007_381,insamling av avfall
+SNI2007_382,behandling och bortskaffande av avfall
+SNI2007_383,återvinning
+SNI2007_390,"sanering, efterbehandling av jord och vatten samt annan verksamhet för föroreningsbekämpning"
+SNI2007_411,utformning av byggprojekt
+SNI2007_412,byggande av bostadshus och andra byggnader
+SNI2007_421,anläggning av vägar och järnvägar
+SNI2007_422,allmännyttiga anläggningsarbeten
+SNI2007_429,andra anläggningsarbeten
+SNI2007_431,rivning av hus samt mark- och grundarbeten
+SNI2007_432,"elinstallationer, vvs-arbeten och andra bygginstallationer"
+SNI2007_433,slutbehandling av byggnader
+SNI2007_439,annan specialiserad bygg- och anläggningsverksamhet
+SNI2007_451,handel med motorfordon utom motorcyklar
+SNI2007_452,underhåll och reparation av motorfordon utom motorcyklar
+SNI2007_453,handel med reservdelar och tillbehör till motorfordon utom motorcyklar
+SNI2007_454,handel med och service av motorcyklar inklusive reservdelar och tillbehör
+SNI2007_461,provisionshandel utom med motorfordon
+SNI2007_462,partihandel med jordbruksråvaror och levande djur
+SNI2007_463,"partihandel med livsmedel, drycker och tobak"
+SNI2007_464,partihandel med hushållsvaror
+SNI2007_465,partihandel med informations- och kommunikationsutrustning
+SNI2007_466,partihandel med övriga maskiner och övrig utrustning
+SNI2007_467,annan specialiserad partihandel
+SNI2007_469,övrig partihandel
+SNI2007_471,detaljhandel med brett sortiment
+SNI2007_472,"specialiserad butikshandel med livsmedel, drycker och tobak"
+SNI2007_473,specialiserad detaljhandel med drivmedel
+SNI2007_474,specialiserad butikshandel med informations- och kommunikationsutrustning
+SNI2007_475,specialiserad butikshandel med heminredningsartiklar och husgeråd
+SNI2007_476,specialiserad butikshandel med kultur- och fritidsartiklar
+SNI2007_477,övrig specialiserad butikshandel med hushållsvaror
+SNI2007_478,torg- och marknadshandel
+SNI2007_479,"detaljhandel ej i butik, på torg eller marknad"
+SNI2007_491,"järnvägstransport, passagerartrafik"
+SNI2007_492,"järnvägstransport, godstrafik"
+SNI2007_493,"annan landtransport, passagerartrafik"
+SNI2007_494,"vägtransport, godstrafik och flyttjänster"
+SNI2007_495,transport i rörsystem
+SNI2007_501,"havs- och kustsjöfart, passagerartrafik"
+SNI2007_502,"havs- och kustsjöfart, godstrafik"
+SNI2007_503,"sjöfart på inre vattenvägar, passagerartrafik"
+SNI2007_504,"sjöfart på inre vattenvägar, godstrafik"
+SNI2007_511,"lufttransport, passagerartrafik"
+SNI2007_512,"lufttransport, godstrafik och rymdfart"
+SNI2007_521,magasinering och varulagring
+SNI2007_522,stödtjänster till transport
+SNI2007_531,postbefordran via nationella posten
+SNI2007_532,annan postbefordran samt kurirverksamhet
+SNI2007_551,hotellverksamhet
+SNI2007_552,semesterbostäder och annan korttidsinkvartering
+SNI2007_553,campingplatsverksamhet
+SNI2007_559,annan logiverksamhet
+SNI2007_561,restaurangverksamhet
+SNI2007_562,cateringverksamhet
+SNI2007_563,barverksamhet
+SNI2007_581,utgivning av böcker och tidskrifter och annan förlagsverksamhet
+SNI2007_582,utgivning av programvara
+SNI2007_591,"film-, video- och tv-programverksamhet"
+SNI2007_592,ljudinspelning och fonogramutgivning
+SNI2007_601,sändning av radioprogram
+SNI2007_602,planering av tv-program och sändningsverksamhet
+SNI2007_611,trådbunden telekommunikation
+SNI2007_612,trådlös telekommunikation
+SNI2007_613,telekommunikation via satellit
+SNI2007_619,annan telekommunikation
+SNI2007_620,"dataprogrammering, datakonsultverksamhet o.d."
+SNI2007_631,"databehandling, hosting o.d.; webbportaler"
+SNI2007_639,andra informationstjänster
+SNI2007_641,monetär finansförmedling
+SNI2007_642,holdingverksamhet
+SNI2007_643,fonder och liknande finansiella enheter
+SNI2007_649,andra finansiella tjänster utom försäkring och pensionsfondsverksamhet
+SNI2007_651,försäkring
+SNI2007_652,återförsäkring
+SNI2007_653,pensionsfondsverksamhet
+SNI2007_661,stödtjänster till finansiella tjänster utom försäkring och pensionsfondsverksamhet
+SNI2007_662,stödtjänster till försäkrings- och pensionsfondsverksamhet
+SNI2007_663,fondförvaltning
+SNI2007_681,handel med egna fastigheter
+SNI2007_682,uthyrning och förvaltning av egna eller arrenderade fastigheter
+SNI2007_683,fastighetsförmedling och fastighetsförvaltning på uppdrag
+SNI2007_691,juridisk verksamhet
+SNI2007_692,"redovisning och bokföring, revision, skatterådgivning"
+SNI2007_701,verksamheter som utövas av huvudkontor
+SNI2007_702,konsulttjänster till företag
+SNI2007_711,arkitekt- och teknisk konsultverksamhet o.d.
+SNI2007_712,teknisk provning och analys
+SNI2007_721,naturvetenskaplig och teknisk forskning och utveckling
+SNI2007_722,samhällsvetenskaplig och humanistisk forskning och utveckling
+SNI2007_731,reklamverksamhet
+SNI2007_732,marknads- och opinionsundersökning
+SNI2007_741,specialiserad designverksamhet
+SNI2007_742,fotoverksamhet
+SNI2007_743,översättning och tolkning
+SNI2007_749,"övrig verksamhet inom juridik, ekonomi, vetenskap och teknik"
+SNI2007_750,veterinärverksamhet
+SNI2007_771,uthyrning och leasing av motorfordon
+SNI2007_772,uthyrning och leasing av hushållsartiklar och varor för personligt bruk
+SNI2007_773,uthyrning och leasing av annan utrustning och andra maskiner och materiella tillgångar
+SNI2007_774,"leasing av immateriell egendom och liknande produkter, med undantag för upphovsrättsskyddade verk"
+SNI2007_781,arbetsförmedling och rekrytering
+SNI2007_782,personaluthyrning
+SNI2007_783,övrigt tillhandahållande av personalfunktioner
+SNI2007_791,resetjänster
+SNI2007_799,turist- och bokningsservice
+SNI2007_801,säkerhetsverksamhet
+SNI2007_802,säkerhetssystemtjänster
+SNI2007_803,spanings- och detektivverksamhet
+SNI2007_811,fastighetsrelaterade stödtjänster
+SNI2007_812,rengöring och lokalvård
+SNI2007_813,skötsel och underhåll av grönytor
+SNI2007_821,kontorstjänster
+SNI2007_822,callcenterverksamhet
+SNI2007_823,arrangemang av kongresser och mässor
+SNI2007_829,andra företagstjänster
+SNI2007_841,offentlig förvaltning
+SNI2007_842,offentliga tjänster
+SNI2007_843,obligatorisk socialförsäkring
+SNI2007_851,förskoleutbildning
+SNI2007_852,grundskoleutbildning
+SNI2007_853,gymnasial utbildning
+SNI2007_854,eftergymnasial utbildning
+SNI2007_855,vuxenutbildning och övrig utbildning
+SNI2007_856,stödverksamhet för utbildningsväsendet
+SNI2007_861,sluten sjukvård
+SNI2007_862,"öppen hälso- och sjukvård, tandvård"
+SNI2007_869,annan hälso- och sjukvård
+SNI2007_871,boende med sjuksköterskevård
+SNI2007_872,"boende med särskild service för personer med utvecklingsstörning, psykiska funktionshinder eller missbruksproblem"
+SNI2007_873,vård och omsorg i särskilda boendeformer för äldre och funktionshindrade personer
+SNI2007_879,annan vård och omsorg med boende
+SNI2007_881,öppna sociala insatser för äldre och funktionshindrade personer
+SNI2007_889,andra öppna sociala insatser
+SNI2007_900,konstnärlig och kulturell verksamhet samt underhållningsverksamhet
+SNI2007_910,"biblioteks-, arkiv- och museiverksamhet m.m."
+SNI2007_920,spel- och vadhållningsverksamhet
+SNI2007_931,sportverksamhet
+SNI2007_932,fritids- och nöjesverksamhet
+SNI2007_941,"intressebevakning inom bransch-, arbetsgivar- och yrkesorganisationer"
+SNI2007_942,intressebevakning inom arbetstagarorganisationer
+SNI2007_949,verksamhet i religiösa samfund och i andra intresseorganisationer
+SNI2007_951,reparation av datorer och kommunikationsutrustning
+SNI2007_952,reparation av hushållsartiklar och personliga artiklar
+SNI2007_960,andra konsumenttjänster
+SNI2007_970,förvärvsarbete i hushåll
+SNI2007_981,hushållens produktion av diverse varor för eget bruk
+SNI2007_982,hushållens produktion av diverse tjänster för eget bruk
+SNI2007_990,"verksamhet vid internationella organisationer, utländska ambassader o.d."
