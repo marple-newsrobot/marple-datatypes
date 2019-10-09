@@ -5,3 +5,5 @@ county,one_to_one
 municipality,one_to_one
 road_type,one_to_one
 municipality_federation_fire,one_to_one
+skl_kommungrupp_2017,one_to_one
+skl_kommunhuvudgrupp_2017,one_to_one

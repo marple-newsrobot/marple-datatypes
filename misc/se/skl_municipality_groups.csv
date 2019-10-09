@@ -1,0 +1,10 @@
+id,label,skl_id,parent,definition
+Storstäder,Storstäder,A1,Storstäder och storstadsnära kommuner,Minst 200 000 invånare i kommunens största tätort
+Pendlingskommun nära storstad,Pendlingskommun nära storstad,A2,Storstäder och storstadsnära kommuner,Minst 40 % utpendling till storstad eller storstadsnära kommun
+Större stad,Större stad,B3,Större städer och kommuner nära större stad,Minst 40 000 och mindre än 200 000 invånare i kommunens största tätort
+Pendlingskommun nära större stad,Pendlingskommun nära större stad,B4,Större städer och kommuner nära större stad,Minst 40 % utpendling till större stad
+Lågpendlingskommun nära större stad,Lågpendlingskommun nära större stad,B5,Större städer och kommuner nära större stad,Mindre än 40 % utpendling till större stad
+Mindre stad eller tätort,Mindre stad/tätort,C6,Mindre städer tätorter och landsbygdskommuner,Minst 15 000 och mindre än 40 000 invånare i kommunens största tätort
+Pendlingskommun nära mindre stad eller tätort,Pendlingskommun nära mindre stad/tätort,C7,Mindre städer tätorter och landsbygdskommuner,Minst 30 % ut- eller inpendling till mindre ort
+Landsbygdskommun,Landsbygdskommun,C8,Mindre städer tätorter och landsbygdskommuner,"Mindre än 15 000 inv i kommunens största tätort, lågt pendlingsmönster"
+Landsbygdskommun med besöksnäring,Landsbygdskommun med besöksnäring,C9,Mindre städer tätorter och landsbygdskommuner,"Landsbygdskommun med minst två kriterier för besöksnäring, dvs antal gästnätter, omsättning inom detaljhandel/ hotell/ restaurang i förhållande till invånarantalet."

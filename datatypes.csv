@@ -58,3 +58,5 @@ norwegian region,norwegian regions,Norska regioner,A norwegian administrative re
 norwegian county,norwegian counties,Norska fylken,"A norwegian county (fylke), past or present",str,regions/no/counties
 norwegian municipality,norwegian municipalities,Norska kommuner,"A norwegian municipality, past or present",str,regions/no/municipalities
 municipality_federation_fire,Swedish municipality federations organizing firefighting and civil defence,Svenska kommunalförbund för räddningstjänst,Two or more Swedish municipalities organized in a federation,str,regions/se/federations-fire
+skl_municipality_group_2017,"Swedish municipality groups (SKL, 2017)",SKL:s Kommungruppsindelning 2017,,str,misc/se/skl_municipality_groups
+skl_municipality_primary_group_2017,"Swedish municipality primary groups (SKL, 2017)",Huvudgrupper i SKL:s kommungruppsindelning (2017),,str,misc/se/skl_municipality_primary_groups
