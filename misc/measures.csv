@@ -24,3 +24,4 @@ max,Maximum value,Max,Max,Max
 children_per_staff,Number of children per staff member,Children per staff,Antal barn per personal,Children per staff
 indicator,Some kind of computed value,Indicator,Indikator,Indicator
 age,Age,Age,Ålder,Age
+index,Some kind of computed index,Index,Index,Index
