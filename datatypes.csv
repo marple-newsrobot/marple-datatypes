@@ -15,6 +15,7 @@ swedish city district,Swedish city districts,svenska stadsdelar,An administrativ
 swedish county,Swedish counties,svenska län,"A Swedish county (län), past or present",str,regions/se/counties
 swedish municipality,Swedish municipalities,svenska kommuner,"A Swedish municipality, past or present",str,regions/se/municipalities
 swedish county councils,Swedish county councils,svenska landsting,"A Swedish county council, past or present",str,regions/se/county_councils
+swedish police region,Swedish police regions,svenska polisregioner,A Swedish police region,str,regions/se/police_regions
 country,countries,länder,"A country, past or present",str,regions/nations
 eu country group,EU countries,,"A past or present group of EU countries, such as EU-28",str,regions/eu
 nuts region,NUTS region,NUTS region,A NUTS1/2/3 region,srt,regions/eu/nuts
