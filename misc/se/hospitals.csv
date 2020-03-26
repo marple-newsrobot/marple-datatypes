@@ -1,41 +1,41 @@
 id,label,parent,municipality,region_level
 Akademiska sjukhuset Uppsala,"Akademiska sjukhuset, Uppsala",Region Uppsala,Uppsala kommun,hospital
 Alingsås lasarett,Alingsås lasarett,Västra Götalandsregionen,Alingsås kommun,hospital
-Avesta lasarett,Avesta lasarett,Landstinget Dalarna,Avesta kommun,hospital
-Blekingesjukhuset Karlshamn och Karlskrona,"Blekingesjukhuset, Karlshamn och Karlskrona",Blekinge läns landsting,Karlskrona kommun,hospital
+Avesta lasarett,Avesta lasarett,Region Dalarna,Avesta kommun,hospital
+Blekingesjukhuset Karlshamn och Karlskrona,"Blekingesjukhuset, Karlshamn och Karlskrona",Region Blekinge,Karlskrona kommun,hospital
 Bollnäs sjukhus,Bollnäs sjukhus,Region Gävleborg,Bollnäs kommun,hospital
-Borlänge sjukhus,Borlänge sjukhus,Landstinget Dalarna,Borlänge kommun,hospital
-Brommageriatriken - Stiftelsen Stockholms sjukhem,Brommageriatriken - Stiftelsen Stockholms sjukhem,Stockholms läns landsting,Stockholms kommun,hospital
-Capio Geriatrik - Dalens sjukhus,Capio Geriatrik - Dalens sjukhus,Stockholms läns landsting,Stockholms kommun,hospital
-Capio Geriatrik Nacka,"Capio Geriatrik, Nacka",Stockholms läns landsting,Nacka kommun,hospital
-Capio S:t Görans sjukhus Stockholm,"Capio S:t Görans sjukhus, Stockholm",Stockholms läns landsting,Stockholms kommun,hospital
+Borlänge sjukhus,Borlänge sjukhus,Region Dalarna,Borlänge kommun,hospital
+Brommageriatriken - Stiftelsen Stockholms sjukhem,Brommageriatriken - Stiftelsen Stockholms sjukhem,Region Stockholm,Stockholms kommun,hospital
+Capio Geriatrik - Dalens sjukhus,Capio Geriatrik - Dalens sjukhus,Region Stockholm,Stockholms kommun,hospital
+Capio Geriatrik Nacka,"Capio Geriatrik, Nacka",Region Stockholm,Nacka kommun,hospital
+Capio S:t Görans sjukhus Stockholm,"Capio S:t Görans sjukhus, Stockholm",Region Stockholm,Stockholms kommun,hospital
 Capio Sjukhuset Simrishamn,Capio Sjukhuset Simrishamn,Region Skåne,Simrishamns kommun,hospital
 Carema Närsjukvård Simrishamn,Carema Närsjukvård Simrishamn,Region Skåne,Simrishamns kommun,hospital
 Centrallasarettet Växjö,Centrallasarettet Växjö,Region Kronoberg,Växjö kommun,hospital
 Centralsjukhuset Kristianstad,Centralsjukhuset Kristianstad,Region Skåne,Kristianstads kommun,hospital
-Centralsjukhuset Karlstad,"Centralsjukhuset, Karlstad",Värmlands läns landsting,Karlstads kommun,hospital
-Danderyds sjukhus AB Stockholm,"Danderyds sjukhus AB, Stockholm",Stockholms läns landsting,Danderyds kommun,hospital
-Danderydsgeriatriken - Danderyds sjuhkus (SLSO),Danderydsgeriatriken - Danderyds sjuhkus (SLSO),Stockholms läns landsting,Danderyds kommun,hospital
-Ersta sjukhus Stockholm,"Ersta sjukhus, Stockholm",Stockholms läns landsting,Stockholms kommun,hospital
-Falu lasarett,Falu lasarett,Landstinget Dalarna,Falu kommun,hospital
-Gällivare sjukhus,Gällivare sjukhus,Norrbottens läns landsting,Gällivare kommun,hospital
+Centralsjukhuset Karlstad,"Centralsjukhuset, Karlstad",Region Värmland,Karlstads kommun,hospital
+Danderyds sjukhus AB Stockholm,"Danderyds sjukhus AB, Stockholm",Region Stockholm,Danderyds kommun,hospital
+Danderydsgeriatriken - Danderyds sjuhkus (SLSO),Danderydsgeriatriken - Danderyds sjuhkus (SLSO),Region Stockholm,Danderyds kommun,hospital
+Ersta sjukhus Stockholm,"Ersta sjukhus, Stockholm",Region Stockholm,Stockholms kommun,hospital
+Falu lasarett,Falu lasarett,Region Dalarna,Falu kommun,hospital
+Gällivare sjukhus,Gällivare sjukhus,Region Norrbotten,Gällivare kommun,hospital
 Gävle sjukhus,Gävle sjukhus,Region Gävleborg,Gävle kommun,hospital
 Hallands sjukhus (Halmstad Varberg Kungsbacka),Hallands sjukhus (Halmstad/Varberg/Kungsbacka),Region Halland,Halmstads kommun,hospital
 Hallands sjukhus Halmstad,Hallands sjukhus Halmstad,Region Halland,Halmstads kommun,hospital
 Hallands sjukhus Kungsbacka,Hallands sjukhus Kungsbacka,Region Halland,Kungsbacka kommun,hospital
 Hallands sjukhus Varberg,Hallands sjukhus Varberg,Region Halland,Varbergs kommun,hospital
-Handengeriatriken - Praktikertjänst N.Ä.R.A,Handengeriatriken - Praktikertjänst N.Ä.R.A,Stockholms läns landsting,Haninge kommun,hospital
+Handengeriatriken - Praktikertjänst N.Ä.R.A,Handengeriatriken - Praktikertjänst N.Ä.R.A,Region Stockholm,Haninge kommun,hospital
 Helsingborgs lasarett,Helsingborgs lasarett,Region Skåne,Helsingborgs kommun,hospital
-Huddingegeriatriken - Karolinska Universitetssjukhuset,Huddingegeriatriken - Karolinska Universitetssjukhuset,Stockholms läns landsting,Huddinge kommun,hospital
+Huddingegeriatriken - Karolinska Universitetssjukhuset,Huddingegeriatriken - Karolinska Universitetssjukhuset,Region Stockholm,Huddinge kommun,hospital
 Hudiksvalls sjukhus,Hudiksvalls sjukhus,Region Gävleborg,Hudiksvalls kommun,hospital
 Hälso- och sjukvården i Finspång,Hälso- och sjukvården i Finspång,Region Östergötland,Finspångs kommun,hospital
 Höglandssjukhuset Eksjö-Nässjö,"Höglandssjukhuset, Eksjö-Nässjö",Region Jönköpings län,Nässjö kommun,hospital
-Jakobsbergsgeriatriken - Jakobsbergs sjukhus (SLSO),Jakobsbergsgeriatriken - Jakobsbergs sjukhus (SLSO),Stockholms läns landsting,Järfälla kommun,hospital
-Kalix sjukhus,Kalix sjukhus,Norrbottens läns landsting,Kalix kommun,hospital
+Jakobsbergsgeriatriken - Jakobsbergs sjukhus (SLSO),Jakobsbergsgeriatriken - Jakobsbergs sjukhus (SLSO),Region Stockholm,Järfälla kommun,hospital
+Kalix sjukhus,Kalix sjukhus,Region Norrbotten,Kalix kommun,hospital
 Karlskoga lasarett,Karlskoga lasarett,Region Örebro län,Karlskoga kommun,hospital
-Karolinska universitetssjukhuset Huddinge och Solna,"Karolinska universitetssjukhuset, Huddinge och Solna",Stockholms läns landsting,Solna kommun,hospital
-Kiruna sjukhus,Kiruna sjukhus,Norrbottens läns landsting,Kiruna kommun,hospital
-Kullbergska sjukhuset Katrineholm,"Kullbergska sjukhuset, Katrineholm",Södermanlands läns landsting,Katrineholms kommun,hospital
+Karolinska universitetssjukhuset Huddinge och Solna,"Karolinska universitetssjukhuset, Huddinge och Solna",Region Stockholm,Solna kommun,hospital
+Kiruna sjukhus,Kiruna sjukhus,Region Norrbotten,Kiruna kommun,hospital
+Kullbergska sjukhuset Katrineholm,"Kullbergska sjukhuset, Katrineholm",Region Sörmland,Katrineholms kommun,hospital
 Kungälvs sjukhus,Kungälvs sjukhus,Västra Götalandsregionen,Kungälvs kommun,hospital
 Lasarettet Trelleborg,Lasarettet Trelleborg,Region Skåne,Trelleborgs kommun,hospital
 Lasarettet i Enköping,Lasarettet i Enköping,Region Uppsala,Enköpings kommun,hospital
@@ -44,62 +44,62 @@ Lasarettet i Motala,Lasarettet i Motala,Region Östergötland,Motala kommun,hosp
 Lasarettet i Ystad,Lasarettet i Ystad,Region Skåne,Ystads kommun,hospital
 Lindesbergs lasarett,Lindesbergs lasarett,Region Örebro län,Lindesbergs kommun,hospital
 Ljungby lasarett,Ljungby lasarett,Region Kronoberg,Ljungby kommun,hospital
-Ludvika lasarett,Ludvika lasarett,Landstinget Dalarna,Ludvika kommun,hospital
-Lycksele lasarett,Lycksele lasarett,Västerbottens läns landsting,Lycksele kommun,hospital
+Ludvika lasarett,Ludvika lasarett,Region Dalarna,Ludvika kommun,hospital
+Lycksele lasarett,Lycksele lasarett,Region Västerbotten,Lycksele kommun,hospital
 Länssjukhuset Ryhov Jönköping,"Länssjukhuset Ryhov, Jönköping",Region Jönköpings län,Jönköpings kommun,hospital
-Länssjukhuset Sundsvall-Härnösand,Länssjukhuset Sundsvall-Härnösand,Västernorrlands läns landsting,Sundsvalls kommun,hospital
-Länssjukhuset i Kalmar,Länssjukhuset i Kalmar,Kalmar läns landsting,Kalmar kommun,hospital
-Löwetgeriatriken - Praktikertjänst N.Ä.R.A,Löwetgeriatriken - Praktikertjänst N.Ä.R.A,Stockholms läns landsting,Upplands Väsby kommun,hospital
-Mora lasarett,Mora lasarett,Landstinget Dalarna,Mora kommun,hospital
-Mälarsjukhuset Eskilstuna,"Mälarsjukhuset, Eskilstuna",Södermanlands läns landsting,Eskilstuna kommun,hospital
+Länssjukhuset Sundsvall-Härnösand,Länssjukhuset Sundsvall-Härnösand,Region Västernorrland,Sundsvalls kommun,hospital
+Länssjukhuset i Kalmar,Länssjukhuset i Kalmar,Region Kalmar län,Kalmar kommun,hospital
+Löwetgeriatriken - Praktikertjänst N.Ä.R.A,Löwetgeriatriken - Praktikertjänst N.Ä.R.A,Region Stockholm,Upplands Väsby kommun,hospital
+Mora lasarett,Mora lasarett,Region Dalarna,Mora kommun,hospital
+Mälarsjukhuset Eskilstuna,"Mälarsjukhuset, Eskilstuna",Region Sörmland,Eskilstuna kommun,hospital
 NU-sjukvården (NÄL Uddevalla Dalsland Lysekil Strömstad),"NU-sjukvården (NÄL, Uddevalla, Dalsland, Lysekil, Strömstad)",Västra Götalandsregionen,Trollhättans kommun,hospital
-Nackageriatriken - Aleris AB,Nackageriatriken - Aleris AB,Stockholms läns landsting,Nacka kommun,hospital
-Norrlands Universitetssjukhus Umeå,"Norrlands Universitetssjukhus, Umeå",Västerbottens läns landsting,Umeå kommun,hospital
-Norrtälje sjukhus,Norrtälje sjukhus,Stockholms läns landsting,Norrtälje kommun,hospital
-Nyköpings lasarett,Nyköpings lasarett,Södermanlands läns landsting,Nyköpings kommun,hospital
-Nynäshamns Geriatrik - Legevisitten,Nynäshamns Geriatrik - Legevisitten,Stockholms läns landsting,Nynäshamns kommun,hospital
+Nackageriatriken - Aleris AB,Nackageriatriken - Aleris AB,Region Stockholm,Nacka kommun,hospital
+Norrlands Universitetssjukhus Umeå,"Norrlands Universitetssjukhus, Umeå",Region Västerbotten,Umeå kommun,hospital
+Norrtälje sjukhus,Norrtälje sjukhus,Region Stockholm,Norrtälje kommun,hospital
+Nyköpings lasarett,Nyköpings lasarett,Region Sörmland,Nyköpings kommun,hospital
+Nynäshamns Geriatrik - Legevisitten,Nynäshamns Geriatrik - Legevisitten,Region Stockholm,Nynäshamns kommun,hospital
 Närsjukhuset Simrishamn Praktikertjänst,"Närsjukhuset Simrishamn, Praktikertjänst",Region Skåne,Simrishamns kommun,hospital
-Oskarshamns sjukhus,Oskarshamns sjukhus,Kalmar läns landsting,Oskarshamns kommun,hospital
-Piteå sjukhus,Piteå sjukhus,Norrbottens läns landsting,Piteå kommun,hospital
-S:t Eriks ögonsjukhus Stockholm,"S:t Eriks ögonsjukhus, Stockholm",Stockholms läns landsting,Stockholms kommun,hospital
+Oskarshamns sjukhus,Oskarshamns sjukhus,Region Kalmar län,Oskarshamns kommun,hospital
+Piteå sjukhus,Piteå sjukhus,Region Norrbotten,Piteå kommun,hospital
+S:t Eriks ögonsjukhus Stockholm,"S:t Eriks ögonsjukhus, Stockholm",Region Stockholm,Stockholms kommun,hospital
 Sahlgrenska Universitetssjukhuset,Sahlgrenska Universitetssjukhuset,Västra Götalandsregionen,Göteborgs kommun,hospital
-Sjukhuset i Arvika,Sjukhuset i Arvika,Värmlands läns landsting,Arvika kommun,hospital
+Sjukhuset i Arvika,Sjukhuset i Arvika,Region Värmland,Arvika kommun,hospital
 Sjukhuset i Hässleholm,Sjukhuset i Hässleholm,Region Skåne,Hässleholms kommun,hospital
-Sjukhuset i Torsby,Sjukhuset i Torsby,Värmlands läns landsting,Torsby kommun,hospital
+Sjukhuset i Torsby,Sjukhuset i Torsby,Region Värmland,Torsby kommun,hospital
 Skaraborgs sjukhus (Skövde Falköping Mariestad Lidköping),"Skaraborgs sjukhus (Skövde, Falköping, Mariestad, Lidköping)",Västra Götalandsregionen,Skövde kommun,hospital
-Skellefteå lasarett,Skellefteå lasarett,Västerbottens läns landsting,Skellefteå kommun,hospital
+Skellefteå lasarett,Skellefteå lasarett,Region Västerbotten,Skellefteå kommun,hospital
 Skånes Universitetssjukhus Lund och Malmö,"Skånes Universitetssjukhus, Lund och Malmö",Region Skåne,Malmö kommun,hospital
-Sollefteå sjukhus,Sollefteå sjukhus,Västernorrlands läns landsting,Sollefteå kommun,hospital
-Stockholmsgeriatriken - Sabbatsbergs sjukhus (SLSO),Stockholmsgeriatriken - Sabbatsbergs sjukhus (SLSO),Stockholms läns landsting,Stockholms kommun,hospital
-Sunderby sjukhus,Sunderby sjukhus,Norrbottens läns landsting,Luleå kommun,hospital
-Södersjukhuset Stockholm,"Södersjukhuset, Stockholm",Stockholms läns landsting,Stockholms kommun,hospital
-Södertälje sjukhus AB,Södertälje sjukhus AB,Stockholms läns landsting,Södertälje kommun,hospital
-Södertäljegeriatriken - Södertälje sjukhus,Södertäljegeriatriken - Södertälje sjukhus,Stockholms läns landsting,Södertälje kommun,hospital
+Sollefteå sjukhus,Sollefteå sjukhus,Region Västernorrland,Sollefteå kommun,hospital
+Stockholmsgeriatriken - Sabbatsbergs sjukhus (SLSO),Stockholmsgeriatriken - Sabbatsbergs sjukhus (SLSO),Region Stockholm,Stockholms kommun,hospital
+Sunderby sjukhus,Sunderby sjukhus,Region Norrbotten,Luleå kommun,hospital
+Södersjukhuset Stockholm,"Södersjukhuset, Stockholm",Region Stockholm,Stockholms kommun,hospital
+Södertälje sjukhus AB,Södertälje sjukhus AB,Region Stockholm,Södertälje kommun,hospital
+Södertäljegeriatriken - Södertälje sjukhus,Södertäljegeriatriken - Södertälje sjukhus,Region Stockholm,Södertälje kommun,hospital
 Södra Älvsborgs Sjukhus Borås Skene,"Södra Älvsborgs Sjukhus, Borås/Skene",Västra Götalandsregionen,Borås kommun,hospital
 Universitetssjukhuset i Linköping,Universitetssjukhuset i Linköping,Region Östergötland,Linköpings kommun,hospital
 Universitetssjukhuset i Örebro,Universitetssjukhuset i Örebro,Region Örebro län,Örebro kommun,hospital
 Visby lasarett,Visby lasarett,Region Gotland,Gotlands kommun,hospital
 Vrinnevisjukhuset i Norrköping,Vrinnevisjukhuset i Norrköping,Region Östergötland,Norrköpings kommun,hospital
 Värnamo sjukhus,Värnamo sjukhus,Region Jönköpings län,Värnamo kommun,hospital
-Västerviks sjukhus,Västerviks sjukhus,Kalmar läns landsting,Västerviks kommun,hospital
-Västmanlands sjukhus Köping,Västmanlands sjukhus Köping,Västmanlands läns landsting,Köpings kommun,hospital
-Västmanlands sjukhus Sala,Västmanlands sjukhus Sala,Västmanlands läns landsting,Sala kommun,hospital
-Västmanlands sjukhus Västerås,Västmanlands sjukhus Västerås,Västmanlands läns landsting,Västerås kommun,hospital
+Västerviks sjukhus,Västerviks sjukhus,Region Kalmar län,Västerviks kommun,hospital
+Västmanlands sjukhus Köping,Västmanlands sjukhus Köping,Region Västmanland,Köpings kommun,hospital
+Västmanlands sjukhus Sala,Västmanlands sjukhus Sala,Region Västmanland,Sala kommun,hospital
+Västmanlands sjukhus Västerås,Västmanlands sjukhus Västerås,Region Västmanland,Västerås kommun,hospital
 Ängelholms sjukhus,Ängelholms sjukhus,Region Skåne,Ängelholms kommun,hospital
-Örnsköldsviks sjukhus,Örnsköldsviks sjukhus,Västernorrlands läns landsting,Örnsköldsviks kommun,hospital
+Örnsköldsviks sjukhus,Örnsköldsviks sjukhus,Region Västernorrland,Örnsköldsviks kommun,hospital
 Östersunds sjukhus,Östersunds sjukhus,Region Jämtland Härjedalen,Östersunds kommun,hospital
-Psykiatriförvaltningen Blekinge,"Psykiatriförvaltningen, Blekinge",Blekinge läns landsting,Karlskrona kommun,hospital
-Säters sjukhus,Säters sjukhus,Landstinget Dalarna,Säters kommun,hospital
+Psykiatriförvaltningen Blekinge,"Psykiatriförvaltningen, Blekinge",Region Blekinge,Karlskrona kommun,hospital
+Säters sjukhus,Säters sjukhus,Region Dalarna,Säters kommun,hospital
 Psykiatri Halland,Psykiatri Halland,Region Halland,Halmstads kommun,hospital
 Vuxenpsykiatriska kliniken Växjö Ljungby,"Vuxenpsykiatriska kliniken, Växjö/Ljungby",Region Kronoberg,Växjö kommun,hospital
 Psykiatri Region Skåne,"Psykiatri, Region Skåne",Region Skåne,Malmö kommun,hospital
-Beroendecentrum Stockholm (SLSO),"Beroendecentrum, Stockholm (SLSO)",Stockholms läns landsting,Stockholms kommun,hospital
-Capio Maria (Psykiatrisk mellanvård),Capio Maria (Psykiatrisk mellanvård),Stockholms läns landsting,Stockholms kommun,hospital
-Psykiatri Nordvästra Stockholm (SLSO),Psykiatri Nordvästra Stockholm (SLSO),Stockholms läns landsting,Stockholms kommun,hospital
-Psykiatri Norra Stockholm (SLSO),Psykiatri Norra Stockholm (SLSO),Stockholms läns landsting,Stockholms kommun,hospital
-Psykiatri Sydvästra Stockholm (SLSO),Psykiatri Sydvästra Stockholm (SLSO),Stockholms läns landsting,Stockholms kommun,hospital
-Psykiatri Södra Stockholm (SLSO),Psykiatri Södra Stockholm (SLSO),Stockholms läns landsting,Stockholms kommun,hospital
-Psykiatricentrum Södertälje (SLSO),Psykiatricentrum Södertälje (SLSO),Stockholms läns landsting,Södertälje kommun,hospital
-Psykiatri barn och unga Västmanland,"Psykiatri, barn och unga, Västmanland",Västmanlands läns landsting,Västerås kommun,hospital
-Psykiatri vuxna Västmanland,"Psykiatri, vuxna, Västmanland",Västmanlands läns landsting,Västerås kommun,hospital
+Beroendecentrum Stockholm (SLSO),"Beroendecentrum, Stockholm (SLSO)",Region Stockholm,Stockholms kommun,hospital
+Capio Maria (Psykiatrisk mellanvård),Capio Maria (Psykiatrisk mellanvård),Region Stockholm,Stockholms kommun,hospital
+Psykiatri Nordvästra Stockholm (SLSO),Psykiatri Nordvästra Stockholm (SLSO),Region Stockholm,Stockholms kommun,hospital
+Psykiatri Norra Stockholm (SLSO),Psykiatri Norra Stockholm (SLSO),Region Stockholm,Stockholms kommun,hospital
+Psykiatri Sydvästra Stockholm (SLSO),Psykiatri Sydvästra Stockholm (SLSO),Region Stockholm,Stockholms kommun,hospital
+Psykiatri Södra Stockholm (SLSO),Psykiatri Södra Stockholm (SLSO),Region Stockholm,Stockholms kommun,hospital
+Psykiatricentrum Södertälje (SLSO),Psykiatricentrum Södertälje (SLSO),Region Stockholm,Södertälje kommun,hospital
+Psykiatri barn och unga Västmanland,"Psykiatri, barn och unga, Västmanland",Region Västmanland,Västerås kommun,hospital
+Psykiatri vuxna Västmanland,"Psykiatri, vuxna, Västmanland",Region Västmanland,Västerås kommun,hospital
 Psykiatriförvaltningen Örebro läns landsting,Psykiatriförvaltningen Örebro läns landsting,Region Örebro län,Örebro kommun,hospital

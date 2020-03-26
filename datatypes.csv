@@ -62,3 +62,4 @@ municipality_federation_fire,Swedish municipality federations organizing firefig
 skl_municipality_group_2017,"Swedish municipality groups (SKL, 2017)",SKL:s Kommungruppsindelning 2017,,str,misc/se/skl_municipality_groups
 skl_municipality_primary_group_2017,"Swedish municipality primary groups (SKL, 2017)",Huvudgrupper i SKL:s kommungruppsindelning (2017),,str,misc/se/skl_municipality_primary_groups
 swedish_health_center,Swedish health centers,Svenska vårdcentraler,Id’s picked up from Nationell patientenkät,str,misc/se/health_centers
+swedish_ic_unit,Swedish intensive care unit,Svenska IVA-avdelningar,,str,misc/se/iva_units
