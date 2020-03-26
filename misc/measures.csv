@@ -28,3 +28,4 @@ age,Age,Age,Ålder,Age
 index,Some kind of computed index,Index,Index,Index
 monthly_mean,Mean by month,Mean by month,Medeltal per månad,Mean by month
 confidence_interval,Confidence interval,Confidence interval,Konfidensintervall,Confidence interval
+rolling_mean,Rolling mean,Rolling mean,Rullande medelvärde,Rolling mean
