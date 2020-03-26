@@ -1,45 +1,87 @@
-id,parent,label
-IVA_Bollnäs,Region Gävleborg,Bollnäs
-IVA_Gävle,Region Gävleborg,Gävle
-IVA_Hudiksvall,Region Gävleborg,Hudiksvall
-IVA_Örebro IVA,Region Örebro län,Örebro IVA
-IVA_Örebro TIVA,Region Örebro län,Örebro TIVA
-IVA_Karlstad,Region Värmland,Karlstad
-IVA_Torsby,Region Värmland,Torsby
-IVA_Helsingborg,Region Skåne,Helsingborg
-IVA_Kristianstad,Region Skåne,Kristianstad
-IVA_SUS Lund IVA,Region Skåne,SUS Lund IVA
-IVA_SUS Malmö Inf,Region Skåne,SUS Malmö Inf
-IVA_Alingsås,Västra Götalandsregionen,Alingsås
-IVA_Borås,Västra Götalandsregionen,Borås
-IVA_Kungälv,Västra Götalandsregionen,Kungälv
-IVA_NU Trollhättan,Västra Götalandsregionen,NU Trollhättan
-IVA_Skövde,Västra Götalandsregionen,Skövde
-IVA_SU CIVA,Västra Götalandsregionen,SU CIVA
-IVA_SU Mölndal,Västra Götalandsregionen,SU Mölndal
-IVA_SU Östra,Västra Götalandsregionen,SU Östra
-IVA_SU Östra Inf,Västra Götalandsregionen,SU Östra Inf
-IVA_Uppsala CIVA,Region Uppsala,Uppsala CIVA
-IVA_Västerås,Region Västmanland,Västerås
-IVA_Falun,Region Dalarna,Falun
-IVA_Jönköping,Region Jönköpings län,Jönköping
-IVA_Halmstad,Region Halland,Halmstad
-IVA_Skellefteå,Region Västerbotten,Skellefteå
-IVA_Umeå IVA,Region Västerbotten,Umeå IVA
-IVA_Danderyd,Region Stockholm,Danderyd
-IVA_K Huddinge IVA,Region Stockholm,K Huddinge IVA
-IVA_K Solna ECMO,Region Stockholm,K Solna ECMO
-IVA_K Solna IVA,Region Stockholm,K Solna IVA
-IVA_K Solna TIVA,Region Stockholm,K Solna TIVA
-IVA_Norrtälje,Region Stockholm,Norrtälje
-IVA_St Göran,Region Stockholm,St Göran
-IVA_SÖS IVA,Region Stockholm,SÖS IVA
-IVA_SÖS MIVA,Region Stockholm,SÖS MIVA
-IVA_Piteå,Region Norrbotten,Piteå
-IVA_Sunderby,Region Norrbotten,Sunderby
-IVA_Linköping IVA,Region Östergötland,Linköping IVA
-IVA_Norrköping,Region Östergötland,Norrköping
-IVA_Sundsvall,Region Västernorrland,Sundsvall
-IVA_Örnsköldsvik,Region Västernorrland,Örnsköldsvik
-IVA_Eskilstuna,Region Sörmland,Eskilstuna
-IVA_Nyköping,Region Sörmland,Nyköping
+id,label,parent
+IVA_Karlskrona IVA,Karlskrona IVA,Region Blekinge
+IVA_Karlskrona TIVA,Karlskrona TIVA,Region Blekinge
+IVA_Falun,Falun,Region Dalarna
+IVA_Mora,Mora,Region Dalarna
+IVA_Visby,Visby,Region Gotland
+IVA_Bollnäs,Bollnäs,Region Gävleborg
+IVA_Gävle,Gävle,Region Gävleborg
+IVA_Hudiksvall,Hudiksvall,Region Gävleborg
+IVA_Halmstad,Halmstad,Region Halland
+IVA_Varberg,Varberg,Region Halland
+IVA_Östersund,Östersund,Region Jämtland Härjedalen
+IVA_Eksjö,Eksjö,Region Jönköpings län
+IVA_Jönköping,Jönköping,Region Jönköpings län
+IVA_Värnamo,Värnamo,Region Jönköpings län
+IVA_Kalmar,Kalmar,Region Kalmar län
+IVA_Västervik,Västervik,Region Kalmar län
+IVA_Ljungby,Ljungby,Region Kronoberg
+IVA_Växjö,Växjö,Region Kronoberg
+IVA_Gällivare,Gällivare,Region Norrbotten
+IVA_Kalix,Kalix,Region Norrbotten
+IVA_Piteå,Piteå,Region Norrbotten
+IVA_Sunderby,Sunderby,Region Norrbotten
+IVA_Helsingborg,Helsingborg,Region Skåne
+IVA_Kristianstad,Kristianstad,Region Skåne
+IVA_SUS Lund BIVA,SUS Lund BIVA,Region Skåne
+IVA_SUS Lund IVA,SUS Lund IVA,Region Skåne
+IVA_SUS Lund NIVA,SUS Lund NIVA,Region Skåne
+IVA_SUS Lund TIVA,SUS Lund TIVA,Region Skåne
+IVA_SUS Malmö Inf,SUS Malmö Inf,Region Skåne
+IVA_SUS Malmö IVA,SUS Malmö IVA,Region Skåne
+IVA_Ystad,Ystad,Region Skåne
+IVA_Danderyd,Danderyd,Region Stockholm
+IVA_Ersta,Ersta,Region Stockholm
+IVA_K Huddinge IVA,K Huddinge IVA,Region Stockholm
+IVA_K Solna BIVA,K Solna BIVA,Region Stockholm
+IVA_K Solna ECMO,K Solna ECMO,Region Stockholm
+IVA_K Solna IVA,K Solna IVA,Region Stockholm
+IVA_K Solna NIVA,K Solna NIVA,Region Stockholm
+IVA_K Solna TIVA,K Solna TIVA,Region Stockholm
+IVA_Norrtälje,Norrtälje,Region Stockholm
+IVA_St Göran,St Göran,Region Stockholm
+IVA_Södertälje,Södertälje,Region Stockholm
+IVA_SÖS IVA,SÖS IVA,Region Stockholm
+IVA_SÖS MIVA,SÖS MIVA,Region Stockholm
+IVA_Eskilstuna,Eskilstuna,Region Sörmland
+IVA_Nyköping,Nyköping,Region Sörmland
+IVA_Uppsala BIVA,Uppsala BIVA,Region Uppsala
+IVA_Uppsala BRIVA,Uppsala BRIVA,Region Uppsala
+IVA_Uppsala CIVA,Uppsala CIVA,Region Uppsala
+IVA_Uppsala NIVA,Uppsala NIVA,Region Uppsala
+IVA_Uppsala TIVA,Uppsala TIVA,Region Uppsala
+IVA_Alingsås,Alingsås,Västra Götalandsregionen
+IVA_Borås,Borås,Västra Götalandsregionen
+IVA_Kungälv,Kungälv,Västra Götalandsregionen
+IVA_Lidköping,Lidköping,Västra Götalandsregionen
+IVA_NU Trollhättan,NU Trollhättan,Västra Götalandsregionen
+IVA_NÄL,NÄL,Västra Götalandsregionen
+IVA_Skövde,Skövde,Västra Götalandsregionen
+IVA_SU BIVA,SU BIVA,Västra Götalandsregionen
+IVA_SU CIVA,SU CIVA,Västra Götalandsregionen
+IVA_SU Mölndal,SU Mölndal,Västra Götalandsregionen
+IVA_SU NIVA,SU NIVA,Västra Götalandsregionen
+IVA_SU TIVA,SU TIVA,Västra Götalandsregionen
+IVA_SU Östra,SU Östra,Västra Götalandsregionen
+IVA_SU Östra Inf,SU Östra Inf,Västra Götalandsregionen
+IVA_Uddevalla,Uddevalla,Västra Götalandsregionen
+IVA_Arvika,Arvika,Region Värmland
+IVA_Karlstad,Karlstad,Region Värmland
+IVA_Torsby,Torsby,Region Värmland
+IVA_Lycksele,Lycksele,Region Västerbotten
+IVA_Skellefteå,Skellefteå,Region Västerbotten
+IVA_Umeå IVA,Umeå IVA,Region Västerbotten
+IVA_Umeå TIVA,Umeå TIVA,Region Västerbotten
+IVA_Sollefteå,Sollefteå,Region Västernorrland
+IVA_Sundsvall,Sundsvall,Region Västernorrland
+IVA_Örnsköldsvik,Örnsköldsvik,Region Västernorrland
+IVA_Västerås,Västerås,Region Västmanland
+IVA_Karlskoga,Karlskoga,Region Örebro län
+IVA_Lindesberg,Lindesberg,Region Örebro län
+IVA_Örebro IVA,Örebro IVA,Region Örebro län
+IVA_Örebro TIVA,Örebro TIVA,Region Örebro län
+IVA_Linköping BRIVA,Linköping BRIVA,Region Östergötland
+IVA_Linköping IVA,Linköping IVA,Region Östergötland
+IVA_Linköping NIVA,Linköping NIVA,Region Östergötland
+IVA_Linköping TIVA,Linköping TIVA,Region Östergötland
+IVA_Norrköping,Norrköping,Region Östergötland
