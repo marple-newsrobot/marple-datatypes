@@ -1,22 +1,22 @@
-id,label,parent,region_level,county
-Region Blekinge,Region Blekinge,Sweden,county council,Blekinge län
-Region Dalarna,Region Dalarna,Sweden,county council,Dalarnas län
-Region Gotland,Region Gotland,Sweden,county council,Gotlands län
-Region Gävleborg,Region Gävleborg,Sweden,county council,Gävleborgs län
-Region Halland,Region Halland,Sweden,county council,Hallands län
-Region Jämtland Härjedalen,Region Jämtland Härjedalen,Sweden,county council,Jämtlands län
-Region Jönköpings län,Region Jönköpings län,Sweden,county council,Jönköpings län
-Region Kalmar län,Region Kalmar län,Sweden,county council,Kalmar län
-Region Kronoberg,Region Kronoberg,Sweden,county council,Kronobergs län
-Region Norrbotten,Region Norrbotten,Sweden,county council,Norrbottens län
-Region Skåne,Region Skåne,Sweden,county council,Skåne län
-Region Stockholm,Region Stockholm,Sweden,county council,Stockholms län
-Region Sörmland,Region Sörmland,Sweden,county council,Södermanlands län
-Region Uppsala,Region Uppsala,Sweden,county council,Uppsala län
-Region Värmland,Region Värmland,Sweden,county council,Värmlands län
-Region Västerbotten,Region Västerbotten,Sweden,county council,Västerbottens län
-Region Västernorrland,Region Västernorrland,Sweden,county council,Västernorrlands län
-Region Västmanland,Region Västmanland,Sweden,county council,Västmanlands län
-Region Örebro län,Region Örebro län,Sweden,county council,Örebro län
-Region Östergötland,Region Östergötland,Sweden,county council,Östergötlands län
-Västra Götalandsregionen,Västra Götalandsregionen,Sweden,county council,Västra Götalands län
+id,label,label_short,parent,region_level,county,old_name
+Region Blekinge,Region Blekinge,Blekinge,Sweden,county council,Blekinge län,Blekinge läns landsting
+Region Dalarna,Region Dalarna,Dalarna,Sweden,county council,Dalarnas län,Landstinget Dalarna
+Region Gotland,Region Gotland,Gotland,Sweden,county council,Gotlands län,Region Gotland
+Region Gävleborg,Region Gävleborg,Gävleborg,Sweden,county council,Gävleborgs län,Region Gävleborg
+Region Halland,Region Halland,Halland,Sweden,county council,Hallands län,Region Halland
+Region Jämtland Härjedalen,Region Jämtland Härjedalen,Jämtland Härjedalen,Sweden,county council,Jämtlands län,Region Jämtland Härjedalen
+Region Jönköpings län,Region Jönköpings län,Jönköping,Sweden,county council,Jönköpings län,Region Jönköpings län
+Region Kalmar län,Region Kalmar län,Kalmar,Sweden,county council,Kalmar län,Kalmar läns landsting
+Region Kronoberg,Region Kronoberg,Kronoberg,Sweden,county council,Kronobergs län,Region Kronoberg
+Region Norrbotten,Region Norrbotten,Norrbotten,Sweden,county council,Norrbottens län,Norrbottens läns landsting
+Region Skåne,Region Skåne,Skåne,Sweden,county council,Skåne län,Region Skåne
+Region Stockholm,Region Stockholm,Stockholm,Sweden,county council,Stockholms län,Stockholms läns landsting
+Region Sörmland,Region Sörmland,Sörmland,Sweden,county council,Södermanlands län,Södermanlands läns landsting
+Region Uppsala,Region Uppsala,Uppsala,Sweden,county council,Uppsala län,Region Uppsala
+Region Värmland,Region Värmland,Värmland,Sweden,county council,Värmlands län,Värmlands läns landsting
+Region Västerbotten,Region Västerbotten,Västerbotten,Sweden,county council,Västerbottens län,Västerbottens läns landsting
+Region Västernorrland,Region Västernorrland,Västernorrland,Sweden,county council,Västernorrlands län,Västernorrlands läns landsting
+Region Västmanland,Region Västmanland,Västmanland,Sweden,county council,Västmanlands län,Västmanlands läns landsting
+Region Örebro län,Region Örebro län,Örebro,Sweden,county council,Örebro län,Region Örebro län
+Region Östergötland,Region Östergötland,Östergötland,Sweden,county council,Östergötlands län,Region Östergötland
+Västra Götalandsregionen,Västra Götalandsregionen,Västra Götaland,Sweden,county council,Västra Götalands län,Västra Götalandsregionen
