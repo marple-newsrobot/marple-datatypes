@@ -1,0 +1,5 @@
+{
+  "tests/test_api.py::ApiTest::test_datatypes": true,
+  "tests/test_datatype_files.py::test_id_uniqueness": true,
+  "tests/test_datatype_files.py::test_one_to_one_relations": true
+}
