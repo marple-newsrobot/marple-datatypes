@@ -15,7 +15,7 @@ def test_id_uniqueness(get_ids):
     """
     ids = get_ids
     duplicates = get_duplicates(ids)
-    assert len(duplicates) == 0
+    assert len(duplicates) == 0, u"Duplicates: {}".format(duplicates)
 
 def test_forbidden_characters(get_ids):
     FORBIDDEN_CHARS = [
