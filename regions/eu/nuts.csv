@@ -1,861 +1,863 @@
-"id","label","parent","region_level"
-"NUTS_BE1","Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest","Belgium","NUTS1"
-"NUTS_BE2","Vlaams Gewest","Belgium","NUTS1"
-"NUTS_BE3","Région wallonne","Belgium","NUTS1"
-"NUTS_BG3","Severna i yugoiztochna Bulgaria","Bulgaria","NUTS1"
-"NUTS_BG4","Yugozapadna i yuzhna tsentralna Bulgaria","Bulgaria","NUTS1"
-"NUTS_CZ0","Ceská republika","Czech Republic","NUTS1"
-"NUTS_DK0","Danmark","Denmark","NUTS1"
-"NUTS_DE1","Baden-Württemberg","Germany","NUTS1"
-"NUTS_DE2","Bayern","Germany","NUTS1"
-"NUTS_DE3","Berlin","Germany","NUTS1"
-"NUTS_DE4","Brandenburg","Germany","NUTS1"
-"NUTS_DE5","Bremen","Germany","NUTS1"
-"NUTS_DE6","Hamburg","Germany","NUTS1"
-"NUTS_DE7","Hessen","Germany","NUTS1"
-"NUTS_DE8","Mecklenburg-Vorpommern","Germany","NUTS1"
-"NUTS_DE9","Niedersachsen","Germany","NUTS1"
-"NUTS_DEA","Nordrhein-Westfalen","Germany","NUTS1"
-"NUTS_DEB","Rheinland-Pfalz","Germany","NUTS1"
-"NUTS_DEC","Saarland","Germany","NUTS1"
-"NUTS_DED","Sachsen","Germany","NUTS1"
-"NUTS_DEE","Sachsen-Anhalt","Germany","NUTS1"
-"NUTS_DEF","Schleswig-Holstein","Germany","NUTS1"
-"NUTS_DEG","Thüringen","Germany","NUTS1"
-"NUTS_EE0","Eesti","Estonia","NUTS1"
-"NUTS_IE0","Éire/Ireland","Ireland","NUTS1"
-"NUTS_EL5","Voreia Ellada","Greece","NUTS1"
-"NUTS_EL6","Kentriki Ellada","Greece","NUTS1"
-"NUTS_EL3","Attiki","Greece","NUTS1"
-"NUTS_EL4","Nisia Aigaiou, Kriti","Greece","NUTS1"
-"NUTS_ES1","Noroeste (ES)","Spain","NUTS1"
-"NUTS_ES2","Noreste (ES)","Spain","NUTS1"
-"NUTS_ES3","Comunidad de Madrid","Spain","NUTS1"
-"NUTS_ES4","Centro (ES)","Spain","NUTS1"
-"NUTS_ES5","Este (ES)","Spain","NUTS1"
-"NUTS_ES6","Sur (ES)","Spain","NUTS1"
-"NUTS_ES7","Canarias (ES)","Spain","NUTS1"
-"NUTS_FR1","Île de France","France","NUTS1"
-"NUTS_FRB","Centre - Val de Loire","France","NUTS1"
-"NUTS_FRC","Bourgogne - Franche-Comté","France","NUTS1"
-"NUTS_FRD","Normandie","France","NUTS1"
-"NUTS_FRE","Nord-Pas de Calais - Picardie","France","NUTS1"
-"NUTS_FRF","Alsace - Champagne-Ardenne - Lorraine","France","NUTS1"
-"NUTS_FRG","Pays de la Loire","France","NUTS1"
-"NUTS_FRH","Bretagne","France","NUTS1"
-"NUTS_FRI","Aquitaine - Limousin - Poitou-Charentes","France","NUTS1"
-"NUTS_FRJ","Languedoc-Roussillon - Midi-Pyrénées","France","NUTS1"
-"NUTS_FRK","Auvergne - Rhône-Alpes","France","NUTS1"
-"NUTS_FRL","Provence-Alpes-Côte d'Azur","France","NUTS1"
-"NUTS_FRM","Corse","France","NUTS1"
-"NUTS_FRY","RUP FR - Régions ultrapériphériques françaises","France","NUTS1"
-"NUTS_HR0","Hrvatska","Croatia","NUTS1"
-"NUTS_ITC","Nord-Ovest","Italy","NUTS1"
-"NUTS_ITH","Nord-Est","Italy","NUTS1"
-"NUTS_ITI","Centro (IT)","Italy","NUTS1"
-"NUTS_ITF","Sud","Italy","NUTS1"
-"NUTS_ITG","Isole","Italy","NUTS1"
-"NUTS_CY0","Kypros","Cyprus","NUTS1"
-"NUTS_LV0","Latvija","Latvia","NUTS1"
-"NUTS_LT0","Lietuva","Lithuania","NUTS1"
-"NUTS_LU0","Luxembourg","Luxembourg","NUTS1"
-"NUTS_HU1","Közép-Magyarország","Hungary","NUTS1"
-"NUTS_HU2","Dunántúl","Hungary","NUTS1"
-"NUTS_HU3","Alföld és Észak","Hungary","NUTS1"
-"NUTS_MT0","Malta","Malta","NUTS1"
-"NUTS_NL1","Noord-Nederland","Netherlands","NUTS1"
-"NUTS_NL2","Oost-Nederland","Netherlands","NUTS1"
-"NUTS_NL3","West-Nederland","Netherlands","NUTS1"
-"NUTS_NL4","Zuid-Nederland","Netherlands","NUTS1"
-"NUTS_AT1","Ostösterreich","Austria","NUTS1"
-"NUTS_AT2","Südösterreich","Austria","NUTS1"
-"NUTS_AT3","Westösterreich","Austria","NUTS1"
-"NUTS_PL2","Makroregion Poludniowy","Poland","NUTS1"
-"NUTS_PL4","Makroregion Pólnocno-Zachodni","Poland","NUTS1"
-"NUTS_PL5","Makroregion Poludniowo-Zachodni","Poland","NUTS1"
-"NUTS_PL6","Makroregion Pólnocny","Poland","NUTS1"
-"NUTS_PL7","Makroregion Centralny","Poland","NUTS1"
-"NUTS_PL8","Makroregion Wschodni","Poland","NUTS1"
-"NUTS_PL9","Makroregion Województwo Mazowieckie","Poland","NUTS1"
-"NUTS_PT1","Continente","Portugal","NUTS1"
-"NUTS_PT2","Região Autónoma dos Açores (PT)","Portugal","NUTS1"
-"NUTS_PT3","Região Autónoma da Madeira (PT)","Portugal","NUTS1"
-"NUTS_RO1","Macroregiunea unu","Romania","NUTS1"
-"NUTS_RO2","Macroregiunea doi","Romania","NUTS1"
-"NUTS_RO3","Macroregiunea trei","Romania","NUTS1"
-"NUTS_RO4","Macroregiunea patru","Romania","NUTS1"
-"NUTS_SI0","Slovenija","Slovenia","NUTS1"
-"NUTS_SK0","Slovensko","Slovakia","NUTS1"
-"NUTS_FI1","Manner-Suomi","Finland","NUTS1"
-"NUTS_FI2","Åland","Finland","NUTS1"
-"NUTS_SE1","Östra Sverige","Sweden","NUTS1"
-"NUTS_SE2","Södra Sverige","Sweden","NUTS1"
-"NUTS_SE3","Norra Sverige","Sweden","NUTS1"
-"NUTS_UKC","North East (UK)","United Kingdom of Great Britain","NUTS1"
-"NUTS_UKD","North West (UK)","United Kingdom of Great Britain","NUTS1"
-"NUTS_UKE","Yorkshire and The Humber","United Kingdom of Great Britain","NUTS1"
-"NUTS_UKF","East Midlands (UK)","United Kingdom of Great Britain","NUTS1"
-"NUTS_UKG","West Midlands (UK)","United Kingdom of Great Britain","NUTS1"
-"NUTS_UKH","East of England","United Kingdom of Great Britain","NUTS1"
-"NUTS_UKI","London","United Kingdom of Great Britain","NUTS1"
-"NUTS_UKJ","South East (UK)","United Kingdom of Great Britain","NUTS1"
-"NUTS_UKK","South West (UK)","United Kingdom of Great Britain","NUTS1"
-"NUTS_UKL","Wales","United Kingdom of Great Britain","NUTS1"
-"NUTS_UKM","Scotland","United Kingdom of Great Britain","NUTS1"
-"NUTS_UKN","Northern Ireland (UK)","United Kingdom of Great Britain","NUTS1"
-"NUTS_IS0","Ísland","Iceland","NUTS1"
-"NUTS_NO0","Norge","Norway","NUTS1"
-"NUTS_CH0","Schweiz/Suisse/Svizzera","Switzerland","NUTS1"
-"NUTS_ME0","Crna Gora","Montenegro","NUTS1"
-"NUTS_MK0","Severna Makedonija","Macedonia","NUTS1"
-"NUTS_RS1","Srbija - sever","Serbia","NUTS1"
-"NUTS_RS2","Srbija - jug","Serbia","NUTS1"
-"NUTS_TR1","Istanbul","Turkey","NUTS1"
-"NUTS_TR2","Bati Marmara","Turkey","NUTS1"
-"NUTS_TR3","Ege","Turkey","NUTS1"
-"NUTS_TR4","Dogu Marmara","Turkey","NUTS1"
-"NUTS_TR5","Bati Anadolu","Turkey","NUTS1"
-"NUTS_TR6","Akdeniz","Turkey","NUTS1"
-"NUTS_TR7","Orta Anadolu","Turkey","NUTS1"
-"NUTS_TR8","Bati Karadeniz","Turkey","NUTS1"
-"NUTS_TR9","Dogu Karadeniz","Turkey","NUTS1"
-"NUTS_TRA","Kuzeydogu Anadolu","Turkey","NUTS1"
-"NUTS_TRB","Ortadogu Anadolu","Turkey","NUTS1"
-"NUTS_TRC","Güneydogu Anadolu","Turkey","NUTS1"
-"NUTS_BE21","Prov. Antwerpen","Belgium","NUTS2"
-"NUTS_BE22","Prov. Limburg (BE)","Belgium","NUTS2"
-"NUTS_BE23","Prov. Oost-Vlaanderen","Belgium","NUTS2"
-"NUTS_BE24","Prov. Vlaams-Brabant","Belgium","NUTS2"
-"NUTS_BE25","Prov. West-Vlaanderen","Belgium","NUTS2"
-"NUTS_BE31","Prov. Brabant Wallon","Belgium","NUTS2"
-"NUTS_BE32","Prov. Hainaut","Belgium","NUTS2"
-"NUTS_BE33","Prov. Liège","Belgium","NUTS2"
-"NUTS_BE34","Prov. Luxembourg (BE)","Belgium","NUTS2"
-"NUTS_BE35","Prov. Namur","Belgium","NUTS2"
-"NUTS_BG31","Severozapaden","Bulgaria","NUTS2"
-"NUTS_BG32","Severen tsentralen","Bulgaria","NUTS2"
-"NUTS_BG33","Severoiztochen","Bulgaria","NUTS2"
-"NUTS_BG34","Yugoiztochen","Bulgaria","NUTS2"
-"NUTS_BG41","Yugozapaden","Bulgaria","NUTS2"
-"NUTS_BG42","Yuzhen tsentralen","Bulgaria","NUTS2"
-"NUTS_CZ01","Praha","Czech Republic","NUTS2"
-"NUTS_CZ02","Strední Cechy","Czech Republic","NUTS2"
-"NUTS_CZ03","Jihozápad","Czech Republic","NUTS2"
-"NUTS_CZ04","Severozápad","Czech Republic","NUTS2"
-"NUTS_CZ05","Severovýchod","Czech Republic","NUTS2"
-"NUTS_CZ06","Jihovýchod","Czech Republic","NUTS2"
-"NUTS_CZ07","Strední Morava","Czech Republic","NUTS2"
-"NUTS_CZ08","Moravskoslezsko","Czech Republic","NUTS2"
-"NUTS_DK01","Hovedstaden","Denmark","NUTS2"
-"NUTS_DK02","Sjælland","Denmark","NUTS2"
-"NUTS_DK03","Syddanmark","Denmark","NUTS2"
-"NUTS_DK04","Midtjylland","Denmark","NUTS2"
-"NUTS_DK05","Nordjylland","Denmark","NUTS2"
-"NUTS_DE11","Stuttgart","Germany","NUTS2"
-"NUTS_DE12","Karlsruhe","Germany","NUTS2"
-"NUTS_DE13","Freiburg","Germany","NUTS2"
-"NUTS_DE14","Tübingen","Germany","NUTS2"
-"NUTS_DE21","Oberbayern","Germany","NUTS2"
-"NUTS_DE22","Niederbayern","Germany","NUTS2"
-"NUTS_DE23","Oberpfalz","Germany","NUTS2"
-"NUTS_DE24","Oberfranken","Germany","NUTS2"
-"NUTS_DE25","Mittelfranken","Germany","NUTS2"
-"NUTS_DE26","Unterfranken","Germany","NUTS2"
-"NUTS_DE27","Schwaben","Germany","NUTS2"
-"NUTS_DE71","Darmstadt","Germany","NUTS2"
-"NUTS_DE72","Gießen","Germany","NUTS2"
-"NUTS_DE73","Kassel","Germany","NUTS2"
-"NUTS_DE91","Braunschweig","Germany","NUTS2"
-"NUTS_DE92","Hannover","Germany","NUTS2"
-"NUTS_DE93","Lüneburg","Germany","NUTS2"
-"NUTS_DE94","Weser-Ems","Germany","NUTS2"
-"NUTS_DEA1","Düsseldorf","Germany","NUTS2"
-"NUTS_DEA2","Köln","Germany","NUTS2"
-"NUTS_DEA3","Münster","Germany","NUTS2"
-"NUTS_DEA4","Detmold","Germany","NUTS2"
-"NUTS_DEA5","Arnsberg","Germany","NUTS2"
-"NUTS_DEB1","Koblenz","Germany","NUTS2"
-"NUTS_DEB2","Trier","Germany","NUTS2"
-"NUTS_DEB3","Rheinhessen-Pfalz","Germany","NUTS2"
-"NUTS_DED2","Dresden","Germany","NUTS2"
-"NUTS_DED4","Chemnitz","Germany","NUTS2"
-"NUTS_DED5","Leipzig","Germany","NUTS2"
-"NUTS_IE04","Northern and Western","Ireland","NUTS2"
-"NUTS_IE05","Southern","Ireland","NUTS2"
-"NUTS_IE06","Eastern and Midland","Ireland","NUTS2"
-"NUTS_IE01","Border, Midland and Western (NUTS 2013)","Ireland","NUTS2"
-"NUTS_IE02","Southern and Eastern (NUTS 2013)","Ireland","NUTS2"
-"NUTS_EL51","Anatoliki Makedonia, Thraki","Greece","NUTS2"
-"NUTS_EL52","Kentriki Makedonia","Greece","NUTS2"
-"NUTS_EL53","Dytiki Makedonia","Greece","NUTS2"
-"NUTS_EL54","Ipeiros","Greece","NUTS2"
-"NUTS_EL61","Thessalia","Greece","NUTS2"
-"NUTS_EL62","Ionia Nisia","Greece","NUTS2"
-"NUTS_EL63","Dytiki Ellada","Greece","NUTS2"
-"NUTS_EL64","Sterea Ellada","Greece","NUTS2"
-"NUTS_EL65","Peloponnisos","Greece","NUTS2"
-"NUTS_EL41","Voreio Aigaio","Greece","NUTS2"
-"NUTS_EL42","Notio Aigaio","Greece","NUTS2"
-"NUTS_EL43","Kriti","Greece","NUTS2"
-"NUTS_ES11","Galicia","Spain","NUTS2"
-"NUTS_ES12","Principado de Asturias","Spain","NUTS2"
-"NUTS_ES13","Cantabria","Spain","NUTS2"
-"NUTS_ES21","País Vasco","Spain","NUTS2"
-"NUTS_ES22","Comunidad Foral de Navarra","Spain","NUTS2"
-"NUTS_ES23","La Rioja","Spain","NUTS2"
-"NUTS_ES24","Aragón","Spain","NUTS2"
-"NUTS_ES41","Castilla y León","Spain","NUTS2"
-"NUTS_ES42","Castilla-la Mancha","Spain","NUTS2"
-"NUTS_ES43","Extremadura","Spain","NUTS2"
-"NUTS_ES51","Cataluña","Spain","NUTS2"
-"NUTS_ES52","Comunidad Valenciana","Spain","NUTS2"
-"NUTS_ES53","Illes Balears","Spain","NUTS2"
-"NUTS_ES61","Andalucía","Spain","NUTS2"
-"NUTS_ES62","Región de Murcia","Spain","NUTS2"
-"NUTS_ES63","Ciudad Autónoma de Ceuta (ES)","Spain","NUTS2"
-"NUTS_ES64","Ciudad Autónoma de Melilla (ES)","Spain","NUTS2"
-"NUTS_FRC1","Bourgogne","France","NUTS2"
-"NUTS_FRC2","Franche-Comté","France","NUTS2"
-"NUTS_FRD1","Basse-Normandie","France","NUTS2"
-"NUTS_FRD2","Haute-Normandie","France","NUTS2"
-"NUTS_FRE1","Nord-Pas de Calais","France","NUTS2"
-"NUTS_FRE2","Picardie","France","NUTS2"
-"NUTS_FRF1","Alsace","France","NUTS2"
-"NUTS_FRF2","Champagne-Ardenne","France","NUTS2"
-"NUTS_FRF3","Lorraine","France","NUTS2"
-"NUTS_FRI1","Aquitaine","France","NUTS2"
-"NUTS_FRI2","Limousin","France","NUTS2"
-"NUTS_FRI3","Poitou-Charentes","France","NUTS2"
-"NUTS_FRJ1","Languedoc-Roussillon","France","NUTS2"
-"NUTS_FRJ2","Midi-Pyrénées","France","NUTS2"
-"NUTS_FRK1","Auvergne","France","NUTS2"
-"NUTS_FRK2","Rhône-Alpes","France","NUTS2"
-"NUTS_FRY1","Guadeloupe","France","NUTS2"
-"NUTS_FRY2","Martinique","France","NUTS2"
-"NUTS_FRY3","Guyane","France","NUTS2"
-"NUTS_FRY4","La Réunion","France","NUTS2"
-"NUTS_FRY5","Mayotte","France","NUTS2"
-"NUTS_HR03","Jadranska Hrvatska","Croatia","NUTS2"
-"NUTS_HR04","Kontinentalna Hrvatska","Croatia","NUTS2"
-"NUTS_ITC1","Piemonte","Italy","NUTS2"
-"NUTS_ITC2","Valle d'Aosta/Vallée d'Aoste","Italy","NUTS2"
-"NUTS_ITC3","Liguria","Italy","NUTS2"
-"NUTS_ITC4","Lombardia","Italy","NUTS2"
-"NUTS_ITH1","Provincia Autonoma di Bolzano/Bozen","Italy","NUTS2"
-"NUTS_ITH2","Provincia Autonoma di Trento","Italy","NUTS2"
-"NUTS_ITH3","Veneto","Italy","NUTS2"
-"NUTS_ITH4","Friuli-Venezia Giulia","Italy","NUTS2"
-"NUTS_ITH5","Emilia-Romagna","Italy","NUTS2"
-"NUTS_ITI1","Toscana","Italy","NUTS2"
-"NUTS_ITI2","Umbria","Italy","NUTS2"
-"NUTS_ITI3","Marche","Italy","NUTS2"
-"NUTS_ITI4","Lazio","Italy","NUTS2"
-"NUTS_ITF1","Abruzzo","Italy","NUTS2"
-"NUTS_ITF2","Molise","Italy","NUTS2"
-"NUTS_ITF3","Campania","Italy","NUTS2"
-"NUTS_ITF4","Puglia","Italy","NUTS2"
-"NUTS_ITF5","Basilicata","Italy","NUTS2"
-"NUTS_ITF6","Calabria","Italy","NUTS2"
-"NUTS_ITG1","Sicilia","Italy","NUTS2"
-"NUTS_ITG2","Sardegna","Italy","NUTS2"
-"NUTS_LT01","Sostines regionas","Lithuania","NUTS2"
-"NUTS_LT02","Vidurio ir vakaru Lietuvos regionas","Lithuania","NUTS2"
-"NUTS_LT00","Lietuva (NUTS 2013)","Lithuania","NUTS2"
-"NUTS_HU11","Budapest","Hungary","NUTS2"
-"NUTS_HU12","Pest","Hungary","NUTS2"
-"NUTS_HU10","Közép-Magyarország (NUTS 2013)","Hungary","NUTS2"
-"NUTS_HU21","Közép-Dunántúl","Hungary","NUTS2"
-"NUTS_HU22","Nyugat-Dunántúl","Hungary","NUTS2"
-"NUTS_HU23","Dél-Dunántúl","Hungary","NUTS2"
-"NUTS_HU31","Észak-Magyarország","Hungary","NUTS2"
-"NUTS_HU32","Észak-Alföld","Hungary","NUTS2"
-"NUTS_HU33","Dél-Alföld","Hungary","NUTS2"
-"NUTS_NL11","Groningen","Netherlands","NUTS2"
-"NUTS_NL12","Friesland (NL)","Netherlands","NUTS2"
-"NUTS_NL13","Drenthe","Netherlands","NUTS2"
-"NUTS_NL21","Overijssel","Netherlands","NUTS2"
-"NUTS_NL22","Gelderland","Netherlands","NUTS2"
-"NUTS_NL23","Flevoland","Netherlands","NUTS2"
-"NUTS_NL31","Utrecht","Netherlands","NUTS2"
-"NUTS_NL32","Noord-Holland","Netherlands","NUTS2"
-"NUTS_NL33","Zuid-Holland","Netherlands","NUTS2"
-"NUTS_NL34","Zeeland","Netherlands","NUTS2"
-"NUTS_NL41","Noord-Brabant","Netherlands","NUTS2"
-"NUTS_NL42","Limburg (NL)","Netherlands","NUTS2"
-"NUTS_AT11","Burgenland (AT)","Austria","NUTS2"
-"NUTS_AT12","Niederösterreich","Austria","NUTS2"
-"NUTS_AT13","Wien","Austria","NUTS2"
-"NUTS_AT21","Kärnten","Austria","NUTS2"
-"NUTS_AT22","Steiermark","Austria","NUTS2"
-"NUTS_AT31","Oberösterreich","Austria","NUTS2"
-"NUTS_AT32","Salzburg","Austria","NUTS2"
-"NUTS_AT33","Tirol","Austria","NUTS2"
-"NUTS_AT34","Vorarlberg","Austria","NUTS2"
-"NUTS_PL21","Malopolskie","Poland","NUTS2"
-"NUTS_PL22","Slaskie","Poland","NUTS2"
-"NUTS_PL41","Wielkopolskie","Poland","NUTS2"
-"NUTS_PL42","Zachodniopomorskie","Poland","NUTS2"
-"NUTS_PL43","Lubuskie","Poland","NUTS2"
-"NUTS_PL51","Dolnoslaskie","Poland","NUTS2"
-"NUTS_PL52","Opolskie","Poland","NUTS2"
-"NUTS_PL61","Kujawsko-Pomorskie","Poland","NUTS2"
-"NUTS_PL62","Warminsko-Mazurskie","Poland","NUTS2"
-"NUTS_PL63","Pomorskie","Poland","NUTS2"
-"NUTS_PL71","Lódzkie","Poland","NUTS2"
-"NUTS_PL72","Swietokrzyskie","Poland","NUTS2"
-"NUTS_PL81","Lubelskie","Poland","NUTS2"
-"NUTS_PL82","Podkarpackie","Poland","NUTS2"
-"NUTS_PL84","Podlaskie","Poland","NUTS2"
-"NUTS_PL91","Warszawski stoleczny","Poland","NUTS2"
-"NUTS_PL92","Mazowiecki regionalny","Poland","NUTS2"
-"NUTS_PT11","Norte","Portugal","NUTS2"
-"NUTS_PT15","Algarve","Portugal","NUTS2"
-"NUTS_PT16","Centro (PT)","Portugal","NUTS2"
-"NUTS_PT17","Área Metropolitana de Lisboa","Portugal","NUTS2"
-"NUTS_PT18","Alentejo","Portugal","NUTS2"
-"NUTS_RO11","Nord-Vest","Romania","NUTS2"
-"NUTS_RO12","Centru","Romania","NUTS2"
-"NUTS_RO22","Sud-Est","Romania","NUTS2"
-"NUTS_RO31","Sud - Muntenia","Romania","NUTS2"
-"NUTS_RO32","Bucuresti - Ilfov","Romania","NUTS2"
-"NUTS_RO41","Sud-Vest Oltenia","Romania","NUTS2"
-"NUTS_RO42","Vest","Romania","NUTS2"
-"NUTS_SI03","Vzhodna Slovenija","Slovenia","NUTS2"
-"NUTS_SI01","Vzhodna Slovenija (NUTS 2010)","Slovenia","NUTS2"
-"NUTS_SI04","Zahodna Slovenija","Slovenia","NUTS2"
-"NUTS_SI02","Zahodna Slovenija (NUTS 2010)","Slovenia","NUTS2"
-"NUTS_SK01","Bratislavský kraj","Slovakia","NUTS2"
-"NUTS_SK02","Západné Slovensko","Slovakia","NUTS2"
-"NUTS_SK03","Stredné Slovensko","Slovakia","NUTS2"
-"NUTS_SK04","Východné Slovensko","Slovakia","NUTS2"
-"NUTS_FI19","Länsi-Suomi","Finland","NUTS2"
-"NUTS_FI1B","Helsinki-Uusimaa","Finland","NUTS2"
-"NUTS_FI1C","Etelä-Suomi","Finland","NUTS2"
-"NUTS_FI1D","Pohjois- ja Itä-Suomi","Finland","NUTS2"
-"NUTS_FI19_20","Länsi-Suomi, Åland","Finland","NUTS2"
-"NUTS_SE11","Stockholm","Sweden","NUTS2"
-"NUTS_SE12","Östra Mellansverige","Sweden","NUTS2"
-"NUTS_SE21","Småland med öarna","Sweden","NUTS2"
-"NUTS_SE22","Sydsverige","Sweden","NUTS2"
-"NUTS_SE23","Västsverige","Sweden","NUTS2"
-"NUTS_SE31","Norra Mellansverige","Sweden","NUTS2"
-"NUTS_SE32","Mellersta Norrland","Sweden","NUTS2"
-"NUTS_SE33","Övre Norrland","Sweden","NUTS2"
-"NUTS_UKC1","Tees Valley and Durham","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKC2","Northumberland and Tyne and Wear","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKD1","Cumbria","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKD3","Greater Manchester","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKD4","Lancashire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKD6","Cheshire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKD7","Merseyside","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKE1","East Yorkshire and Northern Lincolnshire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKE2","North Yorkshire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKE3","South Yorkshire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKE4","West Yorkshire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKF1","Derbyshire and Nottinghamshire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKF2","Leicestershire, Rutland and Northamptonshire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKF3","Lincolnshire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKG1","Herefordshire, Worcestershire and Warwickshire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKG2","Shropshire and Staffordshire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKG3","West Midlands","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKH1","East Anglia","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKH2","Bedfordshire and Hertfordshire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKH3","Essex","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKI1","Inner London (NUTS 2010)","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKI2","Outer London (NUTS 2010)","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKI3","Inner London - West","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKI4","Inner London - East","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKI5","Outer London - East and North East","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKI6","Outer London - South","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKI7","Outer London - West and North West","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKJ1","Berkshire, Buckinghamshire and Oxfordshire","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKJ2","Surrey, East and West Sussex","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKJ3","Hampshire and Isle of Wight","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKJ4","Kent","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKK1","Gloucestershire, Wiltshire and Bristol/Bath area","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKK2","Dorset and Somerset","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKK3","Cornwall and Isles of Scilly","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKK4","Devon","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKL1","West Wales and The Valleys","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKL2","East Wales","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKM2","Eastern Scotland (NUTS 2013)","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKM3","South Western Scotland (NUTS 2013)","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKM5","North Eastern Scotland","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKM6","Highlands and Islands","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKM7","Eastern Scotland","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKM8","West Central Scotland","United Kingdom of Great Britain","NUTS2"
-"NUTS_UKM9","Southern Scotland","United Kingdom of Great Britain","NUTS2"
-"NUTS_NO01","Oslo og Akershus","Norway","NUTS2"
-"NUTS_NO02","Hedmark og Oppland","Norway","NUTS2"
-"NUTS_NO03","Sør-Østlandet","Norway","NUTS2"
-"NUTS_NO04","Agder og Rogaland","Norway","NUTS2"
-"NUTS_NO05","Vestlandet","Norway","NUTS2"
-"NUTS_NO06","Trøndelag","Norway","NUTS2"
-"NUTS_NO07","Nord-Norge","Norway","NUTS2"
-"NUTS_CH01","Région lémanique","Switzerland","NUTS2"
-"NUTS_CH02","Espace Mittelland","Switzerland","NUTS2"
-"NUTS_CH03","Nordwestschweiz","Switzerland","NUTS2"
-"NUTS_CH04","Zürich","Switzerland","NUTS2"
-"NUTS_CH05","Ostschweiz","Switzerland","NUTS2"
-"NUTS_CH06","Zentralschweiz","Switzerland","NUTS2"
-"NUTS_CH07","Ticino","Switzerland","NUTS2"
-"NUTS_RS11","Beogradski region","Serbia","NUTS2"
-"NUTS_RS12","Region Vojvodine","Serbia","NUTS2"
-"NUTS_RS21","Region Sumadije i Zapadne Srbije","Serbia","NUTS2"
-"NUTS_RS22","Region Juzne i Istocne Srbije","Serbia","NUTS2"
-"NUTS_TR21","Tekirdag, Edirne, Kirklareli","Turkey","NUTS2"
-"NUTS_TR22","Balikesir, Çanakkale","Turkey","NUTS2"
-"NUTS_TR31","Izmir","Turkey","NUTS2"
-"NUTS_TR32","Aydin, Denizli, Mugla","Turkey","NUTS2"
-"NUTS_TR33","Manisa, Afyonkarahisar, Kütahya, Usak","Turkey","NUTS2"
-"NUTS_TR41","Bursa, Eskisehir, Bilecik","Turkey","NUTS2"
-"NUTS_TR42","Kocaeli, Sakarya, Düzce, Bolu, Yalova","Turkey","NUTS2"
-"NUTS_TR51","Ankara","Turkey","NUTS2"
-"NUTS_TR52","Konya, Karaman","Turkey","NUTS2"
-"NUTS_TR61","Antalya, Isparta, Burdur","Turkey","NUTS2"
-"NUTS_TR62","Adana, Mersin","Turkey","NUTS2"
-"NUTS_TR63","Hatay, Kahramanmaras, Osmaniye","Turkey","NUTS2"
-"NUTS_TR71","Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir","Turkey","NUTS2"
-"NUTS_TR72","Kayseri, Sivas, Yozgat","Turkey","NUTS2"
-"NUTS_TR81","Zonguldak, Karabük, Bartin","Turkey","NUTS2"
-"NUTS_TR82","Kastamonu, Çankiri, Sinop","Turkey","NUTS2"
-"NUTS_TR83","Samsun, Tokat, Çorum, Amasya","Turkey","NUTS2"
-"NUTS_TR90","Trabzon, Ordu, Giresun, Rize, Artvin, Gümüshane","Turkey","NUTS2"
-"NUTS_TRA1","Erzurum, Erzincan, Bayburt","Turkey","NUTS2"
-"NUTS_TRA2","Agri, Kars, Igdir, Ardahan","Turkey","NUTS2"
-"NUTS_TRB1","Malatya, Elazig, Bingöl, Tunceli","Turkey","NUTS2"
-"NUTS_TRB2","Van, Mus, Bitlis, Hakkari","Turkey","NUTS2"
-"NUTS_TRC1","Gaziantep, Adiyaman, Kilis","Turkey","NUTS2"
-"NUTS_TRC2","Sanliurfa, Diyarbakir","Turkey","NUTS2"
-"NUTS_TRC3","Mardin, Batman, Sirnak, Siirt","Turkey","NUTS2"
-"NUTS_AL01","Veri","Albania","NUTS2"
-"NUTS_AL02","Qender","Albania","NUTS2"
-"NUTS_AL03","Jug","Albania","NUTS2"
-"NUTS_BG312","Montana","Bulgaria","NUTS3"
-"NUTS_BG332","Dobrich","Bulgaria","NUTS3"
-"NUTS_FRK12","Cantal","France","NUTS3"
-"NUTS_LT027","Taurages apskritis","Lithuania","NUTS3"
-"NUTS_CH065","Nidwalden","Switzerland","NUTS3"
-"NUTS_FRM02","Haute-Corse","France","NUTS3"
-"NUTS_CH062","Uri","Switzerland","NUTS3"
-"NUTS_FRI11","Dordogne","France","NUTS3"
-"NUTS_FRJ27","Tarn","France","NUTS3"
-"NUTS_CH053","Appenzell Ausserrhoden","Switzerland","NUTS3"
-"NUTS_SK021","Trnavský kraj","Slovakia","NUTS3"
-"NUTS_FRL02","Hautes-Alpes","France","NUTS3"
-"NUTS_FI1C1","Varsinais-Suomi","Finland","NUTS3"
-"NUTS_SK031","Zilinský kraj","Slovakia","NUTS3"
-"NUTS_FRJ28","Tarn-et-Garonne","France","NUTS3"
-"NUTS_BG344","Stara Zagora","Bulgaria","NUTS3"
-"NUTS_BG334","Targovishte","Bulgaria","NUTS3"
-"NUTS_SK032","Banskobystrický kraj","Slovakia","NUTS3"
-"NUTS_BG321","Veliko Tarnovo","Bulgaria","NUTS3"
-"NUTS_BG425","Kardzhali","Bulgaria","NUTS3"
-"NUTS_CZ032","Plzenský kraj","Czech Republic","NUTS3"
-"NUTS_SK023","Nitriansky kraj","Slovakia","NUTS3"
-"NUTS_BG314","Pleven","Bulgaria","NUTS3"
-"NUTS_FRK13","Haute-Loire","France","NUTS3"
-"NUTS_LT028","Telsiu apskritis","Lithuania","NUTS3"
-"NUTS_BG412","Sofia","Bulgaria","NUTS3"
-"NUTS_BG323","Ruse","Bulgaria","NUTS3"
-"NUTS_CZ053","Pardubický kraj","Czech Republic","NUTS3"
-"NUTS_SE331","Västerbottens län","Sweden","NUTS3"
-"NUTS_BG341","Burgas","Bulgaria","NUTS3"
-"NUTS_FRI31","Charente","France","NUTS3"
-"NUTS_BG342","Sliven","Bulgaria","NUTS3"
-"NUTS_FRJ21","Ariège","France","NUTS3"
-"NUTS_LT024","Marijampoles apskritis","Lithuania","NUTS3"
-"NUTS_FRI34","Vienne","France","NUTS3"
-"NUTS_FRL01","Alpes-de-Haute-Provence","France","NUTS3"
-"NUTS_FRI21","Corrèze","France","NUTS3"
-"NUTS_LT026","Siauliu apskritis","Lithuania","NUTS3"
-"NUTS_FRI15","Pyrénées-Atlantiques","France","NUTS3"
-"NUTS_FRI13","Landes","France","NUTS3"
-"NUTS_LI000","Liechtenstein","Liechtenstein","NUTS3"
-"NUTS_BG331","Varna","Bulgaria","NUTS3"
-"NUTS_BG421","Plovdiv","Bulgaria","NUTS3"
-"NUTS_FRK14","Puy-de-Dôme","France","NUTS3"
-"NUTS_CZ064","Jihomoravský kraj","Czech Republic","NUTS3"
-"NUTS_FI1D7","Lappi","Finland","NUTS3"
-"NUTS_LT029","Utenos apskritis","Lithuania","NUTS3"
-"NUTS_BG413","Blagoevgrad","Bulgaria","NUTS3"
-"NUTS_SK041","Presovský kraj","Slovakia","NUTS3"
-"NUTS_BG315","Lovech","Bulgaria","NUTS3"
-"NUTS_FRI23","Haute-Vienne","France","NUTS3"
-"NUTS_FRD11","Calvados","France","NUTS3"
-"NUTS_LT025","Panevezio apskritis","Lithuania","NUTS3"
-"NUTS_FI194","Etelä-Pohjanmaa","Finland","NUTS3"
-"NUTS_BG313","Vratsa","Bulgaria","NUTS3"
-"NUTS_SK022","Trenciansky kraj","Slovakia","NUTS3"
-"NUTS_DK031","Fyn","Denmark","NUTS3"
-"NUTS_FRJ14","Lozère","France","NUTS3"
-"NUTS_FRI32","Charente-Maritime","France","NUTS3"
-"NUTS_FI1C2","Kanta-Häme","Finland","NUTS3"
-"NUTS_BG423","Pazardzhik","Bulgaria","NUTS3"
-"NUTS_BG414","Pernik","Bulgaria","NUTS3"
-"NUTS_FRH02","Finistère","France","NUTS3"
-"NUTS_BG411","Sofia (stolitsa)","Bulgaria","NUTS3"
-"NUTS_FRI12","Gironde","France","NUTS3"
-"NUTS_FRK11","Allier","France","NUTS3"
-"NUTS_FI196","Satakunta","Finland","NUTS3"
-"NUTS_FRH01","Côtes-d'Armor","France","NUTS3"
-"NUTS_FI193","Keski-Suomi","Finland","NUTS3"
-"NUTS_DK042","Østjylland","Denmark","NUTS3"
-"NUTS_FI1D2","Pohjois-Savo","Finland","NUTS3"
-"NUTS_BG422","Haskovo","Bulgaria","NUTS3"
-"NUTS_CZ020","Stredoceský kraj","Czech Republic","NUTS3"
-"NUTS_CZ052","Královéhradecký kraj","Czech Republic","NUTS3"
-"NUTS_BG415","Kyustendil","Bulgaria","NUTS3"
-"NUTS_FI1D3","Pohjois-Karjala","Finland","NUTS3"
-"NUTS_CZ071","Olomoucký kraj","Czech Republic","NUTS3"
-"NUTS_SE311","Värmlands län","Sweden","NUTS3"
-"NUTS_DK011","Byen København","Denmark","NUTS3"
-"NUTS_CH066","Zug","Switzerland","NUTS3"
-"NUTS_FRJ23","Haute-Garonne","France","NUTS3"
-"NUTS_FRC12","Nièvre","France","NUTS3"
-"NUTS_FRH03","Ille-et-Vilaine","France","NUTS3"
-"NUTS_FI197","Pirkanmaa","Finland","NUTS3"
-"NUTS_BG424","Smolyan","Bulgaria","NUTS3"
-"NUTS_SE221","Blekinge län","Sweden","NUTS3"
-"NUTS_CH021","Bern","Switzerland","NUTS3"
-"NUTS_SK042","Kosický kraj","Slovakia","NUTS3"
-"NUTS_FI1D8","Kainuu","Finland","NUTS3"
-"NUTS_FI195","Pohjanmaa","Finland","NUTS3"
-"NUTS_LT021","Alytaus apskritis","Lithuania","NUTS3"
-"NUTS_DK032","Sydjylland","Denmark","NUTS3"
-"NUTS_BG311","Vidin","Bulgaria","NUTS3"
-"NUTS_PT16J","Beiras e Serra da Estrela","Portugal","NUTS3"
-"NUTS_LT022","Kauno apskritis","Lithuania","NUTS3"
-"NUTS_BG322","Gabrovo","Bulgaria","NUTS3"
-"NUTS_FI1C4","Kymenlaakso","Finland","NUTS3"
-"<<<<<<< HEAD","","",""
-"NUTS_CZ072","Zlínský kraj","Czechia","NUTS3"
-"NUTS_PT16B","Oeste","Portugal","NUTS3"
-"NUTS_CH057","Thurgau","Switzerland","NUTS3"
-"NUTS_CH033","Aargau","Switzerland","NUTS3"
-"NUTS_CH056","Graubünden","Switzerland","NUTS3"
-"NUTS_CH061","Luzern","Switzerland","NUTS3"
-"NUTS_FRD13","Orne","France","NUTS3"
-"NUTS_FRB04","Indre-et-Loire","France","NUTS3"
-"NUTS_CZ051","Liberecký kraj","Czechia","NUTS3"
-"NUTS_DK022","Vest- og Sydsjælland","Denmark","NUTS3"
-"NUTS_FRJ26","Hautes-Pyrénées","France","NUTS3"
-"NUTS_FRJ24","Gers","France","NUTS3"
-"NUTS_LT011","Vilniaus apskritis","Lithuania","NUTS3"
-"NUTS_CH055","St. Gallen","Switzerland","NUTS3"
-"NUTS_SE313","Gävleborgs län","Sweden","NUTS3"
-"NUTS_FI1D1","Etelä-Savo","Finland","NUTS3"
-"NUTS_FRJ25","Lot","France","NUTS3"
-"NUTS_FRJ15","Pyrénées-Orientales","France","NUTS3"
-"NUTS_FRL06","Vaucluse","France","NUTS3"
-"NUTS_BG333","Shumen","Bulgaria","NUTS3"
-"NUTS_LT023","Klaipedos apskritis","Lithuania","NUTS3"
-"NUTS_PT181","Alentejo Litoral","Portugal","NUTS3"
-"NUTS_FRC14","Yonne","France","NUTS3"
-"NUTS_FRJ12","Gard","France","NUTS3"
-"NUTS_CZ031","Jihocecký kraj","Czech Republic","NUTS3"
-"NUTS_CH054","Appenzell Innerrhoden","Switzerland","NUTS3"
-"NUTS_FRH04","Morbihan","France","NUTS3"
-"NUTS_DK013","Nordsjælland","Denmark","NUTS3"
-"NUTS_FRG05","Vendée","France","NUTS3"
-"NUTS_SE212","Kronobergs län","Sweden","NUTS3"
-"NUTS_CZ010","Hlavní mesto Praha","Czech Republic","NUTS3"
-"NUTS_CZ042","Ústecký kraj","Czech Republic","NUTS3"
-"NUTS_BG324","Razgrad","Bulgaria","NUTS3"
-"NUTS_PT11B","Alto Tâmega","Portugal","NUTS3"
-"NUTS_FRE12","Pas-de-Calais","France","NUTS3"
-"NUTS_CZ080","Moravskoslezský kraj","Czech Republic","NUTS3"
-"NUTS_SE224","Skåne län","Sweden","NUTS3"
-"NUTS_PT186","Alto Alentejo","Portugal","NUTS3"
-"NUTS_BG343","Yambol","Bulgaria","NUTS3"
-"NUTS_SE321","Västernorrlands län","Sweden","NUTS3"
-"NUTS_DK014","Bornholm","Denmark","NUTS3"
-"NUTS_FI1D9","Pohjois-Pohjanmaa","Finland","NUTS3"
-"NUTS_FRG03","Mayenne","France","NUTS3"
-"NUTS_SE231","Hallands län","Sweden","NUTS3"
-"NUTS_FRB06","Loiret","France","NUTS3"
-"NUTS_FI1C3","Päijät-Häme","Finland","NUTS3"
-"NUTS_PT16F","Região de Leiria","Portugal","NUTS3"
-"NUTS_PT16H","Beira Baixa","Portugal","NUTS3"
-"NUTS_FRI33","Deux-Sèvres","France","NUTS3"
-"NUTS_CZ041","Karlovarský kraj","Czech Republic","NUTS3"
-"NUTS_PT16I","Médio Tejo","Portugal","NUTS3"
-"NUTS_BG325","Silistra","Bulgaria","NUTS3"
-"NUTS_FRI14","Lot-et-Garonne","France","NUTS3"
-"NUTS_CH023","Solothurn","Switzerland","NUTS3"
-"NUTS_FRD12","Manche","France","NUTS3"
-"NUTS_FRG01","Loire-Atlantique","France","NUTS3"
-"NUTS_FRG04","Sarthe","France","NUTS3"
-"NUTS_FRF21","Ardennes","France","NUTS3"
-"NUTS_BE252","Arr. Diksmuide","Belgium","NUTS3"
-"NUTS_FI1C5","Etelä-Karjala","Finland","NUTS3"
-"NUTS_FRK27","Savoie","France","NUTS3"
-"NUTS_PT16G","Viseu Dão Lafões","Portugal","NUTS3"
-"NUTS_FRJ11","Aude","France","NUTS3"
-"NUTS_CH051","Glarus","Switzerland","NUTS3"
-"NUTS_DK041","Vestjylland","Denmark","NUTS3"
-"NUTS_SE213","Kalmar län","Sweden","NUTS3"
-"NUTS_FRK23","Drôme","France","NUTS3"
-"NUTS_PT187","Alentejo Central","Portugal","NUTS3"
-"NUTS_FRD22","Seine-Maritime","France","NUTS3"
-"NUTS_BE345","Arr. Virton","Belgium","NUTS3"
-"NUTS_DK021","Østsjælland","Denmark","NUTS3"
-"NUTS_DK012","Københavns omegn","Denmark","NUTS3"
-"NUTS_BE327","Arr. Tournai","Belgium","NUTS3"
-"NUTS_FRJ13","Hérault","France","NUTS3"
-"NUTS_FRJ22","Aveyron","France","NUTS3"
-"NUTS_FRG02","Maine-et-Loire","France","NUTS3"
-"NUTS_FRI22","Creuse","France","NUTS3"
-"NUTS_PT184","Baixo Alentejo","Portugal","NUTS3"
-"NUTS_CH032","Basel-Landschaft","Switzerland","NUTS3"
-"NUTS_SE124","Örebro län","Sweden","NUTS3"
-"NUTS_FRB01","Cher","France","NUTS3"
-"NUTS_FRL03","Alpes-Maritimes","France","NUTS3"
-"NUTS_FRF22","Aube","France","NUTS3"
-"NUTS_SE322","Jämtlands län","Sweden","NUTS3"
-"NUTS_FRL05","Var","France","NUTS3"
-"NUTS_PT119","Ave","Portugal","NUTS3"
-"NUTS_FRK24","Isère","France","NUTS3"
-"NUTS_FRC22","Jura","France","NUTS3"
-"NUTS_FRE11","Nord","France","NUTS3"
-"NUTS_BE255","Arr. Oostende","Belgium","NUTS3"
-"NUTS_PT185","Lezíria do Tejo","Portugal","NUTS3"
-"NUTS_CH052","Schaffhausen","Switzerland","NUTS3"
-"NUTS_PT11C","Tâmega e Sousa","Portugal","NUTS3"
-"NUTS_PT11E","Terras de Trás-os-Montes","Portugal","NUTS3"
-"NUTS_CH024","Neuchâtel","Switzerland","NUTS3"
-"NUTS_FRC13","Saône-et-Loire","France","NUTS3"
-"NUTS_FRB05","Loir-et-Cher","France","NUTS3"
-"NUTS_SE332","Norrbottens län","Sweden","NUTS3"
-"NUTS_PT111","Alto Minho","Portugal","NUTS3"
-"NUTS_CH031","Basel-Stadt","Switzerland","NUTS3"
-"NUTS_SE232","Västra Götalands län","Sweden","NUTS3"
-"NUTS_PT16E","Região de Coimbra","Portugal","NUTS3"
-"NUTS_BE351","Arr. Dinant","Belgium","NUTS3"
-"NUTS_CZ063","Kraj Vysocina","Czechia","NUTS3"
-"NUTS_FRK21","Ain","France","NUTS3"
-"NUTS_FI1D5","Keski-Pohjanmaa","Finland","NUTS3"
-"NUTS_CH063","Schwyz","Switzerland","NUTS3"
-"NUTS_BE235","Arr. Oudenaarde","Belgium","NUTS3"
-"NUTS_PT11D","Douro","Portugal","NUTS3"
-"NUTS_FRK25","Loire","France","NUTS3"
-"NUTS_FRE23","Somme","France","NUTS3"
-"NUTS_BE326","Arr. Thuin","Belgium","NUTS3"
-"NUTS_FRL04","Bouches-du-Rhône","France","NUTS3"
-"NUTS_BE234","Arr. Gent","Belgium","NUTS3"
-"NUTS_BE331","Arr. Huy","Belgium","NUTS3"
-"NUTS_SE211","Jönköpings län","Sweden","NUTS3"
-"NUTS_BE233","Arr. Eeklo","Belgium","NUTS3"
-"NUTS_BE211","Arr. Antwerpen","Belgium","NUTS3"
-"NUTS_FRD21","Eure","France","NUTS3"
-"NUTS_FRF31","Meurthe-et-Moselle","France","NUTS3"
-"NUTS_SE121","Uppsala län","Sweden","NUTS3"
-"NUTS_BE324","Arr. Mouscron","Belgium","NUTS3"
-"NUTS_CH011","Vaud","Switzerland","NUTS3"
-"NUTS_PT11A","Área Metropolitana do Porto","Portugal","NUTS3"
-"NUTS_BE256","Arr. Roeselare","Belgium","NUTS3"
-"NUTS_BE212","Arr. Mechelen","Belgium","NUTS3"
-"NUTS_FRF24","Haute-Marne","France","NUTS3"
-"NUTS_FRK22","Ardèche","France","NUTS3"
-"NUTS_SE123","Östergötlands län","Sweden","NUTS3"
-"NUTS_BE257","Arr. Tielt","Belgium","NUTS3"
-"NUTS_SE125","Västmanlands län","Sweden","NUTS3"
-"NUTS_SE214","Gotlands län","Sweden","NUTS3"
-"NUTS_BE341","Arr. Arlon","Belgium","NUTS3"
-"NUTS_FRM01","Corse-du-Sud","France","NUTS3"
-"NUTS_FRC11","Côte-d'Or","France","NUTS3"
-"NUTS_FRB02","Eure-et-Loir","France","NUTS3"
-"NUTS_BE253","Arr. Ieper","Belgium","NUTS3"
-"NUTS_PT112","Cávado","Portugal","NUTS3"
-"NUTS_SE312","Dalarnas län","Sweden","NUTS3"
-"NUTS_BE310","Arr. Nivelles","Belgium","NUTS3"
-"NUTS_FRF32","Meuse","France","NUTS3"
-"NUTS_CH012","Valais","Switzerland","NUTS3"
-"NUTS_BE241","Arr. Halle-Vilvoorde","Belgium","NUTS3"
-"NUTS_FRK28","Haute-Savoie","France","NUTS3"
-"NUTS_BE322","Arr. Charleroi","Belgium","NUTS3"
-"NUTS_BE213","Arr. Turnhout","Belgium","NUTS3"
-"NUTS_FRB03","Indre","France","NUTS3"
-"NUTS_FRC23","Haute-Saône","France","NUTS3"
-"NUTS_FRF23","Marne","France","NUTS3"
-"NUTS_PT16D","Região de Aveiro","Portugal","NUTS3"
-"NUTS_BE344","Arr. Neufchâteau","Belgium","NUTS3"
-"NUTS_BE231","Arr. Aalst","Belgium","NUTS3"
-"NUTS_CH064","Obwalden","Switzerland","NUTS3"
-"NUTS_FRE21","Aisne","France","NUTS3"
-"NUTS_BE251","Arr. Brugge","Belgium","NUTS3"
-"NUTS_SE122","Södermanlands län","Sweden","NUTS3"
-"NUTS_BE232","Arr. Dendermonde","Belgium","NUTS3"
-"NUTS_BE254","Arr. Kortrijk","Belgium","NUTS3"
-"NUTS_FRK26","Rhône","France","NUTS3"
-"NUTS_BE325","Arr. Soignies","Belgium","NUTS3"
-"NUTS_BE343","Arr. Marche-en-Famenne","Belgium","NUTS3"
-"NUTS_BE236","Arr. Sint-Niklaas","Belgium","NUTS3"
-"NUTS_CH013","Genève","Switzerland","NUTS3"
-"NUTS_BE258","Arr. Veurne","Belgium","NUTS3"
-"NUTS_BE321","Arr. Ath","Belgium","NUTS3"
-"NUTS_FRC21","Doubs","France","NUTS3"
-"NUTS_BE342","Arr. Bastogne","Belgium","NUTS3"
-"NUTS_BE352","Arr. Namur","Belgium","NUTS3"
-"NUTS_FRC24","Territoire de Belfort","France","NUTS3"
-"NUTS_BE336","Bezirk Verviers - Deutschsprachige Gemeinschaft","Belgium","NUTS3"
-"NUTS_BE334","Arr. Waremme","Belgium","NUTS3"
-"NUTS_BE335","Arr. Verviers - communes francophones","Belgium","NUTS3"
-"NUTS_BE353","Arr. Philippeville","Belgium","NUTS3"
-"NUTS_BE242","Arr. Leuven","Belgium","NUTS3"
-"NUTS_FRE22","Oise","France","NUTS3"
-"NUTS_FRF33","Moselle","France","NUTS3"
-"NUTS_BE332","Arr. Liège","Belgium","NUTS3"
-"NUTS_FRF11","Bas-Rhin","France","NUTS3"
-"NUTS_BE223","Arr. Tongeren","Belgium","NUTS3"
-"NUTS_FRF34","Vosges","France","NUTS3"
-"NUTS_BE222","Arr. Maaseik","Belgium","NUTS3"
-"NUTS_SE110","Stockholms län","Sweden","NUTS3"
-"NUTS_FR103","Yvelines","France","NUTS3"
-"NUTS_FR102","Seine-et-Marne","France","NUTS3"
-"NUTS_FR101","Paris","France","NUTS3"
-"NUTS_BE100","Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad","Belgium","NUTS3"
-"NUTS_BE221","Arr. Hasselt","Belgium","NUTS3"
-"NUTS_FR104","Essonne","France","NUTS3"
-"NUTS_BE323","Arr. Mons","Belgium","NUTS3"
-"NUTS_FR107","Val-de-Marne","France","NUTS3"
-"NUTS_FR108","Val-d'Oise","France","NUTS3"
-"NUTS_FR105","Hauts-de-Seine","France","NUTS3"
-"NUTS_FRF12","Haut-Rhin","France","NUTS3"
-"NUTS_FR106","Seine-Saint-Denis","France","NUTS3"
-"NUTS_NO074","Troms og Finnmark","Norway","NUTS3"
-"NUTS_NO071","Nordland","Norway","NUTS3"
-"NUTS_NO022","Innlandet","Norway","NUTS3"
-"NUTS_NO091","Vestfold og Telemark","Norway","NUTS3"
-"NUTS_NO043","Rogaland","Norway","NUTS3"
-"NUTS_NO053","Møre og Romsdal","Norway","NUTS3"
-"NUTS_NO011","Oslo","Norway","NUTS3"
-"NUTS_NO092","Agder","Norway","NUTS3"
-"NUTS_NO082","Viken","Norway","NUTS3"
-"NUTS_ITG14","Agrigento","Italy","NUTS3"
-"NUTS_ITI44","Latina","Italy","NUTS3"
-"NUTS_ITG18","Ragusa","Italy","NUTS3"
-"NUTS_ITI43","Roma","Italy","NUTS3"
-"NUTS_ITI41","Viterbo","Italy","NUTS3"
-"NUTS_ITG2A","Ogliastra","Italy","NUTS3"
-"NUTS_ITG15","Caltanissetta","Italy","NUTS3"
-"NUTS_ITF35","Salerno","Italy","NUTS3"
-"NUTS_ITF22","Campobasso","Italy","NUTS3"
-"NUTS_ITF11","L'Aquila","Italy","NUTS3"
-"NUTS_ITF21","Isernia","Italy","NUTS3"
-"NUTS_ITF32","Benevento","Italy","NUTS3"
-"NUTS_ITG11","Trapani","Italy","NUTS3"
-"NUTS_ITG29","Olbia-Tempio","Italy","NUTS3"
-"NUTS_ITG17","Catania","Italy","NUTS3"
-"NUTS_ITF31","Caserta","Italy","NUTS3"
-"NUTS_ITI42","Rieti","Italy","NUTS3"
-"NUTS_ITG12","Palermo","Italy","NUTS3"
-"NUTS_ITG2C","Carbonia-Iglesias","Italy","NUTS3"
-"NUTS_ITF33","Napoli","Italy","NUTS3"
-"NUTS_ITI21","Perugia","Italy","NUTS3"
-"NUTS_ITI19","Siena","Italy","NUTS3"
-"NUTS_ITF63","Catanzaro","Italy","NUTS3"
-"NUTS_ITF51","Potenza","Italy","NUTS3"
-"NUTS_ITI34","Ascoli Piceno","Italy","NUTS3"
-"NUTS_ITG13","Messina","Italy","NUTS3"
-"NUTS_ITF52","Matera","Italy","NUTS3"
-"NUTS_ITI45","Frosinone","Italy","NUTS3"
-"NUTS_ITF61","Cosenza","Italy","NUTS3"
-"NUTS_ITF64","Vibo Valentia","Italy","NUTS3"
-"NUTS_ITF65","Reggio di Calabria","Italy","NUTS3"
-"NUTS_ITH43","Gorizia","Italy","NUTS3"
-"NUTS_ITG28","Oristano","Italy","NUTS3"
-"NUTS_ITI22","Terni","Italy","NUTS3"
-"NUTS_ITF45","Lecce","Italy","NUTS3"
-"NUTS_ITG16","Enna","Italy","NUTS3"
-"NUTS_ITI15","Prato","Italy","NUTS3"
-"NUTS_ITF43","Taranto","Italy","NUTS3"
-"NUTS_ITG27","Cagliari","Italy","NUTS3"
-"NUTS_ITI18","Arezzo","Italy","NUTS3"
-"NUTS_ITG26","Nuoro","Italy","NUTS3"
-"NUTS_ITF34","Avellino","Italy","NUTS3"
-"NUTS_ITH56","Ferrara","Italy","NUTS3"
-"NUTS_ITI1A","Grosseto","Italy","NUTS3"
-"NUTS_ITG19","Siracusa","Italy","NUTS3"
-"NUTS_ITF14","Chieti","Italy","NUTS3"
-"NUTS_ITH42","Udine","Italy","NUTS3"
-"NUTS_ITF62","Crotone","Italy","NUTS3"
-"NUTS_ITH57","Ravenna","Italy","NUTS3"
-"NUTS_ITF12","Teramo","Italy","NUTS3"
-"NUTS_ITH37","Rovigo","Italy","NUTS3"
-"NUTS_ITF47","Bari","Italy","NUTS3"
-"NUTS_ITI12","Lucca","Italy","NUTS3"
-"NUTS_ITH33","Belluno","Italy","NUTS3"
-"NUTS_ITI17","Pisa","Italy","NUTS3"
-"NUTS_ITF44","Brindisi","Italy","NUTS3"
-"NUTS_ITI16","Livorno","Italy","NUTS3"
-"NUTS_ITF46","Foggia","Italy","NUTS3"
-"NUTS_ITG2B","Medio Campidano","Italy","NUTS3"
-"NUTS_ITH36","Padova","Italy","NUTS3"
-"NUTS_ITI14","Firenze","Italy","NUTS3"
-"NUTS_ITI35","Fermo","Italy","NUTS3"
-"NUTS_ITF48","Barletta-Andria-Trani","Italy","NUTS3"
-"NUTS_ITH41","Pordenone","Italy","NUTS3"
-"NUTS_ITH35","Venezia","Italy","NUTS3"
-"NUTS_ITH32","Vicenza","Italy","NUTS3"
-"NUTS_ITI13","Pistoia","Italy","NUTS3"
-"NUTS_ITH44","Trieste","Italy","NUTS3"
-"NUTS_ITI33","Macerata","Italy","NUTS3"
-"NUTS_ITH58","Forlì-Cesena","Italy","NUTS3"
-"NUTS_ITG25","Sassari","Italy","NUTS3"
-"NUTS_ITI11","Massa-Carrara","Italy","NUTS3"
-"NUTS_ITF13","Pescara","Italy","NUTS3"
-"NUTS_ITH34","Treviso","Italy","NUTS3"
-"NUTS_ITI32","Ancona","Italy","NUTS3"
-"NUTS_ITH55","Bologna","Italy","NUTS3"
-"NUTS_ITC16","Cuneo","Italy","NUTS3"
-"NUTS_ITC32","Savona","Italy","NUTS3"
-"NUTS_ITH31","Verona","Italy","NUTS3"
-"NUTS_ITC11","Torino","Italy","NUTS3"
-"NUTS_ITH54","Modena","Italy","NUTS3"
-"NUTS_ITC41","Varese","Italy","NUTS3"
-"NUTS_ITC34","La Spezia","Italy","NUTS3"
-"NUTS_ITC17","Asti","Italy","NUTS3"
-"NUTS_ITC14","Verbano-Cusio-Ossola","Italy","NUTS3"
-"NUTS_ITC31","Imperia","Italy","NUTS3"
-"NUTS_ITH59","Rimini","Italy","NUTS3"
-"NUTS_ITC33","Genova","Italy","NUTS3"
-"NUTS_ITH10","Bolzano-Bozen","Italy","NUTS3"
-"NUTS_ITC42","Como","Italy","NUTS3"
-"NUTS_ITH53","Reggio nell'Emilia","Italy","NUTS3"
-"NUTS_ITH20","Trento","Italy","NUTS3"
-"NUTS_ITC15","Novara","Italy","NUTS3"
-"NUTS_ITC12","Vercelli","Italy","NUTS3"
-"NUTS_ITC44","Sondrio","Italy","NUTS3"
-"NUTS_ITC13","Biella","Italy","NUTS3"
-"NUTS_ITC18","Alessandria","Italy","NUTS3"
-"NUTS_ITC4C","Milano","Italy","NUTS3"
-"NUTS_ITC4D","Monza e della Brianza","Italy","NUTS3"
-"NUTS_ITI31","Pesaro e Urbino","Italy","NUTS3"
-"NUTS_ITC4B","Mantova","Italy","NUTS3"
-"NUTS_ITC48","Pavia","Italy","NUTS3"
-"NUTS_ITC43","Lecco","Italy","NUTS3"
-"NUTS_ITH52","Parma","Italy","NUTS3"
-"NUTS_ITH51","Piacenza","Italy","NUTS3"
-"NUTS_ITC47","Brescia","Italy","NUTS3"
-"NUTS_ITC49","Lodi","Italy","NUTS3"
-"NUTS_ITC4A","Cremona","Italy","NUTS3"
-"NUTS_ITC46","Bergamo","Italy","NUTS3"
-"NUTS_PTXXX","Not regionalised / Unknown NUTS 3","Portugal","NUTS3"
-"NUTS_IS002","Landsbyggd","Iceland","NUTS3"
-"NUTS_IS001","Höfudborgarsvædi","Iceland","NUTS3"
-"NUTS_NO072","Troms","Norway","NUTS3"
-"NUTS_NO073","Finnmark","Norway","NUTS3"
-"NUTS_NO051","Hordaland","Norway","NUTS3"
-"NUTS_NO012","Akershus","Norway","NUTS3"
-"NUTS_NO034","Telemark","Norway","NUTS3"
-"NUTS_NO021","Hedmark","Norway","NUTS3"
-"NUTS_NO033","Vestfold","Norway","NUTS3"
-"NUTS_NO061","Sør-Trøndelag","Norway","NUTS3"
-"NUTS_NO041","Aust-Agder","Norway","NUTS3"
-"NUTS_NO031","Østfold","Norway","NUTS3"
-"NUTS_NO062","Nord-Trøndelag","Norway","NUTS3"
-"NUTS_NO052","Sogn og Fjordane","Norway","NUTS3"
-"NUTS_NO042","Vest-Agder","Norway","NUTS3"
-"NUTS_NO032","Buskerud","Norway","NUTS3"
-"NUTS_NO022","Oppland","Norway","NUTS3"
+id,label,parent,region_level
+NUTS_BE1,Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,Belgium,NUTS1
+NUTS_BE2,Vlaams Gewest,Belgium,NUTS1
+NUTS_BE3,Région wallonne,Belgium,NUTS1
+NUTS_BG3,Severna i yugoiztochna Bulgaria,Bulgaria,NUTS1
+NUTS_BG4,Yugozapadna i yuzhna tsentralna Bulgaria,Bulgaria,NUTS1
+NUTS_CZ0,Ceská republika,Czech Republic,NUTS1
+NUTS_DK0,Danmark,Denmark,NUTS1
+NUTS_DE1,Baden-Württemberg,Germany,NUTS1
+NUTS_DE2,Bayern,Germany,NUTS1
+NUTS_DE3,Berlin,Germany,NUTS1
+NUTS_DE4,Brandenburg,Germany,NUTS1
+NUTS_DE5,Bremen,Germany,NUTS1
+NUTS_DE6,Hamburg,Germany,NUTS1
+NUTS_DE7,Hessen,Germany,NUTS1
+NUTS_DE8,Mecklenburg-Vorpommern,Germany,NUTS1
+NUTS_DE9,Niedersachsen,Germany,NUTS1
+NUTS_DEA,Nordrhein-Westfalen,Germany,NUTS1
+NUTS_DEB,Rheinland-Pfalz,Germany,NUTS1
+NUTS_DEC,Saarland,Germany,NUTS1
+NUTS_DED,Sachsen,Germany,NUTS1
+NUTS_DEE,Sachsen-Anhalt,Germany,NUTS1
+NUTS_DEF,Schleswig-Holstein,Germany,NUTS1
+NUTS_DEG,Thüringen,Germany,NUTS1
+NUTS_EE0,Eesti,Estonia,NUTS1
+NUTS_IE0,Éire/Ireland,Ireland,NUTS1
+NUTS_EL5,Voreia Ellada,Greece,NUTS1
+NUTS_EL6,Kentriki Ellada,Greece,NUTS1
+NUTS_EL3,Attiki,Greece,NUTS1
+NUTS_EL4,"Nisia Aigaiou, Kriti",Greece,NUTS1
+NUTS_ES1,Noroeste (ES),Spain,NUTS1
+NUTS_ES2,Noreste (ES),Spain,NUTS1
+NUTS_ES3,Comunidad de Madrid,Spain,NUTS1
+NUTS_ES4,Centro (ES),Spain,NUTS1
+NUTS_ES5,Este (ES),Spain,NUTS1
+NUTS_ES6,Sur (ES),Spain,NUTS1
+NUTS_ES7,Canarias (ES),Spain,NUTS1
+NUTS_FR1,Île de France,France,NUTS1
+NUTS_FRB,Centre - Val de Loire,France,NUTS1
+NUTS_FRC,Bourgogne - Franche-Comté,France,NUTS1
+NUTS_FRD,Normandie,France,NUTS1
+NUTS_FRE,Nord-Pas de Calais - Picardie,France,NUTS1
+NUTS_FRF,Alsace - Champagne-Ardenne - Lorraine,France,NUTS1
+NUTS_FRG,Pays de la Loire,France,NUTS1
+NUTS_FRH,Bretagne,France,NUTS1
+NUTS_FRI,Aquitaine - Limousin - Poitou-Charentes,France,NUTS1
+NUTS_FRJ,Languedoc-Roussillon - Midi-Pyrénées,France,NUTS1
+NUTS_FRK,Auvergne - Rhône-Alpes,France,NUTS1
+NUTS_FRL,Provence-Alpes-Côte d'Azur,France,NUTS1
+NUTS_FRM,Corse,France,NUTS1
+NUTS_FRY,RUP FR - Régions ultrapériphériques françaises,France,NUTS1
+NUTS_HR0,Hrvatska,Croatia,NUTS1
+NUTS_ITC,Nord-Ovest,Italy,NUTS1
+NUTS_ITH,Nord-Est,Italy,NUTS1
+NUTS_ITI,Centro (IT),Italy,NUTS1
+NUTS_ITF,Sud,Italy,NUTS1
+NUTS_ITG,Isole,Italy,NUTS1
+NUTS_CY0,Kypros,Cyprus,NUTS1
+NUTS_LV0,Latvija,Latvia,NUTS1
+NUTS_LT0,Lietuva,Lithuania,NUTS1
+NUTS_LU0,Luxembourg,Luxembourg,NUTS1
+NUTS_HU1,Közép-Magyarország,Hungary,NUTS1
+NUTS_HU2,Dunántúl,Hungary,NUTS1
+NUTS_HU3,Alföld és Észak,Hungary,NUTS1
+NUTS_MT0,Malta,Malta,NUTS1
+NUTS_NL1,Noord-Nederland,Netherlands,NUTS1
+NUTS_NL2,Oost-Nederland,Netherlands,NUTS1
+NUTS_NL3,West-Nederland,Netherlands,NUTS1
+NUTS_NL4,Zuid-Nederland,Netherlands,NUTS1
+NUTS_AT1,Ostösterreich,Austria,NUTS1
+NUTS_AT2,Südösterreich,Austria,NUTS1
+NUTS_AT3,Westösterreich,Austria,NUTS1
+NUTS_PL2,Makroregion Poludniowy,Poland,NUTS1
+NUTS_PL4,Makroregion Pólnocno-Zachodni,Poland,NUTS1
+NUTS_PL5,Makroregion Poludniowo-Zachodni,Poland,NUTS1
+NUTS_PL6,Makroregion Pólnocny,Poland,NUTS1
+NUTS_PL7,Makroregion Centralny,Poland,NUTS1
+NUTS_PL8,Makroregion Wschodni,Poland,NUTS1
+NUTS_PL9,Makroregion Województwo Mazowieckie,Poland,NUTS1
+NUTS_PT1,Continente,Portugal,NUTS1
+NUTS_PT2,Região Autónoma dos Açores (PT),Portugal,NUTS1
+NUTS_PT3,Região Autónoma da Madeira (PT),Portugal,NUTS1
+NUTS_RO1,Macroregiunea unu,Romania,NUTS1
+NUTS_RO2,Macroregiunea doi,Romania,NUTS1
+NUTS_RO3,Macroregiunea trei,Romania,NUTS1
+NUTS_RO4,Macroregiunea patru,Romania,NUTS1
+NUTS_SI0,Slovenija,Slovenia,NUTS1
+NUTS_SK0,Slovensko,Slovakia,NUTS1
+NUTS_FI1,Manner-Suomi,Finland,NUTS1
+NUTS_FI2,Åland,Finland,NUTS1
+NUTS_SE1,Östra Sverige,Sweden,NUTS1
+NUTS_SE2,Södra Sverige,Sweden,NUTS1
+NUTS_SE3,Norra Sverige,Sweden,NUTS1
+NUTS_UKC,North East (UK),United Kingdom of Great Britain,NUTS1
+NUTS_UKD,North West (UK),United Kingdom of Great Britain,NUTS1
+NUTS_UKE,Yorkshire and The Humber,United Kingdom of Great Britain,NUTS1
+NUTS_UKF,East Midlands (UK),United Kingdom of Great Britain,NUTS1
+NUTS_UKG,West Midlands (UK),United Kingdom of Great Britain,NUTS1
+NUTS_UKH,East of England,United Kingdom of Great Britain,NUTS1
+NUTS_UKI,London,United Kingdom of Great Britain,NUTS1
+NUTS_UKJ,South East (UK),United Kingdom of Great Britain,NUTS1
+NUTS_UKK,South West (UK),United Kingdom of Great Britain,NUTS1
+NUTS_UKL,Wales,United Kingdom of Great Britain,NUTS1
+NUTS_UKM,Scotland,United Kingdom of Great Britain,NUTS1
+NUTS_UKN,Northern Ireland (UK),United Kingdom of Great Britain,NUTS1
+NUTS_IS0,Ísland,Iceland,NUTS1
+NUTS_NO0,Norge,Norway,NUTS1
+NUTS_CH0,Schweiz/Suisse/Svizzera,Switzerland,NUTS1
+NUTS_ME0,Crna Gora,Montenegro,NUTS1
+NUTS_MK0,Severna Makedonija,Macedonia,NUTS1
+NUTS_RS1,Srbija - sever,Serbia,NUTS1
+NUTS_RS2,Srbija - jug,Serbia,NUTS1
+NUTS_TR1,Istanbul,Turkey,NUTS1
+NUTS_TR2,Bati Marmara,Turkey,NUTS1
+NUTS_TR3,Ege,Turkey,NUTS1
+NUTS_TR4,Dogu Marmara,Turkey,NUTS1
+NUTS_TR5,Bati Anadolu,Turkey,NUTS1
+NUTS_TR6,Akdeniz,Turkey,NUTS1
+NUTS_TR7,Orta Anadolu,Turkey,NUTS1
+NUTS_TR8,Bati Karadeniz,Turkey,NUTS1
+NUTS_TR9,Dogu Karadeniz,Turkey,NUTS1
+NUTS_TRA,Kuzeydogu Anadolu,Turkey,NUTS1
+NUTS_TRB,Ortadogu Anadolu,Turkey,NUTS1
+NUTS_TRC,Güneydogu Anadolu,Turkey,NUTS1
+NUTS_BE21,Prov. Antwerpen,Belgium,NUTS2
+NUTS_BE22,Prov. Limburg (BE),Belgium,NUTS2
+NUTS_BE23,Prov. Oost-Vlaanderen,Belgium,NUTS2
+NUTS_BE24,Prov. Vlaams-Brabant,Belgium,NUTS2
+NUTS_BE25,Prov. West-Vlaanderen,Belgium,NUTS2
+NUTS_BE31,Prov. Brabant Wallon,Belgium,NUTS2
+NUTS_BE32,Prov. Hainaut,Belgium,NUTS2
+NUTS_BE33,Prov. Liège,Belgium,NUTS2
+NUTS_BE34,Prov. Luxembourg (BE),Belgium,NUTS2
+NUTS_BE35,Prov. Namur,Belgium,NUTS2
+NUTS_BG31,Severozapaden,Bulgaria,NUTS2
+NUTS_BG32,Severen tsentralen,Bulgaria,NUTS2
+NUTS_BG33,Severoiztochen,Bulgaria,NUTS2
+NUTS_BG34,Yugoiztochen,Bulgaria,NUTS2
+NUTS_BG41,Yugozapaden,Bulgaria,NUTS2
+NUTS_BG42,Yuzhen tsentralen,Bulgaria,NUTS2
+NUTS_CZ01,Praha,Czech Republic,NUTS2
+NUTS_CZ02,Strední Cechy,Czech Republic,NUTS2
+NUTS_CZ03,Jihozápad,Czech Republic,NUTS2
+NUTS_CZ04,Severozápad,Czech Republic,NUTS2
+NUTS_CZ05,Severovýchod,Czech Republic,NUTS2
+NUTS_CZ06,Jihovýchod,Czech Republic,NUTS2
+NUTS_CZ07,Strední Morava,Czech Republic,NUTS2
+NUTS_CZ08,Moravskoslezsko,Czech Republic,NUTS2
+NUTS_DK01,Hovedstaden,Denmark,NUTS2
+NUTS_DK02,Sjælland,Denmark,NUTS2
+NUTS_DK03,Syddanmark,Denmark,NUTS2
+NUTS_DK04,Midtjylland,Denmark,NUTS2
+NUTS_DK05,Nordjylland,Denmark,NUTS2
+NUTS_DE11,Stuttgart,Germany,NUTS2
+NUTS_DE12,Karlsruhe,Germany,NUTS2
+NUTS_DE13,Freiburg,Germany,NUTS2
+NUTS_DE14,Tübingen,Germany,NUTS2
+NUTS_DE21,Oberbayern,Germany,NUTS2
+NUTS_DE22,Niederbayern,Germany,NUTS2
+NUTS_DE23,Oberpfalz,Germany,NUTS2
+NUTS_DE24,Oberfranken,Germany,NUTS2
+NUTS_DE25,Mittelfranken,Germany,NUTS2
+NUTS_DE26,Unterfranken,Germany,NUTS2
+NUTS_DE27,Schwaben,Germany,NUTS2
+NUTS_DE71,Darmstadt,Germany,NUTS2
+NUTS_DE72,Gießen,Germany,NUTS2
+NUTS_DE73,Kassel,Germany,NUTS2
+NUTS_DE91,Braunschweig,Germany,NUTS2
+NUTS_DE92,Hannover,Germany,NUTS2
+NUTS_DE93,Lüneburg,Germany,NUTS2
+NUTS_DE94,Weser-Ems,Germany,NUTS2
+NUTS_DEA1,Düsseldorf,Germany,NUTS2
+NUTS_DEA2,Köln,Germany,NUTS2
+NUTS_DEA3,Münster,Germany,NUTS2
+NUTS_DEA4,Detmold,Germany,NUTS2
+NUTS_DEA5,Arnsberg,Germany,NUTS2
+NUTS_DEB1,Koblenz,Germany,NUTS2
+NUTS_DEB2,Trier,Germany,NUTS2
+NUTS_DEB3,Rheinhessen-Pfalz,Germany,NUTS2
+NUTS_DED2,Dresden,Germany,NUTS2
+NUTS_DED4,Chemnitz,Germany,NUTS2
+NUTS_DED5,Leipzig,Germany,NUTS2
+NUTS_IE04,Northern and Western,Ireland,NUTS2
+NUTS_IE05,Southern,Ireland,NUTS2
+NUTS_IE06,Eastern and Midland,Ireland,NUTS2
+NUTS_IE01,"Border, Midland and Western (NUTS 2013)",Ireland,NUTS2
+NUTS_IE02,Southern and Eastern (NUTS 2013),Ireland,NUTS2
+NUTS_EL51,"Anatoliki Makedonia, Thraki",Greece,NUTS2
+NUTS_EL52,Kentriki Makedonia,Greece,NUTS2
+NUTS_EL53,Dytiki Makedonia,Greece,NUTS2
+NUTS_EL54,Ipeiros,Greece,NUTS2
+NUTS_EL61,Thessalia,Greece,NUTS2
+NUTS_EL62,Ionia Nisia,Greece,NUTS2
+NUTS_EL63,Dytiki Ellada,Greece,NUTS2
+NUTS_EL64,Sterea Ellada,Greece,NUTS2
+NUTS_EL65,Peloponnisos,Greece,NUTS2
+NUTS_EL41,Voreio Aigaio,Greece,NUTS2
+NUTS_EL42,Notio Aigaio,Greece,NUTS2
+NUTS_EL43,Kriti,Greece,NUTS2
+NUTS_ES11,Galicia,Spain,NUTS2
+NUTS_ES12,Principado de Asturias,Spain,NUTS2
+NUTS_ES13,Cantabria,Spain,NUTS2
+NUTS_ES21,País Vasco,Spain,NUTS2
+NUTS_ES22,Comunidad Foral de Navarra,Spain,NUTS2
+NUTS_ES23,La Rioja,Spain,NUTS2
+NUTS_ES24,Aragón,Spain,NUTS2
+NUTS_ES41,Castilla y León,Spain,NUTS2
+NUTS_ES42,Castilla-la Mancha,Spain,NUTS2
+NUTS_ES43,Extremadura,Spain,NUTS2
+NUTS_ES51,Cataluña,Spain,NUTS2
+NUTS_ES52,Comunidad Valenciana,Spain,NUTS2
+NUTS_ES53,Illes Balears,Spain,NUTS2
+NUTS_ES61,Andalucía,Spain,NUTS2
+NUTS_ES62,Región de Murcia,Spain,NUTS2
+NUTS_ES63,Ciudad Autónoma de Ceuta (ES),Spain,NUTS2
+NUTS_ES64,Ciudad Autónoma de Melilla (ES),Spain,NUTS2
+NUTS_FRC1,Bourgogne,France,NUTS2
+NUTS_FRC2,Franche-Comté,France,NUTS2
+NUTS_FRD1,Basse-Normandie,France,NUTS2
+NUTS_FRD2,Haute-Normandie,France,NUTS2
+NUTS_FRE1,Nord-Pas de Calais,France,NUTS2
+NUTS_FRE2,Picardie,France,NUTS2
+NUTS_FRF1,Alsace,France,NUTS2
+NUTS_FRF2,Champagne-Ardenne,France,NUTS2
+NUTS_FRF3,Lorraine,France,NUTS2
+NUTS_FRI1,Aquitaine,France,NUTS2
+NUTS_FRI2,Limousin,France,NUTS2
+NUTS_FRI3,Poitou-Charentes,France,NUTS2
+NUTS_FRJ1,Languedoc-Roussillon,France,NUTS2
+NUTS_FRJ2,Midi-Pyrénées,France,NUTS2
+NUTS_FRK1,Auvergne,France,NUTS2
+NUTS_FRK2,Rhône-Alpes,France,NUTS2
+NUTS_FRY1,Guadeloupe,France,NUTS2
+NUTS_FRY2,Martinique,France,NUTS2
+NUTS_FRY3,Guyane,France,NUTS2
+NUTS_FRY4,La Réunion,France,NUTS2
+NUTS_FRY5,Mayotte,France,NUTS2
+NUTS_HR03,Jadranska Hrvatska,Croatia,NUTS2
+NUTS_HR04,Kontinentalna Hrvatska,Croatia,NUTS2
+NUTS_ITC1,Piemonte,Italy,NUTS2
+NUTS_ITC2,Valle d'Aosta/Vallée d'Aoste,Italy,NUTS2
+NUTS_ITC3,Liguria,Italy,NUTS2
+NUTS_ITC4,Lombardia,Italy,NUTS2
+NUTS_ITH1,Provincia Autonoma di Bolzano/Bozen,Italy,NUTS2
+NUTS_ITH2,Provincia Autonoma di Trento,Italy,NUTS2
+NUTS_ITH3,Veneto,Italy,NUTS2
+NUTS_ITH4,Friuli-Venezia Giulia,Italy,NUTS2
+NUTS_ITH5,Emilia-Romagna,Italy,NUTS2
+NUTS_ITI1,Toscana,Italy,NUTS2
+NUTS_ITI2,Umbria,Italy,NUTS2
+NUTS_ITI3,Marche,Italy,NUTS2
+NUTS_ITI4,Lazio,Italy,NUTS2
+NUTS_ITF1,Abruzzo,Italy,NUTS2
+NUTS_ITF2,Molise,Italy,NUTS2
+NUTS_ITF3,Campania,Italy,NUTS2
+NUTS_ITF4,Puglia,Italy,NUTS2
+NUTS_ITF5,Basilicata,Italy,NUTS2
+NUTS_ITF6,Calabria,Italy,NUTS2
+NUTS_ITG1,Sicilia,Italy,NUTS2
+NUTS_ITG2,Sardegna,Italy,NUTS2
+NUTS_LT01,Sostines regionas,Lithuania,NUTS2
+NUTS_LT02,Vidurio ir vakaru Lietuvos regionas,Lithuania,NUTS2
+NUTS_LT00,Lietuva (NUTS 2013),Lithuania,NUTS2
+NUTS_HU11,Budapest,Hungary,NUTS2
+NUTS_HU12,Pest,Hungary,NUTS2
+NUTS_HU10,Közép-Magyarország (NUTS 2013),Hungary,NUTS2
+NUTS_HU21,Közép-Dunántúl,Hungary,NUTS2
+NUTS_HU22,Nyugat-Dunántúl,Hungary,NUTS2
+NUTS_HU23,Dél-Dunántúl,Hungary,NUTS2
+NUTS_HU31,Észak-Magyarország,Hungary,NUTS2
+NUTS_HU32,Észak-Alföld,Hungary,NUTS2
+NUTS_HU33,Dél-Alföld,Hungary,NUTS2
+NUTS_NL11,Groningen,Netherlands,NUTS2
+NUTS_NL12,Friesland (NL),Netherlands,NUTS2
+NUTS_NL13,Drenthe,Netherlands,NUTS2
+NUTS_NL21,Overijssel,Netherlands,NUTS2
+NUTS_NL22,Gelderland,Netherlands,NUTS2
+NUTS_NL23,Flevoland,Netherlands,NUTS2
+NUTS_NL31,Utrecht,Netherlands,NUTS2
+NUTS_NL32,Noord-Holland,Netherlands,NUTS2
+NUTS_NL33,Zuid-Holland,Netherlands,NUTS2
+NUTS_NL34,Zeeland,Netherlands,NUTS2
+NUTS_NL41,Noord-Brabant,Netherlands,NUTS2
+NUTS_NL42,Limburg (NL),Netherlands,NUTS2
+NUTS_AT11,Burgenland (AT),Austria,NUTS2
+NUTS_AT12,Niederösterreich,Austria,NUTS2
+NUTS_AT13,Wien,Austria,NUTS2
+NUTS_AT21,Kärnten,Austria,NUTS2
+NUTS_AT22,Steiermark,Austria,NUTS2
+NUTS_AT31,Oberösterreich,Austria,NUTS2
+NUTS_AT32,Salzburg,Austria,NUTS2
+NUTS_AT33,Tirol,Austria,NUTS2
+NUTS_AT34,Vorarlberg,Austria,NUTS2
+NUTS_PL21,Malopolskie,Poland,NUTS2
+NUTS_PL22,Slaskie,Poland,NUTS2
+NUTS_PL41,Wielkopolskie,Poland,NUTS2
+NUTS_PL42,Zachodniopomorskie,Poland,NUTS2
+NUTS_PL43,Lubuskie,Poland,NUTS2
+NUTS_PL51,Dolnoslaskie,Poland,NUTS2
+NUTS_PL52,Opolskie,Poland,NUTS2
+NUTS_PL61,Kujawsko-Pomorskie,Poland,NUTS2
+NUTS_PL62,Warminsko-Mazurskie,Poland,NUTS2
+NUTS_PL63,Pomorskie,Poland,NUTS2
+NUTS_PL71,Lódzkie,Poland,NUTS2
+NUTS_PL72,Swietokrzyskie,Poland,NUTS2
+NUTS_PL81,Lubelskie,Poland,NUTS2
+NUTS_PL82,Podkarpackie,Poland,NUTS2
+NUTS_PL84,Podlaskie,Poland,NUTS2
+NUTS_PL91,Warszawski stoleczny,Poland,NUTS2
+NUTS_PL92,Mazowiecki regionalny,Poland,NUTS2
+NUTS_PT11,Norte,Portugal,NUTS2
+NUTS_PT15,Algarve,Portugal,NUTS2
+NUTS_PT16,Centro (PT),Portugal,NUTS2
+NUTS_PT17,Área Metropolitana de Lisboa,Portugal,NUTS2
+NUTS_PT18,Alentejo,Portugal,NUTS2
+NUTS_RO11,Nord-Vest,Romania,NUTS2
+NUTS_RO12,Centru,Romania,NUTS2
+NUTS_RO22,Sud-Est,Romania,NUTS2
+NUTS_RO31,Sud - Muntenia,Romania,NUTS2
+NUTS_RO32,Bucuresti - Ilfov,Romania,NUTS2
+NUTS_RO41,Sud-Vest Oltenia,Romania,NUTS2
+NUTS_RO42,Vest,Romania,NUTS2
+NUTS_SI03,Vzhodna Slovenija,Slovenia,NUTS2
+NUTS_SI01,Vzhodna Slovenija (NUTS 2010),Slovenia,NUTS2
+NUTS_SI04,Zahodna Slovenija,Slovenia,NUTS2
+NUTS_SI02,Zahodna Slovenija (NUTS 2010),Slovenia,NUTS2
+NUTS_SK01,Bratislavský kraj,Slovakia,NUTS2
+NUTS_SK02,Západné Slovensko,Slovakia,NUTS2
+NUTS_SK03,Stredné Slovensko,Slovakia,NUTS2
+NUTS_SK04,Východné Slovensko,Slovakia,NUTS2
+NUTS_FI19,Länsi-Suomi,Finland,NUTS2
+NUTS_FI1B,Helsinki-Uusimaa,Finland,NUTS2
+NUTS_FI1C,Etelä-Suomi,Finland,NUTS2
+NUTS_FI1D,Pohjois- ja Itä-Suomi,Finland,NUTS2
+NUTS_FI19_20,"Länsi-Suomi, Åland",Finland,NUTS2
+NUTS_SE11,Stockholm,Sweden,NUTS2
+NUTS_SE12,Östra Mellansverige,Sweden,NUTS2
+NUTS_SE21,Småland med öarna,Sweden,NUTS2
+NUTS_SE22,Sydsverige,Sweden,NUTS2
+NUTS_SE23,Västsverige,Sweden,NUTS2
+NUTS_SE31,Norra Mellansverige,Sweden,NUTS2
+NUTS_SE32,Mellersta Norrland,Sweden,NUTS2
+NUTS_SE33,Övre Norrland,Sweden,NUTS2
+NUTS_UKC1,Tees Valley and Durham,United Kingdom of Great Britain,NUTS2
+NUTS_UKC2,Northumberland and Tyne and Wear,United Kingdom of Great Britain,NUTS2
+NUTS_UKD1,Cumbria,United Kingdom of Great Britain,NUTS2
+NUTS_UKD3,Greater Manchester,United Kingdom of Great Britain,NUTS2
+NUTS_UKD4,Lancashire,United Kingdom of Great Britain,NUTS2
+NUTS_UKD6,Cheshire,United Kingdom of Great Britain,NUTS2
+NUTS_UKD7,Merseyside,United Kingdom of Great Britain,NUTS2
+NUTS_UKE1,East Yorkshire and Northern Lincolnshire,United Kingdom of Great Britain,NUTS2
+NUTS_UKE2,North Yorkshire,United Kingdom of Great Britain,NUTS2
+NUTS_UKE3,South Yorkshire,United Kingdom of Great Britain,NUTS2
+NUTS_UKE4,West Yorkshire,United Kingdom of Great Britain,NUTS2
+NUTS_UKF1,Derbyshire and Nottinghamshire,United Kingdom of Great Britain,NUTS2
+NUTS_UKF2,"Leicestershire, Rutland and Northamptonshire",United Kingdom of Great Britain,NUTS2
+NUTS_UKF3,Lincolnshire,United Kingdom of Great Britain,NUTS2
+NUTS_UKG1,"Herefordshire, Worcestershire and Warwickshire",United Kingdom of Great Britain,NUTS2
+NUTS_UKG2,Shropshire and Staffordshire,United Kingdom of Great Britain,NUTS2
+NUTS_UKG3,West Midlands,United Kingdom of Great Britain,NUTS2
+NUTS_UKH1,East Anglia,United Kingdom of Great Britain,NUTS2
+NUTS_UKH2,Bedfordshire and Hertfordshire,United Kingdom of Great Britain,NUTS2
+NUTS_UKH3,Essex,United Kingdom of Great Britain,NUTS2
+NUTS_UKI1,Inner London (NUTS 2010),United Kingdom of Great Britain,NUTS2
+NUTS_UKI2,Outer London (NUTS 2010),United Kingdom of Great Britain,NUTS2
+NUTS_UKI3,Inner London - West,United Kingdom of Great Britain,NUTS2
+NUTS_UKI4,Inner London - East,United Kingdom of Great Britain,NUTS2
+NUTS_UKI5,Outer London - East and North East,United Kingdom of Great Britain,NUTS2
+NUTS_UKI6,Outer London - South,United Kingdom of Great Britain,NUTS2
+NUTS_UKI7,Outer London - West and North West,United Kingdom of Great Britain,NUTS2
+NUTS_UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",United Kingdom of Great Britain,NUTS2
+NUTS_UKJ2,"Surrey, East and West Sussex",United Kingdom of Great Britain,NUTS2
+NUTS_UKJ3,Hampshire and Isle of Wight,United Kingdom of Great Britain,NUTS2
+NUTS_UKJ4,Kent,United Kingdom of Great Britain,NUTS2
+NUTS_UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",United Kingdom of Great Britain,NUTS2
+NUTS_UKK2,Dorset and Somerset,United Kingdom of Great Britain,NUTS2
+NUTS_UKK3,Cornwall and Isles of Scilly,United Kingdom of Great Britain,NUTS2
+NUTS_UKK4,Devon,United Kingdom of Great Britain,NUTS2
+NUTS_UKL1,West Wales and The Valleys,United Kingdom of Great Britain,NUTS2
+NUTS_UKL2,East Wales,United Kingdom of Great Britain,NUTS2
+NUTS_UKM2,Eastern Scotland (NUTS 2013),United Kingdom of Great Britain,NUTS2
+NUTS_UKM3,South Western Scotland (NUTS 2013),United Kingdom of Great Britain,NUTS2
+NUTS_UKM5,North Eastern Scotland,United Kingdom of Great Britain,NUTS2
+NUTS_UKM6,Highlands and Islands,United Kingdom of Great Britain,NUTS2
+NUTS_UKM7,Eastern Scotland,United Kingdom of Great Britain,NUTS2
+NUTS_UKM8,West Central Scotland,United Kingdom of Great Britain,NUTS2
+NUTS_UKM9,Southern Scotland,United Kingdom of Great Britain,NUTS2
+NUTS_NO01,Oslo og Akershus,Norway,NUTS2
+NUTS_NO02,Hedmark og Oppland,Norway,NUTS2
+NUTS_NO03,Sør-Østlandet,Norway,NUTS2
+NUTS_NO04,Agder og Rogaland,Norway,NUTS2
+NUTS_NO05,Vestlandet,Norway,NUTS2
+NUTS_NO06,Trøndelag,Norway,NUTS2
+NUTS_NO07,Nord-Norge,Norway,NUTS2
+NUTS_CH01,Région lémanique,Switzerland,NUTS2
+NUTS_CH02,Espace Mittelland,Switzerland,NUTS2
+NUTS_CH03,Nordwestschweiz,Switzerland,NUTS2
+NUTS_CH04,Zürich,Switzerland,NUTS2
+NUTS_CH05,Ostschweiz,Switzerland,NUTS2
+NUTS_CH06,Zentralschweiz,Switzerland,NUTS2
+NUTS_CH07,Ticino,Switzerland,NUTS2
+NUTS_RS11,Beogradski region,Serbia,NUTS2
+NUTS_RS12,Region Vojvodine,Serbia,NUTS2
+NUTS_RS21,Region Sumadije i Zapadne Srbije,Serbia,NUTS2
+NUTS_RS22,Region Juzne i Istocne Srbije,Serbia,NUTS2
+NUTS_TR21,"Tekirdag, Edirne, Kirklareli",Turkey,NUTS2
+NUTS_TR22,"Balikesir, Çanakkale",Turkey,NUTS2
+NUTS_TR31,Izmir,Turkey,NUTS2
+NUTS_TR32,"Aydin, Denizli, Mugla",Turkey,NUTS2
+NUTS_TR33,"Manisa, Afyonkarahisar, Kütahya, Usak",Turkey,NUTS2
+NUTS_TR41,"Bursa, Eskisehir, Bilecik",Turkey,NUTS2
+NUTS_TR42,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",Turkey,NUTS2
+NUTS_TR51,Ankara,Turkey,NUTS2
+NUTS_TR52,"Konya, Karaman",Turkey,NUTS2
+NUTS_TR61,"Antalya, Isparta, Burdur",Turkey,NUTS2
+NUTS_TR62,"Adana, Mersin",Turkey,NUTS2
+NUTS_TR63,"Hatay, Kahramanmaras, Osmaniye",Turkey,NUTS2
+NUTS_TR71,"Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir",Turkey,NUTS2
+NUTS_TR72,"Kayseri, Sivas, Yozgat",Turkey,NUTS2
+NUTS_TR81,"Zonguldak, Karabük, Bartin",Turkey,NUTS2
+NUTS_TR82,"Kastamonu, Çankiri, Sinop",Turkey,NUTS2
+NUTS_TR83,"Samsun, Tokat, Çorum, Amasya",Turkey,NUTS2
+NUTS_TR90,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüshane",Turkey,NUTS2
+NUTS_TRA1,"Erzurum, Erzincan, Bayburt",Turkey,NUTS2
+NUTS_TRA2,"Agri, Kars, Igdir, Ardahan",Turkey,NUTS2
+NUTS_TRB1,"Malatya, Elazig, Bingöl, Tunceli",Turkey,NUTS2
+NUTS_TRB2,"Van, Mus, Bitlis, Hakkari",Turkey,NUTS2
+NUTS_TRC1,"Gaziantep, Adiyaman, Kilis",Turkey,NUTS2
+NUTS_TRC2,"Sanliurfa, Diyarbakir",Turkey,NUTS2
+NUTS_TRC3,"Mardin, Batman, Sirnak, Siirt",Turkey,NUTS2
+NUTS_AL01,Veri,Albania,NUTS2
+NUTS_AL02,Qender,Albania,NUTS2
+NUTS_AL03,Jug,Albania,NUTS2
+NUTS_BG312,Montana,Bulgaria,NUTS3
+NUTS_BG332,Dobrich,Bulgaria,NUTS3
+NUTS_FRK12,Cantal,France,NUTS3
+NUTS_LT027,Taurages apskritis,Lithuania,NUTS3
+NUTS_CH065,Nidwalden,Switzerland,NUTS3
+NUTS_FRM02,Haute-Corse,France,NUTS3
+NUTS_CH062,Uri,Switzerland,NUTS3
+NUTS_FRI11,Dordogne,France,NUTS3
+NUTS_FRJ27,Tarn,France,NUTS3
+NUTS_CH053,Appenzell Ausserrhoden,Switzerland,NUTS3
+NUTS_SK021,Trnavský kraj,Slovakia,NUTS3
+NUTS_FRL02,Hautes-Alpes,France,NUTS3
+NUTS_FI1C1,Varsinais-Suomi,Finland,NUTS3
+NUTS_SK031,Zilinský kraj,Slovakia,NUTS3
+NUTS_FRJ28,Tarn-et-Garonne,France,NUTS3
+NUTS_BG344,Stara Zagora,Bulgaria,NUTS3
+NUTS_BG334,Targovishte,Bulgaria,NUTS3
+NUTS_SK032,Banskobystrický kraj,Slovakia,NUTS3
+NUTS_BG321,Veliko Tarnovo,Bulgaria,NUTS3
+NUTS_BG425,Kardzhali,Bulgaria,NUTS3
+NUTS_CZ032,Plzenský kraj,Czech Republic,NUTS3
+NUTS_SK023,Nitriansky kraj,Slovakia,NUTS3
+NUTS_BG314,Pleven,Bulgaria,NUTS3
+NUTS_FRK13,Haute-Loire,France,NUTS3
+NUTS_LT028,Telsiu apskritis,Lithuania,NUTS3
+NUTS_BG412,Sofia,Bulgaria,NUTS3
+NUTS_BG323,Ruse,Bulgaria,NUTS3
+NUTS_CZ053,Pardubický kraj,Czech Republic,NUTS3
+NUTS_SE331,Västerbottens län,Sweden,NUTS3
+NUTS_BG341,Burgas,Bulgaria,NUTS3
+NUTS_FRI31,Charente,France,NUTS3
+NUTS_BG342,Sliven,Bulgaria,NUTS3
+NUTS_FRJ21,Ariège,France,NUTS3
+NUTS_LT024,Marijampoles apskritis,Lithuania,NUTS3
+NUTS_FRI34,Vienne,France,NUTS3
+NUTS_FRL01,Alpes-de-Haute-Provence,France,NUTS3
+NUTS_FRI21,Corrèze,France,NUTS3
+NUTS_LT026,Siauliu apskritis,Lithuania,NUTS3
+NUTS_FRI15,Pyrénées-Atlantiques,France,NUTS3
+NUTS_FRI13,Landes,France,NUTS3
+NUTS_LI000,Liechtenstein,Liechtenstein,NUTS3
+NUTS_BG331,Varna,Bulgaria,NUTS3
+NUTS_BG421,Plovdiv,Bulgaria,NUTS3
+NUTS_FRK14,Puy-de-Dôme,France,NUTS3
+NUTS_CZ064,Jihomoravský kraj,Czech Republic,NUTS3
+NUTS_FI1D7,Lappi,Finland,NUTS3
+NUTS_LT029,Utenos apskritis,Lithuania,NUTS3
+NUTS_BG413,Blagoevgrad,Bulgaria,NUTS3
+NUTS_SK041,Presovský kraj,Slovakia,NUTS3
+NUTS_BG315,Lovech,Bulgaria,NUTS3
+NUTS_FRI23,Haute-Vienne,France,NUTS3
+NUTS_FRD11,Calvados,France,NUTS3
+NUTS_LT025,Panevezio apskritis,Lithuania,NUTS3
+NUTS_FI194,Etelä-Pohjanmaa,Finland,NUTS3
+NUTS_BG313,Vratsa,Bulgaria,NUTS3
+NUTS_SK022,Trenciansky kraj,Slovakia,NUTS3
+NUTS_DK031,Fyn,Denmark,NUTS3
+NUTS_FRJ14,Lozère,France,NUTS3
+NUTS_FRI32,Charente-Maritime,France,NUTS3
+NUTS_FI1C2,Kanta-Häme,Finland,NUTS3
+NUTS_BG423,Pazardzhik,Bulgaria,NUTS3
+NUTS_BG414,Pernik,Bulgaria,NUTS3
+NUTS_FRH02,Finistère,France,NUTS3
+NUTS_BG411,Sofia (stolitsa),Bulgaria,NUTS3
+NUTS_FRI12,Gironde,France,NUTS3
+NUTS_FRK11,Allier,France,NUTS3
+NUTS_FI196,Satakunta,Finland,NUTS3
+NUTS_FRH01,Côtes-d'Armor,France,NUTS3
+NUTS_FI193,Keski-Suomi,Finland,NUTS3
+NUTS_DK042,Østjylland,Denmark,NUTS3
+NUTS_FI1D2,Pohjois-Savo,Finland,NUTS3
+NUTS_BG422,Haskovo,Bulgaria,NUTS3
+NUTS_CZ020,Stredoceský kraj,Czech Republic,NUTS3
+NUTS_CZ052,Královéhradecký kraj,Czech Republic,NUTS3
+NUTS_BG415,Kyustendil,Bulgaria,NUTS3
+NUTS_FI1D3,Pohjois-Karjala,Finland,NUTS3
+NUTS_CZ071,Olomoucký kraj,Czech Republic,NUTS3
+NUTS_SE311,Värmlands län,Sweden,NUTS3
+NUTS_DK011,Byen København,Denmark,NUTS3
+NUTS_CH066,Zug,Switzerland,NUTS3
+NUTS_FRJ23,Haute-Garonne,France,NUTS3
+NUTS_FRC12,Nièvre,France,NUTS3
+NUTS_FRH03,Ille-et-Vilaine,France,NUTS3
+NUTS_FI197,Pirkanmaa,Finland,NUTS3
+NUTS_BG424,Smolyan,Bulgaria,NUTS3
+NUTS_SE221,Blekinge län,Sweden,NUTS3
+NUTS_CH021,Bern,Switzerland,NUTS3
+NUTS_SK042,Kosický kraj,Slovakia,NUTS3
+NUTS_FI1D8,Kainuu,Finland,NUTS3
+NUTS_FI195,Pohjanmaa,Finland,NUTS3
+NUTS_LT021,Alytaus apskritis,Lithuania,NUTS3
+NUTS_DK032,Sydjylland,Denmark,NUTS3
+NUTS_BG311,Vidin,Bulgaria,NUTS3
+NUTS_PT16J,Beiras e Serra da Estrela,Portugal,NUTS3
+NUTS_LT022,Kauno apskritis,Lithuania,NUTS3
+NUTS_BG322,Gabrovo,Bulgaria,NUTS3
+NUTS_FI1C4,Kymenlaakso,Finland,NUTS3
+<<<<<<< HEAD,,,
+NUTS_CZ072,Zlínský kraj,Czechia,NUTS3
+NUTS_PT16B,Oeste,Portugal,NUTS3
+NUTS_CH057,Thurgau,Switzerland,NUTS3
+NUTS_CH033,Aargau,Switzerland,NUTS3
+NUTS_CH056,Graubünden,Switzerland,NUTS3
+NUTS_CH061,Luzern,Switzerland,NUTS3
+NUTS_FRD13,Orne,France,NUTS3
+NUTS_FRB04,Indre-et-Loire,France,NUTS3
+NUTS_CZ051,Liberecký kraj,Czechia,NUTS3
+NUTS_DK022,Vest- og Sydsjælland,Denmark,NUTS3
+NUTS_FRJ26,Hautes-Pyrénées,France,NUTS3
+NUTS_FRJ24,Gers,France,NUTS3
+NUTS_LT011,Vilniaus apskritis,Lithuania,NUTS3
+NUTS_CH055,St. Gallen,Switzerland,NUTS3
+NUTS_SE313,Gävleborgs län,Sweden,NUTS3
+NUTS_FI1D1,Etelä-Savo,Finland,NUTS3
+NUTS_FRJ25,Lot,France,NUTS3
+NUTS_FRJ15,Pyrénées-Orientales,France,NUTS3
+NUTS_FRL06,Vaucluse,France,NUTS3
+NUTS_BG333,Shumen,Bulgaria,NUTS3
+NUTS_LT023,Klaipedos apskritis,Lithuania,NUTS3
+NUTS_PT181,Alentejo Litoral,Portugal,NUTS3
+NUTS_FRC14,Yonne,France,NUTS3
+NUTS_FRJ12,Gard,France,NUTS3
+NUTS_CZ031,Jihocecký kraj,Czech Republic,NUTS3
+NUTS_CH054,Appenzell Innerrhoden,Switzerland,NUTS3
+NUTS_FRH04,Morbihan,France,NUTS3
+NUTS_DK013,Nordsjælland,Denmark,NUTS3
+NUTS_FRG05,Vendée,France,NUTS3
+NUTS_SE212,Kronobergs län,Sweden,NUTS3
+NUTS_CZ010,Hlavní mesto Praha,Czech Republic,NUTS3
+NUTS_CZ042,Ústecký kraj,Czech Republic,NUTS3
+NUTS_BG324,Razgrad,Bulgaria,NUTS3
+NUTS_PT11B,Alto Tâmega,Portugal,NUTS3
+NUTS_FRE12,Pas-de-Calais,France,NUTS3
+NUTS_CZ080,Moravskoslezský kraj,Czech Republic,NUTS3
+NUTS_SE224,Skåne län,Sweden,NUTS3
+NUTS_PT186,Alto Alentejo,Portugal,NUTS3
+NUTS_BG343,Yambol,Bulgaria,NUTS3
+NUTS_SE321,Västernorrlands län,Sweden,NUTS3
+NUTS_DK014,Bornholm,Denmark,NUTS3
+NUTS_FI1D9,Pohjois-Pohjanmaa,Finland,NUTS3
+NUTS_FRG03,Mayenne,France,NUTS3
+NUTS_SE231,Hallands län,Sweden,NUTS3
+NUTS_FRB06,Loiret,France,NUTS3
+NUTS_FI1C3,Päijät-Häme,Finland,NUTS3
+NUTS_PT16F,Região de Leiria,Portugal,NUTS3
+NUTS_PT16H,Beira Baixa,Portugal,NUTS3
+NUTS_FRI33,Deux-Sèvres,France,NUTS3
+NUTS_CZ041,Karlovarský kraj,Czech Republic,NUTS3
+NUTS_PT16I,Médio Tejo,Portugal,NUTS3
+NUTS_BG325,Silistra,Bulgaria,NUTS3
+NUTS_FRI14,Lot-et-Garonne,France,NUTS3
+NUTS_CH023,Solothurn,Switzerland,NUTS3
+NUTS_FRD12,Manche,France,NUTS3
+NUTS_FRG01,Loire-Atlantique,France,NUTS3
+NUTS_FRG04,Sarthe,France,NUTS3
+NUTS_FRF21,Ardennes,France,NUTS3
+NUTS_BE252,Arr. Diksmuide,Belgium,NUTS3
+NUTS_FI1C5,Etelä-Karjala,Finland,NUTS3
+NUTS_FRK27,Savoie,France,NUTS3
+NUTS_PT16G,Viseu Dão Lafões,Portugal,NUTS3
+NUTS_FRJ11,Aude,France,NUTS3
+NUTS_CH051,Glarus,Switzerland,NUTS3
+NUTS_DK041,Vestjylland,Denmark,NUTS3
+NUTS_SE213,Kalmar län,Sweden,NUTS3
+NUTS_FRK23,Drôme,France,NUTS3
+NUTS_PT187,Alentejo Central,Portugal,NUTS3
+NUTS_FRD22,Seine-Maritime,France,NUTS3
+NUTS_BE345,Arr. Virton,Belgium,NUTS3
+NUTS_DK021,Østsjælland,Denmark,NUTS3
+NUTS_DK012,Københavns omegn,Denmark,NUTS3
+NUTS_BE327,Arr. Tournai,Belgium,NUTS3
+NUTS_FRJ13,Hérault,France,NUTS3
+NUTS_FRJ22,Aveyron,France,NUTS3
+NUTS_FRG02,Maine-et-Loire,France,NUTS3
+NUTS_FRI22,Creuse,France,NUTS3
+NUTS_PT184,Baixo Alentejo,Portugal,NUTS3
+NUTS_CH032,Basel-Landschaft,Switzerland,NUTS3
+NUTS_SE124,Örebro län,Sweden,NUTS3
+NUTS_FRB01,Cher,France,NUTS3
+NUTS_FRL03,Alpes-Maritimes,France,NUTS3
+NUTS_FRF22,Aube,France,NUTS3
+NUTS_SE322,Jämtlands län,Sweden,NUTS3
+NUTS_FRL05,Var,France,NUTS3
+NUTS_PT119,Ave,Portugal,NUTS3
+NUTS_FRK24,Isère,France,NUTS3
+NUTS_FRC22,Jura,France,NUTS3
+NUTS_FRE11,Nord,France,NUTS3
+NUTS_BE255,Arr. Oostende,Belgium,NUTS3
+NUTS_PT185,Lezíria do Tejo,Portugal,NUTS3
+NUTS_CH052,Schaffhausen,Switzerland,NUTS3
+NUTS_PT11C,Tâmega e Sousa,Portugal,NUTS3
+NUTS_PT11E,Terras de Trás-os-Montes,Portugal,NUTS3
+NUTS_CH024,Neuchâtel,Switzerland,NUTS3
+NUTS_FRC13,Saône-et-Loire,France,NUTS3
+NUTS_FRB05,Loir-et-Cher,France,NUTS3
+NUTS_SE332,Norrbottens län,Sweden,NUTS3
+NUTS_PT111,Alto Minho,Portugal,NUTS3
+NUTS_CH031,Basel-Stadt,Switzerland,NUTS3
+NUTS_SE232,Västra Götalands län,Sweden,NUTS3
+NUTS_PT16E,Região de Coimbra,Portugal,NUTS3
+NUTS_BE351,Arr. Dinant,Belgium,NUTS3
+NUTS_CZ063,Kraj Vysocina,Czechia,NUTS3
+NUTS_FRK21,Ain,France,NUTS3
+NUTS_FI1D5,Keski-Pohjanmaa,Finland,NUTS3
+NUTS_CH063,Schwyz,Switzerland,NUTS3
+NUTS_BE235,Arr. Oudenaarde,Belgium,NUTS3
+NUTS_PT11D,Douro,Portugal,NUTS3
+NUTS_FRK25,Loire,France,NUTS3
+NUTS_FRE23,Somme,France,NUTS3
+NUTS_BE326,Arr. Thuin,Belgium,NUTS3
+NUTS_FRL04,Bouches-du-Rhône,France,NUTS3
+NUTS_BE234,Arr. Gent,Belgium,NUTS3
+NUTS_BE331,Arr. Huy,Belgium,NUTS3
+NUTS_SE211,Jönköpings län,Sweden,NUTS3
+NUTS_BE233,Arr. Eeklo,Belgium,NUTS3
+NUTS_BE211,Arr. Antwerpen,Belgium,NUTS3
+NUTS_FRD21,Eure,France,NUTS3
+NUTS_FRF31,Meurthe-et-Moselle,France,NUTS3
+NUTS_SE121,Uppsala län,Sweden,NUTS3
+NUTS_BE324,Arr. Mouscron,Belgium,NUTS3
+NUTS_CH011,Vaud,Switzerland,NUTS3
+NUTS_PT11A,Área Metropolitana do Porto,Portugal,NUTS3
+NUTS_BE256,Arr. Roeselare,Belgium,NUTS3
+NUTS_BE212,Arr. Mechelen,Belgium,NUTS3
+NUTS_FRF24,Haute-Marne,France,NUTS3
+NUTS_FRK22,Ardèche,France,NUTS3
+NUTS_SE123,Östergötlands län,Sweden,NUTS3
+NUTS_BE257,Arr. Tielt,Belgium,NUTS3
+NUTS_SE125,Västmanlands län,Sweden,NUTS3
+NUTS_SE214,Gotlands län,Sweden,NUTS3
+NUTS_BE341,Arr. Arlon,Belgium,NUTS3
+NUTS_FRM01,Corse-du-Sud,France,NUTS3
+NUTS_FRC11,Côte-d'Or,France,NUTS3
+NUTS_FRB02,Eure-et-Loir,France,NUTS3
+NUTS_BE253,Arr. Ieper,Belgium,NUTS3
+NUTS_PT112,Cávado,Portugal,NUTS3
+NUTS_SE312,Dalarnas län,Sweden,NUTS3
+NUTS_BE310,Arr. Nivelles,Belgium,NUTS3
+NUTS_FRF32,Meuse,France,NUTS3
+NUTS_CH012,Valais,Switzerland,NUTS3
+NUTS_BE241,Arr. Halle-Vilvoorde,Belgium,NUTS3
+NUTS_FRK28,Haute-Savoie,France,NUTS3
+NUTS_BE322,Arr. Charleroi,Belgium,NUTS3
+NUTS_BE213,Arr. Turnhout,Belgium,NUTS3
+NUTS_FRB03,Indre,France,NUTS3
+NUTS_FRC23,Haute-Saône,France,NUTS3
+NUTS_FRF23,Marne,France,NUTS3
+NUTS_PT16D,Região de Aveiro,Portugal,NUTS3
+NUTS_BE344,Arr. Neufchâteau,Belgium,NUTS3
+NUTS_BE231,Arr. Aalst,Belgium,NUTS3
+NUTS_CH064,Obwalden,Switzerland,NUTS3
+NUTS_FRE21,Aisne,France,NUTS3
+NUTS_BE251,Arr. Brugge,Belgium,NUTS3
+NUTS_SE122,Södermanlands län,Sweden,NUTS3
+NUTS_BE232,Arr. Dendermonde,Belgium,NUTS3
+NUTS_BE254,Arr. Kortrijk,Belgium,NUTS3
+NUTS_FRK26,Rhône,France,NUTS3
+NUTS_BE325,Arr. Soignies,Belgium,NUTS3
+NUTS_BE343,Arr. Marche-en-Famenne,Belgium,NUTS3
+NUTS_BE236,Arr. Sint-Niklaas,Belgium,NUTS3
+NUTS_CH013,Genève,Switzerland,NUTS3
+NUTS_BE258,Arr. Veurne,Belgium,NUTS3
+NUTS_BE321,Arr. Ath,Belgium,NUTS3
+NUTS_FRC21,Doubs,France,NUTS3
+NUTS_BE342,Arr. Bastogne,Belgium,NUTS3
+NUTS_BE352,Arr. Namur,Belgium,NUTS3
+NUTS_FRC24,Territoire de Belfort,France,NUTS3
+NUTS_BE336,Bezirk Verviers - Deutschsprachige Gemeinschaft,Belgium,NUTS3
+NUTS_BE334,Arr. Waremme,Belgium,NUTS3
+NUTS_BE335,Arr. Verviers - communes francophones,Belgium,NUTS3
+NUTS_BE353,Arr. Philippeville,Belgium,NUTS3
+NUTS_BE242,Arr. Leuven,Belgium,NUTS3
+NUTS_FRE22,Oise,France,NUTS3
+NUTS_FRF33,Moselle,France,NUTS3
+NUTS_BE332,Arr. Liège,Belgium,NUTS3
+NUTS_FRF11,Bas-Rhin,France,NUTS3
+NUTS_BE223,Arr. Tongeren,Belgium,NUTS3
+NUTS_FRF34,Vosges,France,NUTS3
+NUTS_BE222,Arr. Maaseik,Belgium,NUTS3
+NUTS_SE110,Stockholms län,Sweden,NUTS3
+NUTS_FR103,Yvelines,France,NUTS3
+NUTS_FR102,Seine-et-Marne,France,NUTS3
+NUTS_FR101,Paris,France,NUTS3
+NUTS_BE100,Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad,Belgium,NUTS3
+NUTS_BE221,Arr. Hasselt,Belgium,NUTS3
+NUTS_FR104,Essonne,France,NUTS3
+NUTS_BE323,Arr. Mons,Belgium,NUTS3
+NUTS_FR107,Val-de-Marne,France,NUTS3
+NUTS_FR108,Val-d'Oise,France,NUTS3
+NUTS_FR105,Hauts-de-Seine,France,NUTS3
+NUTS_FRF12,Haut-Rhin,France,NUTS3
+NUTS_FR106,Seine-Saint-Denis,France,NUTS3
+NUTS_NO074,Troms og Finnmark,Norway,NUTS3
+NUTS_NO071,Nordland,Norway,NUTS3
+NUTS_NO022,Innlandet,Norway,NUTS3
+NUTS_NO091,Vestfold og Telemark,Norway,NUTS3
+NUTS_NO043,Rogaland,Norway,NUTS3
+NUTS_NO053,Møre og Romsdal,Norway,NUTS3
+NUTS_NO011,Oslo,Norway,NUTS3
+NUTS_NO092,Agder,Norway,NUTS3
+NUTS_NO082,Viken,Norway,NUTS3
+NUTS_ITG14,Agrigento,Italy,NUTS3
+NUTS_ITI44,Latina,Italy,NUTS3
+NUTS_ITG18,Ragusa,Italy,NUTS3
+NUTS_ITI43,Roma,Italy,NUTS3
+NUTS_ITI41,Viterbo,Italy,NUTS3
+NUTS_ITG2A,Ogliastra,Italy,NUTS3
+NUTS_ITG15,Caltanissetta,Italy,NUTS3
+NUTS_ITF35,Salerno,Italy,NUTS3
+NUTS_ITF22,Campobasso,Italy,NUTS3
+NUTS_ITF11,L'Aquila,Italy,NUTS3
+NUTS_ITF21,Isernia,Italy,NUTS3
+NUTS_ITF32,Benevento,Italy,NUTS3
+NUTS_ITG11,Trapani,Italy,NUTS3
+NUTS_ITG29,Olbia-Tempio,Italy,NUTS3
+NUTS_ITG17,Catania,Italy,NUTS3
+NUTS_ITF31,Caserta,Italy,NUTS3
+NUTS_ITI42,Rieti,Italy,NUTS3
+NUTS_ITG12,Palermo,Italy,NUTS3
+NUTS_ITG2C,Carbonia-Iglesias,Italy,NUTS3
+NUTS_ITF33,Napoli,Italy,NUTS3
+NUTS_ITI21,Perugia,Italy,NUTS3
+NUTS_ITI19,Siena,Italy,NUTS3
+NUTS_ITF63,Catanzaro,Italy,NUTS3
+NUTS_ITF51,Potenza,Italy,NUTS3
+NUTS_ITI34,Ascoli Piceno,Italy,NUTS3
+NUTS_ITG13,Messina,Italy,NUTS3
+NUTS_ITF52,Matera,Italy,NUTS3
+NUTS_ITI45,Frosinone,Italy,NUTS3
+NUTS_ITF61,Cosenza,Italy,NUTS3
+NUTS_ITF64,Vibo Valentia,Italy,NUTS3
+NUTS_ITF65,Reggio di Calabria,Italy,NUTS3
+NUTS_ITH43,Gorizia,Italy,NUTS3
+NUTS_ITG28,Oristano,Italy,NUTS3
+NUTS_ITI22,Terni,Italy,NUTS3
+NUTS_ITF45,Lecce,Italy,NUTS3
+NUTS_ITG16,Enna,Italy,NUTS3
+NUTS_ITI15,Prato,Italy,NUTS3
+NUTS_ITF43,Taranto,Italy,NUTS3
+NUTS_ITG27,Cagliari,Italy,NUTS3
+NUTS_ITI18,Arezzo,Italy,NUTS3
+NUTS_ITG26,Nuoro,Italy,NUTS3
+NUTS_ITF34,Avellino,Italy,NUTS3
+NUTS_ITH56,Ferrara,Italy,NUTS3
+NUTS_ITI1A,Grosseto,Italy,NUTS3
+NUTS_ITG19,Siracusa,Italy,NUTS3
+NUTS_ITF14,Chieti,Italy,NUTS3
+NUTS_ITH42,Udine,Italy,NUTS3
+NUTS_ITF62,Crotone,Italy,NUTS3
+NUTS_ITH57,Ravenna,Italy,NUTS3
+NUTS_ITF12,Teramo,Italy,NUTS3
+NUTS_ITH37,Rovigo,Italy,NUTS3
+NUTS_ITF47,Bari,Italy,NUTS3
+NUTS_ITI12,Lucca,Italy,NUTS3
+NUTS_ITH33,Belluno,Italy,NUTS3
+NUTS_ITI17,Pisa,Italy,NUTS3
+NUTS_ITF44,Brindisi,Italy,NUTS3
+NUTS_ITI16,Livorno,Italy,NUTS3
+NUTS_ITF46,Foggia,Italy,NUTS3
+NUTS_ITG2B,Medio Campidano,Italy,NUTS3
+NUTS_ITH36,Padova,Italy,NUTS3
+NUTS_ITI14,Firenze,Italy,NUTS3
+NUTS_ITI35,Fermo,Italy,NUTS3
+NUTS_ITF48,Barletta-Andria-Trani,Italy,NUTS3
+NUTS_ITH41,Pordenone,Italy,NUTS3
+NUTS_ITH35,Venezia,Italy,NUTS3
+NUTS_ITH32,Vicenza,Italy,NUTS3
+NUTS_ITI13,Pistoia,Italy,NUTS3
+NUTS_ITH44,Trieste,Italy,NUTS3
+NUTS_ITI33,Macerata,Italy,NUTS3
+NUTS_ITH58,Forlì-Cesena,Italy,NUTS3
+NUTS_ITG25,Sassari,Italy,NUTS3
+NUTS_ITI11,Massa-Carrara,Italy,NUTS3
+NUTS_ITF13,Pescara,Italy,NUTS3
+NUTS_ITH34,Treviso,Italy,NUTS3
+NUTS_ITI32,Ancona,Italy,NUTS3
+NUTS_ITH55,Bologna,Italy,NUTS3
+NUTS_ITC16,Cuneo,Italy,NUTS3
+NUTS_ITC32,Savona,Italy,NUTS3
+NUTS_ITH31,Verona,Italy,NUTS3
+NUTS_ITC11,Torino,Italy,NUTS3
+NUTS_ITH54,Modena,Italy,NUTS3
+NUTS_ITC41,Varese,Italy,NUTS3
+NUTS_ITC34,La Spezia,Italy,NUTS3
+NUTS_ITC17,Asti,Italy,NUTS3
+NUTS_ITC14,Verbano-Cusio-Ossola,Italy,NUTS3
+NUTS_ITC31,Imperia,Italy,NUTS3
+NUTS_ITH59,Rimini,Italy,NUTS3
+NUTS_ITC33,Genova,Italy,NUTS3
+NUTS_ITH10,Bolzano-Bozen,Italy,NUTS3
+NUTS_ITC42,Como,Italy,NUTS3
+NUTS_ITH53,Reggio nell'Emilia,Italy,NUTS3
+NUTS_ITH20,Trento,Italy,NUTS3
+NUTS_ITC15,Novara,Italy,NUTS3
+NUTS_ITC12,Vercelli,Italy,NUTS3
+NUTS_ITC44,Sondrio,Italy,NUTS3
+NUTS_ITC13,Biella,Italy,NUTS3
+NUTS_ITC18,Alessandria,Italy,NUTS3
+NUTS_ITC4C,Milano,Italy,NUTS3
+NUTS_ITC4D,Monza e della Brianza,Italy,NUTS3
+NUTS_ITI31,Pesaro e Urbino,Italy,NUTS3
+NUTS_ITC4B,Mantova,Italy,NUTS3
+NUTS_ITC48,Pavia,Italy,NUTS3
+NUTS_ITC43,Lecco,Italy,NUTS3
+NUTS_ITH52,Parma,Italy,NUTS3
+NUTS_ITH51,Piacenza,Italy,NUTS3
+NUTS_ITC47,Brescia,Italy,NUTS3
+NUTS_ITC49,Lodi,Italy,NUTS3
+NUTS_ITC4A,Cremona,Italy,NUTS3
+NUTS_ITC46,Bergamo,Italy,NUTS3
+NUTS_PTXXX,Not regionalised / Unknown NUTS 3,Portugal,NUTS3
+NUTS_IS002,Landsbyggd,Iceland,NUTS3
+NUTS_IS001,Höfudborgarsvædi,Iceland,NUTS3
+NUTS_NO072,Troms,Norway,NUTS3
+NUTS_NO073,Finnmark,Norway,NUTS3
+NUTS_NO051,Hordaland,Norway,NUTS3
+NUTS_NO012,Akershus,Norway,NUTS3
+NUTS_NO034,Telemark,Norway,NUTS3
+NUTS_NO021,Hedmark,Norway,NUTS3
+NUTS_NO033,Vestfold,Norway,NUTS3
+NUTS_NO061,Sør-Trøndelag,Norway,NUTS3
+NUTS_NO041,Aust-Agder,Norway,NUTS3
+NUTS_NO031,Østfold,Norway,NUTS3
+NUTS_NO062,Nord-Trøndelag,Norway,NUTS3
+NUTS_NO052,Sogn og Fjordane,Norway,NUTS3
+NUTS_NO042,Vest-Agder,Norway,NUTS3
+NUTS_NO032,Buskerud,Norway,NUTS3
+NUTS_NO022,Oppland,Norway,NUTS3
+NUTS_ES30,Comunidad de Madrid,Spain,NUTS3
+NUTS_ES70,Canarias,Spain,NUTS3
