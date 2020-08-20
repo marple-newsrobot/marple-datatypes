@@ -934,7 +934,7 @@ id,label,municipality,parent,school_level
 97000303,Entréskolan Enköping,Enköpings kommun,Enköpings kommun,primary_school
 54847211,Entréskolan Stockholm,Stockholms kommun,Stockholms kommun,primary_school
 77743622,Entréskolan Västerås,Västerås kommun,Västerås kommun,primary_school
-10443922,"Entréskolan, Eskilstuna",Eskilstuna kommun,Eskilstuna kommun,primary_school
+10443922,EntréskolanEskilstuna,Eskilstuna kommun,Eskilstuna kommun,primary_school
 69614208,Enångers skola,Hudiksvalls kommun,Hudiksvalls kommun,primary_school
 12753670,Enöglaskolan,Enköpings kommun,Enköpings kommun,primary_school
 19327040,Eraskolan,Linköpings kommun,Linköpings kommun,primary_school
@@ -951,7 +951,7 @@ id,label,municipality,parent,school_level
 71926648,Erikslundskolan F-6,Borås kommun,Borås kommun,primary_school
 25794770,Eriksskolan,Uppsala kommun,Uppsala kommun,primary_school
 73174754,Eringsbodaskolan,Ronneby kommun,Ronneby kommun,primary_school
-41444691,Erlaskolan Falun,Falu kommun,Falu kommun,primary_school
+41444691,Erlaskolan,Falu kommun,Falu kommun,primary_school
 72526185,Erlaskolan Norrköping Södra,Norrköpings kommun,Norrköpings kommun,primary_school
 90838156,Erlaskolan Norrköping Östra,Norrköpings kommun,Norrköpings kommun,primary_school
 79048710,Erlaskolan i Katrineholm,Katrineholms kommun,Katrineholms kommun,primary_school
@@ -1488,7 +1488,7 @@ id,label,municipality,parent,school_level
 86282718,Gustavslundskolan,Växjö kommun,Växjö kommun,primary_school
 30731471,Gustavslundsskolan,Helsingborgs kommun,Helsingborgs kommun,primary_school
 27934323,Gusum skola,Valdemarsviks kommun,Valdemarsviks kommun,primary_school
-42518434,"Guteskolan, grundskola",Gotlands kommun,Gotlands kommun,primary_school
+42518434,Guteskolan,Gotlands kommun,Gotlands kommun,primary_school
 17226277,Gylle resursskola,Trelleborgs kommun,Trelleborgs kommun,primary_school
 11406792,Gylle skola 7-9,Borlänge kommun,Borlänge kommun,primary_school
 80265253,Gylle skola F-6,Borlänge kommun,Borlänge kommun,primary_school
@@ -1988,14 +1988,14 @@ id,label,municipality,parent,school_level
 30777212,Isabergskolan,Gislaveds kommun,Gislaveds kommun,primary_school
 62941799,Iseråsskolan 4-6,Kungsbacka kommun,Kungsbacka kommun,primary_school
 53535119,Iseråsskolan F-3,Kungsbacka kommun,Kungsbacka kommun,primary_school
-62764006,JENSEN grundskola Göteborg,Göteborgs kommun,Göteborgs kommun,primary_school
-40898556,JENSEN grundskola Linköping,Linköpings kommun,Linköpings kommun,primary_school
+62764006,JENSEN grundskola,Göteborgs kommun,Göteborgs kommun,primary_school
+40898556,JENSEN grundskola,Linköpings kommun,Linköpings kommun,primary_school
 57317316,JENSEN grundskola Långholmen,Stockholms kommun,Stockholms kommun,primary_school
 61994062,JENSEN grundskola Malmö 2,Malmö kommun,Malmö kommun,primary_school
 25730446,JENSEN grundskola Uppsala,Uppsala kommun,Uppsala kommun,primary_school
 87377212,JENSEN grundskola Vasastan Sthlm,Stockholms kommun,Stockholms kommun,primary_school
-44284183,JENSEN grundskola Västerås,Västerås kommun,Västerås kommun,primary_school
-94248837,JENSEN grundskola Örebro,Örebro kommun,Örebro kommun,primary_school
+44284183,JENSEN grundskola,Västerås kommun,Västerås kommun,primary_school
+94248837,JENSEN grundskola,Örebro kommun,Örebro kommun,primary_school
 26208731,Jakobsbergsskolan,Kristinehamns kommun,Kristinehamns kommun,primary_school
 22472689,Jarlabergs skola,Nacka kommun,Nacka kommun,primary_school
 37246669,Jenningsskolan åk F-3,Robertsfors kommun,Robertsfors kommun,primary_school
@@ -2362,7 +2362,7 @@ id,label,municipality,parent,school_level
 52037312,Kunskapsskolan Lund,Lunds kommun,Lunds kommun,primary_school
 87425546,Kunskapsskolan Nacka,Nacka kommun,Nacka kommun,primary_school
 77437748,Kunskapsskolan Norrköping,Norrköpings kommun,Norrköpings kommun,primary_school
-88046003,Kunskapsskolan Nyköping,Nyköpings kommun,Nyköpings kommun,primary_school
+88046003,Kunskapsskolan,Nyköpings kommun,Nyköpings kommun,primary_school
 11496096,Kunskapsskolan Saltsjöbaden,Nacka kommun,Nacka kommun,primary_school
 46796995,Kunskapsskolan Spånga,Stockholms kommun,Stockholms kommun,primary_school
 65892623,Kunskapsskolan Trelleborg,Trelleborgs kommun,Trelleborgs kommun,primary_school
@@ -2809,7 +2809,7 @@ id,label,municipality,parent,school_level
 64065898,Maestroskolan Nacka,Nacka kommun,Nacka kommun,primary_school
 97205555,Magelungens Grundskola Karlaskolan Göteborg,Göteborgs kommun,Göteborgs kommun,primary_school
 85200474,Magelungens Grundskola Långbropark,Stockholms kommun,Stockholms kommun,primary_school
-39922552,Magelungens Grundskola Uppsala,Uppsala kommun,Uppsala kommun,primary_school
+39922552,Magelungens grundskola,Uppsala kommun,Uppsala kommun,primary_school
 64745639,Magelungens grundskola Gävle,Gävle kommun,Gävle kommun,primary_school
 90553565,Magelungens grundskola Helsingborg,Helsingborgs kommun,Helsingborgs kommun,primary_school
 79427132,Magelungens grundskola Jönköping,Jönköpings kommun,Jönköpings kommun,primary_school
@@ -2819,7 +2819,7 @@ id,label,municipality,parent,school_level
 14872951,Magelungens grundskola Södertälje,Södertälje kommun,Södertälje kommun,primary_school
 82151850,Magelungens grundskola Västerås,Västerås kommun,Västerås kommun,primary_school
 38096510,Magelungens grundskola Älvsjö,Stockholms kommun,Stockholms kommun,primary_school
-27319904,Magelungens grundskola Örebro,Örebro kommun,Örebro kommun,primary_school
+27319904,Magelungens grundskola,Örebro kommun,Örebro kommun,primary_school
 31903219,Magelungsskolan,Stockholms kommun,Stockholms kommun,primary_school
 10682125,Magitaskolan,Stockholms kommun,Stockholms kommun,primary_school
 75244062,Magnarps skola,Ängelholms kommun,Ängelholms kommun,primary_school
@@ -3485,7 +3485,7 @@ id,label,municipality,parent,school_level
 67641022,Presseskolan 4-6,Kungsbacka kommun,Kungsbacka kommun,primary_school
 27211026,Presseskolan F-3,Kungsbacka kommun,Kungsbacka kommun,primary_school
 26568390,Primaskolan Farsta,Stockholms kommun,Stockholms kommun,primary_school
-41363340,Primaskolan Umeå,Umeå kommun,Umeå kommun,primary_school
+41363340,Primaskolan,Umeå kommun,Umeå kommun,primary_school
 26296411,Prismaskolan,Mariestads kommun,Mariestads kommun,primary_school
 10360193,Profilskolan,Stockholms kommun,Stockholms kommun,primary_school
 38368827,Profilskolan Excel,Leksands kommun,Leksands kommun,primary_school
@@ -3494,7 +3494,7 @@ id,label,municipality,parent,school_level
 57578095,"Prolympia, Gävle",Gävle kommun,Gävle kommun,primary_school
 95673344,"Prolympia, Jönköping",Jönköpings kommun,Jönköpings kommun,primary_school
 16013826,"Prolympia, Norrköping",Norrköpings kommun,Norrköpings kommun,primary_school
-18952472,"Prolympia, Sundsvall",Sundsvalls kommun,Sundsvalls kommun,primary_school
+18952472,Prolympia,Sundsvalls kommun,Sundsvalls kommun,primary_school
 28958120,"Prolympia, Umeå",Umeå kommun,Umeå kommun,primary_school
 22738124,"Prolympia, Åkersberga",Österåkers kommun,Österåkers kommun,primary_school
 16858929,"Prolympia, Östersund",Östersunds kommun,Östersunds kommun,primary_school
@@ -4422,8 +4422,8 @@ id,label,municipality,parent,school_level
 63849173,Svenstaviks skola 7-9,Bergs kommun,Bergs kommun,primary_school
 64147674,Svenstaviks skola F-6,Bergs kommun,Bergs kommun,primary_school
 50902077,Sventorps skola,Skövde kommun,Skövde kommun,primary_school
-68403656,"Sverigefinska sk, Uppl Väsby",Upplands Väsby kommun,Upplands Väsby kommun,primary_school
-98816098,Sverigefinska sk. i Eskilstuna,Eskilstuna kommun,Eskilstuna kommun,primary_school
+68403656,Sverigefinska skolan,Upplands Väsby kommun,Upplands Väsby kommun,primary_school
+98816098,Sverigefinska skolan,Eskilstuna kommun,Eskilstuna kommun,primary_school
 78508835,Sverigefinska skolan Sthlm,Stockholms kommun,Stockholms kommun,primary_school
 56289245,Sverigefinska skolan i Gbg,Göteborgs kommun,Göteborgs kommun,primary_school
 39923451,Sverigefinska skolan i Kista,Stockholms kommun,Stockholms kommun,primary_school
@@ -4603,7 +4603,7 @@ id,label,municipality,parent,school_level
 66890810,The English School Gothenburg,Göteborgs kommun,Göteborgs kommun,primary_school
 64505955,The Intern. School of Älmhult,Älmhults kommun,Älmhults kommun,primary_school
 87999453,Thea Privata Grundskola Bromma,Stockholms kommun,Stockholms kommun,primary_school
-31658010,Thea Privata Grundskola Linköping,Linköpings kommun,Linköpings kommun,primary_school
+31658010,Thea Privata Grundskola,Linköpings kommun,Linköpings kommun,primary_school
 53398338,Thea Privata Grundskola Södermalm,Stockholms kommun,Stockholms kommun,primary_school
 85092070,Thoren Framtid Karlstad,Karlstads kommun,Karlstads kommun,primary_school
 97555379,Thoren Framtid i Falkenberg,Falkenbergs kommun,Falkenbergs kommun,primary_school
