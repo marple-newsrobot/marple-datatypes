@@ -5,3 +5,4 @@
 env
 .cache
 .pytest_cache
+.DSStore
