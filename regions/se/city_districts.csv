@@ -17,7 +17,7 @@ Innerstaden Malmö,"Innerstaden, Malmö",Innerstaden,Malmö kommun,Q15256332,cit
 Bromma stadsdelsområde,Bromma stadsdelsområde,Bromma,Stockholms kommun,Q10436033,city_district,stadsdelsområde,1997-01-01,9,Bromma stadsdel,8511
 Enskede-Årsta-Vantörs stadsdelsområde,Enskede-Årsta-Vantörs stadsdelsområde,Enskede-Årsta-Vantör,Stockholms kommun,Q606458,city_district,stadsdelsområde,2007-01-01,9,Enskede - Årsta - Vantör stadsdel,8512
 Farsta stadsdelsområde,Farsta stadsdelsområde,Farsta,Stockholms kommun,Q861854,city_district,stadsdelsområde,1997-01-01,9,Farsta stadsdel,8513
-Hägersten-Liljeholmens stadsdelsområde,Hägersten-Liljeholmens stadsdelsområde,Hägersten-Liljeholmen,Stockholms kommun,Q686593,city_district,stadsdelsområde,2007-01-01,9,Hägersten-Liljeholmen stadsdel,8514
+Hägersten-Liljeholmens stadsdelsområde,Hägersten-Liljeholmens stadsdelsområde,Hägersten-Liljeholmen,Stockholms kommun,Q686593,city_district,stadsdelsområde,2007-01-01,2020-07-01,Hägersten-Liljeholmen stadsdel,8514
 Hässelby-Vällingby stadsdelsområde,Hässelby-Vällingby stadsdelsområde,Hässelby-Vällingby,Stockholms kommun,Q861336,city_district,stadsdelsområde,2007-01-01,9,Hässelby - Vällingby stadsdel,8515
 Kungsholmens stadsdelsområde,Kungsholmens stadsdelsområde,Kungsholmen,Stockholms kommun,Q862618,city_district,stadsdelsområde,1997-01-01,9,Kungsholmen stadsdel,8516
 Norrmalms stadsdelsområde,Norrmalms stadsdelsområde,Norrmalm,Stockholms kommun,Q862144,city_district,stadsdelsområde,1997-01-01,9,Norrmalm stadsdel,8517
@@ -26,7 +26,7 @@ Skarpnäcks stadsdelsområde,Skarpnäcks stadsdelsområde,Skarpnäck,Stockholms 
 Skärholmens stadsdelsområde,Skärholmens stadsdelsområde,Skärholmen,Stockholms kommun,Q858040,city_district,stadsdelsområde,1997-01-01,9,Skärholmen stadsdel,8520
 Spånga-Tensta stadsdelsområde,Spånga-Tensta stadsdelsområde,Spånga-Tensta,Stockholms kommun,Q861644,city_district,stadsdelsområde,1997-01-01,9,Spånga - Tensta stadsdel,8521
 Södermalms stadsdelsområde,Södermalms stadsdelsområde,Södermalms,Stockholms kommun,Q860681,city_district,stadsdelsområde,2007-01-01,9,Södermalm stadsdel,8522
-Älvsjö stadsdelsområde,Älvsjö stadsdelsområde,Älvsjö,Stockholms kommun,Q860675,city_district,stadsdelsområde,1997-01-01,9,Älvsjö stadsdel,8523
+Älvsjö stadsdelsområde,Älvsjö stadsdelsområde,Älvsjö,Stockholms kommun,Q860675,city_district,stadsdelsområde,1997-01-01,2020-07-01,Älvsjö stadsdel,8523
 Östermalms stadsdelsområde,Östermalms stadsdelsområde,Östermalm,Stockholms kommun,Q12904658,city_district,stadsdelsområde,1997-01-01,9,Östermalm stadsdel,8524
 Enskede stadsdelsområde,Enskede stadsdelsområde,Enskede,Stockholms kommun,Q10484419,city_district,stadsdelsområde,1997-01-01,1997-12-31,,
 Hammarby stadsdelsområde,Hammarby stadsdelsområde,Hammarby,Stockholms kommun,Q5645562,city_district,stadsdelsområde,1997-01-01,1997-12-31,,
@@ -45,6 +45,7 @@ Västerleds stadsdelsområde,Västerleds stadsdelsområde,Västerled,Stockholms 
 Årsta stadsdelsområde,Årsta stadsdelsområde,Årsta,Stockholms kommun,Q10726737,city_district,stadsdelsområde,1997-01-01,1997-12-31,,
 Enskede-Årsta stadsdelsområde,Enskede-Årsta stadsdelsområde,Enskede-Årsta,Stockholms kommun,Q830484,city_district,stadsdelsområde,1998-01-01,2006-12-31,,
 Hässelby-Vällingby stadsdelsområde före 2007,Hässelby-Vällingby stadsdelsområde,Hässelby-Vällingby,Stockholms kommun,Q861336,city_district,stadsdelsområde,1998-01-01,2006-12-31,,
+Hägersten-Älvsjö stadsdelsområde,Hägersten-Älvsjö stadsdelsområde,Hägersten-Älvsjö,Stockholms kommun,,city_district,stadsdelsområde,2020-07-01,9,,8728
 Stadsdelsnämndsområdet Frölunda-Högsbo,Stadsdelsnämndsområdet Frölunda-Högsbo,Frölunda-Högsbo,Göteborgs kommun,,city_district,stadsdelsnämndsområde,2010-01-01,2010-12-31,,
 Stadsdelsnämndsområdet Majorna,Stadsdelsnämndsområdet Majorna,Majorna,Göteborgs kommun,,city_district,stadsdelsnämndsområde,1989-01-01,2010-12-31,,
 Stadsdelsnämndsområdet Södra Skärgården,Stadsdelsnämndsområdet Södra Skärgården,Södra Skärgården,Göteborgs kommun,,city_district,stadsdelsnämndsområde,1989-01-01,2010-12-31,,
