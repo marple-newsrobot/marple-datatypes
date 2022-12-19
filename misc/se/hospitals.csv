@@ -1,494 +1,502 @@
-id,label,parent,municipality,region_level
-Akademiska sjukhuset Uppsala,"Akademiska sjukhuset, Uppsala",Region Uppsala,Uppsala kommun,hospital
-Alingsås lasarett,Alingsås lasarett,Västra Götalandsregionen,Alingsås kommun,hospital
-Avesta lasarett,Avesta lasarett,Region Dalarna,Avesta kommun,hospital
-Blekingesjukhuset Karlshamn och Karlskrona,"Blekingesjukhuset, Karlshamn och Karlskrona",Region Blekinge,Karlskrona kommun,hospital
-Bollnäs sjukhus,Bollnäs sjukhus,Region Gävleborg,Bollnäs kommun,hospital
-Borlänge sjukhus,Borlänge sjukhus,Region Dalarna,Borlänge kommun,hospital
-Brommageriatriken - Stiftelsen Stockholms sjukhem,Brommageriatriken - Stiftelsen Stockholms sjukhem,Region Stockholm,Stockholms kommun,hospital
-Capio Geriatrik - Dalens sjukhus,Capio Geriatrik - Dalens sjukhus,Region Stockholm,Stockholms kommun,hospital
-Capio Geriatrik Nacka,"Capio Geriatrik, Nacka",Region Stockholm,Nacka kommun,hospital
-Capio S:t Görans sjukhus Stockholm,"Capio S:t Görans sjukhus, Stockholm",Region Stockholm,Stockholms kommun,hospital
-Capio Sjukhuset Simrishamn,Capio Sjukhuset Simrishamn,Region Skåne,Simrishamns kommun,hospital
-Carema Närsjukvård Simrishamn,Carema Närsjukvård Simrishamn,Region Skåne,Simrishamns kommun,hospital
-Centrallasarettet Växjö,Centrallasarettet Växjö,Region Kronoberg,Växjö kommun,hospital
-Centralsjukhuset Kristianstad,Centralsjukhuset Kristianstad,Region Skåne,Kristianstads kommun,hospital
-Centralsjukhuset Karlstad,"Centralsjukhuset, Karlstad",Region Värmland,Karlstads kommun,hospital
-Danderyds sjukhus AB Stockholm,"Danderyds sjukhus AB, Stockholm",Region Stockholm,Danderyds kommun,hospital
-Danderydsgeriatriken - Danderyds sjuhkus (SLSO),Danderydsgeriatriken - Danderyds sjuhkus (SLSO),Region Stockholm,Danderyds kommun,hospital
-Ersta sjukhus Stockholm,"Ersta sjukhus, Stockholm",Region Stockholm,Stockholms kommun,hospital
-Falu lasarett,Falu lasarett,Region Dalarna,Falu kommun,hospital
-Gällivare sjukhus,Gällivare sjukhus,Region Norrbotten,Gällivare kommun,hospital
-Gävle sjukhus,Gävle sjukhus,Region Gävleborg,Gävle kommun,hospital
-Hallands sjukhus (Halmstad Varberg Kungsbacka),Hallands sjukhus (Halmstad/Varberg/Kungsbacka),Region Halland,Halmstads kommun,hospital
-Hallands sjukhus Halmstad,Hallands sjukhus Halmstad,Region Halland,Halmstads kommun,hospital
-Hallands sjukhus Kungsbacka,Hallands sjukhus Kungsbacka,Region Halland,Kungsbacka kommun,hospital
-Hallands sjukhus Varberg,Hallands sjukhus Varberg,Region Halland,Varbergs kommun,hospital
-Handengeriatriken - Praktikertjänst N.Ä.R.A,Handengeriatriken - Praktikertjänst N.Ä.R.A,Region Stockholm,Haninge kommun,hospital
-Helsingborgs lasarett,Helsingborgs lasarett,Region Skåne,Helsingborgs kommun,hospital
-Huddingegeriatriken - Karolinska Universitetssjukhuset,Huddingegeriatriken - Karolinska Universitetssjukhuset,Region Stockholm,Huddinge kommun,hospital
-Hudiksvalls sjukhus,Hudiksvalls sjukhus,Region Gävleborg,Hudiksvalls kommun,hospital
-Hälso- och sjukvården i Finspång,Hälso- och sjukvården i Finspång,Region Östergötland,Finspångs kommun,hospital
-Höglandssjukhuset Eksjö-Nässjö,"Höglandssjukhuset, Eksjö-Nässjö",Region Jönköpings län,Nässjö kommun,hospital
-Jakobsbergsgeriatriken - Jakobsbergs sjukhus (SLSO),Jakobsbergsgeriatriken - Jakobsbergs sjukhus (SLSO),Region Stockholm,Järfälla kommun,hospital
-Kalix sjukhus,Kalix sjukhus,Region Norrbotten,Kalix kommun,hospital
-Karlskoga lasarett,Karlskoga lasarett,Region Örebro län,Karlskoga kommun,hospital
-Karolinska universitetssjukhuset Huddinge och Solna,"Karolinska universitetssjukhuset, Huddinge och Solna",Region Stockholm,Solna kommun,hospital
-Kiruna sjukhus,Kiruna sjukhus,Region Norrbotten,Kiruna kommun,hospital
-Kullbergska sjukhuset Katrineholm,"Kullbergska sjukhuset, Katrineholm",Region Sörmland,Katrineholms kommun,hospital
-Kungälvs sjukhus,Kungälvs sjukhus,Västra Götalandsregionen,Kungälvs kommun,hospital
-Lasarettet Trelleborg,Lasarettet Trelleborg,Region Skåne,Trelleborgs kommun,hospital
-Lasarettet i Enköping,Lasarettet i Enköping,Region Uppsala,Enköpings kommun,hospital
-Lasarettet i Landskrona,Lasarettet i Landskrona,Region Skåne,Landskrona kommun,hospital
-Lasarettet i Motala,Lasarettet i Motala,Region Östergötland,Motala kommun,hospital
-Lasarettet i Ystad,Lasarettet i Ystad,Region Skåne,Ystads kommun,hospital
-Lindesbergs lasarett,Lindesbergs lasarett,Region Örebro län,Lindesbergs kommun,hospital
-Ljungby lasarett,Ljungby lasarett,Region Kronoberg,Ljungby kommun,hospital
-Ludvika lasarett,Ludvika lasarett,Region Dalarna,Ludvika kommun,hospital
-Lycksele lasarett,Lycksele lasarett,Region Västerbotten,Lycksele kommun,hospital
-Länssjukhuset Ryhov Jönköping,"Länssjukhuset Ryhov, Jönköping",Region Jönköpings län,Jönköpings kommun,hospital
-Länssjukhuset Sundsvall-Härnösand,Länssjukhuset Sundsvall-Härnösand,Region Västernorrland,Sundsvalls kommun,hospital
-Länssjukhuset i Kalmar,Länssjukhuset i Kalmar,Region Kalmar län,Kalmar kommun,hospital
-Löwetgeriatriken - Praktikertjänst N.Ä.R.A,Löwetgeriatriken - Praktikertjänst N.Ä.R.A,Region Stockholm,Upplands Väsby kommun,hospital
-Mora lasarett,Mora lasarett,Region Dalarna,Mora kommun,hospital
-Mälarsjukhuset Eskilstuna,"Mälarsjukhuset, Eskilstuna",Region Sörmland,Eskilstuna kommun,hospital
-NU-sjukvården (NÄL Uddevalla Dalsland Lysekil Strömstad),"NU-sjukvården (NÄL, Uddevalla, Dalsland, Lysekil, Strömstad)",Västra Götalandsregionen,Trollhättans kommun,hospital
-Nackageriatriken - Aleris AB,Nackageriatriken - Aleris AB,Region Stockholm,Nacka kommun,hospital
-Norrlands Universitetssjukhus Umeå,"Norrlands Universitetssjukhus, Umeå",Region Västerbotten,Umeå kommun,hospital
-Norrtälje sjukhus,Norrtälje sjukhus,Region Stockholm,Norrtälje kommun,hospital
-Nyköpings lasarett,Nyköpings lasarett,Region Sörmland,Nyköpings kommun,hospital
-Nynäshamns Geriatrik - Legevisitten,Nynäshamns Geriatrik - Legevisitten,Region Stockholm,Nynäshamns kommun,hospital
-Närsjukhuset Simrishamn Praktikertjänst,"Närsjukhuset Simrishamn, Praktikertjänst",Region Skåne,Simrishamns kommun,hospital
-Oskarshamns sjukhus,Oskarshamns sjukhus,Region Kalmar län,Oskarshamns kommun,hospital
-Piteå sjukhus,Piteå sjukhus,Region Norrbotten,Piteå kommun,hospital
-S:t Eriks ögonsjukhus Stockholm,"S:t Eriks ögonsjukhus, Stockholm",Region Stockholm,Stockholms kommun,hospital
-Sahlgrenska Universitetssjukhuset,Sahlgrenska Universitetssjukhuset,Västra Götalandsregionen,Göteborgs kommun,hospital
-Sjukhuset i Arvika,Sjukhuset i Arvika,Region Värmland,Arvika kommun,hospital
-Sjukhuset i Hässleholm,Sjukhuset i Hässleholm,Region Skåne,Hässleholms kommun,hospital
-Sjukhuset i Torsby,Sjukhuset i Torsby,Region Värmland,Torsby kommun,hospital
-Skaraborgs sjukhus (Skövde Falköping Mariestad Lidköping),"Skaraborgs sjukhus (Skövde, Falköping, Mariestad, Lidköping)",Västra Götalandsregionen,Skövde kommun,hospital
-Skellefteå lasarett,Skellefteå lasarett,Region Västerbotten,Skellefteå kommun,hospital
-Skånes Universitetssjukhus Lund och Malmö,"Skånes Universitetssjukhus, Lund och Malmö",Region Skåne,Malmö kommun,hospital
-Sollefteå sjukhus,Sollefteå sjukhus,Region Västernorrland,Sollefteå kommun,hospital
-Stockholmsgeriatriken - Sabbatsbergs sjukhus (SLSO),Stockholmsgeriatriken - Sabbatsbergs sjukhus (SLSO),Region Stockholm,Stockholms kommun,hospital
-Sunderby sjukhus,Sunderby sjukhus,Region Norrbotten,Luleå kommun,hospital
-Södersjukhuset Stockholm,"Södersjukhuset, Stockholm",Region Stockholm,Stockholms kommun,hospital
-Södertälje sjukhus AB,Södertälje sjukhus AB,Region Stockholm,Södertälje kommun,hospital
-Södertäljegeriatriken - Södertälje sjukhus,Södertäljegeriatriken - Södertälje sjukhus,Region Stockholm,Södertälje kommun,hospital
-Södra Älvsborgs Sjukhus Borås Skene,"Södra Älvsborgs Sjukhus, Borås/Skene",Västra Götalandsregionen,Borås kommun,hospital
-Universitetssjukhuset i Linköping,Universitetssjukhuset i Linköping,Region Östergötland,Linköpings kommun,hospital
-Universitetssjukhuset i Örebro,Universitetssjukhuset i Örebro,Region Örebro län,Örebro kommun,hospital
-Visby lasarett,Visby lasarett,Region Gotland,Gotlands kommun,hospital
-Vrinnevisjukhuset i Norrköping,Vrinnevisjukhuset i Norrköping,Region Östergötland,Norrköpings kommun,hospital
-Värnamo sjukhus,Värnamo sjukhus,Region Jönköpings län,Värnamo kommun,hospital
-Västerviks sjukhus,Västerviks sjukhus,Region Kalmar län,Västerviks kommun,hospital
-Västmanlands sjukhus Köping,Västmanlands sjukhus Köping,Region Västmanland,Köpings kommun,hospital
-Västmanlands sjukhus Sala,Västmanlands sjukhus Sala,Region Västmanland,Sala kommun,hospital
-Västmanlands sjukhus Västerås,Västmanlands sjukhus Västerås,Region Västmanland,Västerås kommun,hospital
-Ängelholms sjukhus,Ängelholms sjukhus,Region Skåne,Ängelholms kommun,hospital
-Örnsköldsviks sjukhus,Örnsköldsviks sjukhus,Region Västernorrland,Örnsköldsviks kommun,hospital
-Östersunds sjukhus,Östersunds sjukhus,Region Jämtland Härjedalen,Östersunds kommun,hospital
-Psykiatriförvaltningen Blekinge,"Psykiatriförvaltningen, Blekinge",Region Blekinge,Karlskrona kommun,hospital
-Säters sjukhus,Säters sjukhus,Region Dalarna,Säters kommun,hospital
-Psykiatri Halland,Psykiatri Halland,Region Halland,Halmstads kommun,hospital
-Vuxenpsykiatriska kliniken Växjö Ljungby,"Vuxenpsykiatriska kliniken, Växjö/Ljungby",Region Kronoberg,Växjö kommun,hospital
-Psykiatri Region Skåne,"Psykiatri, Region Skåne",Region Skåne,Malmö kommun,hospital
-Beroendecentrum Stockholm (SLSO),"Beroendecentrum, Stockholm (SLSO)",Region Stockholm,Stockholms kommun,hospital
-Capio Maria (Psykiatrisk mellanvård),Capio Maria (Psykiatrisk mellanvård),Region Stockholm,Stockholms kommun,hospital
-Psykiatri Nordvästra Stockholm (SLSO),Psykiatri Nordvästra Stockholm (SLSO),Region Stockholm,Stockholms kommun,hospital
-Psykiatri Norra Stockholm (SLSO),Psykiatri Norra Stockholm (SLSO),Region Stockholm,Stockholms kommun,hospital
-Psykiatri Sydvästra Stockholm (SLSO),Psykiatri Sydvästra Stockholm (SLSO),Region Stockholm,Stockholms kommun,hospital
-Psykiatri Södra Stockholm (SLSO),Psykiatri Södra Stockholm (SLSO),Region Stockholm,Stockholms kommun,hospital
-Psykiatricentrum Södertälje (SLSO),Psykiatricentrum Södertälje (SLSO),Region Stockholm,Södertälje kommun,hospital
-Psykiatri barn och unga Västmanland,"Psykiatri, barn och unga, Västmanland",Region Västmanland,Västerås kommun,hospital
-Psykiatri vuxna Västmanland,"Psykiatri, vuxna, Västmanland",Region Västmanland,Västerås kommun,hospital
-Psykiatriförvaltningen Örebro läns landsting,Psykiatriförvaltningen Örebro läns landsting,Region Örebro län,Örebro kommun,hospital
-Kirurgi- och ortopediverksamhet Gävleborg,"Kirurgi- och ortopediverksamhet, Gävleborg",Region Gävleborg,,hospital
-Sandvikens sjukhus,Sandvikens sjukhus,Region Gävleborg,,hospital
-Hallandskustens hudmottagning Kungsbacka,"Hallandskustens hudmottagning, Kungsbacka",Region Halland,,hospital
-Hudläkare Dr Harald Salim Halmstad,"Hudläkare Dr Harald Salim, Halmstad",Region Halland,,hospital
-Ögoncentrum Varberg,"Ögoncentrum, Varberg",Region Halland,,hospital
-A6 Ögonklinik Jönköping,"A6 Ögonklinik, Jönköping",Region Jönköpings län,,hospital
-Capio Medocular Jönköping,"Capio Medocular, Jönköping",Region Jönköpings län,,hospital
-Eye Clinic Värnamo,"Eye Clinic, Värnamo",Region Jönköpings län,,hospital
-Tranås Ögonklinik AB,Tranås Ögonklinik AB,Region Jönköpings län,,hospital
-Capio Specialisthuset Eslöv,Capio Specialisthuset Eslöv,Region Skåne,,hospital
-Praktikertjänst Närsjukhus Simrishamn,Praktikertjänst Närsjukhus Simrishamn,Region Skåne,,hospital
-GB Obesitas Skåne,GB Obesitas Skåne,Region Skåne,,hospital
-Specialistläkarna i Lund,Specialistläkarna i Lund,Region Skåne,,hospital
-Åderbråckscentrum Malmö,"Åderbråckscentrum, Malmö",Region Skåne,,hospital
-Audionommottagning Helsingborg (Hörselsnäckan),"Audionommottagning, Helsingborg (Hörselsnäckan)",Region Skåne,,hospital
-Audionommottagning Carl Gustafväg Malmö (Audionova),"Audionommottagning Carl Gustafväg, Malmö (Audionova)",Region Skåne,,hospital
-Audionommottagning Erikslustvägen Malmö (Audika),"Audionommottagning Erikslustvägen, Malmö (Audika)",Region Skåne,,hospital
-Audionommottagning Gasverksgatan Helsingborg (Audionova),"Audionommottagning Gasverksgatan, Helsingborg (Audionova)",Region Skåne,,hospital
-Audionommottagning Rundelsgatan Malmö (Audika),"Audionommottagning Rundelsgatan, Malmö (Audika)",Region Skåne,,hospital
-Audionommottagning Vattugatan Hässleholm (Audionova),"Audionommottagning Vattugatan, Hässleholm (Audionova)",Region Skåne,,hospital
-Audionommottagning Båstad (Audionova),"Audionommottagning, Båstad (Audionova)",Region Skåne,,hospital
-Audionommottagning Eslöv (Audionova),"Audionommottagning, Eslöv (Audionova)",Region Skåne,,hospital
-Audionommottagning Helsingborg (Audika),"Audionommottagning, Helsingborg (Audika)",Region Skåne,,hospital
-Audionommottagning Helsingborg (Audionomcentrum),"Audionommottagning, Helsingborg (Audionomcentrum)",Region Skåne,,hospital
-Audionommottagning Höganäs (Audionova),"Audionommottagning, Höganäs (Audionova)",Region Skåne,,hospital
-Audionommottagning Höör (Audionomcentrum),"Audionommottagning, Höör (Audionomcentrum)",Region Skåne,,hospital
-Audionommottagning Klippan (Hörselspecialisten),"Audionommottagning, Klippan (Hörselspecialisten)",Region Skåne,,hospital
-Audionommottagning Kristianstad (Audika),"Audionommottagning, Kristianstad (Audika)",Region Skåne,,hospital
-Audionommottagning Kristianstad (Audionova),"Audionommottagning, Kristianstad (Audionova)",Region Skåne,,hospital
-Audionommottagning Kristianstad (Auditus),"Audionommottagning, Kristianstad (Auditus)",Region Skåne,,hospital
-Audionommottagning Landskrona,"Audionommottagning, Landskrona",Region Skåne,,hospital
-Audionommottagning Landskrona (Audika),"Audionommottagning, Landskrona (Audika)",Region Skåne,,hospital
-Audionommottagning Lomma (Audionomservice),"Audionommottagning, Lomma (Audionomservice)",Region Skåne,,hospital
-Audionommottagning Lund (Audika),"Audionommottagning, Lund (Audika)",Region Skåne,,hospital
-Audionommottagning Lund (Audionova),"Audionommottagning, Lund (Audionova)",Region Skåne,,hospital
-Audionommottagning Lund (Region Skåne),"Audionommottagning, Lund (Region Skåne)",Region Skåne,,hospital
-Audionommottagning Malmö (Audiomera),"Audionommottagning, Malmö (Audiomera)",Region Skåne,,hospital
-Audionommottagning Malmö (Audionomservice),"Audionommottagning, Malmö (Audionomservice)",Region Skåne,,hospital
-Audionommottagning Simrishamn (Audionova),"Audionommottagning, Simrishamn (Audionova)",Region Skåne,,hospital
-Audionommottagning Trelleborg (Audionova),"Audionommottagning, Trelleborg (Audionova)",Region Skåne,,hospital
-Audionommottagning Ystad (Audionova),"Audionommottagning, Ystad (Audionova)",Region Skåne,,hospital
-Audionommottagning Ystad (Hörselsnäckan),"Audionommottagning, Ystad (Hörselsnäckan)",Region Skåne,,hospital
-Audionommottagning Åhus (Auditus),"Audionommottagning, Åhus (Auditus)",Region Skåne,,hospital
-Audionommottagning Ängelholm (Audika),"Audionommottagning, Ängelholm (Audika)",Region Skåne,,hospital
-Audionommottagning Ängelholm (Audionova),"Audionommottagning, Ängelholm (Audionova)",Region Skåne,,hospital
-Audionomottagning Örkelljunga (Min audionom),Audionomottagning Örkelljunga (Min audionom),Region Skåne,,hospital
-Kvinna Stockholm Gynmottagning,Kvinna Stockholm Gynmottagning,Region Skåne,,hospital
-Suavis hörselkinik Barkarby,Suavis hörselkinik Barkarby,Region Skåne,,hospital
-Aleris Specialistvård Ögon Helsingborg - Vårdval,Aleris Specialistvård Ögon Helsingborg - Vårdval,Region Skåne,,hospital
-Aleris Specialistvård Ögon Kristianstad - Vårdval,Aleris Specialistvård Ögon Kristianstad - Vårdval,Region Skåne,,hospital
-Aleris Specialistvård Ögon Malmö - Vårdval,Aleris Specialistvård Ögon Malmö - Vårdval,Region Skåne,,hospital
-Aleris Specialistvård Ögon Ystad - Vårdval,Aleris Specialistvård Ögon Ystad - Vårdval,Region Skåne,,hospital
-Aleris Specialistvård Ögon Ängelholm - Vårdval,Aleris Specialistvård Ögon Ängelholm - Vårdval,Region Skåne,,hospital
-Brandts Ögonklinik Malmö - Vårdval,"Brandts Ögonklinik, Malmö - Vårdval",Region Skåne,,hospital
-Capio Medocular Malmö - Vårdval,Capio Medocular Malmö - Vårdval,Region Skåne,,hospital
-Centralsjukhuset Kristianstad - Vårdval,Centralsjukhuset Kristianstad - Vårdval,Region Skåne,,hospital
-Ellenta ögonklinik,Ellenta ögonklinik,Region Skåne,,hospital
-Helsingborgs lasarett - Vårdval,Helsingborgs lasarett - Vårdval,Region Skåne,,hospital
-Lasarettet i Landskrona - Vårdval,Lasarettet i Landskrona - Vårdval,Region Skåne,,hospital
-Skånes universitetssjukhus - Vårdval,Skånes universitetssjukhus - Vårdval,Region Skåne,,hospital
-Vårda Ögonklinik Malmö - Vårdval,"Vårda Ögonklinik, Malmö - Vårdval",Region Skåne,,hospital
-Vårda Österlen Ystad - Vårdval,"Vårda Österlen, Ystad - Vårdval",Region Skåne,,hospital
-Ögonläkarna i Eslöv - Vårdval,Ögonläkarna i Eslöv - Vårdval,Region Skåne,,hospital
-Ögonoperationskliniken YADD Lund - Vårdval,"Ögonoperationskliniken YADD, Lund - Vårdval",Region Skåne,,hospital
-Ellenbogens ÖNH Malmö,"Ellenbogens ÖNH, Malmö",Region Skåne,,hospital
-Gynekologkliniken Stockholm (S:t Görans sjukhus),Gynekologkliniken Stockholm (S:t Görans sjukhus),Region Stockholm,,hospital
-Livio Fertilitetscentrum Gärdet,Livio Fertilitetscentrum Gärdet,Region Stockholm,,hospital
-UltraGyn Sophiahemmet,"UltraGyn, Sophiahemmet",Region Stockholm,,hospital
-Aleris Specialistvård Sabbatsberg Stockholm,"Aleris Specialistvård Sabbatsberg, Stockholm",Region Stockholm,,hospital
-Aleris Specialistvård Täby Stockholm,"Aleris Specialistvård Täby, Stockholm",Region Stockholm,,hospital
-Aleris Specialistvård Nacka,"Aleris Specialistvård, Nacka",Region Stockholm,,hospital
-Farsta Ortopedi och kirurgmottagning,Farsta Ortopedi och kirurgmottagning,Region Stockholm,,hospital
-Liljeholmens ortopedi,Liljeholmens ortopedi,Region Stockholm,,hospital
-Nya Karolinska universitetsjukhuset Solna,"Nya Karolinska universitetsjukhuset, Solna",Region Stockholm,,hospital
-CKKirurgkliniken,CKKirurgkliniken,Region Stockholm,,hospital
-Övervikstcentrum,Övervikstcentrum,Region Stockholm,,hospital
-Huddinge ortopedi,Huddinge ortopedi,Region Stockholm,,hospital
-Ryggkirurgiska kliniken Strängnäs,"Ryggkirurgiska kliniken, Strängnäs",Region Stockholm,,hospital
-Ryggkirurgiskt Centrum Stockholm (RKC),"Ryggkirurgiskt Centrum, Stockholm (RKC)",Region Stockholm,,hospital
-Stockholms Spine Center,Stockholms Spine Center,Region Stockholm,,hospital
-Audika City Stockholm,"Audika City, Stockholm",Region Stockholm,,hospital
-Audika Dalagatan,Audika Dalagatan,Region Stockholm,,hospital
-Audika Farsta,Audika Farsta,Region Stockholm,,hospital
-Audika Jakobsberg,Audika Jakobsberg,Region Stockholm,,hospital
-Audika Kista Stockholm,"Audika Kista, Stockholm",Region Stockholm,,hospital
-Audika Kungsholmen Stockholm,"Audika Kungsholmen, Stockholm",Region Stockholm,,hospital
-Audika Nacka,Audika Nacka,Region Stockholm,,hospital
-Audika Ringvägen,Audika Ringvägen,Region Stockholm,,hospital
-Audika Rotebro,Audika Rotebro,Region Stockholm,,hospital
-Audika Sibyllegatan,Audika Sibyllegatan,Region Stockholm,,hospital
-Audika Skärholmen,Audika Skärholmen,Region Stockholm,,hospital
-Audika Solna,Audika Solna,Region Stockholm,,hospital
-Audika Norrtälje,"Audika, Norrtälje",Region Stockholm,,hospital
-Audika Södertälje,"Audika, Södertälje",Region Stockholm,,hospital
-Audika Upplands Väsby,"Audika, Upplands Väsby",Region Stockholm,,hospital
-Audionomkliniken Serafen,Audionomkliniken Serafen,Region Stockholm,,hospital
-AudioNova City,AudioNova City,Region Stockholm,,hospital
-AudioNova Danderyd,AudioNova Danderyd,Region Stockholm,,hospital
-AudioNova Globen,AudioNova Globen,Region Stockholm,,hospital
-AudioNova Nacka,AudioNova Nacka,Region Stockholm,,hospital
-AudioNova Södermalm,AudioNova Södermalm,Region Stockholm,,hospital
-AudioNova Täby,AudioNova Täby,Region Stockholm,,hospital
-AudioNova Östermalm,AudioNova Östermalm,Region Stockholm,,hospital
-Eartech Bromma hörselklinik,Eartech Bromma hörselklinik,Region Stockholm,,hospital
-Eartech Dalens sjukhus hörselklinik,Eartech Dalens sjukhus hörselklinik,Region Stockholm,,hospital
-Eartech Lidingö hörselklinik,Eartech Lidingö hörselklinik,Region Stockholm,,hospital
-Eartech Odenplan Hörselklinik,Eartech Odenplan Hörselklinik,Region Stockholm,,hospital
-Eartech Sollentuna Hörselklinik,Eartech Sollentuna Hörselklinik,Region Stockholm,,hospital
-Eartech Täby Hörselklinik,Eartech Täby Hörselklinik,Region Stockholm,,hospital
-Hearing hörselrehabilitering,Hearing hörselrehabilitering,Region Stockholm,,hospital
-HÖR Stockholm Nacka,HÖR Stockholm Nacka,Region Stockholm,,hospital
-HÖRAB City,HÖRAB City,Region Stockholm,,hospital
-HÖRAB Åkersberga,HÖRAB Åkersberga,Region Stockholm,,hospital
-Hörbart Norrtälje,Hörbart Norrtälje,Region Stockholm,,hospital
-Hörbart Nynäshamn,Hörbart Nynäshamn,Region Stockholm,,hospital
-Hörbart Stockholm,Hörbart Stockholm,Region Stockholm,,hospital
-Hörbart Södertälje,Hörbart Södertälje,Region Stockholm,,hospital
-Lyhörd Östermalm,Lyhörd Östermalm,Region Stockholm,,hospital
-Suavis Hörsel Solna Business Park,Suavis Hörsel Solna Business Park,Region Stockholm,,hospital
-Suavis Hörsel Älvsjö,Suavis Hörsel Älvsjö,Region Stockholm,,hospital
-Capio Ögon Globen,"Capio Ögon, Globen",Region Stockholm,,hospital
-Capio Ögon Östermalmsgatan 45,"Capio Ögon, Östermalmsgatan 45",Region Stockholm,,hospital
-Europakliniken Stockholm,"Europakliniken, Stockholm",Region Stockholm,,hospital
-Novius Ögonklinik Stockholm,"Novius Ögonklinik, Stockholm",Region Stockholm,,hospital
-Stockholms ögonklinik (Sophiahemmet),Stockholms ögonklinik (Sophiahemmet),Region Stockholm,,hospital
-Ögonläkargruppen Odenplan,Ögonläkargruppen Odenplan,Region Stockholm,,hospital
-Danderyd Öron- näs- och halsklinik,"Danderyd Öron-, näs- och halsklinik",Region Stockholm,,hospital
-Sollentuna Specialistklinik Öron Näsa Hals,Sollentuna Specialistklinik Öron Näsa Hals,Region Stockholm,,hospital
-Öron Näsa Hals Capio Globen Stockholm,"Öron Näsa Hals, Capio Globen, Stockholm",Region Stockholm,,hospital
-Öronklin. Sophiahemmet,Öronklin. Sophiahemmet,Region Stockholm,,hospital
-Elisabethsjukhuset Uppsala,"Elisabethsjukhuset, Uppsala",Region Uppsala,,hospital
-Akademiska sjukhuset Uppsala (Neurokirurgidivisionen),"Akademiska sjukhuset, Uppsala (Neurokirurgidivisionen)",Region Uppsala,,hospital
-Aleris Ögonmottagning Uppsala,"Aleris Ögonmottagning, Uppsala",Region Uppsala,,hospital
-Capio Medocular Uppsala,"Capio Medocular, Uppsala",Region Uppsala,,hospital
-Centrumkliniken Uppsala,"Centrumkliniken, Uppsala",Region Uppsala,,hospital
-Optalmica ögonmottagning Enköping,"Optalmica ögonmottagning, Enköping",Region Uppsala,,hospital
-StarrMedica,StarrMedica,Region Uppsala,,hospital
-Hörselvården Hagfors Torsby,Hörselvården Hagfors/Torsby,Region Värmland,,hospital
-Specialistmottagning Kristinehamn,Specialistmottagning Kristinehamn,Region Värmland,,hospital
-Specialistmottagning Säffle,Specialistmottagning Säffle,Region Värmland,,hospital
-Länssjukhuset Härnösand-Sundsvall,Länssjukhuset Härnösand-Sundsvall,Region Västernorrland,,hospital
-Angereds Närsjukhus Göteborg,"Angereds Närsjukhus, Göteborg",Västra Götalandsregionen,,hospital
-Capio Lundby Närsjukhus Göteborg,"Capio Lundby Närsjukhus, Göteborg",Västra Götalandsregionen,,hospital
-Frölunda specialistsjukhus Göteborg,"Frölunda specialistsjukhus, Göteborg",Västra Götalandsregionen,,hospital
-NU-sjukvården (NÄL och Uddevalla),NU-sjukvården (NÄL och Uddevalla),Västra Götalandsregionen,,hospital
-Capio Movement AB (VGR),Capio Movement AB (VGR),Västra Götalandsregionen,,hospital
-Göteborg Hand Center,Göteborg Hand Center,Västra Götalandsregionen,,hospital
-Carlanderska Göteborg,"Carlanderska, Göteborg",Västra Götalandsregionen,,hospital
-Art Clinic Göteborg,"Art Clinic, Göteborg",Västra Götalandsregionen,,hospital
-GHP Ortho Center Göteborg,GHP Ortho Center Göteborg,Västra Götalandsregionen,,hospital
-Spine Center Göteborg,"Spine Center, Göteborg",Västra Götalandsregionen,,hospital
-Hörseldiagnostik och rehabilitering Fyrbodal,"Hörseldiagnostik och rehabilitering, Fyrbodal",Västra Götalandsregionen,,hospital
-Hörseldiagnostik och rehabilitering Göteborg,"Hörseldiagnostik och rehabilitering, Göteborg",Västra Götalandsregionen,,hospital
-Hörseldiagnostik och rehabilitering Skaraborg,"Hörseldiagnostik och rehabilitering, Skaraborg",Västra Götalandsregionen,,hospital
-Hörseldiagnostik och rehabilitering Södra Älvsborg,"Hörseldiagnostik och rehabilitering, Södra Älvsborg",Västra Götalandsregionen,,hospital
-Aveny Ögonklinik Göteborg,"Aveny Ögonklinik, Göteborg",Västra Götalandsregionen,,hospital
-Capio Medocular Göteborg,"Capio Medocular, Göteborg",Västra Götalandsregionen,,hospital
-Scanloc Healthcare AB Scanloc Ögon,Scanloc Healthcare AB/Scanloc Ögon,Västra Götalandsregionen,,hospital
-Citysjukhuset +7 Göteborg,"Citysjukhuset +7, Göteborg",Västra Götalandsregionen,,hospital
-Capio Läkargruppen Örebro,"Capio Läkargruppen, Örebro",Region Örebro län,,hospital
-Helsa Specialistvård Linköping,"Helsa Specialistvård, Linköping",Region Östergötland,,hospital
-Capio Specialistvård Motala,Capio Specialistvård Motala,Region Östergötland,,hospital
-Aleris Specialistvård Bollnäs,Aleris Specialistvård Bollnäs,Region Gävleborg,,hospital
-Ortopedspecialisterna i Halland Falkenberg,"Ortopedspecialisterna i Halland, Falkenberg",Region Halland,,hospital
-Tudorklinken (Specialistmottagning) Halmstad,"Tudorklinken (Specialistmottagning), Halmstad",Region Halland,,hospital
-Medicin Direkt Östersund,"Medicin Direkt, Östersund",Region Jämtland Härjedalen,,hospital
-Aleris Ortopedi Ängelholm,"Aleris Ortopedi, Ängelholm",Region Skåne,,hospital
-Aleris Obesitas Skåne Malmö &amp; Kristianstad,"Aleris Obesitas Skåne, Malmö &amp; Kristianstad",Region Skåne,,hospital
-Axess Medica Simrishamn,"Axess Medica, Simrishamn",Region Skåne,,hospital
-Capio Citykliniken Lund Clemenstorget,"Capio Citykliniken, Lund Clemenstorget",Region Skåne,,hospital
-Österlenkirurgin AB Simrishamn,"Österlenkirurgin AB, Simrishamn",Region Skåne,,hospital
-Scandinavian Venous Center Malmö,"Scandinavian Venous Center, Malmö",Region Skåne,,hospital
-Capio Citykliniken Kristianstad (Specialistmottagning),Capio Citykliniken Kristianstad (Specialistmottagning),Region Skåne,,hospital
-Audionommottagning  Hälsovägen Helsingborg (Audionomerna),Audionommottagning  Hälsovägen Helsingborg (Audionomerna),Region Skåne,,hospital
-Audionommottagning Nedre Eneborgsvägen Helsingborg (Audionova),"Audionommottagning Nedre Eneborgsvägen, Helsingborg (Audionova)",Region Skåne,,hospital
-Audionommottagning Båstad (Audionomerna),"Audionommottagning, Båstad (Audionomerna)",Region Skåne,,hospital
-Audionommottagning Helsingborg (Din Hörsel),"Audionommottagning, Helsingborg (Din Hörsel)",Region Skåne,,hospital
-Audionommottagning Hässleholm (Din Hörsel),"Audionommottagning, Hässleholm (Din Hörsel)",Region Skåne,,hospital
-Audionommottagning Höllviken (Audika),"Audionommottagning, Höllviken (Audika)",Region Skåne,,hospital
-Audionommottagning Malmö (Audiovox),"Audionommottagning, Malmö (Audiovox)",Region Skåne,,hospital
-Audionommottagning Malmö (Din Hörsel),"Audionommottagning, Malmö (Din Hörsel)",Region Skåne,,hospital
-Audionommottagning Trelleborg (Audika),"Audionommottagning, Trelleborg (Audika)",Region Skåne,,hospital
-Audionommottagning Åhus (Åhus Hörsel &amp;Konsult),"Audionommottagning, Åhus (Åhus Hörsel &amp;Konsult)",Region Skåne,,hospital
-Audionommottagning Helsingborg (Audiovox),"Audionommottagning, Helsingborg (Audiovox)",Region Skåne,,hospital
-Audionommottagning Höganäs (Audiovox),"Audionommottagning, Höganäs (Audiovox)",Region Skåne,,hospital
-Audionommottagning Svalöv (Audiovox),"Audionommottagning, Svalöv (Audiovox)",Region Skåne,,hospital
-Audionommottagning Norra Stationsgatan Hässleholm (Audionova),"Audionommottagning Norra Stationsgatan, Hässleholm (Audionova)",Region Skåne,,hospital
-Audionommottagning Rådmansgatan Malmö (Audionova),"Audionommottagning Rådmansgatan, Malmö (Audionova)",Region Skåne,,hospital
-Audionommottagning Åstorp (Audiovox),"Audionommottagning, Åstorp (Audiovox)",Region Skåne,,hospital
-Audionommottagning Halmstad (Auditus),"Audionommottagning, Halmstad (Auditus)",Region Skåne,,hospital
-Aktys ögonklinik Malmö  - Vårdval,"Aktys ögonklinik, Malmö  - Vårdval",Region Skåne,,hospital
-Aktys Ögonklinik Malmö - Vårdval,"Aktys Ögonklinik, Malmö - Vårdval",Region Skåne,,hospital
-Aleris Helsingborg - Vårdval,Aleris Helsingborg - Vårdval,Region Skåne,,hospital
-Aleris Kristianstad - Vårdval,Aleris Kristianstad - Vårdval,Region Skåne,,hospital
-Aleris Malmö - Vårdval,Aleris Malmö - Vårdval,Region Skåne,,hospital
-Aleris Ögon Ängelholm - Vårdval,Aleris Ögon Ängelholm - Vårdval,Region Skåne,,hospital
-Capio Specialisthuset Eslöv - Vårdval,Capio Specialisthuset Eslöv - Vårdval,Region Skåne,,hospital
-Globen Ögonklinik AB - Vårdval,Globen Ögonklinik AB - Vårdval,Region Skåne,,hospital
-Lasarettet i Ystad - Vårdval,Lasarettet i Ystad - Vårdval,Region Skåne,,hospital
-Agata Ögonklinik Malmö - Vårdval,"Agata Ögonklinik, Malmö - Vårdval",Region Skåne,,hospital
-Ögoncentrum Annedal i Lund - Vårdval,Ögoncentrum Annedal i Lund - Vårdval,Region Skåne,,hospital
-Katarakta Lund,"Katarakta, Lund",Region Skåne,,hospital
-Ögonlasern i Lund - Vårdval,Ögonlasern i Lund - Vårdval,Region Skåne,,hospital
-Aleris Specialistvård Handen Stockholm,"Aleris Specialistvård Handen, Stockholm",Region Stockholm,,hospital
-Aleris Specialistvård Järva Stockholm,"Aleris Specialistvård Järva, Stockholm",Region Stockholm,,hospital
-OrthoCenter (Löwenströmska),OrthoCenter (Löwenströmska),Region Stockholm,,hospital
-Hudkliniken Sophiahemmet,"Hudkliniken, Sophiahemmet",Region Stockholm,,hospital
-Hudmottagning Farsta läkarhus,"Hudmottagning, Farsta läkarhus",Region Stockholm,,hospital
-Hudmottagning Vårbergs vårdcentral,"Hudmottagning, Vårbergs vårdcentral",Region Stockholm,,hospital
-Läkarhuset Utsikten (Praktikertjänst),Läkarhuset Utsikten (Praktikertjänst),Region Stockholm,,hospital
-Capio Artro Clinic Stockholm,"Capio Artro Clinic, Stockholm",Region Stockholm,,hospital
-Avesina Södermalm Stockholm,"Avesina Södermalm, Stockholm",Region Stockholm,,hospital
-HÖRAB Skärholmen,HÖRAB Skärholmen,Region Stockholm,,hospital
-Hörselexperten Stockholm Vällingby,Hörselexperten Stockholm Vällingby,Region Stockholm,,hospital
-Hörselexperten Sundbyberg,Hörselexperten Sundbyberg,Region Stockholm,,hospital
-Sports Medicin AB Umeå,"Sports Medicin AB, Umeå",Region Västerbotten,,hospital
-Cevita Care AB (VGR),Cevita Care AB (VGR),Västra Götalandsregionen,,hospital
-Centrum för Obesitas Skaraborg,Centrum för Obesitas/Skaraborg,Västra Götalandsregionen,,hospital
-Sahlgrenska Centrum för Obesitas,"Sahlgrenska, Centrum för Obesitas",Västra Götalandsregionen,,hospital
-Göteborgs Urologmottagning,Göteborgs Urologmottagning,Västra Götalandsregionen,,hospital
-Audionommottagning Höllviken (HörBra),"Audionommottagning, Höllviken (HörBra)",Region Skåne,,hospital
-Ellenta Ögonklinik Kristianstad – Vårdval,"Ellenta Ögonklinik, Kristianstad – Vårdval",Region Skåne,,hospital
-Rexis Ögoncentrum Ystad – Vårdval,"Rexis Ögoncentrum, Ystad – Vårdval",Region Skåne,,hospital
-Capio ögon,Capio ögon,Region Jönköpings län,,hospital
-Eye Clinic Scandinavia AB,Eye Clinic Scandinavia AB,Region Jönköpings län,,hospital
-Ögon Memira Eyecenter A6 Jönköping,Ögon Memira Eyecenter A6 Jönköping,Region Jönköpings län,,hospital
-Centralsjukhuset i Kristianstad,Centralsjukhuset i Kristianstad,Region Skåne,,hospital
-Skånes universitetssjukhus Lund,Skånes universitetssjukhus Lund,Region Skåne,,hospital
-Skånes universitetssjukhus Malmö,Skånes universitetssjukhus Malmö,Region Skåne,,hospital
-Arbetsplatskod för tandvård,Arbetsplatskod för tandvård,Region Stockholm,,hospital
-Capio Solna,Capio Solna,Region Stockholm,,hospital
-Karolinska Universitetssjukhuset Huddinge,Karolinska Universitetssjukhuset Huddinge,Region Stockholm,,hospital
-Urologifocus i Stockholm AB,Urologifocus i Stockholm AB,Region Stockholm,,hospital
-Vårdgivare Skärholmens centrum,Vårdgivare Skärholmens centrum,Region Stockholm,,hospital
-Nacka Närsjukhus   Ektorps vårdcentral,Nacka Närsjukhus   Ektorps vårdcentral,Region Stockholm,,hospital
-Narva Kirurg Center,Narva Kirurg Center,Region Stockholm,,hospital
-Primärvård  Boo vårdcentral,Primärvård  Boo vårdcentral,Region Stockholm,,hospital
-Sophiahemmet,Sophiahemmet,Region Stockholm,,hospital
-Arbetsplatskod för förskrivare på Produk,Arbetsplatskod för förskrivare på Produk,Region Stockholm,,hospital
-Täby Närsjukhus,Täby Närsjukhus,Region Stockholm,,hospital
-Bromma vårdcentral,Bromma vårdcentral,Region Stockholm,,hospital
-Globen,Globen,Region Stockholm,,hospital
-Kvartersakuten Surbrunnsgatan,Kvartersakuten Surbrunnsgatan,Region Stockholm,,hospital
-Medocular Strandvägskliniken  ögonavtal,Medocular Strandvägskliniken  ögonavtal,Region Stockholm,,hospital
-Medsyn Ögonklinik Sverige AB,Medsyn Ögonklinik Sverige AB,Region Stockholm,,hospital
-PR Vård AB,PR Vård AB,Region Stockholm,,hospital
-S:t Eriks sjukhus,S:t Eriks sjukhus,Region Stockholm,,hospital
-Team LKC  ögonavtal,Team LKC  ögonavtal,Region Stockholm,,hospital
-Danderyd privata ÖNH,Danderyd privata ÖNH,Region Stockholm,,hospital
-HLM Serafen,HLM Serafen,Region Stockholm,,hospital
-Privata sjukgymnaster;,Privata sjukgymnaster;,Region Stockholm,,hospital
-Sollentuna sjukhus Vårdcentral;,Sollentuna sjukhus Vårdcentral;,Region Stockholm,,hospital
-Kullbergska sjukhuset,Kullbergska sjukhuset,Region Sörmland,,hospital
-Sjukhuset i Säffle,Sjukhuset i Säffle,Region Värmland,,hospital
-Sundsvalls Sjukhus,Sundsvalls Sjukhus,Region Västernorrland,,hospital
-Sjukhusen i Väster,Sjukhusen i Väster,Västra Götalandsregionen,,hospital
-NU-sjukvården,NU-sjukvården,Västra Götalandsregionen,,hospital
-Habilitering & Hälsa,Habilitering & Hälsa,Västra Götalandsregionen,,hospital
-Älvsjö dövpsykiatriska,Älvsjö dövpsykiatriska,Region Stockholm,,hospital
-Capio Läkargruppen,Capio Läkargruppen,Region Örebro län,,hospital
-Barn- och ungdomshabiliteringen Gästrikland,"Barn- och ungdomshabiliteringen, Gästrikland",Region Gävleborg,,hospital
-Barn- och ungdomshabiliteringen Hälsingland,"Barn- och ungdomshabiliteringen, Hälsingland",Region Gävleborg,,hospital
-Barn- och ungdomspsykiatrimottagning Södertull,Barn- och ungdomspsykiatrimottagning Södertull,Region Gävleborg,,hospital
-Länsenheten för ätstörningar Gävle,"Länsenheten för ätstörningar, Gävle",Region Gävleborg,,hospital
-Ambulans Diagnostik och Hälsa,"Ambulans, Diagnostik och Hälsa",Region Halland,,hospital
-Aktiv Medicin,Aktiv Medicin,Region Stockholm,,hospital
-AMI STADSHAGEN  LÄKARMOTTAGNINGEN,AMI STADSHAGEN  LÄKARMOTTAGNINGEN,Region Stockholm,,hospital
-Avesina Rehab Kista Hörselrehab,Avesina Rehab Kista Hörselrehab,Region Stockholm,,hospital
-Avesina Rehab Norrtälje Hörselrehab,Avesina Rehab Norrtälje Hörselrehab,Region Stockholm,,hospital
-Avesina Rehab Södertälje Hörselrehab,Avesina Rehab Södertälje Hörselrehab,Region Stockholm,,hospital
-BochB Husläkare et al AB,BochB Husläkare et al AB,Region Stockholm,,hospital
-BrommaAkuten,BrommaAkuten,Region Stockholm,,hospital
-BUP Norrtälje,BUP Norrtälje,Region Stockholm,,hospital
-Farsta Ortoped och kirurgmottagning,Farsta Ortoped och kirurgmottagning,Region Stockholm,,hospital
-Habiliteringscentrum Liljeholmen Barn,Habiliteringscentrum Liljeholmen Barn,Region Stockholm,,hospital
-HAGSTRÖM BARBRO  NEUROGYMNASTERNA A,"HAGSTRÖM, BARBRO  NEUROGYMNASTERNA A",Region Stockholm,,hospital
-Hallunda PBU,Hallunda PBU,Region Stockholm,,hospital
-Handens Närsjukhus   vårdcentral,Handens Närsjukhus   vårdcentral,Region Stockholm,,hospital
-Haninge PBU,Haninge PBU,Region Stockholm,,hospital
-Huddinge PBU,Huddinge PBU,Region Stockholm,,hospital
-Hökarängens PBU,Hökarängens PBU,Region Stockholm,,hospital
-Hörselskadades insköpscentral,Hörselskadades insköpscentral,Region Stockholm,,hospital
-Jakobsbergs PBU;,Jakobsbergs PBU;,Region Stockholm,,hospital
-JAKOBSBERGS SJUKHUS VÅRDCENTRAL,JAKOBSBERGS SJUKHUS VÅRDCENTRAL,Region Stockholm,,hospital
-Järva PBU,Järva PBU,Region Stockholm,,hospital
-Kista BUMM,Kista BUMM,Region Stockholm,,hospital
-Kungsholmens PBU;,Kungsholmens PBU;,Region Stockholm,,hospital
-Mariafastigheterna Ekens vårdcentral,Mariafastigheterna Ekens vårdcentral,Region Stockholm,,hospital
-Nacka PBU,Nacka PBU,Region Stockholm,,hospital
-ORTOPEDISKA HUSET,ORTOPEDISKA HUSET,Region Stockholm,,hospital
-Ortopedisk vård. Löwenströmska,Ortopedisk vård. Löwenströmska,Region Stockholm,,hospital
-PBU Globen,PBU Globen,Region Stockholm,,hospital
-Privat mottagning,Privat mottagning,Region Stockholm,,hospital
-Privat-privata eheter,Privat-privata eheter,Region Stockholm,,hospital
-Sabbatsbergsområdet,Sabbatsbergsområdet,Region Stockholm,,hospital
-Skärholmens PBU,Skärholmens PBU,Region Stockholm,,hospital
-Sollentuna PBU;,Sollentuna PBU;,Region Stockholm,,hospital
-Solna PBU,Solna PBU,Region Stockholm,,hospital
-Södertälje PBU,Södertälje PBU,Region Stockholm,,hospital
-Tibra Medica Vårdcentral,Tibra Medica Vårdcentral,Region Stockholm,,hospital
-Täby PBU,Täby PBU,Region Stockholm,,hospital
-TÄBY SJUKHUS VÅRDCENTRAL,TÄBY SJUKHUS VÅRDCENTRAL,Region Stockholm,,hospital
-Vårdenheter vid Söderhallarna Medborgarplatsen,Vårdenheter vid Söderhallarna Medborgarplatsen,Region Stockholm,,hospital
-Vällingby PBU,Vällingby PBU,Region Stockholm,,hospital
-Österåkers PBU,Österåkers PBU,Region Stockholm,,hospital
-Härnösands Sjukhus,Härnösands Sjukhus,Region Västernorrland,,hospital
-Västmanlands sjukhus Fagersta,Västmanlands sjukhus Fagersta,Region Västmanland,,hospital
-Psykiatripartners,Psykiatripartners,Region Östergötland,,hospital
-Barn- och ungdomspsykiatrimottagning Gula Villan G,Barn- och ungdomspsykiatrimottagning Gula Villan G,Region Gävleborg,,hospital
-Mandometerkliniken,Mandometerkliniken,Region Stockholm,,hospital
-Sara Parsifar Specialistläkare allmänmedicin,Sara Parsifar Specialistläkare allmänmedicin,Region Halland,,hospital
-Allmän psykiatri  Tyresö psykiatri,Allmän psykiatri  Tyresö psykiatri,Region Stockholm,,hospital
-Beckomberga sjukhus,Beckomberga sjukhus,Region Stockholm,,hospital
-Beroendecentrum; Beroendemott Liljeholmsberget,Beroendecentrum; Beroendemott Liljeholmsberget,Region Stockholm,,hospital
-BeroendeCentrum Nord Kista,"BeroendeCentrum Nord, Kista",Region Stockholm,,hospital
-Bromma-Ekerö allmänpsykiatriska mottagningen Norra Stockholms psykiatri,"Bromma-Ekerö allmänpsykiatriska mottagningen, Norra Stockholms psykiatri",Region Stockholm,,hospital
-Capio Psykiatri Stockholm,Capio Psykiatri Stockholm,Region Stockholm,,hospital
-Danderyds psykiatriska mottagning,Danderyds psykiatriska mottagning,Region Stockholm,,hospital
-Ektorps vårdcentral,Ektorps vårdcentral,Region Stockholm,,hospital
-Farsta-Skarpnäck Psykiatrin Södra,Farsta-Skarpnäck Psykiatrin Södra,Region Stockholm,,hospital
-Fittja vårdcentral   Fittja psykiatri,Fittja vårdcentral   Fittja psykiatri,Region Stockholm,,hospital
-Haninge Lokala Mottagning;,Haninge Lokala Mottagning;,Region Stockholm,,hospital
-Haninge psykiatri Ankaret,Haninge psykiatri Ankaret,Region Stockholm,,hospital
-Hässelbymottagningen,Hässelbymottagningen,Region Stockholm,,hospital
-Karolinska Universitetssjukhuset Solna,Karolinska Universitetssjukhuset Solna,Region Stockholm,,hospital
-Kronans vårdcentral,Kronans vårdcentral,Region Stockholm,,hospital
-Lidingö beroendemottagning,Lidingö beroendemottagning,Region Stockholm,,hospital
-Liljeholmens psykiatri,Liljeholmens psykiatri,Region Stockholm,,hospital
-Maria ungdom,Maria ungdom,Region Stockholm,,hospital
-Norrtulls sjukhus,Norrtulls sjukhus,Region Stockholm,,hospital
-Nynäshamns psykiatri,Nynäshamns psykiatri,Region Stockholm,,hospital
-Nynäshamns sjukhus   vårdcentral,Nynäshamns sjukhus   vårdcentral,Region Stockholm,,hospital
-Psykiatri Kista;,Psykiatri Kista;,Region Stockholm,,hospital
-Psykiatri Nordväst psykosmottagning,Psykiatri Nordväst psykosmottagning,Region Stockholm,,hospital
-Psykiatri Rinkeby,Psykiatri Rinkeby,Region Stockholm,,hospital
-Psykiatriska mottagning Norrtälje,Psykiatriska mottagning Norrtälje,Region Stockholm,,hospital
-Psykiatri Spånga,Psykiatri Spånga,Region Stockholm,,hospital
-Psykiatri Sydväst,Psykiatri Sydväst,Region Stockholm,,hospital
-Psykoterapimottagning;,Psykoterapimottagning;,Region Stockholm,,hospital
-Rosenlunds sjukhus,Rosenlunds sjukhus,Region Stockholm,,hospital
-Serafens sjukhem,Serafens sjukhem,Region Stockholm,,hospital
-Sigtuna Vuxenenhet,Sigtuna Vuxenenhet,Region Stockholm,,hospital
-Soc. förvaltningen,Soc. förvaltningen,Region Stockholm,,hospital
-Solna Beroendevård  Social förvaltningen,Solna Beroendevård  Social förvaltningen,Region Stockholm,,hospital
-SSO psykiatri adm,SSO psykiatri adm,Region Stockholm,,hospital
-SSO Psykområde Vantör;,SSO Psykområde Vantör;,Region Stockholm,,hospital
-Torsviks vårdcentral  Husläkarmottagning,Torsviks vårdcentral  Husläkarmottagning,Region Stockholm,,hospital
-Täby psykiatriska klinik,Täby psykiatriska klinik,Region Stockholm,,hospital
-Upplands Väsby Soc. läkarmottagning,Upplands Väsby Soc. läkarmottagning,Region Stockholm,,hospital
-Vårdgivare i Farsta och Gubbängen,Vårdgivare i Farsta och Gubbängen,Region Stockholm,,hospital
-Vård S:t Göransgatan,Vård S:t Göransgatan,Region Stockholm,,hospital
-Värmdö psykiatri,Värmdö psykiatri,Region Stockholm,,hospital
-ÅKERSBERGA SJUKHUS VÅRDCENTRAL,ÅKERSBERGA SJUKHUS VÅRDCENTRAL,Region Stockholm,,hospital
-Årsta-Vantörs psykiatriska verksamhet,Årsta-Vantörs psykiatriska verksamhet,Region Stockholm,,hospital
-Älvsjö vårdcentral   Älvsjö psykiatri,Älvsjö vårdcentral   Älvsjö psykiatri,Region Stockholm,,hospital
-Östermalm Lidingö psykiatriska mottagning,Östermalm Lidingö psykiatriska mottagning,Region Stockholm,,hospital
-Affecta Psykiatrimottagning,Affecta Psykiatrimottagning,Region Halland,,hospital
-TINA-mottagningen AB,TINA-mottagningen AB,Region Halland,,hospital
-Barn- och ungdomspsykiatrisk mottagning Växjö Ljungby,"Barn- och ungdomspsykiatrisk mottagning, Växjö/Ljungby",Region Kronoberg,,hospital
-ABC Ortopedi,ABC Ortopedi,Region Stockholm,,hospital
-Barnläkarna i Vallentuna BUMM,Barnläkarna i Vallentuna BUMM,Region Stockholm,,hospital
-Specialistcenter S:t Johanniskliniken,Specialistcenter S:t Johanniskliniken,Region Uppsala,,hospital
-SJUKHUSET I KRISTINEHAMN,SJUKHUSET I KRISTINEHAMN,Region Värmland,,hospital
-VÅRDCENTRALEN HAGFORS,VÅRDCENTRALEN HAGFORS,Region Värmland,,hospital
-Västmanlands Sjukhus,Västmanlands Sjukhus,Region Västmanland,,hospital
-Västmanlands Sjukhus Köping,Västmanlands Sjukhus Köping,Region Västmanland,,hospital
-NU-Sjukvården,NU-Sjukvården,Västra Götalandsregionen,,hospital
-Prostata Scandinavia AB,Prostata Scandinavia AB,Region Jönköpings län,,hospital
-Söderhamns sjukhus,Söderhamns sjukhus,Region Gävleborg,,hospital
-Skånes universitetssjukhus,Skånes universitetssjukhus,Region Skåne,,hospital
-Lauritsen Christian;,"Lauritsen, Christian;",Region Stockholm,,hospital
-Täby beroendemottagning,Täby beroendemottagning,Region Stockholm,,hospital
-Capio Lundby Specialistsjukhus,Capio Lundby Specialistsjukhus,Västra Götalandsregionen,,hospital
-Capio Movement,Capio Movement,Västra Götalandsregionen,,hospital
-DBI Västerås Ortopedi,DBI Västerås Ortopedi,Region Västmanland,,hospital
-Optalmica,Optalmica,Region Västmanland,,hospital
-Urologi Specialistmottagningen,Urologi Specialistmottagningen,Region Västmanland,,hospital
-Kungsbacka Hudläkarmottagning,Kungsbacka Hudläkarmottagning,Region Halland,,hospital
-Primärvård  Bollmora vårdcentral,Primärvård  Bollmora vårdcentral,Region Stockholm,,hospital
-Öron Näs & Hals i City,"Öron, Näs & Hals i City",Region Västmanland,,hospital
-Borås Nya Urologmottagning,Borås Nya Urologmottagning,Västra Götalandsregionen,,hospital
-KAN-psykologerna,KAN-psykologerna,Västra Götalandsregionen,,hospital
-WeMind,WeMind,Västra Götalandsregionen,,hospital
-Art Clinic,Art Clinic,Västra Götalandsregionen,,hospital
-HandCenter Göteborg,HandCenter Göteborg,Västra Götalandsregionen,,hospital
-Kan-psykologerna Göteborg,"Kan-psykologerna, Göteborg",Västra Götalandsregionen,,hospital
-WeMind Psykiatri,WeMind Psykiatri,Västra Götalandsregionen,,hospital
-SSO Psykiatri Söderled - Farsta,SSO Psykiatri Söderled - Farsta,Region Stockholm,,hospital
-Bromma husläkarmottagning,Bromma husläkarmottagning,Region Stockholm,,hospital
+id,label,parent,municipality,region_level,,
+Akademiska sjukhuset Uppsala,"Akademiska sjukhuset, Uppsala",Region Uppsala,Uppsala kommun,hospital,,
+Alingsås lasarett,Alingsås lasarett,Västra Götalandsregionen,Alingsås kommun,hospital,,
+Avesta lasarett,Avesta lasarett,Region Dalarna,Avesta kommun,hospital,,
+Blekingesjukhuset Karlshamn och Karlskrona,"Blekingesjukhuset, Karlshamn och Karlskrona",Region Blekinge,Karlskrona kommun,hospital,,
+Bollnäs sjukhus,Bollnäs sjukhus,Region Gävleborg,Bollnäs kommun,hospital,,
+Borlänge sjukhus,Borlänge sjukhus,Region Dalarna,Borlänge kommun,hospital,,
+Brommageriatriken - Stiftelsen Stockholms sjukhem,Brommageriatriken - Stiftelsen Stockholms sjukhem,Region Stockholm,Stockholms kommun,hospital,,
+Capio Geriatrik - Dalens sjukhus,Capio Geriatrik - Dalens sjukhus,Region Stockholm,Stockholms kommun,hospital,,
+Capio Geriatrik Nacka,"Capio Geriatrik, Nacka",Region Stockholm,Nacka kommun,hospital,,
+Capio S:t Görans sjukhus Stockholm,"Capio S:t Görans sjukhus, Stockholm",Region Stockholm,Stockholms kommun,hospital,,
+Capio Sjukhuset Simrishamn,Capio Sjukhuset Simrishamn,Region Skåne,Simrishamns kommun,hospital,,
+Carema Närsjukvård Simrishamn,Carema Närsjukvård Simrishamn,Region Skåne,Simrishamns kommun,hospital,,
+Centrallasarettet Växjö,Centrallasarettet Växjö,Region Kronoberg,Växjö kommun,hospital,,
+Centralsjukhuset Kristianstad,Centralsjukhuset Kristianstad,Region Skåne,Kristianstads kommun,hospital,,
+Centralsjukhuset Karlstad,"Centralsjukhuset, Karlstad",Region Värmland,Karlstads kommun,hospital,,
+Danderyds sjukhus AB Stockholm,"Danderyds sjukhus AB, Stockholm",Region Stockholm,Danderyds kommun,hospital,,
+Danderydsgeriatriken - Danderyds sjuhkus (SLSO),Danderydsgeriatriken - Danderyds sjuhkus (SLSO),Region Stockholm,Danderyds kommun,hospital,,
+Ersta sjukhus Stockholm,"Ersta sjukhus, Stockholm",Region Stockholm,Stockholms kommun,hospital,,
+Falu lasarett,Falu lasarett,Region Dalarna,Falu kommun,hospital,,
+Gällivare sjukhus,Gällivare sjukhus,Region Norrbotten,Gällivare kommun,hospital,,
+Gävle sjukhus,Gävle sjukhus,Region Gävleborg,Gävle kommun,hospital,,
+Hallands sjukhus (Halmstad Varberg Kungsbacka),Hallands sjukhus (Halmstad/Varberg/Kungsbacka),Region Halland,Halmstads kommun,hospital,,
+Hallands sjukhus Halmstad,Hallands sjukhus Halmstad,Region Halland,Halmstads kommun,hospital,,
+Hallands sjukhus Kungsbacka,Hallands sjukhus Kungsbacka,Region Halland,Kungsbacka kommun,hospital,,
+Hallands sjukhus Varberg,Hallands sjukhus Varberg,Region Halland,Varbergs kommun,hospital,,
+Handengeriatriken - Praktikertjänst N.Ä.R.A,Handengeriatriken - Praktikertjänst N.Ä.R.A,Region Stockholm,Haninge kommun,hospital,,
+Helsingborgs lasarett,Helsingborgs lasarett,Region Skåne,Helsingborgs kommun,hospital,,
+Huddingegeriatriken - Karolinska Universitetssjukhuset,Huddingegeriatriken - Karolinska Universitetssjukhuset,Region Stockholm,Huddinge kommun,hospital,,
+Hudiksvalls sjukhus,Hudiksvalls sjukhus,Region Gävleborg,Hudiksvalls kommun,hospital,,
+Hälso- och sjukvården i Finspång,Hälso- och sjukvården i Finspång,Region Östergötland,Finspångs kommun,hospital,,
+Höglandssjukhuset Eksjö-Nässjö,"Höglandssjukhuset, Eksjö-Nässjö",Region Jönköpings län,Nässjö kommun,hospital,,
+Jakobsbergsgeriatriken - Jakobsbergs sjukhus (SLSO),Jakobsbergsgeriatriken - Jakobsbergs sjukhus (SLSO),Region Stockholm,Järfälla kommun,hospital,,
+Kalix sjukhus,Kalix sjukhus,Region Norrbotten,Kalix kommun,hospital,,
+Karlskoga lasarett,Karlskoga lasarett,Region Örebro län,Karlskoga kommun,hospital,,
+Karolinska universitetssjukhuset Huddinge och Solna,"Karolinska universitetssjukhuset, Huddinge och Solna",Region Stockholm,Solna kommun,hospital,,
+Kiruna sjukhus,Kiruna sjukhus,Region Norrbotten,Kiruna kommun,hospital,,
+Kullbergska sjukhuset Katrineholm,"Kullbergska sjukhuset, Katrineholm",Region Sörmland,Katrineholms kommun,hospital,,
+Kungälvs sjukhus,Kungälvs sjukhus,Västra Götalandsregionen,Kungälvs kommun,hospital,,
+Lasarettet Trelleborg,Lasarettet Trelleborg,Region Skåne,Trelleborgs kommun,hospital,,
+Lasarettet i Enköping,Lasarettet i Enköping,Region Uppsala,Enköpings kommun,hospital,,
+Lasarettet i Landskrona,Lasarettet i Landskrona,Region Skåne,Landskrona kommun,hospital,,
+Lasarettet i Motala,Lasarettet i Motala,Region Östergötland,Motala kommun,hospital,,
+Lasarettet i Ystad,Lasarettet i Ystad,Region Skåne,Ystads kommun,hospital,,
+Lindesbergs lasarett,Lindesbergs lasarett,Region Örebro län,Lindesbergs kommun,hospital,,
+Ljungby lasarett,Ljungby lasarett,Region Kronoberg,Ljungby kommun,hospital,,
+Ludvika lasarett,Ludvika lasarett,Region Dalarna,Ludvika kommun,hospital,,
+Lycksele lasarett,Lycksele lasarett,Region Västerbotten,Lycksele kommun,hospital,,
+Länssjukhuset Ryhov Jönköping,"Länssjukhuset Ryhov, Jönköping",Region Jönköpings län,Jönköpings kommun,hospital,,
+Länssjukhuset Sundsvall-Härnösand,Länssjukhuset Sundsvall-Härnösand,Region Västernorrland,Sundsvalls kommun,hospital,,
+Länssjukhuset i Kalmar,Länssjukhuset i Kalmar,Region Kalmar län,Kalmar kommun,hospital,,
+Löwetgeriatriken - Praktikertjänst N.Ä.R.A,Löwetgeriatriken - Praktikertjänst N.Ä.R.A,Region Stockholm,Upplands Väsby kommun,hospital,,
+Mora lasarett,Mora lasarett,Region Dalarna,Mora kommun,hospital,,
+Mälarsjukhuset Eskilstuna,"Mälarsjukhuset, Eskilstuna",Region Sörmland,Eskilstuna kommun,hospital,,
+NU-sjukvården (NÄL Uddevalla Dalsland Lysekil Strömstad),"NU-sjukvården (NÄL, Uddevalla, Dalsland, Lysekil, Strömstad)",Västra Götalandsregionen,Trollhättans kommun,hospital,,
+Nackageriatriken - Aleris AB,Nackageriatriken - Aleris AB,Region Stockholm,Nacka kommun,hospital,,
+Norrlands Universitetssjukhus Umeå,"Norrlands Universitetssjukhus, Umeå",Region Västerbotten,Umeå kommun,hospital,,
+Norrtälje sjukhus,Norrtälje sjukhus,Region Stockholm,Norrtälje kommun,hospital,,
+Nyköpings lasarett,Nyköpings lasarett,Region Sörmland,Nyköpings kommun,hospital,,
+Nynäshamns Geriatrik - Legevisitten,Nynäshamns Geriatrik - Legevisitten,Region Stockholm,Nynäshamns kommun,hospital,,
+Närsjukhuset Simrishamn Praktikertjänst,"Närsjukhuset Simrishamn, Praktikertjänst",Region Skåne,Simrishamns kommun,hospital,,
+Oskarshamns sjukhus,Oskarshamns sjukhus,Region Kalmar län,Oskarshamns kommun,hospital,,
+Piteå sjukhus,Piteå sjukhus,Region Norrbotten,Piteå kommun,hospital,,
+S:t Eriks ögonsjukhus Stockholm,"S:t Eriks ögonsjukhus, Stockholm",Region Stockholm,Stockholms kommun,hospital,,
+Sahlgrenska Universitetssjukhuset,Sahlgrenska Universitetssjukhuset,Västra Götalandsregionen,Göteborgs kommun,hospital,,
+Sjukhuset i Arvika,Sjukhuset i Arvika,Region Värmland,Arvika kommun,hospital,,
+Sjukhuset i Hässleholm,Sjukhuset i Hässleholm,Region Skåne,Hässleholms kommun,hospital,,
+Sjukhuset i Torsby,Sjukhuset i Torsby,Region Värmland,Torsby kommun,hospital,,
+Skaraborgs sjukhus (Skövde Falköping Mariestad Lidköping),"Skaraborgs sjukhus (Skövde, Falköping, Mariestad, Lidköping)",Västra Götalandsregionen,Skövde kommun,hospital,,
+Skellefteå lasarett,Skellefteå lasarett,Region Västerbotten,Skellefteå kommun,hospital,,
+Skånes Universitetssjukhus Lund och Malmö,"Skånes Universitetssjukhus, Lund och Malmö",Region Skåne,Malmö kommun,hospital,,
+Sollefteå sjukhus,Sollefteå sjukhus,Region Västernorrland,Sollefteå kommun,hospital,,
+Stockholmsgeriatriken - Sabbatsbergs sjukhus (SLSO),Stockholmsgeriatriken - Sabbatsbergs sjukhus (SLSO),Region Stockholm,Stockholms kommun,hospital,,
+Sunderby sjukhus,Sunderby sjukhus,Region Norrbotten,Luleå kommun,hospital,,
+Södersjukhuset Stockholm,"Södersjukhuset, Stockholm",Region Stockholm,Stockholms kommun,hospital,,
+Södertälje sjukhus AB,Södertälje sjukhus AB,Region Stockholm,Södertälje kommun,hospital,,
+Södertäljegeriatriken - Södertälje sjukhus,Södertäljegeriatriken - Södertälje sjukhus,Region Stockholm,Södertälje kommun,hospital,,
+Södra Älvsborgs Sjukhus Borås Skene,"Södra Älvsborgs Sjukhus, Borås/Skene",Västra Götalandsregionen,Borås kommun,hospital,,
+Universitetssjukhuset i Linköping,Universitetssjukhuset i Linköping,Region Östergötland,Linköpings kommun,hospital,,
+Universitetssjukhuset i Örebro,Universitetssjukhuset i Örebro,Region Örebro län,Örebro kommun,hospital,,
+Visby lasarett,Visby lasarett,Region Gotland,Gotlands kommun,hospital,,
+Vrinnevisjukhuset i Norrköping,Vrinnevisjukhuset i Norrköping,Region Östergötland,Norrköpings kommun,hospital,,
+Värnamo sjukhus,Värnamo sjukhus,Region Jönköpings län,Värnamo kommun,hospital,,
+Västerviks sjukhus,Västerviks sjukhus,Region Kalmar län,Västerviks kommun,hospital,,
+Västmanlands sjukhus Köping,Västmanlands sjukhus Köping,Region Västmanland,Köpings kommun,hospital,,
+Västmanlands sjukhus Sala,Västmanlands sjukhus Sala,Region Västmanland,Sala kommun,hospital,,
+Västmanlands sjukhus Västerås,Västmanlands sjukhus Västerås,Region Västmanland,Västerås kommun,hospital,,
+Ängelholms sjukhus,Ängelholms sjukhus,Region Skåne,Ängelholms kommun,hospital,,
+Örnsköldsviks sjukhus,Örnsköldsviks sjukhus,Region Västernorrland,Örnsköldsviks kommun,hospital,,
+Östersunds sjukhus,Östersunds sjukhus,Region Jämtland Härjedalen,Östersunds kommun,hospital,,
+Psykiatriförvaltningen Blekinge,"Psykiatriförvaltningen, Blekinge",Region Blekinge,Karlskrona kommun,hospital,,
+Säters sjukhus,Säters sjukhus,Region Dalarna,Säters kommun,hospital,,
+Psykiatri Halland,Psykiatri Halland,Region Halland,Halmstads kommun,hospital,,
+Vuxenpsykiatriska kliniken Växjö Ljungby,"Vuxenpsykiatriska kliniken, Växjö/Ljungby",Region Kronoberg,Växjö kommun,hospital,,
+Psykiatri Region Skåne,"Psykiatri, Region Skåne",Region Skåne,Malmö kommun,hospital,,
+Beroendecentrum Stockholm (SLSO),"Beroendecentrum, Stockholm (SLSO)",Region Stockholm,Stockholms kommun,hospital,,
+Capio Maria (Psykiatrisk mellanvård),Capio Maria (Psykiatrisk mellanvård),Region Stockholm,Stockholms kommun,hospital,,
+Psykiatri Nordvästra Stockholm (SLSO),Psykiatri Nordvästra Stockholm (SLSO),Region Stockholm,Stockholms kommun,hospital,,
+Psykiatri Norra Stockholm (SLSO),Psykiatri Norra Stockholm (SLSO),Region Stockholm,Stockholms kommun,hospital,,
+Psykiatri Sydvästra Stockholm (SLSO),Psykiatri Sydvästra Stockholm (SLSO),Region Stockholm,Stockholms kommun,hospital,,
+Psykiatri Södra Stockholm (SLSO),Psykiatri Södra Stockholm (SLSO),Region Stockholm,Stockholms kommun,hospital,,
+Psykiatricentrum Södertälje (SLSO),Psykiatricentrum Södertälje (SLSO),Region Stockholm,Södertälje kommun,hospital,,
+Psykiatri barn och unga Västmanland,"Psykiatri, barn och unga, Västmanland",Region Västmanland,Västerås kommun,hospital,,
+Psykiatri vuxna Västmanland,"Psykiatri, vuxna, Västmanland",Region Västmanland,Västerås kommun,hospital,,
+Psykiatriförvaltningen Örebro läns landsting,Psykiatriförvaltningen Örebro läns landsting,Region Örebro län,Örebro kommun,hospital,,
+Kirurgi- och ortopediverksamhet Gävleborg,"Kirurgi- och ortopediverksamhet, Gävleborg",Region Gävleborg,,hospital,,
+Sandvikens sjukhus,Sandvikens sjukhus,Region Gävleborg,,hospital,,
+Hallandskustens hudmottagning Kungsbacka,"Hallandskustens hudmottagning, Kungsbacka",Region Halland,,hospital,,
+Hudläkare Dr Harald Salim Halmstad,"Hudläkare Dr Harald Salim, Halmstad",Region Halland,,hospital,,
+Ögoncentrum Varberg,"Ögoncentrum, Varberg",Region Halland,,hospital,,
+A6 Ögonklinik Jönköping,"A6 Ögonklinik, Jönköping",Region Jönköpings län,,hospital,,
+Capio Medocular Jönköping,"Capio Medocular, Jönköping",Region Jönköpings län,,hospital,,
+Eye Clinic Värnamo,"Eye Clinic, Värnamo",Region Jönköpings län,,hospital,,
+Tranås Ögonklinik AB,Tranås Ögonklinik AB,Region Jönköpings län,,hospital,,
+Capio Specialisthuset Eslöv,Capio Specialisthuset Eslöv,Region Skåne,,hospital,,
+Praktikertjänst Närsjukhus Simrishamn,Praktikertjänst Närsjukhus Simrishamn,Region Skåne,,hospital,,
+GB Obesitas Skåne,GB Obesitas Skåne,Region Skåne,,hospital,,
+Specialistläkarna i Lund,Specialistläkarna i Lund,Region Skåne,,hospital,,
+Åderbråckscentrum Malmö,"Åderbråckscentrum, Malmö",Region Skåne,,hospital,,
+Audionommottagning Helsingborg (Hörselsnäckan),"Audionommottagning, Helsingborg (Hörselsnäckan)",Region Skåne,,hospital,,
+Audionommottagning Carl Gustafväg Malmö (Audionova),"Audionommottagning Carl Gustafväg, Malmö (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Erikslustvägen Malmö (Audika),"Audionommottagning Erikslustvägen, Malmö (Audika)",Region Skåne,,hospital,,
+Audionommottagning Gasverksgatan Helsingborg (Audionova),"Audionommottagning Gasverksgatan, Helsingborg (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Rundelsgatan Malmö (Audika),"Audionommottagning Rundelsgatan, Malmö (Audika)",Region Skåne,,hospital,,
+Audionommottagning Vattugatan Hässleholm (Audionova),"Audionommottagning Vattugatan, Hässleholm (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Båstad (Audionova),"Audionommottagning, Båstad (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Eslöv (Audionova),"Audionommottagning, Eslöv (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Helsingborg (Audika),"Audionommottagning, Helsingborg (Audika)",Region Skåne,,hospital,,
+Audionommottagning Helsingborg (Audionomcentrum),"Audionommottagning, Helsingborg (Audionomcentrum)",Region Skåne,,hospital,,
+Audionommottagning Höganäs (Audionova),"Audionommottagning, Höganäs (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Höör (Audionomcentrum),"Audionommottagning, Höör (Audionomcentrum)",Region Skåne,,hospital,,
+Audionommottagning Klippan (Hörselspecialisten),"Audionommottagning, Klippan (Hörselspecialisten)",Region Skåne,,hospital,,
+Audionommottagning Kristianstad (Audika),"Audionommottagning, Kristianstad (Audika)",Region Skåne,,hospital,,
+Audionommottagning Kristianstad (Audionova),"Audionommottagning, Kristianstad (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Kristianstad (Auditus),"Audionommottagning, Kristianstad (Auditus)",Region Skåne,,hospital,,
+Audionommottagning Landskrona,"Audionommottagning, Landskrona",Region Skåne,,hospital,,
+Audionommottagning Landskrona (Audika),"Audionommottagning, Landskrona (Audika)",Region Skåne,,hospital,,
+Audionommottagning Lomma (Audionomservice),"Audionommottagning, Lomma (Audionomservice)",Region Skåne,,hospital,,
+Audionommottagning Lund (Audika),"Audionommottagning, Lund (Audika)",Region Skåne,,hospital,,
+Audionommottagning Lund (Audionova),"Audionommottagning, Lund (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Lund (Region Skåne),"Audionommottagning, Lund (Region Skåne)",Region Skåne,,hospital,,
+Audionommottagning Malmö (Audiomera),"Audionommottagning, Malmö (Audiomera)",Region Skåne,,hospital,,
+Audionommottagning Malmö (Audionomservice),"Audionommottagning, Malmö (Audionomservice)",Region Skåne,,hospital,,
+Audionommottagning Simrishamn (Audionova),"Audionommottagning, Simrishamn (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Trelleborg (Audionova),"Audionommottagning, Trelleborg (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Ystad (Audionova),"Audionommottagning, Ystad (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Ystad (Hörselsnäckan),"Audionommottagning, Ystad (Hörselsnäckan)",Region Skåne,,hospital,,
+Audionommottagning Åhus (Auditus),"Audionommottagning, Åhus (Auditus)",Region Skåne,,hospital,,
+Audionommottagning Ängelholm (Audika),"Audionommottagning, Ängelholm (Audika)",Region Skåne,,hospital,,
+Audionommottagning Ängelholm (Audionova),"Audionommottagning, Ängelholm (Audionova)",Region Skåne,,hospital,,
+Audionomottagning Örkelljunga (Min audionom),Audionomottagning Örkelljunga (Min audionom),Region Skåne,,hospital,,
+Kvinna Stockholm Gynmottagning,Kvinna Stockholm Gynmottagning,Region Skåne,,hospital,,
+Suavis hörselkinik Barkarby,Suavis hörselkinik Barkarby,Region Skåne,,hospital,,
+Aleris Specialistvård Ögon Helsingborg - Vårdval,Aleris Specialistvård Ögon Helsingborg - Vårdval,Region Skåne,,hospital,,
+Aleris Specialistvård Ögon Kristianstad - Vårdval,Aleris Specialistvård Ögon Kristianstad - Vårdval,Region Skåne,,hospital,,
+Aleris Specialistvård Ögon Malmö - Vårdval,Aleris Specialistvård Ögon Malmö - Vårdval,Region Skåne,,hospital,,
+Aleris Specialistvård Ögon Ystad - Vårdval,Aleris Specialistvård Ögon Ystad - Vårdval,Region Skåne,,hospital,,
+Aleris Specialistvård Ögon Ängelholm - Vårdval,Aleris Specialistvård Ögon Ängelholm - Vårdval,Region Skåne,,hospital,,
+Brandts Ögonklinik Malmö - Vårdval,"Brandts Ögonklinik, Malmö - Vårdval",Region Skåne,,hospital,,
+Capio Medocular Malmö - Vårdval,Capio Medocular Malmö - Vårdval,Region Skåne,,hospital,,
+Centralsjukhuset Kristianstad - Vårdval,Centralsjukhuset Kristianstad - Vårdval,Region Skåne,,hospital,,
+Ellenta ögonklinik,Ellenta ögonklinik,Region Skåne,,hospital,,
+Helsingborgs lasarett - Vårdval,Helsingborgs lasarett - Vårdval,Region Skåne,,hospital,,
+Lasarettet i Landskrona - Vårdval,Lasarettet i Landskrona - Vårdval,Region Skåne,,hospital,,
+Skånes universitetssjukhus - Vårdval,Skånes universitetssjukhus - Vårdval,Region Skåne,,hospital,,
+Vårda Ögonklinik Malmö - Vårdval,"Vårda Ögonklinik, Malmö - Vårdval",Region Skåne,,hospital,,
+Vårda Österlen Ystad - Vårdval,"Vårda Österlen, Ystad - Vårdval",Region Skåne,,hospital,,
+Ögonläkarna i Eslöv - Vårdval,Ögonläkarna i Eslöv - Vårdval,Region Skåne,,hospital,,
+Ögonoperationskliniken YADD Lund - Vårdval,"Ögonoperationskliniken YADD, Lund - Vårdval",Region Skåne,,hospital,,
+Ellenbogens ÖNH Malmö,"Ellenbogens ÖNH, Malmö",Region Skåne,,hospital,,
+Gynekologkliniken Stockholm (S:t Görans sjukhus),Gynekologkliniken Stockholm (S:t Görans sjukhus),Region Stockholm,,hospital,,
+Livio Fertilitetscentrum Gärdet,Livio Fertilitetscentrum Gärdet,Region Stockholm,,hospital,,
+UltraGyn Sophiahemmet,"UltraGyn, Sophiahemmet",Region Stockholm,,hospital,,
+Aleris Specialistvård Sabbatsberg Stockholm,"Aleris Specialistvård Sabbatsberg, Stockholm",Region Stockholm,,hospital,,
+Aleris Specialistvård Täby Stockholm,"Aleris Specialistvård Täby, Stockholm",Region Stockholm,,hospital,,
+Aleris Specialistvård Nacka,"Aleris Specialistvård, Nacka",Region Stockholm,,hospital,,
+Farsta Ortopedi och kirurgmottagning,Farsta Ortopedi och kirurgmottagning,Region Stockholm,,hospital,,
+Liljeholmens ortopedi,Liljeholmens ortopedi,Region Stockholm,,hospital,,
+Nya Karolinska universitetsjukhuset Solna,"Nya Karolinska universitetsjukhuset, Solna",Region Stockholm,,hospital,,
+CKKirurgkliniken,CKKirurgkliniken,Region Stockholm,,hospital,,
+Övervikstcentrum,Övervikstcentrum,Region Stockholm,,hospital,,
+Huddinge ortopedi,Huddinge ortopedi,Region Stockholm,,hospital,,
+Ryggkirurgiska kliniken Strängnäs,"Ryggkirurgiska kliniken, Strängnäs",Region Stockholm,,hospital,,
+Ryggkirurgiskt Centrum Stockholm (RKC),"Ryggkirurgiskt Centrum, Stockholm (RKC)",Region Stockholm,,hospital,,
+Stockholms Spine Center,Stockholms Spine Center,Region Stockholm,,hospital,,
+Audika City Stockholm,"Audika City, Stockholm",Region Stockholm,,hospital,,
+Audika Dalagatan,Audika Dalagatan,Region Stockholm,,hospital,,
+Audika Farsta,Audika Farsta,Region Stockholm,,hospital,,
+Audika Jakobsberg,Audika Jakobsberg,Region Stockholm,,hospital,,
+Audika Kista Stockholm,"Audika Kista, Stockholm",Region Stockholm,,hospital,,
+Audika Kungsholmen Stockholm,"Audika Kungsholmen, Stockholm",Region Stockholm,,hospital,,
+Audika Nacka,Audika Nacka,Region Stockholm,,hospital,,
+Audika Ringvägen,Audika Ringvägen,Region Stockholm,,hospital,,
+Audika Rotebro,Audika Rotebro,Region Stockholm,,hospital,,
+Audika Sibyllegatan,Audika Sibyllegatan,Region Stockholm,,hospital,,
+Audika Skärholmen,Audika Skärholmen,Region Stockholm,,hospital,,
+Audika Solna,Audika Solna,Region Stockholm,,hospital,,
+Audika Norrtälje,"Audika, Norrtälje",Region Stockholm,,hospital,,
+Audika Södertälje,"Audika, Södertälje",Region Stockholm,,hospital,,
+Audika Upplands Väsby,"Audika, Upplands Väsby",Region Stockholm,,hospital,,
+Audionomkliniken Serafen,Audionomkliniken Serafen,Region Stockholm,,hospital,,
+AudioNova City,AudioNova City,Region Stockholm,,hospital,,
+AudioNova Danderyd,AudioNova Danderyd,Region Stockholm,,hospital,,
+AudioNova Globen,AudioNova Globen,Region Stockholm,,hospital,,
+AudioNova Nacka,AudioNova Nacka,Region Stockholm,,hospital,,
+AudioNova Södermalm,AudioNova Södermalm,Region Stockholm,,hospital,,
+AudioNova Täby,AudioNova Täby,Region Stockholm,,hospital,,
+AudioNova Östermalm,AudioNova Östermalm,Region Stockholm,,hospital,,
+Eartech Bromma hörselklinik,Eartech Bromma hörselklinik,Region Stockholm,,hospital,,
+Eartech Dalens sjukhus hörselklinik,Eartech Dalens sjukhus hörselklinik,Region Stockholm,,hospital,,
+Eartech Lidingö hörselklinik,Eartech Lidingö hörselklinik,Region Stockholm,,hospital,,
+Eartech Odenplan Hörselklinik,Eartech Odenplan Hörselklinik,Region Stockholm,,hospital,,
+Eartech Sollentuna Hörselklinik,Eartech Sollentuna Hörselklinik,Region Stockholm,,hospital,,
+Eartech Täby Hörselklinik,Eartech Täby Hörselklinik,Region Stockholm,,hospital,,
+Hearing hörselrehabilitering,Hearing hörselrehabilitering,Region Stockholm,,hospital,,
+HÖR Stockholm Nacka,HÖR Stockholm Nacka,Region Stockholm,,hospital,,
+HÖRAB City,HÖRAB City,Region Stockholm,,hospital,,
+HÖRAB Åkersberga,HÖRAB Åkersberga,Region Stockholm,,hospital,,
+Hörbart Norrtälje,Hörbart Norrtälje,Region Stockholm,,hospital,,
+Hörbart Nynäshamn,Hörbart Nynäshamn,Region Stockholm,,hospital,,
+Hörbart Stockholm,Hörbart Stockholm,Region Stockholm,,hospital,,
+Hörbart Södertälje,Hörbart Södertälje,Region Stockholm,,hospital,,
+Lyhörd Östermalm,Lyhörd Östermalm,Region Stockholm,,hospital,,
+Suavis Hörsel Solna Business Park,Suavis Hörsel Solna Business Park,Region Stockholm,,hospital,,
+Suavis Hörsel Älvsjö,Suavis Hörsel Älvsjö,Region Stockholm,,hospital,,
+Capio Ögon Globen,"Capio Ögon, Globen",Region Stockholm,,hospital,,
+Capio Ögon Östermalmsgatan 45,"Capio Ögon, Östermalmsgatan 45",Region Stockholm,,hospital,,
+Europakliniken Stockholm,"Europakliniken, Stockholm",Region Stockholm,,hospital,,
+Novius Ögonklinik Stockholm,"Novius Ögonklinik, Stockholm",Region Stockholm,,hospital,,
+Stockholms ögonklinik (Sophiahemmet),Stockholms ögonklinik (Sophiahemmet),Region Stockholm,,hospital,,
+Ögonläkargruppen Odenplan,Ögonläkargruppen Odenplan,Region Stockholm,,hospital,,
+Danderyd Öron- näs- och halsklinik,"Danderyd Öron-, näs- och halsklinik",Region Stockholm,,hospital,,
+Sollentuna Specialistklinik Öron Näsa Hals,Sollentuna Specialistklinik Öron Näsa Hals,Region Stockholm,,hospital,,
+Öron Näsa Hals Capio Globen Stockholm,"Öron Näsa Hals, Capio Globen, Stockholm",Region Stockholm,,hospital,,
+Öronklin. Sophiahemmet,Öronklin. Sophiahemmet,Region Stockholm,,hospital,,
+Elisabethsjukhuset Uppsala,"Elisabethsjukhuset, Uppsala",Region Uppsala,,hospital,,
+Akademiska sjukhuset Uppsala (Neurokirurgidivisionen),"Akademiska sjukhuset, Uppsala (Neurokirurgidivisionen)",Region Uppsala,,hospital,,
+Aleris Ögonmottagning Uppsala,"Aleris Ögonmottagning, Uppsala",Region Uppsala,,hospital,,
+Capio Medocular Uppsala,"Capio Medocular, Uppsala",Region Uppsala,,hospital,,
+Centrumkliniken Uppsala,"Centrumkliniken, Uppsala",Region Uppsala,,hospital,,
+Optalmica ögonmottagning Enköping,"Optalmica ögonmottagning, Enköping",Region Uppsala,,hospital,,
+StarrMedica,StarrMedica,Region Uppsala,,hospital,,
+Hörselvården Hagfors Torsby,Hörselvården Hagfors/Torsby,Region Värmland,,hospital,,
+Specialistmottagning Kristinehamn,Specialistmottagning Kristinehamn,Region Värmland,,hospital,,
+Specialistmottagning Säffle,Specialistmottagning Säffle,Region Värmland,,hospital,,
+Länssjukhuset Härnösand-Sundsvall,Länssjukhuset Härnösand-Sundsvall,Region Västernorrland,,hospital,,
+Angereds Närsjukhus Göteborg,"Angereds Närsjukhus, Göteborg",Västra Götalandsregionen,,hospital,,
+Capio Lundby Närsjukhus Göteborg,"Capio Lundby Närsjukhus, Göteborg",Västra Götalandsregionen,,hospital,,
+Frölunda specialistsjukhus Göteborg,"Frölunda specialistsjukhus, Göteborg",Västra Götalandsregionen,,hospital,,
+NU-sjukvården (NÄL och Uddevalla),NU-sjukvården (NÄL och Uddevalla),Västra Götalandsregionen,,hospital,,
+Capio Movement AB (VGR),Capio Movement AB (VGR),Västra Götalandsregionen,,hospital,,
+Göteborg Hand Center,Göteborg Hand Center,Västra Götalandsregionen,,hospital,,
+Carlanderska Göteborg,"Carlanderska, Göteborg",Västra Götalandsregionen,,hospital,,
+Art Clinic Göteborg,"Art Clinic, Göteborg",Västra Götalandsregionen,,hospital,,
+GHP Ortho Center Göteborg,GHP Ortho Center Göteborg,Västra Götalandsregionen,,hospital,,
+Spine Center Göteborg,"Spine Center, Göteborg",Västra Götalandsregionen,,hospital,,
+Hörseldiagnostik och rehabilitering Fyrbodal,"Hörseldiagnostik och rehabilitering, Fyrbodal",Västra Götalandsregionen,,hospital,,
+Hörseldiagnostik och rehabilitering Göteborg,"Hörseldiagnostik och rehabilitering, Göteborg",Västra Götalandsregionen,,hospital,,
+Hörseldiagnostik och rehabilitering Skaraborg,"Hörseldiagnostik och rehabilitering, Skaraborg",Västra Götalandsregionen,,hospital,,
+Hörseldiagnostik och rehabilitering Södra Älvsborg,"Hörseldiagnostik och rehabilitering, Södra Älvsborg",Västra Götalandsregionen,,hospital,,
+Aveny Ögonklinik Göteborg,"Aveny Ögonklinik, Göteborg",Västra Götalandsregionen,,hospital,,
+Capio Medocular Göteborg,"Capio Medocular, Göteborg",Västra Götalandsregionen,,hospital,,
+Scanloc Healthcare AB Scanloc Ögon,Scanloc Healthcare AB/Scanloc Ögon,Västra Götalandsregionen,,hospital,,
+Citysjukhuset +7 Göteborg,"Citysjukhuset +7, Göteborg",Västra Götalandsregionen,,hospital,,
+Capio Läkargruppen Örebro,"Capio Läkargruppen, Örebro",Region Örebro län,,hospital,,
+Helsa Specialistvård Linköping,"Helsa Specialistvård, Linköping",Region Östergötland,,hospital,,
+Capio Specialistvård Motala,Capio Specialistvård Motala,Region Östergötland,,hospital,,
+Aleris Specialistvård Bollnäs,Aleris Specialistvård Bollnäs,Region Gävleborg,,hospital,,
+Ortopedspecialisterna i Halland Falkenberg,"Ortopedspecialisterna i Halland, Falkenberg",Region Halland,,hospital,,
+Tudorklinken (Specialistmottagning) Halmstad,"Tudorklinken (Specialistmottagning), Halmstad",Region Halland,,hospital,,
+Medicin Direkt Östersund,"Medicin Direkt, Östersund",Region Jämtland Härjedalen,,hospital,,
+Aleris Ortopedi Ängelholm,"Aleris Ortopedi, Ängelholm",Region Skåne,,hospital,,
+Aleris Obesitas Skåne Malmö &amp, Kristianstad,"Aleris Obesitas Skåne, Malmö &amp; Kristianstad",Region Skåne,,hospital,
+Axess Medica Simrishamn,"Axess Medica, Simrishamn",Region Skåne,,hospital,,
+Capio Citykliniken Lund Clemenstorget,"Capio Citykliniken, Lund Clemenstorget",Region Skåne,,hospital,,
+Österlenkirurgin AB Simrishamn,"Österlenkirurgin AB, Simrishamn",Region Skåne,,hospital,,
+Scandinavian Venous Center Malmö,"Scandinavian Venous Center, Malmö",Region Skåne,,hospital,,
+Capio Citykliniken Kristianstad (Specialistmottagning),Capio Citykliniken Kristianstad (Specialistmottagning),Region Skåne,,hospital,,
+Audionommottagning  Hälsovägen Helsingborg (Audionomerna),Audionommottagning  Hälsovägen Helsingborg (Audionomerna),Region Skåne,,hospital,,
+Audionommottagning Nedre Eneborgsvägen Helsingborg (Audionova),"Audionommottagning Nedre Eneborgsvägen, Helsingborg (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Båstad (Audionomerna),"Audionommottagning, Båstad (Audionomerna)",Region Skåne,,hospital,,
+Audionommottagning Helsingborg (Din Hörsel),"Audionommottagning, Helsingborg (Din Hörsel)",Region Skåne,,hospital,,
+Audionommottagning Hässleholm (Din Hörsel),"Audionommottagning, Hässleholm (Din Hörsel)",Region Skåne,,hospital,,
+Audionommottagning Höllviken (Audika),"Audionommottagning, Höllviken (Audika)",Region Skåne,,hospital,,
+Audionommottagning Malmö (Audiovox),"Audionommottagning, Malmö (Audiovox)",Region Skåne,,hospital,,
+Audionommottagning Malmö (Din Hörsel),"Audionommottagning, Malmö (Din Hörsel)",Region Skåne,,hospital,,
+Audionommottagning Trelleborg (Audika),"Audionommottagning, Trelleborg (Audika)",Region Skåne,,hospital,,
+Audionommottagning Åhus (Åhus Hörsel &amp,Konsult),"Audionommottagning, Åhus (Åhus Hörsel &amp;Konsult)",Region Skåne,,hospital,
+Audionommottagning Helsingborg (Audiovox),"Audionommottagning, Helsingborg (Audiovox)",Region Skåne,,hospital,,
+Audionommottagning Höganäs (Audiovox),"Audionommottagning, Höganäs (Audiovox)",Region Skåne,,hospital,,
+Audionommottagning Svalöv (Audiovox),"Audionommottagning, Svalöv (Audiovox)",Region Skåne,,hospital,,
+Audionommottagning Norra Stationsgatan Hässleholm (Audionova),"Audionommottagning Norra Stationsgatan, Hässleholm (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Rådmansgatan Malmö (Audionova),"Audionommottagning Rådmansgatan, Malmö (Audionova)",Region Skåne,,hospital,,
+Audionommottagning Åstorp (Audiovox),"Audionommottagning, Åstorp (Audiovox)",Region Skåne,,hospital,,
+Audionommottagning Halmstad (Auditus),"Audionommottagning, Halmstad (Auditus)",Region Skåne,,hospital,,
+Aktys ögonklinik Malmö  - Vårdval,"Aktys ögonklinik, Malmö  - Vårdval",Region Skåne,,hospital,,
+Aktys Ögonklinik Malmö - Vårdval,"Aktys Ögonklinik, Malmö - Vårdval",Region Skåne,,hospital,,
+Aleris Helsingborg - Vårdval,Aleris Helsingborg - Vårdval,Region Skåne,,hospital,,
+Aleris Kristianstad - Vårdval,Aleris Kristianstad - Vårdval,Region Skåne,,hospital,,
+Aleris Malmö - Vårdval,Aleris Malmö - Vårdval,Region Skåne,,hospital,,
+Aleris Ögon Ängelholm - Vårdval,Aleris Ögon Ängelholm - Vårdval,Region Skåne,,hospital,,
+Capio Specialisthuset Eslöv - Vårdval,Capio Specialisthuset Eslöv - Vårdval,Region Skåne,,hospital,,
+Globen Ögonklinik AB - Vårdval,Globen Ögonklinik AB - Vårdval,Region Skåne,,hospital,,
+Lasarettet i Ystad - Vårdval,Lasarettet i Ystad - Vårdval,Region Skåne,,hospital,,
+Agata Ögonklinik Malmö - Vårdval,"Agata Ögonklinik, Malmö - Vårdval",Region Skåne,,hospital,,
+Ögoncentrum Annedal i Lund - Vårdval,Ögoncentrum Annedal i Lund - Vårdval,Region Skåne,,hospital,,
+Katarakta Lund,"Katarakta, Lund",Region Skåne,,hospital,,
+Ögonlasern i Lund - Vårdval,Ögonlasern i Lund - Vårdval,Region Skåne,,hospital,,
+Aleris Specialistvård Handen Stockholm,"Aleris Specialistvård Handen, Stockholm",Region Stockholm,,hospital,,
+Aleris Specialistvård Järva Stockholm,"Aleris Specialistvård Järva, Stockholm",Region Stockholm,,hospital,,
+OrthoCenter (Löwenströmska),OrthoCenter (Löwenströmska),Region Stockholm,,hospital,,
+Hudkliniken Sophiahemmet,"Hudkliniken, Sophiahemmet",Region Stockholm,,hospital,,
+Hudmottagning Farsta läkarhus,"Hudmottagning, Farsta läkarhus",Region Stockholm,,hospital,,
+Hudmottagning Vårbergs vårdcentral,"Hudmottagning, Vårbergs vårdcentral",Region Stockholm,,hospital,,
+Läkarhuset Utsikten (Praktikertjänst),Läkarhuset Utsikten (Praktikertjänst),Region Stockholm,,hospital,,
+Capio Artro Clinic Stockholm,"Capio Artro Clinic, Stockholm",Region Stockholm,,hospital,,
+Avesina Södermalm Stockholm,"Avesina Södermalm, Stockholm",Region Stockholm,,hospital,,
+HÖRAB Skärholmen,HÖRAB Skärholmen,Region Stockholm,,hospital,,
+Hörselexperten Stockholm Vällingby,Hörselexperten Stockholm Vällingby,Region Stockholm,,hospital,,
+Hörselexperten Sundbyberg,Hörselexperten Sundbyberg,Region Stockholm,,hospital,,
+Sports Medicin AB Umeå,"Sports Medicin AB, Umeå",Region Västerbotten,,hospital,,
+Cevita Care AB (VGR),Cevita Care AB (VGR),Västra Götalandsregionen,,hospital,,
+Centrum för Obesitas Skaraborg,Centrum för Obesitas/Skaraborg,Västra Götalandsregionen,,hospital,,
+Sahlgrenska Centrum för Obesitas,"Sahlgrenska, Centrum för Obesitas",Västra Götalandsregionen,,hospital,,
+Göteborgs Urologmottagning,Göteborgs Urologmottagning,Västra Götalandsregionen,,hospital,,
+Audionommottagning Höllviken (HörBra),"Audionommottagning, Höllviken (HörBra)",Region Skåne,,hospital,,
+Ellenta Ögonklinik Kristianstad – Vårdval,"Ellenta Ögonklinik, Kristianstad – Vårdval",Region Skåne,,hospital,,
+Rexis Ögoncentrum Ystad – Vårdval,"Rexis Ögoncentrum, Ystad – Vårdval",Region Skåne,,hospital,,
+Capio ögon,Capio ögon,Region Jönköpings län,,hospital,,
+Eye Clinic Scandinavia AB,Eye Clinic Scandinavia AB,Region Jönköpings län,,hospital,,
+Ögon Memira Eyecenter A6 Jönköping,Ögon Memira Eyecenter A6 Jönköping,Region Jönköpings län,,hospital,,
+Centralsjukhuset i Kristianstad,Centralsjukhuset i Kristianstad,Region Skåne,,hospital,,
+Skånes universitetssjukhus Lund,Skånes universitetssjukhus Lund,Region Skåne,,hospital,,
+Skånes universitetssjukhus Malmö,Skånes universitetssjukhus Malmö,Region Skåne,,hospital,,
+Arbetsplatskod för tandvård,Arbetsplatskod för tandvård,Region Stockholm,,hospital,,
+Capio Solna,Capio Solna,Region Stockholm,,hospital,,
+Karolinska Universitetssjukhuset Huddinge,Karolinska Universitetssjukhuset Huddinge,Region Stockholm,,hospital,,
+Urologifocus i Stockholm AB,Urologifocus i Stockholm AB,Region Stockholm,,hospital,,
+Vårdgivare Skärholmens centrum,Vårdgivare Skärholmens centrum,Region Stockholm,,hospital,,
+Nacka Närsjukhus   Ektorps vårdcentral,Nacka Närsjukhus   Ektorps vårdcentral,Region Stockholm,,hospital,,
+Narva Kirurg Center,Narva Kirurg Center,Region Stockholm,,hospital,,
+Primärvård  Boo vårdcentral,Primärvård  Boo vårdcentral,Region Stockholm,,hospital,,
+Sophiahemmet,Sophiahemmet,Region Stockholm,,hospital,,
+Arbetsplatskod för förskrivare på Produk,Arbetsplatskod för förskrivare på Produk,Region Stockholm,,hospital,,
+Täby Närsjukhus,Täby Närsjukhus,Region Stockholm,,hospital,,
+Bromma vårdcentral,Bromma vårdcentral,Region Stockholm,,hospital,,
+Globen,Globen,Region Stockholm,,hospital,,
+Kvartersakuten Surbrunnsgatan,Kvartersakuten Surbrunnsgatan,Region Stockholm,,hospital,,
+Medocular Strandvägskliniken  ögonavtal,Medocular Strandvägskliniken  ögonavtal,Region Stockholm,,hospital,,
+Medsyn Ögonklinik Sverige AB,Medsyn Ögonklinik Sverige AB,Region Stockholm,,hospital,,
+PR Vård AB,PR Vård AB,Region Stockholm,,hospital,,
+S:t Eriks sjukhus,S:t Eriks sjukhus,Region Stockholm,,hospital,,
+Team LKC  ögonavtal,Team LKC  ögonavtal,Region Stockholm,,hospital,,
+Danderyd privata ÖNH,Danderyd privata ÖNH,Region Stockholm,,hospital,,
+HLM Serafen,HLM Serafen,Region Stockholm,,hospital,,
+Privata sjukgymnaster,,Privata sjukgymnaster,,Region Stockholm,,hospital
+Sollentuna sjukhus Vårdcentral,,Sollentuna sjukhus Vårdcentral,,Region Stockholm,,hospital
+Kullbergska sjukhuset,Kullbergska sjukhuset,Region Sörmland,,hospital,,
+Sjukhuset i Säffle,Sjukhuset i Säffle,Region Värmland,,hospital,,
+Sundsvalls Sjukhus,Sundsvalls Sjukhus,Region Västernorrland,,hospital,,
+Sjukhusen i Väster,Sjukhusen i Väster,Västra Götalandsregionen,,hospital,,
+NU-sjukvården,NU-sjukvården,Västra Götalandsregionen,,hospital,,
+Habilitering & Hälsa,Habilitering & Hälsa,Västra Götalandsregionen,,hospital,,
+Älvsjö dövpsykiatriska,Älvsjö dövpsykiatriska,Region Stockholm,,hospital,,
+Capio Läkargruppen,Capio Läkargruppen,Region Örebro län,,hospital,,
+Barn- och ungdomshabiliteringen Gästrikland,"Barn- och ungdomshabiliteringen, Gästrikland",Region Gävleborg,,hospital,,
+Barn- och ungdomshabiliteringen Hälsingland,"Barn- och ungdomshabiliteringen, Hälsingland",Region Gävleborg,,hospital,,
+Barn- och ungdomspsykiatrimottagning Södertull,Barn- och ungdomspsykiatrimottagning Södertull,Region Gävleborg,,hospital,,
+Länsenheten för ätstörningar Gävle,"Länsenheten för ätstörningar, Gävle",Region Gävleborg,,hospital,,
+Ambulans Diagnostik och Hälsa,"Ambulans, Diagnostik och Hälsa",Region Halland,,hospital,,
+Aktiv Medicin,Aktiv Medicin,Region Stockholm,,hospital,,
+AMI STADSHAGEN  LÄKARMOTTAGNINGEN,AMI STADSHAGEN  LÄKARMOTTAGNINGEN,Region Stockholm,,hospital,,
+Avesina Rehab Kista Hörselrehab,Avesina Rehab Kista Hörselrehab,Region Stockholm,,hospital,,
+Avesina Rehab Norrtälje Hörselrehab,Avesina Rehab Norrtälje Hörselrehab,Region Stockholm,,hospital,,
+Avesina Rehab Södertälje Hörselrehab,Avesina Rehab Södertälje Hörselrehab,Region Stockholm,,hospital,,
+BochB Husläkare et al AB,BochB Husläkare et al AB,Region Stockholm,,hospital,,
+BrommaAkuten,BrommaAkuten,Region Stockholm,,hospital,,
+BUP Norrtälje,BUP Norrtälje,Region Stockholm,,hospital,,
+Farsta Ortoped och kirurgmottagning,Farsta Ortoped och kirurgmottagning,Region Stockholm,,hospital,,
+Habiliteringscentrum Liljeholmen Barn,Habiliteringscentrum Liljeholmen Barn,Region Stockholm,,hospital,,
+HAGSTRÖM BARBRO  NEUROGYMNASTERNA A,"HAGSTRÖM, BARBRO  NEUROGYMNASTERNA A",Region Stockholm,,hospital,,
+Hallunda PBU,Hallunda PBU,Region Stockholm,,hospital,,
+Handens Närsjukhus   vårdcentral,Handens Närsjukhus   vårdcentral,Region Stockholm,,hospital,,
+Haninge PBU,Haninge PBU,Region Stockholm,,hospital,,
+Huddinge PBU,Huddinge PBU,Region Stockholm,,hospital,,
+Hökarängens PBU,Hökarängens PBU,Region Stockholm,,hospital,,
+Hörselskadades insköpscentral,Hörselskadades insköpscentral,Region Stockholm,,hospital,,
+Jakobsbergs PBU,,Jakobsbergs PBU,,Region Stockholm,,hospital
+JAKOBSBERGS SJUKHUS VÅRDCENTRAL,JAKOBSBERGS SJUKHUS VÅRDCENTRAL,Region Stockholm,,hospital,,
+Järva PBU,Järva PBU,Region Stockholm,,hospital,,
+Kista BUMM,Kista BUMM,Region Stockholm,,hospital,,
+Kungsholmens PBU,,Kungsholmens PBU,,Region Stockholm,,hospital
+Mariafastigheterna Ekens vårdcentral,Mariafastigheterna Ekens vårdcentral,Region Stockholm,,hospital,,
+Nacka PBU,Nacka PBU,Region Stockholm,,hospital,,
+ORTOPEDISKA HUSET,ORTOPEDISKA HUSET,Region Stockholm,,hospital,,
+Ortopedisk vård. Löwenströmska,Ortopedisk vård. Löwenströmska,Region Stockholm,,hospital,,
+PBU Globen,PBU Globen,Region Stockholm,,hospital,,
+Privat mottagning,Privat mottagning,Region Stockholm,,hospital,,
+Privat-privata eheter,Privat-privata eheter,Region Stockholm,,hospital,,
+Sabbatsbergsområdet,Sabbatsbergsområdet,Region Stockholm,,hospital,,
+Skärholmens PBU,Skärholmens PBU,Region Stockholm,,hospital,,
+Sollentuna PBU,,Sollentuna PBU,,Region Stockholm,,hospital
+Solna PBU,Solna PBU,Region Stockholm,,hospital,,
+Södertälje PBU,Södertälje PBU,Region Stockholm,,hospital,,
+Tibra Medica Vårdcentral,Tibra Medica Vårdcentral,Region Stockholm,,hospital,,
+Täby PBU,Täby PBU,Region Stockholm,,hospital,,
+TÄBY SJUKHUS VÅRDCENTRAL,TÄBY SJUKHUS VÅRDCENTRAL,Region Stockholm,,hospital,,
+Vårdenheter vid Söderhallarna Medborgarplatsen,Vårdenheter vid Söderhallarna Medborgarplatsen,Region Stockholm,,hospital,,
+Vällingby PBU,Vällingby PBU,Region Stockholm,,hospital,,
+Österåkers PBU,Österåkers PBU,Region Stockholm,,hospital,,
+Härnösands Sjukhus,Härnösands Sjukhus,Region Västernorrland,,hospital,,
+Västmanlands sjukhus Fagersta,Västmanlands sjukhus Fagersta,Region Västmanland,,hospital,,
+Psykiatripartners,Psykiatripartners,Region Östergötland,,hospital,,
+Barn- och ungdomspsykiatrimottagning Gula Villan G,Barn- och ungdomspsykiatrimottagning Gula Villan G,Region Gävleborg,,hospital,,
+Mandometerkliniken,Mandometerkliniken,Region Stockholm,,hospital,,
+Sara Parsifar Specialistläkare allmänmedicin,Sara Parsifar Specialistläkare allmänmedicin,Region Halland,,hospital,,
+Allmän psykiatri  Tyresö psykiatri,Allmän psykiatri  Tyresö psykiatri,Region Stockholm,,hospital,,
+Beckomberga sjukhus,Beckomberga sjukhus,Region Stockholm,,hospital,,
+Beroendecentrum, Beroendemott Liljeholmsberget,Beroendecentrum, Beroendemott Liljeholmsberget,Region Stockholm,,hospital
+BeroendeCentrum Nord Kista,"BeroendeCentrum Nord, Kista",Region Stockholm,,hospital,,
+Bromma-Ekerö allmänpsykiatriska mottagningen Norra Stockholms psykiatri,"Bromma-Ekerö allmänpsykiatriska mottagningen, Norra Stockholms psykiatri",Region Stockholm,,hospital,,
+Capio Psykiatri Stockholm,Capio Psykiatri Stockholm,Region Stockholm,,hospital,,
+Danderyds psykiatriska mottagning,Danderyds psykiatriska mottagning,Region Stockholm,,hospital,,
+Ektorps vårdcentral,Ektorps vårdcentral,Region Stockholm,,hospital,,
+Farsta-Skarpnäck Psykiatrin Södra,Farsta-Skarpnäck Psykiatrin Södra,Region Stockholm,,hospital,,
+Fittja vårdcentral   Fittja psykiatri,Fittja vårdcentral   Fittja psykiatri,Region Stockholm,,hospital,,
+Haninge Lokala Mottagning,,Haninge Lokala Mottagning,,Region Stockholm,,hospital
+Haninge psykiatri Ankaret,Haninge psykiatri Ankaret,Region Stockholm,,hospital,,
+Hässelbymottagningen,Hässelbymottagningen,Region Stockholm,,hospital,,
+Karolinska Universitetssjukhuset Solna,Karolinska Universitetssjukhuset Solna,Region Stockholm,,hospital,,
+Kronans vårdcentral,Kronans vårdcentral,Region Stockholm,,hospital,,
+Lidingö beroendemottagning,Lidingö beroendemottagning,Region Stockholm,,hospital,,
+Liljeholmens psykiatri,Liljeholmens psykiatri,Region Stockholm,,hospital,,
+Maria ungdom,Maria ungdom,Region Stockholm,,hospital,,
+Norrtulls sjukhus,Norrtulls sjukhus,Region Stockholm,,hospital,,
+Nynäshamns psykiatri,Nynäshamns psykiatri,Region Stockholm,,hospital,,
+Nynäshamns sjukhus   vårdcentral,Nynäshamns sjukhus   vårdcentral,Region Stockholm,,hospital,,
+Psykiatri Kista,,Psykiatri Kista,,Region Stockholm,,hospital
+Psykiatri Nordväst psykosmottagning,Psykiatri Nordväst psykosmottagning,Region Stockholm,,hospital,,
+Psykiatri Rinkeby,Psykiatri Rinkeby,Region Stockholm,,hospital,,
+Psykiatriska mottagning Norrtälje,Psykiatriska mottagning Norrtälje,Region Stockholm,,hospital,,
+Psykiatri Spånga,Psykiatri Spånga,Region Stockholm,,hospital,,
+Psykiatri Sydväst,Psykiatri Sydväst,Region Stockholm,,hospital,,
+Psykoterapimottagning,,Psykoterapimottagning,,Region Stockholm,,hospital
+Rosenlunds sjukhus,Rosenlunds sjukhus,Region Stockholm,,hospital,,
+Serafens sjukhem,Serafens sjukhem,Region Stockholm,,hospital,,
+Sigtuna Vuxenenhet,Sigtuna Vuxenenhet,Region Stockholm,,hospital,,
+Soc. förvaltningen,Soc. förvaltningen,Region Stockholm,,hospital,,
+Solna Beroendevård  Social förvaltningen,Solna Beroendevård  Social förvaltningen,Region Stockholm,,hospital,,
+SSO psykiatri adm,SSO psykiatri adm,Region Stockholm,,hospital,,
+SSO Psykområde Vantör,,SSO Psykområde Vantör,,Region Stockholm,,hospital
+Torsviks vårdcentral  Husläkarmottagning,Torsviks vårdcentral  Husläkarmottagning,Region Stockholm,,hospital,,
+Täby psykiatriska klinik,Täby psykiatriska klinik,Region Stockholm,,hospital,,
+Upplands Väsby Soc. läkarmottagning,Upplands Väsby Soc. läkarmottagning,Region Stockholm,,hospital,,
+Vårdgivare i Farsta och Gubbängen,Vårdgivare i Farsta och Gubbängen,Region Stockholm,,hospital,,
+Vård S:t Göransgatan,Vård S:t Göransgatan,Region Stockholm,,hospital,,
+Värmdö psykiatri,Värmdö psykiatri,Region Stockholm,,hospital,,
+ÅKERSBERGA SJUKHUS VÅRDCENTRAL,ÅKERSBERGA SJUKHUS VÅRDCENTRAL,Region Stockholm,,hospital,,
+Årsta-Vantörs psykiatriska verksamhet,Årsta-Vantörs psykiatriska verksamhet,Region Stockholm,,hospital,,
+Älvsjö vårdcentral   Älvsjö psykiatri,Älvsjö vårdcentral   Älvsjö psykiatri,Region Stockholm,,hospital,,
+Östermalm Lidingö psykiatriska mottagning,Östermalm Lidingö psykiatriska mottagning,Region Stockholm,,hospital,,
+Affecta Psykiatrimottagning,Affecta Psykiatrimottagning,Region Halland,,hospital,,
+TINA-mottagningen AB,TINA-mottagningen AB,Region Halland,,hospital,,
+Barn- och ungdomspsykiatrisk mottagning Växjö Ljungby,"Barn- och ungdomspsykiatrisk mottagning, Växjö/Ljungby",Region Kronoberg,,hospital,,
+ABC Ortopedi,ABC Ortopedi,Region Stockholm,,hospital,,
+Barnläkarna i Vallentuna BUMM,Barnläkarna i Vallentuna BUMM,Region Stockholm,,hospital,,
+Specialistcenter S:t Johanniskliniken,Specialistcenter S:t Johanniskliniken,Region Uppsala,,hospital,,
+SJUKHUSET I KRISTINEHAMN,SJUKHUSET I KRISTINEHAMN,Region Värmland,,hospital,,
+VÅRDCENTRALEN HAGFORS,VÅRDCENTRALEN HAGFORS,Region Värmland,,hospital,,
+Västmanlands Sjukhus,Västmanlands Sjukhus,Region Västmanland,,hospital,,
+Västmanlands Sjukhus Köping,Västmanlands Sjukhus Köping,Region Västmanland,,hospital,,
+NU-Sjukvården,NU-Sjukvården,Västra Götalandsregionen,,hospital,,
+Prostata Scandinavia AB,Prostata Scandinavia AB,Region Jönköpings län,,hospital,,
+Söderhamns sjukhus,Söderhamns sjukhus,Region Gävleborg,,hospital,,
+Skånes universitetssjukhus,Skånes universitetssjukhus,Region Skåne,,hospital,,
+Lauritsen Christian,,"Lauritsen, Christian;",Region Stockholm,,hospital,
+Täby beroendemottagning,Täby beroendemottagning,Region Stockholm,,hospital,,
+Capio Lundby Specialistsjukhus,Capio Lundby Specialistsjukhus,Västra Götalandsregionen,,hospital,,
+Capio Movement,Capio Movement,Västra Götalandsregionen,,hospital,,
+DBI Västerås Ortopedi,DBI Västerås Ortopedi,Region Västmanland,,hospital,,
+Optalmica,Optalmica,Region Västmanland,,hospital,,
+Urologi Specialistmottagningen,Urologi Specialistmottagningen,Region Västmanland,,hospital,,
+Kungsbacka Hudläkarmottagning,Kungsbacka Hudläkarmottagning,Region Halland,,hospital,,
+Primärvård  Bollmora vårdcentral,Primärvård  Bollmora vårdcentral,Region Stockholm,,hospital,,
+Öron Näs & Hals i City,"Öron, Näs & Hals i City",Region Västmanland,,hospital,,
+Borås Nya Urologmottagning,Borås Nya Urologmottagning,Västra Götalandsregionen,,hospital,,
+KAN-psykologerna,KAN-psykologerna,Västra Götalandsregionen,,hospital,,
+WeMind,WeMind,Västra Götalandsregionen,,hospital,,
+Art Clinic,Art Clinic,Västra Götalandsregionen,,hospital,,
+HandCenter Göteborg,HandCenter Göteborg,Västra Götalandsregionen,,hospital,,
+Kan-psykologerna Göteborg,"Kan-psykologerna, Göteborg",Västra Götalandsregionen,,hospital,,
+WeMind Psykiatri,WeMind Psykiatri,Västra Götalandsregionen,,hospital,,
+SSO Psykiatri Söderled - Farsta,SSO Psykiatri Söderled - Farsta,Region Stockholm,,hospital,,
+Bromma husläkarmottagning,Bromma husläkarmottagning,Region Stockholm,,hospital,,
+Memira Eyecenter Jönköping,Memira Eyecenter Jönköping,Region Jönköpings län,,hospital,,
+Barnläkarmott,Barnläkarmott,Region Stockholm,,hospital,,
+BC Södertäljemott,BC Södertäljemott,Region Stockholm,,hospital,,
+Capio Hemsjukvård AB,Capio Hemsjukvård AB,Region Stockholm,,hospital,,
+Capio Ögon Linköping,Capio Ögon Linköping,Region Östergötland,,hospital,,
+Norrköpings Ögonklinik,Norrköpings Ögonklinik,Region Östergötland,,hospital,,
+Barnmorskegruppen i Göteborg,Barnmorskegruppen i Göteborg,Västra Götalandsregionen,,hospital,,
+Psykiatripartners i Östergötland AB,Psykiatripartners i Östergötland AB,Västra Götalandsregionen,,hospital,,
