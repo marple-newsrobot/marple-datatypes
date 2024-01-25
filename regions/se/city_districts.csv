@@ -24,14 +24,14 @@ Farsta stadsdelsområde,Farsta stadsdelsområde,Farsta,Stockholms kommun,Q861854
 Hägersten-Liljeholmens stadsdelsområde,Hägersten-Liljeholmens stadsdelsområde,Hägersten-Liljeholmen,Stockholms kommun,Q686593,city_district,stadsdelsområde,2007-01-01,2020-07-01,Hägersten-Liljeholmen stadsdel,8514
 Hässelby-Vällingby stadsdelsområde,Hässelby-Vällingby stadsdelsområde,Hässelby-Vällingby,Stockholms kommun,Q861336,city_district,stadsdelsområde,2007-01-01,9,Hässelby - Vällingby stadsdel,8515
 Kungsholmens stadsdelsområde,Kungsholmens stadsdelsområde,Kungsholmen,Stockholms kommun,Q862618,city_district,stadsdelsområde,1997-01-01,9,Kungsholmen stadsdel,8516
-Norrmalms stadsdelsområde,Norrmalms stadsdelsområde,Norrmalm,Stockholms kommun,Q862144,city_district,stadsdelsområde,1997-01-01,9,Norrmalm stadsdel,8517
-Rinkeby-Kista stadsdelsområde,Rinkeby-Kista stadsdelsområde,Rinkeby-Kista,Stockholms kommun,Q861329,city_district,stadsdelsområde,2007-01-01,9,Rinkeby-Kista stadsdel,8518
+Norrmalms stadsdelsområde,Norrmalms stadsdelsområde,Norrmalm,Stockholms kommun,Q862144,city_district,stadsdelsområde,1997-01-01,2023-07-01,Norrmalm stadsdel,8517
+Rinkeby-Kista stadsdelsområde,Rinkeby-Kista stadsdelsområde,Rinkeby-Kista,Stockholms kommun,Q861329,city_district,stadsdelsområde,2007-01-01,2023-07-01,Rinkeby-Kista stadsdel,8518
 Skarpnäcks stadsdelsområde,Skarpnäcks stadsdelsområde,Skarpnäck,Stockholms kommun,Q779963,city_district,stadsdelsområde,1997-01-01,9,Skarpnäck stadsdel,8519
 Skärholmens stadsdelsområde,Skärholmens stadsdelsområde,Skärholmen,Stockholms kommun,Q858040,city_district,stadsdelsområde,1997-01-01,9,Skärholmen stadsdel,8520
-Spånga-Tensta stadsdelsområde,Spånga-Tensta stadsdelsområde,Spånga-Tensta,Stockholms kommun,Q861644,city_district,stadsdelsområde,1997-01-01,9,Spånga - Tensta stadsdel,8521
+Spånga-Tensta stadsdelsområde,Spånga-Tensta stadsdelsområde,Spånga-Tensta,Stockholms kommun,Q861644,city_district,stadsdelsområde,1997-01-01,2023-07-01,Spånga - Tensta stadsdel,8521
 Södermalms stadsdelsområde,Södermalms stadsdelsområde,Södermalms,Stockholms kommun,Q860681,city_district,stadsdelsområde,2007-01-01,9,Södermalm stadsdel,8522
 Älvsjö stadsdelsområde,Älvsjö stadsdelsområde,Älvsjö,Stockholms kommun,Q860675,city_district,stadsdelsområde,1997-01-01,2020-07-01,Älvsjö stadsdel,8523
-Östermalms stadsdelsområde,Östermalms stadsdelsområde,Östermalm,Stockholms kommun,Q12904658,city_district,stadsdelsområde,1997-01-01,9,Östermalm stadsdel,8524
+Östermalms stadsdelsområde,Östermalms stadsdelsområde,Östermalm,Stockholms kommun,Q12904658,city_district,stadsdelsområde,1997-01-01,2023-07-01,Östermalm stadsdel,8524
 Enskede stadsdelsområde,Enskede stadsdelsområde,Enskede,Stockholms kommun,Q10484419,city_district,stadsdelsområde,1997-01-01,1997-12-31,,
 Hammarby stadsdelsområde,Hammarby stadsdelsområde,Hammarby,Stockholms kommun,Q5645562,city_district,stadsdelsområde,1997-01-01,1997-12-31,,
 Hornstulls stadsdelsområde,Hornstulls stadsdelsområde,Hornstulls,Stockholms kommun,Q10526424,city_district,stadsdelsområde,1997-01-01,1997-12-31,,
@@ -73,3 +73,5 @@ Stadsdelsnämndsområdet Lärjedalen,Stadsdelsnämndsområdet Lärjedalen,Lärje
 Inre staden,Inre staden,Inre staden,Stockholms kommun,Q922489,city_district,stadsområde,0,9,,
 Söderort,Söderort,Söderort,Stockholms kommun,Q856671,city_district,stadsområde,1913-01-01,9,,
 Västerort,Västerort,Västerort,Stockholms kommun,Q713613,city_district,stadsområde,1916-01-01,9,,
+Järva stadsdelsområde,Järva stadsdelsområde,Järva,Stockholms kommun,,city_district,stadsdelsnämndsområde,2023-07-01,9,,8737
+Norra innerstaden,Norra innerstaden,Norra innerstaden,Stockholms kommun,,city_district,stadsdelsnämndsområde,2023-07-01,9,,8738
